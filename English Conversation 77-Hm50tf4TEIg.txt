@@ -1,0 +1,305 @@
+A	00:00:02.080	00:00:03.025	hey sarah!
+A	00:00:03.259	00:00:04.154	look a flip!
+B	00:00:08.520	00:00:09.606	hello!
+C	00:00:09.926	00:00:11.332	hello!
+B	00:00:11.651	00:00:13.036	i'm glad you're here.
+D	00:00:13.206	00:00:14.836	we've been here since noon.
+B	00:00:14.974	00:00:16.817	made an incredible discovery!
+C	00:00:17.168	00:00:18.425	what's this about?
+D	00:00:18.957	00:00:24.932	well... according to michelle this house is home to the spirit of a young girl.
+D	00:00:25.166	00:00:29.831	and this young girl is going to appear to us tonight as a ghost...
+B	00:00:30.012	00:00:30.970	don't make fun!
+B	00:00:31.024	00:00:31.993	it's true.
+B	00:00:32.185	00:00:33.910	i red it in a book i found at home.
+B	00:00:34.155	00:00:38.756	and i can feel it too, there's a strange atmosphere, almost surreal!
+C	00:00:38.830	00:00:41.365	i think the only strange thing here is you!
+D	00:00:41.482	00:00:42.962	that's exactly what i said!
+B	00:00:43.058	00:00:44.549	OK,enough of that!
+B	00:00:44.560	00:00:45.274	listen to me!
+B	00:00:45.369	00:00:46.647	this is the plan for tonight:
+B	00:00:46.924	00:00:51.429	when the moons are in the sky we'll get some candles and go and look for the ghost.
+B	00:00:51.717	00:00:54.656	paolo, didn't you know anything about the story?
+A	00:00:54.731	00:00:58.256	well, my grandfather did tell me something about it.
+A	00:00:58.586	00:01:02.431	when i was a boy i used to go looking for spirits with my cousins.
+D	00:01:02.420	00:01:03.943	and didn't you feel frightened?
+A	00:01:03.964	00:01:05.637	I know, it was a great fun!
+C	00:01:06.425	00:01:08.874	sure... everyone knows ghosts don't exist.
+A	00:01:08.959	00:01:10.110	oh,you run there!
+A	00:01:10.610	00:01:13.880	you know one night we heard some strange noises...
+A	00:01:14.146	00:01:16.116	someone was shouting!
+A	00:01:16.500	00:01:17.746	we were so scared!
+A	00:01:18.161	00:01:22.155	and we ran up to our rooms my youngest cousin cried for two days.
+A	00:01:22.261	00:01:23.699	he was so terrified.
+C	00:01:23.987	00:01:24.945	what rubbish!
+C	00:01:25.009	00:01:26.905	i think you just invented the whole story!
+B	00:01:27.096	00:01:28.758	ok, stop arguing!
+B	00:01:29.035	00:01:31.580	power and i are going to look for the ghost tonight.
+B	00:01:31.708	00:01:33.135	sandra, you're coming with us?
+D	00:01:34.062	00:01:38.002	i don't really believe in these things but if you're both going... well...
+D	00:01:38.151	00:01:41.378	why not,it'll be a bit of change from the other evenings.
+D	00:01:42.017	00:01:47.183	and, by the way, i'm quite curious to find out whether this ghost really exists or not.
+B	00:01:47.864	00:01:49.781	sarah, are you coming with us?
+C	00:01:50.260	00:01:54.425	oh no,i don't believe in spirits and i don't do such stupid things.
+C	00:01:54.702	00:01:56.448	i'll just stay in my room and read.
+B	00:01:56.587	00:02:00.069	oh come on sarah, don't believe the spoilsport!
+B	00:02:00.208	00:02:02.551	come with us,you'll see it'll be fun!
+C	00:02:03.104	00:02:03.946	don't insist!
+C	00:02:03.946	00:02:04.894	i said no!
+A	00:02:10.325	00:02:13.488	she wouldn't be like this if it hadn't burned down!
+B	00:02:15.086	00:02:16.321	i know you're right!
+B	00:02:16.726	00:02:19.793	well just let's try not to let our problems get us down!
+B	00:02:20.347	00:02:24.501	sandra, can you call mike and anne and we'll tell them what's the plan for tonight!
+D	00:02:24.522	00:02:25.012	okay.
+A	00:02:26.364	00:02:34.789	ghost hunting under a full moon.
+
+A	00:02:51.861	00:02:55.950	so, this is the abandonment ..yeah.
+B	00:02:59.625	00:03:02.457	should never have gotten involved in this charade!
+B	00:03:02.990	00:03:05.216	i still can't believe you persuaded me to come along.
+A	00:03:05.301	00:03:07.942	come on, anne,you'll have fun!
+C	00:03:10.924	00:03:14.439	can anyone tell me exactly what it is we're looking for?
+B	00:03:14.662	00:03:17.538	mike! do you ever listen when people talk to you?
+B	00:03:17.847	00:03:19.721	who are looking for the ghost of a young girl.
+B	00:03:22.544	00:03:28.390	legend says the full moon's high in the sky she returns here to look for a young lover.
+B	00:03:28.518	00:03:31.511	she walks up and down the secret spot where she used to meet him.
+D	00:03:31.862	00:03:34.365	and where is the secret spot??
+C	00:03:34.482	00:03:39.733	well, we don't know, but paulo told me the last year he'd heard strange sounds coming from this house.
+D	00:03:40.180	00:03:41.309	we can start from here.
+E	00:03:43.173	00:03:44.696	where here?
+E	00:03:45.580	00:03:48.540	how can we possibly if we can't see anything in the dark!
+E	00:03:48.615	00:03:49.627	don't worry!
+E	00:03:49.914	00:03:51.331	i know this place very well!
+B	00:03:51.235	00:03:52.790	ok silence!
+B	00:03:52.971	00:03:54.739	otherwise we're not gonna hear anything!
+C	00:04:11.183	00:04:15.315	did anyone ask sarah if she wanted to come along with us?
+D	00:04:15.464	00:04:16.508	of course we did.
+A	00:04:17.189	00:04:18.574	she isn't interested...
+A	00:04:19.181	00:04:22.599	she doesn't believe in ghosts.
+D	00:04:25.773	00:04:27.467	you know you still should have insisted.
+D	00:04:27.477	00:04:30.044	it's not nice to leave her all by herself at night...
+B	00:04:30.150	00:04:33.100	ok,can you please start searching again?
+E	00:04:52.420	00:04:53.293	i don't see anything!
+E	00:04:53.197	00:04:53.698	are you sure?
+C	00:04:59.640	00:05:02.250	sure,they squeezed my shoulder.
+F	00:05:04.780	00:05:08.840	it's me.
+C	00:05:11.199	00:05:12.639	ok!
+C	00:05:12.639	00:05:20.070	now that we've saw that mystery, silence everyone and and let's continue!
+E	00:05:20.080	00:05:25.749	well, to be honest, this place is kind of.
+C	00:05:25.759	00:05:26.560	creepy?
+D	00:05:26.560	00:05:31.749	creepy, yes!
+B	00:05:31.759	00:05:34.613	guys, guys wait for us!
+B	00:05:36.021	00:05:36.735	please!
+
+C	00:06:46.479	00:06:47.759	i'm not feeling very well!
+C	00:06:47.759	00:06:49.440	i think i'm going to paint!
+B	00:06:49.440	00:06:50.585	shut up!
+B	00:06:50.660	00:06:51.315	come on.
+B	00:06:51.576	00:06:56.086	and we we... read about you,we want to get to know you!
+C	00:06:56.639	00:06:58.800	i don't like intruders.
+C	00:06:58.800	00:07:04.080	do you know what happens to the people who cross my path?
+B	00:07:04.080	00:07:05.270	what happens?
+C	00:07:05.280	00:07:06.960	a horrible death!
+C	00:07:06.960	00:07:16.080	you must choose between being burnt alive or being eaten by wolves.
+D	00:07:16.080	00:07:17.599	lady ghost,
+D	00:07:17.599	00:07:20.710	i think there must be some misunderstanding here.
+C	00:07:20.720	00:07:22.479	we're all going to leave now,
+C	00:07:22.479	00:07:25.029	and let you know for your lover in peace and quiet.
+C	00:07:25.039	00:07:25.919	right everyone?
+C	00:07:25.919	00:07:27.440	don't move an inch!
+C	00:07:27.440	00:07:28.790	it's too late.
+C	00:07:28.800	00:07:32.230	your fate has been decided.
+E	00:07:32.240	00:07:33.360	please don't kill us...
+E	00:07:33.680	00:07:35.199	i didn't even want to come!
+E	00:07:35.840	00:07:37.759	they forced me to come with them!
+C	00:07:37.759	00:07:39.280	be quiet!
+C	00:07:39.280	00:07:45.450	now, all of you close your eyes and put your hands up in the air.
+C	00:07:49.120	00:07:51.260	and now...
+B	00:07:56.840	00:07:59.520	sarah!
+B	00:07:59.520	00:08:01.680	so you were the ghost?!
+C	00:08:01.680	00:08:07.350	yes! i was in my room reading when i thought of dressing up and scaring all of you.
+C	00:08:07.360	00:08:09.520	and i must admit it was worth it!
+C	00:08:09.520	00:08:11.430	you don't know how funny you all looked.
+C	00:08:11.440	00:08:15.830	your face is white with fear and your voice is pleading for mercy...
+C	00:08:15.840	00:08:18.869	i've never had so much fun!
+F	00:08:18.879	00:08:20.960	yes, but you gave us all a big shock!
+A	00:08:21.280	00:08:24.869	yes, but if it made the old star come back,
+A	00:08:24.879	00:08:28.610	then long live ghosts!
+
+B	00:08:37.200	00:08:38.292	hi sarah.
+C	00:08:38:788	00:08:40.952	hi sandra, what are you doing?
+B	00:08:41.279	00:08:45.030	we're making some sandwiches for today's drive in the country.
+C	00:08:45.040	00:08:46.399	what drive?
+B	00:08:46.399	00:08:48.550	hasn't paolo told you about the trip.
+B	00:08:48.560	00:08:52.070	today he wants to take us to visit an old farmhouse in the country.
+B	00:08:52.080	00:08:56.310	it's supposed to be very beautiful, a perfect example of rural architecture.
+C	00:08:56.320	00:08:58.240	that's right! i remember now.
+C	00:08:58.560	00:09:02.310	paulo told us it was built by some rich italian-american.
+C	00:09:02.320	00:09:05.040	a really eccentric character, a friend of his mother's.
+D	00:09:05.040	00:09:07.360	ok girls, is everything ready?
+C	00:09:07.360	00:09:09.519	we've almost finished.
+D	00:09:09.519	00:09:11.519	what a wonderful smell they...
+D	00:09:11.519	00:09:13.185	look and smell great!
+B	00:09:13.211	00:09:15.040	keep your hands to yourself!
+B	00:09:15.040	00:09:17.590	no one's touching these delicacies now...
+B	00:09:17.600	00:09:21.068	you'll be able to taste them later when we have our picnic.
+A	00:09:21.199	00:09:21.888	Paolo...
+A	00:09:22.109	00:09:24.800	about this outing, where is the farm house?
+D	00:09:24.800	00:09:27.750	in the countryside about Twenty kilometers from here.
+A	00:09:27.760	00:09:32.080	and is it true that it's incredibly beautiful and that it belongs to an italian american?
+D	00:09:32.320	00:09:35.519	yes! but it was designed by a dutch architect.
+C	00:09:35.519	00:09:40.480	and it was built in the style of an eighteenth century tuscan farmhouse... right?
+D	00:09:40.480	00:09:41.120	right!
+D	00:09:41.360	00:09:43.269	believe me, it's a jewel.
+C	00:09:43.279	00:09:46.000	i didn't know you were so interested in architecture!
+D	00:09:46.240	00:09:47.670	my dear ladies.
+D	00:09:47.680	00:09:50.790	there are so many things that you don't know about me...
+D	00:09:50.800	00:09:54.000	as well as music i have many other passions!
+D	00:09:54.000	00:09:57.829	i'm full of surprises...
+A	00:09:57.839	00:09:59.664	no one doubts that, paolo.
+
+A	00:10:05.373	00:10:07.737	so, tell me more about this house.
+A	00:10:07.865	00:10:09.111	it's fascinating.
+B	00:10:09.132	00:10:12.040	are you right and you have to see the garden.
+B	00:10:12.381	00:10:14.830	it's a haven of decent tranquility!
+A	00:10:14.947	00:10:16.726	and what sort of plants are there?
+B	00:10:16.747	00:10:23.350	thousands! beagle trees grape vines, olive groves and many types of roses.
+B	00:10:23.798	00:10:24.820	and it's huge.
+B	00:10:24.894	00:10:26.071	there are eight gardeners!
+A	00:10:25.991	00:10:27.525	oh,really?so many?
+B	00:10:27.823	00:10:29.032	it's a lovely spot.
+B	00:10:29.655	00:10:31.854	my mother used to take me there a lot.
+B	00:10:32.850	00:10:35.427	i love to lying under the oak trees.
+B	00:10:35.949	00:10:38.548	it gave me a sense of peace.
+B	00:10:40.066	00:10:41.674	that's where i gave my first kiss...
+A	00:10:41.929	00:10:43.074	wow!
+A	00:10:43.404	00:10:45.699	who would have thought our paolo was so romantic!
+B	00:10:46.195	00:10:47.297	are you making fun of me?
+A	00:10:48.149	00:10:48.921	definitely not!
+A	00:10:49.299	00:10:54.518	i bet this enchanted house has been the source of most of your musical inspiration.
+B	00:10:54.603	00:10:55.535	how did you know that?
+A	00:10:55.737	00:10:58.522	considering it doesn't take much to inspire you...
+A	00:10:58.868	00:11:01.392	i can imagine what a paradise can do...
+A	00:11:02.670	00:11:03.538	oh,hi! 
+C	00:11:03.618	00:11:04.012	hi.
+A	00:11:04.113	00:11:07.292	sorry we made you wait,paulo was just telling us about the garden.
+C	00:11:08.730	00:11:10.408	ok... let's go!
+C	00:11:10.445	00:11:11.829	i can't wait to see this place!
+D	00:11:12.128	00:11:14.375	do you know where mike and michelle are?
+D	00:11:14.412	00:11:15.541	they should be here by now.
+A	00:11:16.026	00:11:19.082	oh,michelle went out for her morning jog earlier.
+A	00:11:19.551	00:11:21.952	she should be back by now so she's probably having a shower.
+A	00:11:22.048	00:11:25.541	and mike's in his room watching a football match.
+C	00:11:25.707	00:11:26.681	what a surprise.
+D	00:11:27.150	00:11:28.827	ok, i'll go and give them a shout.
+A	00:11:29.956	00:11:31.809	oh,sarah, have you got the camera?
+C	00:11:34.136	00:11:35.808	oh no, i left it in my room.
+A	00:11:35.856	00:11:36.873	why don't you go and get it.
+A	00:11:36.990	00:11:39.333	we should be able to take some lovely photos today, right?
+C	00:11:39.770	00:11:41.176	you're right,i'll go and get it!
+A	00:11:46.421	00:11:49.670	well, it's good to see sarah's back to her old self again, isn't it paulo?
+B	00:11:49.776	00:11:52.630	oh,i knew that being all together would be good for her.
+B	00:11:53.221	00:11:55.308	ok, let's check we've got everything.
+B	00:11:57.359	00:11:58.408	sandwiches?
+A	00:11:58.402	00:11:58.828	got them!
+B	00:11:59.270	00:11:59.723	drinks?
+A	00:11:59.776	00:12:00.681	got them too!
+B	00:12:01.017	00:12:03.530	ok... i think we have everything.
+B	00:12:04.941	00:12:07.013	i feel like i've forgotten something.
+A	00:12:07.247	00:12:08.818	no, we haven't forgotten anything!
+B	00:12:09.100	00:12:11.156	oh no, wait a minute, just a minute!
+B	00:12:11.853	00:12:12.647	my guitar!
+A	00:12:12.716	00:12:16.044	oh,no! paulo, not the guitar,just for today...
+A	00:12:16.470	00:12:19.404	we said it would be a calm and relaxing day!
+B	00:12:19.484	00:12:24.367	what could be more relaxing than sweet melodies of my guitar?
+
+A	00:12:33.090	00:12:35.230	so it's time to leave.
+A	00:12:39.767	00:12:40.385	what a shame!
+B	00:12:41.083	00:12:41.674	you're right.
+B	00:12:44.011	00:12:44.965	this week has just flown by.
+B	00:12:47.047	00:12:49.517	i've had such a...i've had a great time.
+A	00:12:49.789	00:12:50.090	yes
+B	00:12:52.851	00:12:55.135	i hope to see everyone again...
+B	00:12:58.458	00:12:59.571	i hope to see you again.
+B	00:13:01.307	00:13:02.175	very soon.
+A	00:13:03.725	00:13:10.716	listen mike, about that,i i want to clear up a few things with you...
+A	00:13:12.223	00:13:15.616	well, a few days after we arrived,i happened to hear paolo's song...
+A	00:13:16.148	00:13:17.708	i knew that it was about us two.
+A	00:13:19.652	00:13:20.232	and...well...
+A	00:13:20.999	00:13:23.076	you know what i mean... right?
+A	00:13:28.241	00:13:30.643	after finding out about this this 'thing'.
+A	00:13:31.117	00:13:33.662	i realized that i needed to talk to you straight away.
+A	00:13:34.834	00:13:36.160	but i didn't have the courage.
+A	00:13:38.146	00:13:39.983	we've known each other for a long time.
+A	00:13:40.888	00:13:42.518	i've always thought a lot of you .
+A	00:13:45.888	00:13:47.140	don't know how to tell you this mike!
+B	00:13:47.912	00:13:49.909	come on Anne, don't be shy!
+A	00:13:50.420	00:13:53.242	it's not easy to say certain things and...
+A	00:13:53.402	00:13:57.678	i mean you know what it's like...put yourself in my shoes I.
+B	00:14:00.021	00:14:01.193	you don't need to tell me this!
+B	00:14:04.499	00:14:05.959	for years i've been trying to...
+B	00:14:09.766	00:14:11.385	but...maybe...
+B	00:14:12.327	00:14:13.648	as we've come this far...
+B	00:14:15.379	00:14:16.353	we don't need words.
+A	00:14:16.497	00:14:18.318	no, what are you doing,you're going crazy?
+B	00:14:20.810	00:14:24.271	but... but i thought,i thought that...
+B	00:14:25.352	00:14:26.865	that you too...
+A	00:14:26.929	00:14:27.898	but i what.
+A	00:14:30.912	00:14:37.536	i was i was trying to tell you that i really like you that you're a true friend.
+A	00:14:41.359	00:14:44.586	only a true friend nothing more!
+B	00:14:45.087	00:14:46.173	what an idiot i am!
+B	00:14:49.624	00:14:54.992	for for a moment i thought feelings for me.
+A	00:14:55.396	00:14:59.901	i'm sorry Mike, I didn't want to to upset you!
+A	00:15:03.277	00:15:07.473	the truth is that there's someone else in my heart!
+B	00:15:09.891	00:15:11.052	i know!
+B	00:15:14.833	00:15:15.759	don't worry!
+B	00:15:20.083	00:15:21.830	let's pretend nothing's happened, ok?
+B	00:15:22.831	00:15:25.004	ok!right.
+A	00:15:28.486	00:15:31.319	friends? like before?
+B	00:15:32.480	00:15:33.492	course...
+B	00:15:35.057	00:15:36.527	And no hard feelings!
+A	00:15:37.698	00:15:38.348	ok.
+A	00:15:40.010	00:15:44.930	fine, i'll just go and finish packing.
+A	00:15:47.486	00:15:48.498	see you in a bit.
+
+C	00:16:03.823	00:16:08.626	so, it's not true you were only interested in football and nothing else?
+B	00:16:09.457	00:16:10.575	what are you trying to say?
+C	00:16:11.608	00:16:12.950	don't play the fool with me mike.
+C	00:16:13.206	00:16:14.963	i understand lots of things now!
+C	00:16:15.634	00:16:17.370	like the time i told you i loved you!
+C	00:16:17.817	00:16:18.861	do you remember?
+C	00:16:25.560	00:16:27.839	at that time we were always together.
+C	00:16:28.095	00:16:31.290	and i thought there was more between us than just simple friendship!
+B	00:16:32.131	00:16:34.208	come on sarah, not that old story again!
+B	00:16:34.421	00:16:36.327	i mean, there's no point going over all of that again.
+C	00:16:37.137	00:16:40.981	well, i think it's time to put a few things straight once and for all.
+C	00:16:41.887	00:16:45.870	at that time you told me you weren't in love with me and that you didn't want to deceive me!
+C	00:16:46.871	00:16:49.832	i felt rejected and thought that football was to blame.
+C	00:16:50.503	00:16:54.006	i thought that football was the only passion in your life.
+C	00:16:55.103	00:16:56.392	but now...
+B	00:16:57.617	00:16:58.650	now what?
+C	00:16:59.907	00:17:01.153	oh,stop it, mike!
+C	00:17:01.355	00:17:03.666	i saw you here just now with anne.
+B	00:17:05.189	00:17:07.745	wait a minute sarah, let me explain things...
+C	00:17:08.522	00:17:09.939	you don't need to explain!
+C	00:17:10.429	00:17:11.686	i'm not angry!
+C	00:17:12.953	00:17:17.671	in fact you...all of you have helped me a lot in the past few days.
+C	00:17:18.576	00:17:21.846	i'm at peace with myself again, and this is really important...
+C	00:17:22.676	00:17:32.613	and to be honest i'm glad to have found out the true reason for your refusal was another woman and not and not football!
+B	00:17:35.126	00:17:37.480	i think of you more than any sport, sarah!
+
+A	00:17:44.435	00:17:46.895	hey guys! it's late!
+B	00:17:47.459	00:17:49.131	i'm sorry, i was packing.
+A	00:17:51.634	00:17:55.681	so, it's time to say goodbye already!
+C	00:17:55.756	00:17:59.121	i hate goodbyes...always a sentimental one!
+A	00:17:59.302	00:18:01.390	anyway, we'll be meeting up again soon, right?
+D	00:18:01.464	00:18:02.721	right,ok?
+D	00:18:02.774	00:18:04.105	i have some good news.
+D	00:18:04.617	00:18:06.970	i've decided to open up a new bar.
+D	00:18:07.098	00:18:10.037	and you're all officially invited to the opening party!
+D	00:18:10.506	00:18:13.957	i think i'm going to call it 'college' in honor of all of you!
+E	00:18:14.042	00:18:20.325	oh,fantastic,and as for the music in your new bar...here i am with my guitar of course!
+E	00:18:22.647	00:18:26.013	you know you're always welcome to come to this house!
+E	00:18:26.204	00:18:30.763	and i'll be waiting for you all next year for another wonderful holiday together...
+E	00:18:31.210	00:18:33.830	in memory of the good old days!
+E	00:18:37.877	00:18:41.221	'friends' leave they'll be back soon.
+E	00:18:41.668	00:18:48.655	i'll sing away for next year.
+

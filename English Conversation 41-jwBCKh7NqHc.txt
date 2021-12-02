@@ -1,0 +1,581 @@
+A	00:00:03.600	00:00:04.400	hi.
+B	00:00:04.400	00:00:05.990	hi.
+A	00:00:08.000	00:00:09.040	what are you doing?
+B	00:00:09.040	00:00:10.960	what is it look like i'm doing?
+A	00:00:10.960	00:00:12.320	why have you got that shopping?
+B	00:00:12.320	00:00:13.120	ER, let's see...
+B	00:00:13.120	00:00:14.960	because it's my day for shopping?
+A	00:00:14.960	00:00:16.710	but i did the shopping today.
+A	00:00:16.720	00:00:18.480	you're cooking tonight.
+B	00:00:18.480	00:00:18.800	no.
+B	00:00:18.800	00:00:19.510	it's friday.
+B	00:00:19.520	00:00:21.189	you're cooking tonight.
+A	00:00:21.199	00:00:23.199	but that was last friday.
+A	00:00:23.199	00:00:25.029	you did the shopping and i cooked.
+A	00:00:25.039	00:00:26.039	remember?
+B	00:00:27.039	00:00:29.960	let's go in and look at the rota.
+
+C	00:00:30.960	00:00:32.719	it's my day for the living room.
+D	00:00:32.719	00:00:33.360	no, it isn't.
+D	00:00:33.360	00:00:35.030	you're in the bathroom today.
+C	00:00:35.040	00:00:36.719	i cleaned the bathroom yesterday.
+D	00:00:36.719	00:00:37.280	no, you didn't.
+D	00:00:37.280	00:00:39.590	you were watching television when i came home.
+C	00:00:39.600	00:00:42.790	i did it after you went to bed.
+C	00:00:42.800	00:00:43.600	let go of it.
+D	00:00:43.600	00:00:45.760	no, you let go of it!
+B	00:00:45.760	00:00:47.430	what's going on?
+C	00:00:47.440	00:00:50.709	i came in to do the living room, and he was cleaning the carpet.
+D	00:00:50.719	00:00:51.920	it's my turn.
+C	00:00:51.920	00:00:52.800	no, it isn't.
+D	00:00:52.800	00:00:56.830	yes, it is!
+B	00:00:56.840	00:00:56.239	boys!
+D	00:00:58.239	00:01:01.199	why are you both carrying shopping?
+A	00:01:01.199	00:01:02.950	jane got the wrong day.
+B	00:01:02.960	00:01:05.519	i didn't get the wrong day! you did.
+C	00:01:05.519	00:01:06.550	and you did.
+D	00:01:06.560	00:01:08.550	no, i didn't! i looked on the rota.
+D	00:01:08.560	00:01:11.030	tuesday it was the bathroom.
+B	00:01:11.040	00:01:11.680	hang on a minute.
+B	00:01:11.680	00:01:13.119	that's not right.
+B	00:01:13.119	00:01:15.270	i'm doing the bathroom tomorrow.
+C	00:01:15.280	00:01:16.720	look, i'm doing the bathroom.
+C	00:01:16.720	00:01:18.550	you're doing the kitchen floor.
+D	00:01:18.560	00:01:20.799	no, no, no, no, no, that's me.
+D	00:01:20.799	00:01:22.310	i'm positive.
+C	00:01:22.320	00:01:24.840	oh yeah?
+D	00:01:24.840	00:01:33.190	yeah!
+D	00:01:33.200	00:01:35.840	and who's going to clear that up?
+A	00:01:38.840	00:01:39.069	matt!
+B	00:01:40.079	00:01:40.960	ok.
+B	00:01:40.960	00:01:43.670	so the rotor wasn't a great success.
+B	00:01:43.680	00:01:46.110	the house is looking good at the moment.
+
+B	00:01:50.399	00:01:52.880	that saturday i was coming home from the gym...
+B	00:01:52.880	00:01:55.389	...and i stopped to admire the view.
+B	00:01:56.399	00:01:56.960	hi.
+E	00:01:56.960	00:01:58.799	oh, hi.
+B	00:01:58.799	00:02:00.469	the weather's better today.
+E	00:02:00.479	00:02:02.799	it's certainly better than yesterday.
+B	00:02:02.799	00:02:04.510	yes, it is.
+E	00:02:05.520	00:02:07.360	what are you doing tomorrow?
+B	00:02:07.360	00:02:09.280	oh, nothing special.
+B	00:02:09.280	00:02:11.680	just another boring sunday.
+E	00:02:11.680	00:02:13.910	would you like to go somewhere?
+B	00:02:13.920	00:02:15.150	what? do you mean with...?
+E	00:02:15.200	00:02:15.360	yes.
+E	00:02:15.360	00:02:16.319	with me.
+B	00:02:16.319	00:02:20.840	Er... yes, i'd love to.
+B	00:02:20.840	00:02:22.229	where?
+E	00:02:22.239	00:02:25.670	how about on the river? we can go punting.
+B	00:02:25.680	00:02:27.120	that would be good.
+E	00:02:27.120	00:02:30.080	great i'll call for you at about half past nine.
+B	00:02:30.080	00:02:31.309	ER.
+B	00:02:32.319	00:02:32.879	no.
+B	00:02:32.879	00:02:34.160	i'll call for you.
+E	00:02:34.160	00:02:34.959	ok.
+E	00:02:35.120	00:02:36.319	see you then.
+B	00:02:36.319	00:02:37.800	see you.
+B	00:02:38.800	00:02:40.229	i'm looking forward to it.
+E	00:02:40.239	00:02:41.599	me too.
+B	00:02:41.599	00:02:42.840	bye.
+E	00:02:42.840	00:02:43.060	bye.
+
+A	00:03:01.920	00:03:03.120	oh, hi.
+A	00:03:03.120	00:03:04.319	you're up early.
+B	00:03:04.319	00:03:05.830	i couldn't sleep.
+A	00:03:05.840	00:03:06.959	are you going out?
+B	00:03:06.959	00:03:08.319	ER... yes.
+B	00:03:08.319	00:03:10.159	i'm going to meet a friend in town.
+B	00:03:10.159	00:03:12.070	we're going to have lunch.
+B	00:03:12.080	00:03:13.760	what are you going to do today?
+A	00:03:13.760	00:03:15.080	nothing much.
+B	00:03:16.080	00:03:16.879	well, i'll, ER...
+B	00:03:16.879	00:03:17.920	see you later.
+A	00:03:17.920	00:03:18.640	sure.
+A	00:03:18.640	00:03:19.090	bye.
+B	00:03:19.840	00:03:20.040	bye.
+E	00:03:45.360	00:03:46.080	you ready?
+B	00:03:46.080	00:03:46.250	ready.
+D	00:03:50.959	00:03:52.200	is helen still in bed?
+A	00:03:53.200	00:03:56.159	no, she went into town about an hour ago.
+A	00:04:02.319	00:04:04.210	are you just gonna lie there all day?
+D	00:04:05.920	00:04:06.289	yes.
+A	00:04:08.319	00:04:12.179	we could do something, go somewhere.
+A	00:04:13.519	00:04:15.140	we could go for a picnic.
+A	00:04:15.840	00:04:17.400	what do you think?
+A	00:04:18.400	00:04:19.220	matt?
+D	00:04:20.320	00:04:22.230	i suppose we could.
+A	00:04:23.040	00:04:24.310	we're going to have a picnic.
+C	00:04:26.320	00:04:27.260	that's not a bad idea.
+A	00:04:28.560	00:04:30.120	i'll make some sandwiches.
+C	00:04:31.120	00:04:33.059	i'll give you a hand.
+A	00:04:33.759	00:04:35.240	i can take my video camera.
+A	00:04:37.040	00:04:38.639	oh.
+A	00:04:38.639	00:04:41.190	have we got anything to drink?
+A	00:04:42.400	00:04:43.159	matt?
+D	00:04:43.759	00:04:45.110	i'll go and get something.
+A	00:04:47.520	00:04:48.140	come on.
+A	00:05:29.120	00:05:31.020	we can go through this gate...
+A	00:05:31.120	00:05:34.030	...then along the path between the wood and the farm.
+A	00:05:34.240	00:05:36.000	that's the quickest way.
+C	00:05:36.800	00:05:39.120	it's quicker on the road by car.
+A	00:05:40.320	00:05:42.110	don't be so pathetic.
+A	00:05:43.520	00:05:44.100	come on.
+A	00:05:44.800	00:05:46.129	it'll only take ten minutes.
+
+B	00:05:56.639	00:05:58.220	this is perfect.
+B	00:05:59.520	00:06:02.150	it's so much nicer than the city.
+B	00:06:03.360	00:06:04.880	it's beautiful.
+E	00:06:04.880	00:06:05.520	yes.
+E	00:06:05.520	00:06:07.029	it really is.
+A	00:06:08.639	00:06:10.060	it's this way.
+B	00:06:10.960	00:06:12.170	that's jane!
+D	00:06:12.880	00:06:14.139	come on, david.
+B	00:06:14.639	00:06:17.520	it's all three of them! quick!
+E	00:06:17.520	00:06:18.260	what's the problem?
+B	00:06:18.560	00:06:19.680	they don't know about this.
+E	00:06:19.680	00:06:20.069	what?
+B	00:06:20.479	00:06:22.120	they think i went out for lunch.
+B	00:06:22.720	00:06:23.279	let's go back.
+B	00:06:24.479	00:06:25.240	please, simon.
+E	00:06:25.440	00:06:26.250	ok.
+C	00:06:28.560	00:06:30.479	how long did she say it was?
+D	00:06:30.479	00:06:32.150	TEN minutes.
+C	00:06:32.560	00:06:35.090	it's the longest ten minutes in history.
+A	00:06:37.600	00:06:38.280	it's just through here.
+B	00:06:48.080	00:06:50.280	simon, we're going the wrong way!
+E	00:06:50.080	00:06:52.050	oh, no!
+D	00:06:52.960	00:06:54.280	this was a great idea.
+A	00:06:55.280	00:06:56.019	thanks.
+C	00:06:55.919	00:06:57.290	it's a shame helen isn't here.
+D	00:07:00.400	00:07:01.180	look at that.
+A	00:07:01.680	00:07:02.200	what?
+A	00:07:27.759	00:07:30.060	and this is really strange.
+C	00:07:30.160	00:07:32.089	it just appeared from nowhere.
+B	00:07:33.599	00:07:34.280	really?
+D	00:07:35.680	00:07:37.010	that's funny.
+A	00:07:37.120	00:07:38.080	what?
+D	00:07:38.880	00:07:40.249	look at that bag.
+D	00:07:43.759	00:07:46.069	it looks just like helen's.
+B	00:07:50.879	00:07:55.130	in one of his plays, shakespeare said something about not telling the truth.
+B	00:07:55.840	00:07:58.209	i wish i could remember what it was.
+B	00:07:59.919	00:08:02.210	mornings aren't my favorite time of day.
+B	00:08:02.720	00:08:06.000	but some mornings are definitely worse than others.
+C	00:08:06.000	00:08:07.089	where's helen?
+D	00:08:07.199	00:08:08.060	dunno.
+A	00:08:08.560	00:08:10.350	perhaps we should go and call her.
+D	00:08:11.360	00:08:12.170	don't bother.
+C	00:08:17.680	00:08:18.220	are you all right?
+B	00:08:19.120	00:08:23.739	not really, i keep sneezing i can't stop coughic...
+B	00:08:24.260	00:08:26.141	...my whole body aches.
+D	00:08:28.479	00:08:30.100	you've got a cold.
+C	00:08:30.400	00:08:32.009	thank you, doctor.
+A	00:08:31.919	00:08:33.140	or flu.
+A	00:08:33.440	00:08:35.790	have you got a temperature?
+A	00:08:36.800	00:08:38.259	well, you don't feel hot.
+B	00:08:38.959	00:08:42.229	my temperature keeps going up and down.
+B	00:08:43.039	00:08:44.640	i feel awful.
+D	00:08:44.640	00:08:46.189	have something to drink.
+B	00:08:46.399	00:08:48.560	it hurts when i swallow.
+D	00:08:48.560	00:08:50.060	you should drink something.
+D	00:08:50.160	00:08:51.220	i'll make you a cup of tea.
+C	00:08:51.920	00:08:53.290	have you taken anything for it yet?
+C	00:08:54.000	00:08:55.019	aspirin?
+C	00:08:55.519	00:08:56.280	paracetamol?
+B	00:08:56.880	00:08:58.070	there aren't any.
+A	00:08:58.080	00:09:00.030	what about homeopathic medicine?
+C	00:09:00.640	00:09:02.200	homeopathic?
+A	00:09:02.800	00:09:07.069	it's better than aspirin! i'll get you something on the way home.
+A	00:09:07.279	00:09:09.000	i have to go to work now.
+B	00:09:10.000	00:09:11.270	me too.
+A	00:09:12.080	00:09:14.159	you're not going anywhere like that.
+D	00:09:14.959	00:09:16.249	you must go back to bed.
+C	00:09:16.959	00:09:18.210	i'll telephone the office for you.
+A	00:09:20.720	00:09:22.220	just keep warm drink lots.
+A	00:09:22.720	00:09:24.090	i'll see you this evening.
+D	00:09:26.800	00:09:27.680	you go up now.
+D	00:09:27.680	00:09:29.339	and i'll bring you the tea on my way out.
+B	00:09:30.939	00:09:31.070	ok.
+D	00:09:39.580	00:09:46.040	here you are.
+B	00:09:46.240	00:09:48.170	oh, thank you.
+D	00:09:52.080	00:09:53.140	take it easy.
+D	00:09:54.240	00:09:56.029	i'll bring you some fruit later.
+B	00:09:57.839	00:09:58.200	thanks.
+
+A	00:10:58.880	00:11:01.099	hi, helen! it's only me.
+B	00:11:02.410	00:11:03.283	hello.
+A	00:11:29.600	00:11:34.160	hello. how are you feeling?
+B	00:11:34.880	00:11:36.230	a little better.
+B	00:11:36.240	00:11:38.020	my sore throat's gone.
+A	00:11:38.320	00:11:40.189	have you been in bed since this morning?
+B	00:11:40.399	00:11:42.179	i felt too weak to get up.
+A	00:11:43.279	00:11:44.240	have you eaten anything?
+B	00:11:45.040	00:11:46.179	no, i haven't.
+A	00:11:47.279	00:11:49.060	have you had anything to drink?
+B	00:11:50.160	00:11:53.170	i had a cup of tea at about one o'clock.
+A	00:11:53.920	00:11:57.080	so you haven't had anything to drink for five hours?
+C	00:12:00.720	00:12:01.260	hello.
+A	00:12:01.760	00:12:03.070	we're up here.
+A	00:12:04.480	00:12:06.240	you have to drink a lot when you have flu.
+A	00:12:07.040	00:12:09.839	and you really should try to eat something.
+B	00:12:09.839	00:12:11.050	sorry.
+C	00:12:13.360	00:12:14.079	hi.
+C	00:12:14.079	00:12:15.079	how you feeling?
+B	00:12:15.279	00:12:16.270	a bit better.
+C	00:12:16.876	00:12:18.040	i got you some aspirin.
+B	00:12:18.240	00:12:19.549	oh, thanks.
+A	00:12:20.959	00:12:23.130	actually, i've got you this.
+A	00:12:23.680	00:12:25.040	it's much better.
+B	00:12:25.040	00:12:26.080	what is it?
+A	00:12:26.480	00:12:29.030	homeopathic medicine, especially for colds.
+C	00:12:29.040	00:12:30.220	what do you mean, 'it's much better'?
+A	00:12:30.720	00:12:33.010	it contains only natural ingredients.
+C	00:12:33.120	00:12:34.280	bet it tastes disgusting.
+A	00:12:35.600	00:12:37.269	at least it's not full of chemicals.
+C	00:12:38.079	00:12:39.600	aspirin's very effective.
+C	00:12:39.600	00:12:41.010	it's been around for years.
+A	00:12:41.920	00:12:43.100	so has arsenic.
+B	00:12:43.200	00:12:44.210	please, you two!
+D	00:12:50.720	00:12:51.200	here you are.
+D	00:12:51.600	00:12:52.800	vitamin c.
+D	00:12:52.800	00:12:54.230	the perfect cold cure.
+D	00:13:08.240	00:13:10.020	i've brought you some soup.
+B	00:13:10.320	00:13:12.190	oh, thanks, matt.
+B	00:13:16.000	00:13:17.260	but i'm not really hungry.
+D	00:13:18.160	00:13:20.250	but you haven't eaten since last night.
+B	00:13:21.360	00:13:22.189	sorry.
+D	00:13:24.399	00:13:26.200	i don't think you should go to work tomorrow.
+B	00:13:27.200	00:13:28.169	i don't know.
+B	00:13:30.079	00:13:31.260	perhaps you're right.
+D	00:13:32.160	00:13:34.130	you can stay here and watch the tennis.
+B	00:13:35.040	00:13:36.140	tennis?
+D	00:13:36.240	00:13:36.720	yeah.
+D	00:13:36.720	00:13:37.250	wimbledon.
+B	00:13:39.760	00:13:41.019	who's that?
+D	00:13:47.519	00:13:49.019	it's simon.
+B	00:13:49.279	00:13:50.229	oh, no.
+B	00:13:50.639	00:13:52.160	i look awful.
+B	00:13:52.160	00:13:54.089	don't let him come up yet.
+B	00:13:55.199	00:13:56.029	matt!
+D	00:13:56.399	00:13:57.210	oh, right.
+A	00:14:00.320	00:14:01.230	here's the patient.
+E	00:14:05.040	00:14:06.279	how are you feeling?
+B	00:14:07.279	00:14:08.290	not too bad.
+B	00:14:08.800	00:14:11.119	you know, up and down.
+E	00:14:11.519	00:14:13.170	i didn't know you weren't well.
+E	00:14:14.480	00:14:17.189	i've got some tickets to see a salsa band tonight.
+E	00:14:18.399	00:14:20.040	oh well, never mind.
+B	00:14:20.240	00:14:22.030	i can still go.
+A	00:14:22.880	00:14:24.080	no, you can't.
+A	00:14:24.160	00:14:25.160	don't be silly.
+E	00:14:26.240	00:14:27.180	jane's right.
+E	00:14:27.680	00:14:29.290	you shouldn't go out when you've got flu.
+E	00:14:29.600	00:14:31.120	you have to stay in bed.
+B	00:14:31.920	00:14:33.199	but what about the tickets?
+E	00:14:33.199	00:14:35.069	it doesn't matter about them.
+C	00:14:35.279	00:14:36.939	it's a pity to waste them.
+C	00:14:36.639	00:14:38.140	why don't you go with someone else?
+B	00:14:38.140	00:14:39.189	what?
+C	00:14:39.199	00:14:43.030	well, jane could have your ticket, and she could go with simon.
+E	00:14:43.440	00:14:44.980	that's not a bad idea.
+D	00:14:44.880	00:14:46.259	yeah, go on, jane.
+B	00:14:47.519	00:14:50.210	look, i'm feeling much better.
+E	00:14:51.110	00:14:51.120	HEY.
+E	00:14:51.120	00:14:52.139	stay there.
+E	00:14:52.639	00:14:54.050	you must keep warm.
+A	00:14:56.160	00:14:57.160	ok.
+A	00:14:57.360	00:14:58.290	i'll go and get ready.
+E	00:15:01.600	00:15:03.020	we can go another time.
+B	00:15:05.920	00:15:09.080	so i didn't get to see the salsa band with simon.
+B	00:15:09.360	00:15:12.230	game, set and match to jane!
+B	00:15:15.519	00:15:18.039	we all like our food in this house...
+B	00:15:18.079	00:15:21.240	...but i think david likes it a bit more than the rest of us.
+C	00:15:21.441	00:15:23.139	if nobody else wants this, i'll have it.
+B	00:15:23.839	00:15:36.130	david, honestly! where do you put it?
+D	00:15:30.240	00:15:32.050	you're such a pig.
+A	00:15:33.120	00:15:34.150	if you're not careful.
+A	00:15:34.160	00:15:35.260	you'll put on weight.
+D	00:15:36.320	00:15:38.079	he's already flabby.
+C	00:15:38.079	00:15:39.010	no, i'm not.
+B	00:15:39.920	00:15:42.190	apparently, simon used to be quite fat.
+C	00:15:43.600	00:15:45.039	i'm not flabby.
+B	00:15:45.839	00:15:47.430	he keeps very fit now.
+B	00:15:47.440	00:15:49.509	he goes to the gym four times a week.
+C	00:15:49.519	00:15:51.509	gyms are so boring.
+C	00:15:51.519	00:15:52.639	i play tennis.
+C	00:15:52.639	00:15:54.600	at least that's competitive.
+B	00:15:55.600	00:15:57.140	you used to play tennis.
+C	00:15:57.440	00:15:59.509	and i had the time now.
+C	00:15:59.519	00:16:02.710	anyway, julia thinks i look good.
+D	00:16:04.720	00:16:09.040	yes, but will julia still think that when you're like a balloon?
+C	00:16:17.320	00:16:23.040	a hundred and fifty pounds a month and five-hundred pounds to join?
+C	00:16:24.240	00:16:27.069	actually, it's not really what i'm looking for.
+C	00:16:27.279	00:16:27.720	thank you.
+C	00:16:27.920	00:16:29.029	bye.
+C	00:16:34.839	00:16:33.030	unbelievable.
+C	00:16:46.240	00:16:46.800	oh, hello.
+C	00:16:46.800	00:16:48.509	i'm interested in joining your health club.
+C	00:16:49.519	00:16:51.389	could you tell me how much it is, please?
+F	00:16:52.399	00:16:53.350	you're what?
+C	00:16:53.360	00:16:55.910	i'm going to have a work-out this evening.
+F	00:16:55.920	00:16:57.040	where?
+C	00:16:57.040	00:16:58.639	at the new fitness club.
+F	00:16:58.639	00:16:59.920	isn't that expensive?
+C	00:16:59.920	00:17:00.720	it is...
+C	00:17:00.720	00:17:03.680	but they offer a five-day free trial period.
+F	00:17:03.680	00:17:04.309	free?
+C	00:17:04.319	00:17:05.439	yeah.
+F	00:17:05.439	00:17:07.590	oh david, you're terrible.
+C	00:17:07.600	00:17:09.100	what's terrible about that?
+C	00:17:10.400	00:17:13.909	anyway, i'm starting this evening, so i'll meet you as soon as i get out.
+F	00:17:13.919	00:17:15.189	what time will that be?
+C	00:17:15.199	00:17:16.160	i don't know yet.
+C	00:17:16.160	00:17:18.030	might do a long session.
+C	00:17:18.240	00:17:20.309	but i'll give you a call when i finish.
+F	00:17:20.319	00:17:21.750	and then we're going for a drink.
+C	00:17:21.760	00:17:23.000	absolutely.
+
+G	00:17:26.000	00:17:28.710	last saturday we watched a horror film.
+G	00:17:28.720	00:17:31.430	some of us found it really frightening.
+A	00:17:31.440	00:17:33.590	she's going to go down the stairs.
+A	00:17:33.600	00:17:35.039	oh, no!
+A	00:17:35.039	00:17:36.000	don't do it!
+F	00:17:36.000	00:17:37.350	why is she doing that?
+C	00:17:37.360	00:17:38.559	because it's a horror film.
+C	00:17:38.559	00:17:41.470	people always see stupid things in horror films.
+B	00:17:41.480	00:17:43.080	i can't watch this.
+B	00:17:46.480	00:17:47.640	what happened?
+C	00:17:48.640	00:17:49.360	it killed her?
+B	00:17:49.360	00:17:50.070	really?
+E	00:17:50.080	00:17:50.559	NO.
+E	00:17:50.559	00:17:52.020	the mother shot it.
+C	00:17:52.080	00:17:54.799	what a load of rubbish!
+F	00:17:54.799	00:17:56.070	it's not a load of rubbish.
+F	00:17:56.080	00:17:57.029	it's good fun.
+E	00:17:57.029	00:17:58.160	and it was very well made.
+F	00:17:58.160	00:18:00.139	that's just what i was gonna say, thank you.
+B	00:18:02.799	00:18:04.480	who wants coffee?
+A	00:18:04.480	00:18:06.640	oh yes, PLEASE.
+B	00:18:06.640	00:18:08.080	simon?
+E	00:18:08.480	00:18:09.909	i'll get it.
+C	00:18:09.919	00:18:12.200	i wouldn't go in the kitchen if i were you.
+D	00:18:13.200	00:18:14.000	no, no, simon.
+D	00:18:14.000	00:18:14.320	don't.
+D	00:18:15.120	00:18:16.090	the ghost.
+E	00:18:16.400	00:18:17.199	oh yeah.
+E	00:18:17.919	00:18:18.950	the ghost.
+C	00:18:21.760	00:18:22.360	actually...
+E	00:18:23.360	00:18:24.160	what?
+C	00:18:24.160	00:18:25.270	OH... nothing.
+F	00:18:25.280	00:18:26.640	what, david?
+C	00:18:26.640	00:18:30.080	well, there might be a ghost in this house.
+B	00:18:30.080	00:18:30.720	where?
+C	00:18:30.720	00:18:32.000	in the kitchen.
+A	00:18:32.400	00:18:33.600	what kind of ghost?
+C	00:18:33.600	00:18:35.350	the ghost of a dog.
+F	00:18:35.360	00:18:36.789	don't be silly.
+C	00:18:36.799	00:18:37.250	it's true.
+B	00:18:40.160	00:18:42.010	i don't know anything about this.
+C	00:18:42.080	00:18:44.229	well, before this house was built...
+A	00:18:45.039	00:18:46.720	when was this house built?
+B	00:18:46.720	00:18:48.190	about hundred and twenty years ago.
+B	00:18:49.200	00:18:49.760	go on.
+C	00:18:49.760	00:18:54.470	before this house was built, there used to be an old cottage here.
+C	00:18:54.480	00:18:57.909	an old man lived in it and he had a large black dog.
+C	00:18:57.919	00:19:01.039	and everywhere he went the dog went with him.
+D	00:19:01.039	00:19:02.140	it never left him.
+B	00:19:02.640	00:19:04.160	how do you know all this?
+D	00:19:05.360	00:19:06.960	one of the neighbors told us.
+C	00:19:06.960	00:19:11.020	anyway, the man was killed in an accident.
+C	00:19:11.360	00:19:13.269	a new family moved into the cottage....
+C	00:19:13.679	00:19:16.250	...and the dog was taken away by the old man's sister.
+C	00:19:16.960	00:19:18.280	but that very first evening...
+A	00:19:18.880	00:19:19.260	yes?
+C	00:19:19.760	00:19:24.180	...the dog went back to the house and started howling.
+B	00:19:24.880	00:19:26.000	what happened then?
+C	00:19:26.000	00:19:27.100	the owners chased it away.
+C	00:19:27.600	00:19:29.130	but it kept coming back.
+C	00:19:29.440	00:19:31.060	every night they chased it away.
+C	00:19:30.960	00:19:33.240	every night it came back... and howled.
+E	00:19:34.240	00:19:35.160	and then?
+C	00:19:35.760	00:19:40.230	well, not long after that, the cottage was destroyed by a fire.
+D	00:19:40.640	00:19:42.229	and this house was built ten years later.
+F	00:19:43.039	00:19:44.710	so where's the ghost?
+C	00:19:44.720	00:19:46.710	well, when they were building this house...
+C	00:19:46.720	00:19:50.240	...they found a skeleton of a large dog in the cellar.
+D	00:19:52.240	00:19:57.130	and the neighbor says that sometimes late at night a dog is heard....
+D	00:19:57.440	00:19:58.219	...howling
+E	00:19:59.919	00:20:02.230	there's always a logical explanation for that kind of thing.
+D	00:20:03.840	00:20:05.418	what would you do if you saw a ghost?
+E	00:20:05.760	00:20:07.050	they don't exist.
+F	00:20:07.360	00:20:09.020	if i saw a ghost i'd run away.
+B	00:20:09.520	00:20:10.678	if i saw a ghost...
+D	00:20:10.678	00:20:11.702	the ghost would run away!
+C	00:20:14.960	00:20:16.040	ok,simon.
+C	00:20:16.472	00:20:17.325	go make the coffee.
+C	00:20:17.825	00:20:19.031	don't say i didn't warn you!
+A	00:20:32.640	00:20:34.840	did you two really hear that story?
+D	00:20:47.919	00:20:49.315	the others fancy some toast.
+D	00:20:49.334	00:20:50.003	do you want some?
+E	00:20:50.062	00:20:51.180	no, thanks.
+D	00:20:52.764	00:20:53.711	that was a great story.
+D	00:20:54.407	00:20:55.777	who said it was a story?
+E	00:20:57.734	00:20:58.829	you know, the funny thing is...
+D	00:21:00.634	00:21:01.040	what?
+E	00:21:01.793	00:21:05.854	well, although i don't really believe in that sort of thing...
+D	00:21:06.776	00:21:07.324	yes?
+E	00:21:08.361	00:21:14.337	i have sometimes heard a dog howling late at night.
+E	00:21:16.720	00:21:19.130	and i always thought it was coming from this house.
+A	00:21:28.268	00:21:28.751	hi!...
+A	00:21:30.192	00:21:31.691	biscuits.
+A	00:21:34.040	00:21:34.833	matt.
+D	00:21:35.502	00:21:35.964	yes?
+A	00:21:37.089	00:21:37.864	are you all right?
+D	00:21:38.473	00:21:40.653	yes, yes,i'm fine.
+A	00:21:43.492	00:21:43.923	matt.
+D	00:21:44.413	00:21:44.769	what?
+A	00:21:45.328	00:21:48.970	if i were you, i wouldn't turn the light off in your bedroom tonight.
+D	00:21:49.358	00:21:50.238	very funny!
+
+G	00:22:08.343	00:22:10.746	the next morning, matt looked very tired...
+G	00:22:11.475	00:22:12.454	for some reason.
+G	00:22:16.778	00:22:18.418	it was a typical saturday night...
+G	00:22:18.894	00:22:22.122	but matt was acting rather strangely.
+A	00:22:24.455	00:22:24.993	thanks.
+F	00:22:25.076	00:22:26.045	thank you.
+C	00:22:31.668	00:22:32.720	oh,thanks.
+A	00:22:35.644	00:22:36.782	are you all right, matt?
+D	00:22:37.661	00:22:38.149	yes.
+C	00:22:40.097	00:22:41.705	are you expecting someone?
+D	00:22:43.210	00:22:43.786	no.
+D	00:22:49.418	00:22:49.830	well...
+B	00:22:50.719	00:22:51.617	AHA!
+F	00:22:52.920	00:22:54.259	come on, matt tell us.
+C	00:22:54.510	00:22:55.624	what's been going on?
+D	00:22:57.403	00:23:00.922	well, i was working today, and i just got out for lunch.
+D	00:23:02.358	00:23:05.644	i was walking into radcliffe square when i saw a girl.
+D	00:23:07.637	00:23:09.578	she was doing a survey, you know...
+D	00:23:09.687	00:23:14.871	...interviewing people on the street, except she wasn't having much luck.
+D	00:23:14.900	00:23:15.919	nobody wanted to stop.
+D	00:23:18.888	00:23:20.226	how long have you been standing here?
+H	00:23:21.141	00:23:22.375	since ten o'clock.
+D	00:23:23.117	00:23:24.861	and how many people have you interviewed?
+H	00:23:25.760	00:23:26.199	four.
+H	00:23:27.022	00:23:29.022	my boss said he wanted me to interview at least twenty.
+D	00:23:30.102	00:23:31.192	you could interview me.
+H	00:23:31.635	00:23:32.043	okay.
+D	00:23:33.434	00:23:35.585	right,my name's matt.
+H	00:23:36.254	00:23:37.777	actually, i don't need your name.
+D	00:23:38.389	00:23:38.679	oh.
+H	00:23:39.879	00:23:40.777	but my name's mel.
+H	00:23:41.520	00:23:43.079	so, matt.
+H	00:23:43.516	00:23:44.407	do you live in oxford?
+D	00:23:45.305	00:23:45.990	yes,i do.
+H	00:23:46.799	00:23:48.376	how long have you been living here?
+D	00:23:48.670	00:23:50.063	since Nineteen ninety seven
+H	00:23:51.537	00:23:53.352	how many jobs have you had since then?
+D	00:23:53.489	00:23:53.759	two.
+H	00:23:55.551	00:23:56.480	and what do you do now?
+D	00:23:56.773	00:23:58.180	i manage a computer game shop.
+H	00:23:58.655	00:23:59.944	how long have you been working there?
+D	00:24:01.749	00:24:02.944	nearly five years.
+H	00:24:04.839	00:24:06.171	what newspapers do you read?
+D	00:24:06.266	00:24:08.408	she asked me about what newspapers i read...
+D	00:24:08.687	00:24:09.498	the observer.
+H	00:24:09.520	00:24:10.640	food do you like?
+D	00:24:10.716	00:24:12.232	...the food i like...anything.
+H	00:24:13.256	00:24:14.649	what kind of clothes do you buy?
+D	00:24:14.905	00:24:17.535	...the clothes I BUY...we got on really well.
+H	00:24:18.644	00:24:20.159	where do you go for entertainment?
+D	00:24:20.284	00:24:22.464	uh the cinema, clubs...
+H	00:24:22.587	00:24:23.198	restaurants?
+H	00:24:23.639	00:24:24.549	not really.
+D	00:24:24.814	00:24:26.804	although i quite often eat at flowes.
+H	00:24:27.421	00:24:28.534	i've been there a few times.
+D	00:24:28.951	00:24:29.411	really?
+D	00:24:29.913	00:24:30.809	i've never seen you there.
+H	00:24:32.055	00:24:33.231	i'm going there tonight, actually.
+D	00:24:33.851	00:24:34.254	oh.
+H	00:24:37.619	00:24:38.126	ok.
+H	00:24:38.671	00:24:39.296	holidays.
+H	00:24:39.652	00:24:41.969	which kind of holiday do you usually prefer?
+D	00:24:42.476	00:24:43.898	i really like going abroad.
+D	00:24:44.471	00:24:46.542	i've been to italy a few times.
+D	00:24:46.656	00:24:48.774	i want you to ask her lots of questions...
+D	00:24:49.533	00:24:52.556	...but she was asking me so many, i didn't really get a chance.
+H	00:24:52.187	00:24:53.717	DO YOU GO TO A GYM?
+D	00:25:00.631	00:25:02.688	after the interview, i went to buy her a coffee.
+D	00:25:03.541	00:25:05.189	but when i got back, she gone.
+C	00:25:14.872	00:25:16.550	is she going to be here tonight?
+D	00:25:16.758	00:25:17.886	she said she was coming.
+B	00:25:18.142	00:25:19.621	HOW romantic.
+D	00:25:20.251	00:25:22.042	we haven't arranged anything.
+F	00:25:22.625	00:25:24.350	oh, i'm sure she'll come.
+A	00:25:25.800	00:25:27.321	of course, she'll come.
+A	00:25:29.795	00:25:31.000	Is that her?
+E	00:25:32.108	00:25:32.895	go over.
+B	00:25:33.814	00:25:35.131	go on, MATT.
+C	00:25:36.435	00:25:37.468	go for it.
+
+D	00:25:43.861	00:25:44.676	hi.
+H	00:25:45.770	00:25:46.590	oh, hello.
+D	00:25:47.908	00:25:48.922	so you came, then?
+H	00:25:49.514	00:25:50.088	yes.
+D	00:25:52.997	00:25:54.381	would you like a drink?
+I	00:25:55.229	00:25:56.850	HI! SORRY I'M LATE.
+I	00:26:00.163	00:26:00.618	hi.
+S	00:26:01.139	00:26:01.594	hi.
+H	00:26:03.679	00:26:04.140	oh,...
+H	00:26:04.640	00:26:05.200	this is peter.
+H	00:26:06.000	00:26:07.170	peter, this is...
+H	00:26:07.840	00:26:08.240	ER...
+S	00:26:09.440	00:26:10.120	matt.
+I	00:26:10.720	00:26:11.209	nice to meet you.
+I	00:26:11.919	00:26:13.120	there's a table over there.
+I	00:26:13.120	00:26:14.259	are you sitting with us, matt?
+S	00:26:14.559	00:26:16.080	no, no. go ahead.
+H	00:26:16.880	00:26:17.259	bye, then.
+D	00:26:18.159	00:26:18.289	yeah.
+I	00:26:19.279	00:26:20.170	see you around.
+B	00:26:26.880	00:26:28.250	oh, PooR max.
+A	00:26:30.960	00:26:32.120	i'll be back in a minute.
+A	00:26:41.760	00:26:42.220	who's that?
+A	00:26:43.120	00:26:44.080	HER boyfriend?
+D	00:26:45.840	00:26:47.040	what do you think?
+D	00:26:48.240	00:26:49.090	sorry.
+A	00:26:49.600	00:26:50.279	it's ok.
+A	00:26:51.279	00:26:52.159	are you all right?
+D	00:26:52.559	00:26:53.270	not really.
+D	00:26:54.080	00:26:55.290	i feel a bit of an idiot.
+A	00:26:56.960	00:26:57.270	come on.
+D	00:26:58.480	00:26:59.160	what?
+A	00:26:59.760	00:27:01.190	let's go get some fresh air.
+F	00:27:07.200	00:27:08.190	where are they going?
+B	00:27:09.120	00:27:10.190	i don't know.
+C	00:27:13.200	00:27:15.249	it seems a shame to waste their drinks.
+B	00:27:16.159	00:27:21.189	oh, david!
+D	00:27:21.679	00:27:24.170	why is it always happening to me?
+A	00:27:26.080	00:27:27.280	it happens to everyone.
+D	00:27:28.480	00:27:29.299	what, even you?
+A	00:27:31.279	00:27:32.159	yes, matt.
+A	00:27:32.559	00:27:37.229	even me.
+A	00:27:37.039	00:27:38.080	did you like her?
+D	00:27:38.880	00:27:41.069	i thought she was really nice.
+A	00:27:43.679	00:27:44.210	don't worry.
+A	00:27:45.200	00:27:46.290	there'd be someone else.
+D	00:27:47.600	00:27:48.190	where?
+A	00:27:49.520	00:27:50.250	anywhere.
+A	00:27:53.760	00:27:54.230	here?
+A	00:27:58.760	00:28:00.090	MATT.?
+D	00:28:02.080	00:28:04.120	oh! you mean...
+D	00:28:06.640	00:28:07.189	...you?
+D	00:28:10.799	00:28:11.299	gosh.
+D	00:28:12.799	00:28:15.089	how long have you...?
+D	00:28:15.039	00:28:16.050	WLL, YOU know...
+A	00:28:17.760	00:28:19.040	quite a long time.
+D	00:28:21.200	00:28:22.170	me too.
+D	00:28:27.440	00:28:29.090	what are we going to tell the others?
+A	00:28:29.840	00:28:31.120	we can worry about that later.
+D	00:28:31.820	00:28:32.230	yeah.
+

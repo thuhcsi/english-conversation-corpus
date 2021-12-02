@@ -1,0 +1,617 @@
+B	00:00:12.360	00:00:14.079	good morning, sir.
+B	00:00:14.079	00:00:15.620	how can I help you?
+C	00:00:15.720	00:00:20.370	well, I have some time off from work next month.
+C	00:00:20.380	00:00:23.690	and I was thinking of going to Australia.
+B	00:00:23.890	00:00:25.730	emm, that sounds great.
+B	00:00:26.290	00:00:27.876	how long is your vacation?
+C	00:00:28.209	00:00:29.929	just one week.
+C	00:00:29.939	00:00:33.719	my last day of work is the twenty sixth of July.
+C	00:00:33.729	00:00:37.260	and I go back on the third of August.
+B	00:00:37.343	00:00:38.306	okay.
+B	00:00:41.610	00:00:43.479	here's our Sydney brochure.
+B	00:00:43.889	00:00:47.010	have a look and see if there's a hotel that you like.
+C	00:00:47.020	00:00:49.850	oh! this one is good.
+C	00:00:50.110	00:00:51.990	the four seasons hotel.
+C	00:00:51.990	00:00:55.779	it's expensive but I've been told it's very nice.
+B	00:00:55.779	00:00:58.740	yes,it's a very high-class hotel.
+B	00:00:58.840	00:01:01.290	I'm sure you'll enjoy your stay there.
+B	00:01:01.290	00:01:04.640	would you like me to make the booking now, sir?
+C	00:01:05.640	00:01:07.150	yes, please.
+B	00:01:07.670	00:01:10.910	I just need to take some personal information.
+B	00:01:11.160	00:01:12.690	what's your full name?
+C	00:01:12.690	00:01:15.639	Martin Andrew white.
+B	00:01:15.839	00:01:17.689	and your address?
+C	00:01:18.269	00:01:23.550	eleven soy terracon klongsan, bangkok.
+B	00:01:23.620	00:01:24.960	and your telephone number?
+C	00:01:24.960	00:01:31.030	zero two six two four nine seven three four.
+B	00:01:31.400	00:01:35.480	do you have a day time number I can call if necessary?
+C	00:01:35.490	00:01:41.040	zero two seven seven seven one two one two.
+B	00:01:41.040	00:01:42.400	that's fine.
+B	00:01:42.400	00:01:44.600	will you be travelling alone, mr. white?
+C	00:01:44.790	00:01:46.650	yep. just me.
+B	00:01:46.650	00:01:51.329	okay. you finish work on Friday the twenty sixth.
+B	00:01:51.339	00:01:53.940	so shall I try to book your flight for the next day?
+C	00:01:54.040	00:01:55.590	yes. please.
+C	00:01:55.600	00:02:00.580	and return flight on Saturday the third of August.
+B	00:02:00.580	00:02:02.698	I'll just check the availability.
+C	00:02:02.960	00:02:03.673	OK.
+B	00:02:03.890	00:02:07.570	there are seats available on this Qantas Airways flight.
+B	00:02:07.570	00:02:10.750	but there is a three-hour stopover in Singapore.
+C	00:02:12.760	00:02:15.590	is there a direct flight that I can take?
+B	00:02:17.443	00:02:18.218	yes.
+B	00:02:18.530	00:02:19.730	Malaysian Airways.
+B	00:02:19.730	00:02:24.260	that flight departs at seven o'clock on Saturday morning.
+B	00:02:24.260	00:02:28.770	and it arrives at Sydney at six thirty p.m. local time.
+C	00:02:29.770	00:02:31.900	that sounds better.
+C	00:02:31.900	00:02:35.260	but it's a little longer than I thought.
+B	00:02:35.260	00:02:38.110	well, it's an eight hour long flight.
+B	00:02:38.110	00:02:40.510	don't forget the time difference.
+B	00:02:40.520	00:02:42.920	all the times given are local times.
+C	00:02:42.920	00:02:44.510	oh, yes.
+C	00:02:44.510	00:02:45.430	that's right.
+C	00:02:45.440	00:02:48.270	they're three hours ahead, aren't they?
+C	00:02:48.280	00:02:51.670	can I have the details of the return flight?
+B	00:02:52.270	00:02:59.260	that flight departs at six p.m. and arrives in Bangkok at eleven fifteen on that same night.
+B	00:02:59.400	00:03:01.400	shall I reserve a seat for you?
+C	00:03:01.400	00:03:03.000	yes. please.
+B	00:03:03.010	00:03:06.510	now let's reserve a room for you at the Four Seasons.
+B	00:03:06.510	00:03:08.780	do you want a single or a double room?
+C	00:03:08.780	00:03:12.550	Oh, a single room will be fine, thanks.
+C	00:03:12.850	00:03:14.630	will it have a view of the harbor?
+B	00:03:14.630	00:03:15.980	oh, yes.
+B	00:03:15.980	00:03:17.610	all rooms have harbor views.
+B	00:03:18.340	00:03:20.230	they have a room available.
+B	00:03:20.230	00:03:22.500	shall I make the confirmation?
+C	00:03:22.570	00:03:24.400	yeah, go ahead.
+B	00:03:25.520	00:03:29.830	okay. so now you have a room available at the Four Seasons.
+B	00:03:29.830	00:03:35.580	from Saturday the twenty seventh of July until Saturday the third of August.
+C	00:03:36.031	00:03:37.390	that's great.
+C	00:03:37.390	00:03:39.570	can I pay by credit card?
+B	00:03:39.670	00:03:41.660	no problem.
+C	00:03:47.430	00:03:52.590	so it is sixty two thousand Bath including your flight.
+C	00:03:52.790	00:03:54.400	here's my card.
+C	00:03:55.680	00:03:58.690	when will I be able to collect my ticket?
+B	00:03:58.690	00:04:00.940	it should be ready in a couple of days.
+B	00:04:00.940	00:04:02.707	I can call you at work if you'd like.
+C	00:04:03.000	00:04:04.530	thanks very much!
+
+D	00:04:16.440	00:04:18.090	good morning, sir.
+D	00:04:18.100	00:04:20.480	can I see your ticket and Passport?
+C	00:04:20.490	00:04:21.490	certainly.
+C	00:04:21.490	00:04:22.800	there you are.
+D	00:04:22.800	00:04:24.550	thank you.
+D	00:04:26.550	00:04:29.558	okay, and how many suitcases will you be checking in?
+C	00:04:29.970	00:04:31.800	just one suitcase.
+D	00:04:31.800	00:04:33.840	did you pack your bag yourself?
+C	00:04:33.840	00:04:35.410	yes, I did.
+D	00:04:35.410	00:04:38.020	okay. do you have any electrical goods?
+C	00:04:38.020	00:04:41.740	I have an electric shaver in my hand luggage.
+C	00:04:41.740	00:04:42.850	is that okay?
+D	00:04:42.850	00:04:43.900	that's fine.
+D	00:04:43.900	00:04:45.750	so nothing in your suitcase?
+C	00:04:45.750	00:04:46.750	no.
+D	00:04:46.870	00:04:50.800	okay. do you like a window or an aisle seat?
+C	00:04:50.800	00:04:53.020	a window seat, please.
+D	00:04:53.020	00:04:54.100	okay.
+D	00:05:05.140	00:05:07.280	and just one moment.
+D	00:05:08.677	00:05:11.650	this is your seat number and the departure gate.
+D	00:05:11.650	00:05:14.370	you can go straight through to the departure lounge.
+D	00:05:14.380	00:05:15.730	enjoy your flight!
+C	00:05:15.730	00:05:17.640	what time will we be boarding?
+D	00:05:17.950	00:05:19.570	we'll begin boarding at seven.
+C	00:05:19.570	00:05:20.960	okay. thank you.
+
+E	00:05:21.960	00:05:24.780	would you like a newspaper to read, ma'am?
+F	00:05:24.790	00:05:25.620	no, thank you.
+E	00:05:27.480	00:05:30.690	would you like a newspaper to read, sir?
+E	00:05:30.690	00:05:32.070	sir?
+E	00:05:32.070	00:05:33.390	sir?
+C	00:05:33.400	00:05:33.900	Oh!
+E	00:05:33.900	00:05:36.560	would you like a newspaper to read, sir?
+C	00:05:37.560	00:05:41.180	yeah. I'll take the Daily Mail.
+E	00:05:42.180	00:05:43.730	there you go, sir.
+C	00:05:44.520	00:05:46.650	thank you.
+C	00:05:46.650	00:05:49.030	it'll help take my mind off things.
+C	00:05:49.030	00:05:53.530	I am always a little nervous before flying.
+E	00:05:53.530	00:05:56.710	oh, well, try not to worry too much.
+E	00:05:56.710	00:06:00.880	you know, air flight is the safest form of travel.
+C	00:06:00.880	00:06:03.050	I know.
+C	00:06:04.050	00:06:07.250	I'm sure I'll be better after we take off.
+E	00:06:07.260	00:06:11.160	you know we have some flight entertainment for you, too.
+E	00:06:11.160	00:06:16.240	you'll find the film guide in the pocket in front of you or in-flight magazine.
+C	00:06:16.540	00:06:18.130	oh good.
+C	00:06:20.130	00:06:23.850	a nice film will help me to relax.
+E	00:06:23.850	00:06:27.060	programs will start shortly after takeoff.
+E	00:06:27.060	00:06:29.650	if there's anything I can get for you.
+E	00:06:29.650	00:06:32.550	then please just call for assistance.
+C	00:06:32.550	00:06:34.857	when will dinner be served?
+E	00:06:35.219	00:06:38.130	in about an hour or so.
+E	00:06:38.130	00:06:42.040	we have a fish, steak and the vegetarian option.
+E	00:06:42.040	00:06:43.550	which one would you like?
+C	00:06:44.520	00:06:45.880	fish, please.
+E	00:06:45.880	00:06:46.840	okay.
+E	00:06:46.840	00:06:48.560	I'll be back later.
+E	00:06:48.570	00:06:52.940	now please just try to relax and enjoy the flight.
+E	00:06:55.950	00:06:59.850	sir, have you seen the catalog for our in-flight shop?
+C	00:06:59.850	00:07:00.960	this one?
+E	00:07:00.960	00:07:02.450	that's it.
+E	00:07:02.460	00:07:04.970	would you like to order any duty-free Goods?
+C	00:07:04.970	00:07:06.530	yes, please.
+C	00:07:06.530	00:07:08.490	can I pay by credit card?
+E	00:07:08.490	00:07:12.250	yes, all major credit cards are accepted.
+E	00:07:12.338	00:07:16.440	but purchases must not exceed five hundred US dollars.
+C	00:07:16.700	00:07:23.550	okay, I'd like this bottle of scotch whiskey, please.
+C	00:07:23.550	00:07:25.740	at thirty four dollars?
+E	00:07:25.740	00:07:26.810	right.
+E	00:07:26.810	00:07:31.110	that would be one bottle of Johnny Walker malt whiskey.
+E	00:07:31.110	00:07:33.373	is there anything else you'd like, sir?
+C	00:07:33.860	00:07:39.740	yes, I'd like these titanium sunglasses.
+E	00:07:39.740	00:07:44.460	yes. they are priced at a hundred and forty five dollars.
+E	00:07:44.460	00:07:46.430	will that be all, sir?
+C	00:07:46.430	00:07:48.270	yes, that's everything.
+C	00:07:48.270	00:07:49.360	Thanks.
+E	00:07:49.370	00:07:54.270	the total bill comes to a hundred seventy nine US dollars.
+E	00:07:54.270	00:07:56.280	can I have your credit card, please?
+C	00:07:56.280	00:07:57.630	AH. sure.
+C	00:08:01.640	00:08:02.880	here you go.
+E	00:08:02.880	00:08:04.020	thank you.
+E	00:08:04.020	00:08:07.730	sir, please wait, while I collect your duty-free Goods.
+C	00:08:07.740	00:08:09.670	thank you.
+
+F	00:08:14.680	00:08:15.920	good evening, sir.
+F	00:08:15.920	00:08:18.680	may I see your passport and immigration card, please?
+C	00:08:18.680	00:08:20.410	sure, here you are.
+F	00:08:25.420	00:08:27.940	do you have anything to declare?
+C	00:08:27.940	00:08:32.749	no. I just have these duty-free items that I bought on the plane.
+F	00:08:32.749	00:08:34.315	mm-hmm, that's okay.
+F	00:08:34.390	00:08:35.480	welcome to Australia.
+F	00:08:35.480	00:08:37.179	is this your first trip here?
+C	00:08:37.179	00:08:42.460	no. I came here on business a few years ago but I couldn't stay long.
+F	00:08:42.470	00:08:46.900	are you here on business or pleasure this time?
+C	00:08:46.900	00:08:49.220	purely pleasure this time.
+F	00:08:49.220	00:08:53.230	good. are you planning on traveling around during your stay?
+C	00:08:53.230	00:08:58.989	well, I've only got a week so I'm planning on staying in Sydney.
+F	00:08:58.989	00:09:01.429	yes. Australia is a big place.
+F	00:09:01.429	00:09:04.070	you will need a week to see it all.
+C	00:09:04.570	00:09:06.360	maybe next time.
+C	00:09:06.370	00:09:12.610	this time, I'm going to try to see all the tourist areas of Sydney.
+F	00:09:12.610	00:09:15.650	good. I hope you enjoy your stay.
+C	00:09:17.650	00:09:19.280	thank you.
+
+C	00:09:28.860	00:09:30.010	excuse me!
+C	00:09:30.010	00:09:32.680	um, I've just arrived here.
+C	00:09:32.680	00:09:37.060	and I've been waiting at the baggage carousel for my suitcase.
+C	00:09:37.060	00:09:39.810	I think it's lost.
+G	00:09:40.073	00:09:42.211	okay, sir. don't worry about it.
+G	00:09:42.336	00:09:43.587	I'm sure we can find it.
+G	00:09:43.870	00:09:45.540	what flight were you on?
+C	00:09:45.540	00:09:50.330	flight number M a two zero one from Bangkok.
+G	00:09:50.340	00:09:53.850	yes. your bag should be on carousel eight.
+C	00:09:54.860	00:09:57.294	well, this is where I've been waiting...
+C	00:09:57.460	00:09:59.240	and it's not here.
+G	00:09:59.250	00:10:01.150	what does your bag look like?
+G	00:10:01.150	00:10:03.030	can you give me a description?
+C	00:10:03.030	00:10:05.130	it's green.
+G	00:10:05.130	00:10:07.260	does it have your name on it?
+C	00:10:07.260	00:10:10.000	yes. I wrote my name on the label.
+C	00:10:10.000	00:10:13.180	it's Martin Andrew white.
+G	00:10:14.190	00:10:17.810	I'll just make a quick call to see if I can find it.
+G	00:10:17.820	00:10:23.080	hello, central? yes, code seventeen. Martin Andrew white.
+G	00:10:23.080	00:10:30.010	yes. sir, your bag is being held by customs.
+G	00:10:30.010	00:10:32.520	you can pick it up there.
+C	00:10:32.520	00:10:34.530	is there a problem?
+G	00:10:34.540	00:10:37.020	I'm sure it's nothing to worry about.
+G	00:10:37.030	00:10:38.980	they will explain it to you at the customs Hall.
+G	00:10:38.980	00:10:40.740	just follow this corridor.
+G	00:10:40.750	00:10:42.240	on your left.
+C	00:10:42.240	00:10:44.490	okay. thanks for your help.
+G	00:10:44.500	00:10:45.910	you're welcome!
+
+C	00:10:47.910	00:10:52.734	excuse me? my suitcase is missing.
+C	00:10:52.771	00:10:55.600	and I was told I could collect it here?
+H	00:10:55.600	00:10:58.800	can you identify which bag is yours?
+C	00:10:58.800	00:11:01.690	yes, it's this green one here.
+H	00:11:03.690	00:11:05.290	what is your name?
+C	00:11:05.590	00:11:08.204	my name is Martin Andrew white.
+H	00:11:11.870	00:11:15.190	okay. this is your bag?
+C	00:11:15.190	00:11:17.000	yes, of course.
+C	00:11:17.000	00:11:18.670	is there a problem, officer?
+H	00:11:18.670	00:11:22.700	it's just that our sniffer dog has smelt something in your bag.
+H	00:11:22.700	00:11:26.170	I'm afraid I'll have to ask you to open it for me.
+C	00:11:26.170	00:11:28.270	yes, of course.
+C	00:11:28.270	00:11:30.830	you're welcome to have a look.
+H	00:11:35.830	00:11:38.270	this is what our sniffer dog found.
+H	00:11:38.270	00:11:42.110	I'm afraid you're carrying a packet of biscuits and the packet is split.
+C	00:11:42.110	00:11:45.750	I forgot about those.
+C	00:11:45.760	00:11:48.850	they must have been broken during the flight.
+H	00:11:48.850	00:11:51.320	well, I can't see anything else.
+H	00:11:51.320	00:11:52.930	so you're free to go.
+C	00:11:55.930	00:11:57.528	thank you.
+C	00:12:01.270	00:12:02.260	goodbye!
+H	00:12:02.270	00:12:04.840	goodbye!
+
+I	00:12:04.840	00:12:06.910	you're welcome.
+C	00:12:08.920	00:12:10.100	excuse me!
+C	00:12:10.100	00:12:12.830	I'm trying to get to the city centre.
+C	00:12:12.830	00:12:14.360	where do I catch the bus?
+I	00:12:14.360	00:12:17.480	oh. you can catch the bus just right outside.
+I	00:12:17.480	00:12:20.230	you go through the exit doors, take a left.
+I	00:12:20.240	00:12:22.400	the bus stop should be right in front of you.
+C	00:12:22.400	00:12:23.860	okay. thank you.
+I	00:12:23.870	00:12:25.090	where are you going?
+C	00:12:25.090	00:12:28.480	I'm staying at the Four Seasons Hotel.
+I	00:12:28.490	00:12:30.950	oh that's near the Harbor, isn't?
+C	00:12:31.100	00:12:32.210	yes, it is.
+I	00:12:32.210	00:12:36.020	Well, in that case, you'll want to get the number sixty three.
+I	00:12:36.284	00:12:39.674	the blue bus and it leaves from the bus station number two.
+C	00:12:39.440	00:12:43.000	oh, okay. thank you for your help.
+I	00:12:43.010	00:12:43.688	you're welcome.
+I	00:12:43.713	00:12:44.870	I hope you enjoy your visit.
+I	00:12:44.870	00:12:45.710	good day!
+C	00:12:45.808	00:12:46.358	good day!
+
+J	00:12:58.539	00:13:00.589	good evening, sir.
+C	00:13:00.589	00:13:01.334	good evening.
+C	00:13:01.353	00:13:02.735	I'd like to check in please.
+J	00:13:02.779	00:13:04.300	certainly, sir.
+J	00:13:04.310	00:13:06.370	do you have a reservation?
+C	00:13:06.370	00:13:12.029	yes, it's in the name of Martin Andrew white.
+J	00:13:13.029	00:13:14.510	that's right.
+J	00:13:14.510	00:13:17.940	you've booked a room with a view of the harbor.
+J	00:13:18.940	00:13:22.830	can you please sign your name in the registration book?
+J	00:13:23.830	00:13:26.739	here is your key card.
+J	00:13:26.739	00:13:30.950	you are in room number one zero zero four.
+J	00:13:30.950	00:13:33.360	it's on the thirty floor.
+J	00:13:33.370	00:13:37.450	you'll have a great view of the harbor from there.
+C	00:13:37.450	00:13:38.560	Thanks.
+C	00:13:38.560	00:13:40.659	where can I get something to eat?
+J	00:13:40.659	00:13:45.070	our restaurant is located on the third floor.
+J	00:13:45.070	00:13:47.859	dinner is served from seven.
+C	00:13:47.859	00:13:52.750	great. what time is breakfast served in the morning?
+J	00:13:52.750	00:13:56.890	breakfast is served between six and ten.
+C	00:13:56.890	00:13:58.599	thank you for your help.
+J	00:13:58.609	00:14:00.560	you're very welcome, sir.
+J	00:14:00.560	00:14:03.620	I'll just call a bellboy to show you to your room.
+J	00:14:03.620	00:14:05.989	I hope you'll enjoy your stay.
+C	00:14:07.989	00:14:11.770	is there anything interesting to see nearby?
+J	00:14:11.770	00:14:15.880	yes, the hotel is in an area called "the rocks".
+J	00:14:15.890	00:14:18.370	it's the oldest part of the city.
+J	00:14:18.370	00:14:22.519	there are many cafes and restaurants nearby.
+C	00:14:23.529	00:14:26.859	are there any shops in the area?
+J	00:14:26.859	00:14:31.010	there are a few small craft shops.
+J	00:14:31.010	00:14:36.750	and we have a morning market every Saturday and Sunday.
+C	00:14:37.750	00:14:40.520	the morning market sounds interesting.
+C	00:14:40.520	00:14:42.599	are there many stores?
+J	00:14:43.599	00:14:45.719	yes, it's very big.
+J	00:14:45.729	00:14:52.959	you can buy souvenirs, handicrafts, jewelry, clothes.
+J	00:14:52.959	00:14:55.659	it's very good.
+C	00:14:55.659	00:14:58.179	where are the other shops?
+J	00:14:58.179	00:15:02.200	most of the shops are up in the city centre.
+J	00:15:02.200	00:15:04.450	it's a short walk away.
+C	00:15:04.450	00:15:07.370	and the harbour is nearby, too.
+C	00:15:07.370	00:15:08.240	isn't it?
+J	00:15:08.240	00:15:09.310	that's right.
+J	00:15:09.310	00:15:13.520	you'll have a good view of it, from your bedroom window.
+
+F	00:15:24.890	00:15:27.560	hello, sir. are you dining alone?
+C	00:15:27.570	00:15:30.710	yes. table for one, please.
+F	00:15:30.710	00:15:33.440	smoking or non-smoking?
+C	00:15:33.440	00:15:34.800	non-smoking, please.
+F	00:15:34.800	00:15:37.140	I have a table for you.
+F	00:15:37.140	00:15:37.400	please follow me.
+F	00:15:44.150	00:15:46.880	would you like a drink with your meal, sir?
+C	00:15:46.880	00:15:49.050	can I see the wine list, please?
+F	00:15:49.050	00:15:52.770	I can recommend the house red.
+F	00:15:52.770	00:15:56.790	it's a dry wine from the Hunter Valley, here in New South Wales.
+C	00:15:57.800	00:16:01.280	okay. I'll have a bottle of the house red , please.
+F	00:16:01.280	00:16:02.550	certainly, sir.
+F	00:16:02.550	00:16:04.140	here is tonight's menu.
+F	00:16:04.140	00:16:07.170	a waitress will be with you shortly to take your order.
+C	00:16:07.170	00:16:08.740	okay. thank you.
+E	00:16:12.740	00:16:15.520	here's the wine that you ordered, sir.
+E	00:16:15.530	00:16:19.440	would you like to let it breathe for a little while or shall I pour it now?
+C	00:16:19.440	00:16:22.360	I'll have a glass now, please.
+E	00:16:28.370	00:16:30.699	are you ready for me to take your order?
+C	00:16:30.709	00:16:34.889	yes, I'll have the t-bone steak, please?
+E	00:16:34.899	00:16:37.659	how would you like it cooked?
+C	00:16:37.659	00:16:39.309	medium-rare.
+E	00:16:39.319	00:16:43.137	okay. that is served with seasonal vegetables.
+E	00:16:43.250	00:16:47.099	and your choice is jacket potato or chips?
+C	00:16:48.099	00:16:49.819	jacket potato, please.
+C	00:16:49.819	00:16:52.989	I haven't had a jacket potato in a long time.
+E	00:16:52.989	00:17:01.689	okay. that's one t-bone steak, medium-rare with seasonal vegetables and a jacket potato.
+C	00:17:01.689	00:17:04.380	yes, thank you.
+E	00:17:07.390	00:17:09.500	was everything okay, sir?
+C	00:17:09.500	00:17:11.659	yes. that was delicious,thank you.
+E	00:17:16.029	00:17:18.130	would you like some dessert?
+E	00:17:18.140	00:17:22.669	we have cheese and biscuits, fresh apple pie and chocolate eclairs.
+C	00:17:22.669	00:17:26.229	I guess I'll have a chocolate eclair, please.
+E	00:17:26.229	00:17:28.120	can I get you anything else?
+C	00:17:28.120	00:17:31.500	yes, I'd like a cafe latte, please?
+E	00:17:31.510	00:17:34.380	I'll bring it to you in a moment.
+C	00:17:39.390	00:17:41.209	could I have the bill, please?
+E	00:17:41.209	00:17:43.860	certainly, I'll get it for you.
+E	00:17:43.860	00:17:47.540	would you like to pay now or shall I charge it to your room?
+C	00:17:47.540	00:17:49.890	I'd rather pay now, please.
+E	00:17:49.890	00:17:52.720	I will be back with the bill.
+E	00:17:56.720	00:18:03.650	okay. so you had a t-bone steak, a bottle of the house red, a chocolate eclair and a cup of coffee.
+E	00:18:03.660	00:18:06.440	that will be thirty six seventy four.
+C	00:18:06.440	00:18:08.449	is service included?
+E	00:18:08.459	00:18:13.000	yes. that includes tax and ten percent service charge.
+C	00:18:14.000	00:18:17.209	here's forty dollars, you can keep the change.
+E	00:18:17.209	00:18:18.720	thank you very much!
+C	00:18:18.720	00:18:19.760	thank you!
+C	00:18:19.770	00:18:20.310	goodbye.
+E	00:18:20.310	00:18:21.970	goodbye!
+
+C	00:18:32.200	00:18:33.880	excuse me!
+C	00:18:33.880	00:18:35.920	can I order a drink, please?
+K	00:18:35.930	00:18:38.470	sure, what can I get for you?
+C	00:18:38.470	00:18:40.250	I'd like a beer.
+C	00:18:40.250	00:18:43.210	what locally produced beers are there?
+K	00:18:43.220	00:18:51.430	well, we have VB, Victoria's bitter which is made in Victoria, the southern state.
+K	00:18:51.440	00:18:55.560	and we have toey's which is produced here in New South Wales.
+C	00:18:56.560	00:18:58.460	I'll have a toey's, please.
+K	00:18:58.460	00:18:59.390	toey's!
+K	00:18:59.390	00:19:02.320	would you like a glass or midi?
+C	00:19:02.320	00:19:03.970	what's a Midi?
+K	00:19:03.970	00:19:05.870	it's just a larger glass.
+C	00:19:05.870	00:19:09.260	I'll have a midi then, please.
+K	00:19:11.260	00:19:12.900	there you go.
+C	00:19:12.910	00:19:14.490	thank you.
+L	00:19:18.190	00:19:21.240	hi, can I join you for a drink?
+C	00:19:21.250	00:19:24.130	yes, please do.
+L	00:19:24.130	00:19:25.610	my name's Tony.
+L	00:19:25.610	00:19:27.270	and yours?
+C	00:19:27.280	00:19:28.760	I'm Martin.
+C	00:19:28.760	00:19:30.100	please to meet you.
+C	00:19:30.100	00:19:33.120	are you here for business or for pleasure?
+L	00:19:33.130	00:19:34.130	business.
+L	00:19:34.130	00:19:36.670	I'm here with a colleague of mine.
+L	00:19:36.670	00:19:39.580	we have a conference tomorrow.
+C	00:19:39.580	00:19:42.525	will you have any time for sightseeing?
+L	00:19:43.007	00:19:45.980	a little, but we come here quite often.
+L	00:19:45.980	00:19:49.780	so I've seen many of these tourist attractions already.
+C	00:19:49.780	00:19:52.960	yeah. I've come here on business before too.
+C	00:19:52.970	00:19:56.680	but I didn't stay very long and I had no time for sightseeing.
+C	00:19:56.680	00:19:59.720	this time I'm only here for a holiday.
+L	00:19:59.984	00:20:01.084	oh, well,you should enjoy it.
+C	00:20:01.240	00:20:03.290	well I hope so.
+C	00:20:03.290	00:20:04.660	when did you arrive?
+L	00:20:04.670	00:20:07.137	early this afternoon,and you?
+C	00:20:07.630	00:20:10.100	I've only just arrived myself.
+L	00:20:10.100	00:20:12.130	are you planning on staying long?
+C	00:20:12.140	00:20:14.300	oh, I'm here for a week.
+C	00:20:14.300	00:20:15.550	how about you?
+L	00:20:15.560	00:20:16.940	just a couple of nights.
+C	00:20:16.940	00:20:19.490	oh, that's too bad.
+C	00:20:20.090	00:20:21.740	it must be very tiring for you.
+L	00:20:21.740	00:20:24.430	a little, but I'm used to it.
+L	00:20:24.430	00:20:26.320	are you traveling alone?
+C	00:20:26.320	00:20:32.710	yes. unfortunately my girlfriend has work commitments,so she couldn't make it.
+L	00:20:32.720	00:20:35.940	well, just try to stay out of trouble.
+C	00:20:35.950	00:20:39.100	well that would be no fun at all.
+C	00:20:39.100	00:20:42.830	so do you normally go shopping while you're over here?
+L	00:20:42.840	00:20:44.309	I try to avoid it.
+L	00:20:44.309	00:20:46.289	I do not enjoy shopping.
+L	00:20:46.289	00:20:50.539	I will have to buy some souvenirs for my kids, though.
+C	00:20:50.539	00:20:54.500	what are the best souvenirs to buy in Australia?
+L	00:20:54.510	00:20:57.650	well Australia is well known for its wildlife.
+L	00:20:57.650	00:21:02.459	there are a lot of things with kangaroos and koalas on them.
+C	00:21:02.459	00:21:06.709	hmm, anything else?
+L	00:21:06.709	00:21:08.659	Aboriginal art is really good.
+L	00:21:08.659	00:21:12.500	there are lots of things with every Aboriginal art decorated on them.
+C	00:21:12.800	00:21:15.829	hmm yeah. I'll look out for that.
+L	00:21:16.347	00:21:18.579	then of course,there is the famous didgeridoo.
+C	00:21:19.079	00:21:23.600	oh. the aboriginal musical instrument.
+C	00:21:23.610	00:21:25.580	have you ever played it before?
+L	00:21:25.590	00:21:28.429	yes. it's harder than it looks.
+C	00:21:28.429	00:21:31.419	well, I'll have to try it while I'm here.
+L	00:21:31.429	00:21:33.289	good luck!
+C	00:21:33.289	00:21:36.809	well, I'm afraid I have to go to bed now.
+L	00:21:37.209	00:21:39.150	I should, too.
+L	00:21:39.150	00:21:41.959	I have work in the morning.
+C	00:21:42.399	00:21:43.500	thanks for the company.
+C	00:21:43.500	00:21:45.199	hope to see you again.
+L	00:21:45.199	00:21:50.630	maybe. have a good night sleep and enjoy your sightseeing tomorrow.
+C	00:21:50.630	00:21:52.500	thank you,I will.
+C	00:21:52.500	00:21:53.600	good night.
+L	00:21:53.610	00:21:55.150	good night.
+
+B	00:22:09.500	00:22:11.520	good morning, room service.
+B	00:22:11.520	00:22:13.120	how can I help you?
+C	00:22:13.130	00:22:14.459	good morning.
+C	00:22:14.459	00:22:16.940	I'd like to order some breakfast, please.
+B	00:22:16.940	00:22:20.090	certainly. what would you like, sir?
+C	00:22:20.090	00:22:22.780	what cereals do you have?
+B	00:22:22.790	00:22:25.681	well, we have cornflakes.
+B	00:22:26.040	00:22:29.700	we have muesli, weet-bix and Albran.
+C	00:22:30.560	00:22:35.680	I'll have a bowl of cornflakes, please.
+B	00:22:35.690	00:22:38.130	would you like anything else, sir?
+C	00:22:38.130	00:22:43.060	yes, I'd like two poached eggs on toast, please.
+B	00:22:43.070	00:22:50.150	okay. that's a one bowl of cornflakes and two poached eggs on toast.
+B	00:22:50.150	00:22:53.209	would you like a drink with your breakfast?
+C	00:22:53.209	00:22:58.340	yes, can I have a cup of coffee and some orange juice, please?
+B	00:22:58.350	00:23:02.010	sure, it will be sent to you in fifteen minutes.
+B	00:23:02.010	00:23:05.090	the bill will be charged to your room.
+C	00:23:05.550	00:23:06.745	thank you,good bye.
+B	00:23:06.963	00:23:07.520	bye bye.
+
+J	00:23:09.320	00:23:11.310	good morning, sir.
+J	00:23:11.310	00:23:13.040	how can I help you?
+C	00:23:13.050	00:23:15.959	I'd like to exchange some currency.
+C	00:23:15.959	00:23:18.230	is there a bank nearby?
+J	00:23:18.230	00:23:22.060	I'm afraid they're all closed on Sundays.
+C	00:23:22.060	00:23:24.060	oh yes.
+C	00:23:24.060	00:23:26.270	I forgot that it's Sunday.
+J	00:23:26.270	00:23:30.530	we do have a cashier service available here, though.
+J	00:23:30.530	00:23:33.680	what currency would you like to change?
+C	00:23:33.680	00:23:39.460	I'd like to change Thai Baht into Australian dollars.
+J	00:23:39.470	00:23:46.170	sure. our exchange rate is twenty two point six two baht to the dollar.
+J	00:23:46.170	00:23:50.630	and our Commission fee is two percent.
+C	00:23:50.630	00:23:57.320	okay. I'd like to change ten thousand baht, please.
+J	00:23:57.320	00:24:07.440	fine. that's four hundred and forty two dollars and eight cents minus eight dollars and eighty four cents Commission.
+C	00:24:07.440	00:24:08.470	okay.
+C	00:24:11.480	00:24:15.049	I'd like to send some postcards to my friends.
+C	00:24:15.049	00:24:18.189	where can i buy postcards and stamps?
+J	00:24:18.189	00:24:22.699	the hotel shop has a good selection of postcards
+J	00:24:22.699	00:24:26.260	and you can buy your stamps there, too.
+C	00:24:26.260	00:24:30.639	okay. how will I know what stamps to buy?
+J	00:24:30.639	00:24:33.620	the shop assistant will have a chart.
+J	00:24:33.620	00:24:36.669	she'll let you know what stamps to buy.
+C	00:24:36.669	00:24:39.939	okay. is there a post box nearby?
+J	00:24:39.939	00:24:42.350	we can do that for you here, sir.
+J	00:24:42.350	00:24:46.149	there is a post box at the end of the reception desk.
+C	00:24:46.149	00:24:48.380	great, wonderful.
+C	00:24:48.380	00:24:49.779	one more thing.
+C	00:24:49.779	00:24:52.822	it's my first day of sightseeing here. 
+C	00:24:53.403	00:24:56.373	can you suggest anywhere that I should go first?
+J	00:24:56.779	00:25:00.709	well, the hotel has a concierge.
+J	00:25:00.709	00:25:04.029	his desk is over there by the door.
+J	00:25:04.029	00:25:09.679	he will be able to give you advice on tourist attractions.
+J	00:25:09.679	00:25:13.639	and even make tour bookings for you.
+C	00:25:13.639	00:25:15.020	oh, okay.
+C	00:25:15.051	00:25:16.769	well, I'll go see him now.
+C	00:25:16.779	00:25:18.019	thanks again.
+C	00:25:18.019	00:25:18.769	bye.
+J	00:25:18.769	00:25:21.309	goodbye.
+
+C	00:25:31.284	00:25:34.560	HI, I wonder if you can help me.
+F	00:25:34.560	00:25:36.300	I will certainly try.
+F	00:25:36.300	00:25:37.440	what can I do for you?
+C	00:25:37.440	00:25:40.980	well, it's my first day here in Sydney.
+C	00:25:40.980	00:25:44.820	and I would like some advice on the local tourist spots.
+F	00:25:44.820	00:25:47.780	we offer a wide range of Tours.
+F	00:25:47.780	00:25:52.640	have a look at these leaflets and see if there's anything you like.
+C	00:25:54.650	00:25:57.270	what's the wildlife park like?
+F	00:25:57.270	00:25:58.860	oh, it's very good.
+F	00:25:58.860	00:26:01.731	if you don't have time to go and see the wildlife.
+F	00:26:02.000	00:26:05.480	in its natural habitat, you should try it.
+C	00:26:05.480	00:26:07.890	what animals do they have their?
+F	00:26:08.196	00:26:09.153	oh, let's see now.
+F	00:26:09.169	00:26:14.800	they have kangaroos, koalas, possums, wombats and emus.
+F	00:26:14.934	00:26:15.528	there're a lot.
+C	00:26:15.720	00:26:18.860	I like wildlife.
+C	00:26:18.860	00:26:21.800	so that's one place that I should visit.
+C	00:26:21.800	00:26:26.810	the leaflet says that that place is a Koala Sanctuary, too?
+F	00:26:26.810	00:26:31.490	yes, the New South Wales has a lot of bush-fires in the summer.
+C	00:26:31.490	00:26:36.480	yes, I remember reading about one in the newspaper not very long ago.
+F	00:26:36.480	00:26:41.700	yeah, a lot of koalas are made homeless when the forest is burned down.
+F	00:26:41.700	00:26:44.390	the sanctuary re-homed them.
+C	00:26:44.390	00:26:48.020	well, it's nice to know that the money goes to a good cause.
+F	00:26:48.020	00:26:50.610	obviously, it's not just koalas.
+F	00:26:50.610	00:26:54.990	a lot of other animals are either killed or injured too in the fire.
+C	00:26:54.990	00:27:00.740	okay. this is another place on my list of places to visit.
+F	00:27:00.740	00:27:04.610	there's a bus that goes there every morning at nine a.m..
+F	00:27:04.610	00:27:07.670	would you like me to book a place for you?
+C	00:27:07.670	00:27:10.310	yes, I'll go tomorrow.
+C	00:27:10.310	00:27:13.010	will the bus pick me up from the hotel?
+F	00:27:13.010	00:27:17.450	yes, just wait at reception and they will call you.
+C	00:27:17.450	00:27:21.440	are there many things to see closer to the hotel?
+F	00:27:21.440	00:27:24.650	yes. here is a map of the area.
+F	00:27:24.650	00:27:27.370	it is yours to keep.
+C	00:27:27.380	00:27:29.570	thank you.
+C	00:27:29.570	00:27:31.969	I'd like to take a walk around.
+C	00:27:32.630	00:27:34.490	where should I start?
+F	00:27:34.500	00:27:39.980	well, the hotel is located here right near the boat quay.
+F	00:27:39.980	00:27:43.670	right around the corner is the weekend market.
+F	00:27:43.670	00:27:45.540	it is opened right now.
+F	00:27:45.540	00:27:46.980	you could start there.
+C	00:27:46.980	00:27:49.502	oh, yes, thank you,I will.
+C	00:27:50.309	00:27:51.620	and after that?
+F	00:27:51.966	00:27:54.974	across from the boat quay,is the Opera House.
+F	00:27:54.990	00:27:57.570	you could take a tour of the complex.
+C	00:27:57.570	00:27:59.840	hmm. that sounds good, too.
+C	00:27:59.840	00:28:02.370	what shows are on at the moment?
+F	00:28:02.370	00:28:07.320	well, here is a leaflet containing all the performances this month.
+F	00:28:07.320	00:28:12.560	you can check for availability of seats at the booking office while you're there.
+C	00:28:12.560	00:28:15.300	thank you very much for all your help.
+C	00:28:15.300	00:28:19.423	I'd better go now before the market closes.
+F	00:28:19.673	00:28:20.668	no problem, sir.
+F	00:28:20.755	00:28:24.157	I'm at this desk every day should you need any other advice.
+F	00:28:24.890	00:28:27.330	good bye and have a great day.
+
+C	00:28:40.549	00:28:42.770	how much are these t-shirts?
+K	00:28:42.770	00:28:48.449	the adult sizes are ten dollars each and the children's sizes are six dollars.
+C	00:28:48.449	00:28:53.010	I could buy some for my niece and nephews.
+K	00:28:53.010	00:28:55.669	I can give you a discount.
+K	00:28:55.669	00:28:59.150	three shirts for fifteen dollars okay?
+C	00:28:59.150	00:29:01.819	okay. that sounds like a good bargain.
+K	00:29:01.819	00:29:03.919	what sizes do you want?
+C	00:29:03.919	00:29:11.329	well, my niece is eight years old and the twins are five.
+K	00:29:11.329	00:29:15.319	what designs do you want?
+C	00:29:15.319	00:29:19.740	well, my niece would love this koala t-shirt.
+C	00:29:19.740	00:29:23.419	but I'm not sure about the boys.
+C	00:29:23.419	00:29:26.409	yeah, maybe the kangaroos.
+K	00:29:26.419	00:29:29.449	what colors would you like?
+C	00:29:29.449	00:29:39.110	okay. I'll have an orange koala t-shirt and a blue and a red kangaroo t-shirt.
+K	00:29:39.110	00:29:41.360	that will be fifteen dollars
+C	00:29:43.627	00:29:46.341	fifteen dollars here you are.
+K	00:29:46.880	00:29:48.059	thank you.
+C	00:29:48.059	00:29:50.419	thank you.
+
+C	00:29:52.429	00:29:57.959	hi. I'm interested in seeing a ballet performance.
+I	00:29:58.528	00:30:02.699	oh well. we have "Mirror Mirror" showing at the moment.
+I	00:30:02.699	00:30:07.130	it's a performance based on the story of Snow White.
+C	00:30:07.130	00:30:08.850	that sounds good.
+C	00:30:08.850	00:30:11.090	can you tell me the show times?
+I	00:30:11.366	00:30:18.444	yes. let's see,we have evening performances at seven during the week and on weekends.
+I	00:30:18.569	00:30:20.669	we have a matinee that begins at four.
+C	00:30:20.669	00:30:25.309	do you have any seats available for an evening this week?
+I	00:30:25.473	00:30:27.255	in this week,let me check.
+I	00:30:28.699	00:30:31.010	yes. what day would you like?
+C	00:30:31.288	00:30:32.630	Tuesday, please.
+I	00:30:32.630	00:30:37.110	okay. and would you like to sit in the stalls or the balcony?
+C	00:30:37.110	00:30:39.049	the balcony, please.
+I	00:30:39.049	00:30:44.340	okay. that's one ticket for Tuesday's performance of "Mirror Mirror".
+I	00:30:44.340	00:30:49.710	you have a seat in the balcony and I'll see if I can get you as close to the front as possible.
+I	00:30:50.710	00:30:53.090	okay, that's seventy eight dollars.
+I	00:30:55.463	00:30:56.144	okay.
+I	00:30:56.144	00:30:57.980	and here's your ticket.
+I	00:30:57.980	00:31:00.160	I hope you'll enjoy the show.
+C	00:31:00.160	00:31:06.190	Thanks. oh, can you tell me the way to the art museum?
+I	00:31:06.190	00:31:09.860	yes. just go out the door, take a right.
+I	00:31:09.860	00:31:14.920	go around the Botanical Garden and you should see the Art Museum right in front of you.
+C	00:31:14.922	00:31:16.748	okay. thanks.
+C	00:31:16.804	00:31:18.355	I hope I don't get lost.
+I	00:31:18.460	00:31:19.940	don't worry.
+I	00:31:19.940	00:31:21.770	there are signs along the way.
+C	00:31:21.770	00:31:24.160	good. I'll probably need them.
+C	00:31:24.170	00:31:25.250	Thanks. bye.
+I	00:31:25.250	00:31:25.790	bye.
+
+C	00:31:37.630	00:31:38.810	excuse me?
+C	00:31:38.810	00:31:42.190	I think I'm lost.
+C	00:31:42.200	00:31:43.340	can you help me?
+K	00:31:43.340	00:31:44.300	sure.
+K	00:31:44.300	00:31:46.600	where do you want to go?
+C	00:31:46.600	00:31:49.790	well, I'm trying to get back to my hotel.
+C	00:31:49.790	00:31:52.300	I'm staying at the Four Seasons.
+C	00:31:52.300	00:31:53.720	do you know it?
+K	00:31:53.720	00:31:54.867	yes, I do.
+K	00:31:55.129	00:31:57.162	you're quite a long way away.
+C	00:31:58.250	00:31:59.688	I thought I might be.
+K	00:32:00.100	00:32:03.560	you'll have to walk back to the center of the city.
+K	00:32:03.560	00:32:08.160	I can direct you but it's complicated.
+C	00:32:08.170	00:32:10.820	maybe I better catch a taxi.
+K	00:32:10.820	00:32:13.250	I think that might be a good idea.
+K	00:32:13.250	00:32:16.720	you can get one at the end of the road.
+C	00:32:16.720	00:32:19.550	okay. thanks for your help.
+C	00:32:19.550	00:32:20.270	goodbye.
+K	00:32:20.270	00:32:21.780	goodbye.
+
+F	00:32:26.113	00:32:27.871	good evening, sir,welcome back.
+C	00:32:27.980	00:32:28.970	thank you.
+F	00:32:28.970	00:32:30.850	did you have a good day?
+C	00:32:30.850	00:32:32.470	yes, thank you.
+C	00:32:32.480	00:32:37.370	I went to the market, the Opera House and the art museum.
+C	00:32:37.370	00:32:40.550	I did get lost on my way back, though.
+F	00:32:40.550	00:32:41.980	oh, dear.
+F	00:32:41.990	00:32:44.400	I'm sure you'll soon find your bearings.
+C	00:32:44.410	00:32:47.310	well, I think that's enough for one day.
+C	00:32:47.320	00:32:50.980	I'll go have some dinner and go to my room.
+F	00:32:50.980	00:32:53.760	okay. have a good night's sleep.
+C	00:32:53.770	00:32:54.809	thank you.
+C	00:32:54.865	00:32:55.853	I plan to.
+C	00:32:56.247	00:32:58.604	have a lot more to see tomorrow.
+

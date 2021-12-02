@@ -1,0 +1,701 @@
+A	00:00:07.279	00:00:08.390	excuse me!
+B	00:00:08.400	00:00:09.599	anne lee?
+A	00:00:09.599	00:00:10.559	yes, hello.
+B	00:00:10.559	00:00:12.639	i'm sarah taylor, i'm your new local buyer.
+B	00:00:12.639	00:00:13.599	pleased to meet you.
+A	00:00:13.599	00:00:16.000	it's very kind of you to meet me.
+B	00:00:16.000	00:00:18.150	oh sorry this is my husband, mark.
+C	00:00:18.160	00:00:20.240	good morning. how are you?
+A	00:00:20.240	00:00:21.600	very well, thank you.
+C	00:00:21.600	00:00:22.640	how was your flight?
+A	00:00:22.640	00:00:25.429	oh actually. i'm a bit tired, it was a very long flight.
+B	00:00:25.439	00:00:27.190	let's get your bags.
+A	00:00:35.200	00:00:36.460	oh, that's mine there!
+A	00:00:36.449	00:00:36.982	the red one.
+C	00:00:43.025	00:00:43.590	it's heavy!
+A	00:00:43.841	00:00:44.513	sorry.
+B	00:00:44.559	00:00:46.640	don't worry. mark's strong, aren't you, dear?
+C	00:00:46.640	00:00:47.430	no worries.
+B	00:00:47.440	00:00:49.149	come on, let's go to the hotel.
+
+A	00:01:16.159	00:01:17.910	thank you very much for picking me up.
+B	00:01:17.920	00:01:19.350	you're very welcome.
+B	00:01:19.360	00:01:20.640	you'll be alright here?
+A	00:01:20.640	00:01:22.000	thanks. i'll be fine.
+A	00:01:22.000	00:01:24.201	and thank you mark for helping with my heavy bag.
+C	00:01:24.216	00:01:26.989	ah, don't mention it.
+B	00:01:27.119	00:01:28.479	all right, then.
+B	00:01:28.479	00:01:30.149	nice to meet you finally.
+B	00:01:30.159	00:01:31.360	i'll ring you tomorrow.
+A	00:01:31.360	00:01:32.640	nice to meet you, too.
+B	00:01:32.640	00:01:33.789	goodbye.
+
+D	00:01:36.799	00:01:37.496	good morning.
+D	00:01:37.499	00:01:38.504	would you like to check in?
+A	00:01:38.400	00:01:39.040	yes, please.
+D	00:01:39.040	00:01:39.920	and your name?
+A	00:01:39.920	00:01:40.830	anne lee.
+D	00:01:41.840	00:01:45.389	uh yes. could you just fill this out, please?
+D	00:01:46.399	00:01:47.759	how long will you be staying?
+A	00:01:47.759	00:01:48.630	two weeks.
+D	00:01:48.640	00:01:50.149	are you here on business?
+A	00:01:50.159	00:01:51.360	mainly business.
+D	00:01:51.360	00:01:52.789	will you need a hire car?
+A	00:01:52.799	00:01:54.469	no, thank you.
+D	00:01:54.479	00:01:56.159	and will you need a map of the city?
+A	00:01:56.159	00:01:57.329	uh, maybe later.
+D	00:01:58.399	00:02:00.389	will you want a newspaper in the morning?
+A	00:02:00.399	00:02:01.200	no, thank you.
+D	00:02:01.200	00:02:03.759	okay, and how will you be paying, ms lee?
+A	00:02:03.759	00:02:04.550	credit card.
+D	00:02:06.560	00:02:07.550	thank you.
+D	00:02:10.550	00:02:11.431	you go.
+D	00:02:12.239	00:02:16.550	and here's your key, that's room three zero nine. enjoy your stay, ms lee.
+A	00:02:16.723	00:02:18.174	thank you. i hope i will.
+
+E	00:02:41.680	00:02:44.869	hello? barbour's private investigation.
+E	00:02:44.879	00:02:46.480	john barbaour speaking.
+A	00:02:46.480	00:02:49.750	hello. can you find missing people?
+E	00:02:49.760	00:02:51.360	sometimes, we can.
+E	00:02:51.360	00:02:52.531	have you lost somebody?
+A	00:02:53.120	00:02:54.280	yes.
+E	00:02:55.280	00:02:57.120	perhaps, you'd like to tell me about it.
+A	00:02:57.120	00:02:59.440	uh, can i make an appointment, please?
+E	00:02:59.440	00:03:00.710	when would you like to come in?
+A	00:03:00.716	00:03:02.116	is tomorrow okay?
+E	00:03:03.313	00:03:04.317	let...let's see.
+E	00:03:08.400	00:03:10.640	yes, i can see you at ten o'clock.
+E	00:03:10.640	00:03:11.910	will that suit you?
+A	00:03:11.920	00:03:13.760	okay, thank you.
+E	00:03:13.760	00:03:17.599	uh, twenty three mitchell street, is that right?
+E	00:03:17.599	00:03:19.910	that's right, second floor.
+A	00:03:19.920	00:03:22.239	okay, see you then.
+A	00:03:22.239	00:03:23.640	goodbye.
+E	00:03:23.840	00:03:24.830	goodbye.
+
+D	00:03:49.120	00:03:50.080	hello?
+A	00:03:50.080	00:03:51.200	hello, reception?
+A	00:03:51.200	00:03:52.799	what time is it, please?
+D	00:03:52.799	00:03:54.080	it's five o'clock.
+A	00:03:54.080	00:03:55.439	and what time do you serve dinner?
+D	00:03:55.439	00:03:59.360	the restaurant opens in an hour, and dinner is served between six and nine pm.
+A	00:03:59.360	00:04:00.869	and breakfast?
+D	00:04:00.879	00:04:04.470	breakfast is serve between seven and nine thiry a.m, ma'am.
+A	00:04:04.480	00:04:05.599	thank you.
+D	00:04:05.599	00:04:07.909	you're welcome.
+
+A	00:04:23.919	00:04:25.120	excuse me!
+F	00:04:25.120	00:04:26.240	yes.
+A	00:04:26.240	00:04:28.870	could you tell me how to get to mitchell street?
+F	00:04:28.880	00:04:31.590	yes. you're going the wrong way.
+F	00:04:31.600	00:04:40.469	you need to go straight along here, past the silver balls, turn left, and that's the second on the right, opposite the town hall.
+A	00:04:40.479	00:04:41.680	thank you very much.
+F	00:04:41.680	00:04:43.469	you're welcome.
+
+A	00:05:02.479	00:05:03.600	excuse me!
+G	00:05:03.600	00:05:04.400	yes?
+A	00:05:04.400	00:05:08.240	i'm looking for number twenty three, barbour's private investigator.
+G	00:05:08.240	00:05:10.619	over there, next to the trees.
+A	00:05:10.639	00:05:11.360	thank you.
+G	00:05:11.360	00:05:12.440	good luck!
+G	00:05:13.440	00:05:15.390	you'll need it.
+
+E	00:05:32.400	00:05:35.230	ah, come in!
+E	00:05:38.240	00:05:39.000	sorry.
+E	00:05:40.000	00:05:42.310	yes, any time...
+E	00:05:42.320	00:05:44.479	oh yes, usual rates.
+E	00:05:44.479	00:05:46.150	i must go now.
+E	00:05:46.160	00:05:48.800	uh, right.
+E	00:05:48.800	00:05:49.830	goodbye.
+E	00:05:51.120	00:05:53.909	julia, bye.
+A	00:05:53.919	00:05:55.440	mr barbour?
+E	00:05:55.440	00:05:57.759	john, john. uh private investigator
+E	00:05:57.759	00:06:00.479	uh, you must be uh ms lee.
+E	00:06:00.479	00:06:02.830	please sit down.
+E	00:06:04.840	00:06:05.629	now.
+E	00:06:08.639	00:06:10.430	what can i do for you, ms lee?
+A	00:06:12.240	00:06:14.550	could you find him for me?
+A	00:06:20.560	00:06:22.400	can you help me?
+E	00:06:22.400	00:06:23.749	well, i'll try.
+E	00:06:23.759	00:06:29.029	now tell me about your brother, ms lee.
+E	00:06:31.039	00:06:32.319	how old is he?
+A	00:06:32.319	00:06:33.350	he's twenty three.
+E	00:06:35.360	00:06:37.639	well, that would make him your younger brother.
+E	00:06:38.639	00:06:40.240	oh. what's his name?
+A	00:06:40.240	00:06:41.270	david.
+E	00:06:43.280	00:06:44.639	and what does he do?
+A	00:06:44.639	00:06:49.120	he's a student or he was a student.
+A	00:06:49.120	00:06:50.510	i don't know where he is.
+E	00:06:53.520	00:06:55.440	how tall is he?
+A	00:06:55.595	00:06:57.473	about one hundred and seventy five centimeters.
+E	00:06:59.120	00:07:01.280	and does he speak english?
+A	00:07:01.280	00:07:04.150	yes, he speaks english and chinese.
+A	00:07:04.160	00:07:07.350	mr barbour, can you find him?
+E	00:07:07.360	00:07:08.639	i'll certainly try.
+E	00:07:08.639	00:07:13.759	now tell me a little about yourself, ms lee.
+E	00:07:13.759	00:07:15.110	where are you from?
+A	00:07:15.120	00:07:16.800	i come from singapore.
+A	00:07:16.800	00:07:18.629	i'm singaporean.
+E	00:07:18.639	00:07:21.199	right. and how old are you?
+A	00:07:21.199	00:07:22.670	i'm twenty five.
+E	00:07:25.680	00:07:27.199	what do you do?
+A	00:07:27.199	00:07:28.560	i import wine.
+A	00:07:28.560	00:07:29.546	i'm a businesswoman.
+A	00:07:29.546	00:07:31.790	i work in my family's business.
+E	00:07:32.800	00:07:33.800	are you married?
+A	00:07:34.800	00:07:36.870	no, i'm single.
+E	00:07:36.880	00:07:39.280	and do you have a boyfriend?
+A	00:07:39.280	00:07:40.870	pardon?
+E	00:07:40.880	00:07:47.430	oh sorry, we private investigators are naturally curious bunch, um.
+E	00:07:47.440	00:07:50.510	ms lee, perhaps you'd better tell a whole story.
+A	00:07:53.520	00:07:55.680	it all started two years ago.
+A	00:07:55.680	00:07:58.309	my brother, david, worked in the family business, too.
+A	00:07:58.319	00:08:00.000	but he didn't like it.
+A	00:08:00.000	00:08:02.469	he wanted to try something different.
+E	00:08:02.479	00:08:03.759	so what happened?
+A	00:08:03.759	00:08:05.280	my parents agreed.
+A	00:08:05.280	00:08:07.029	they let him come to australia to study.
+E	00:08:09.039	00:08:10.800	where did he go?
+A	00:08:10.800	00:08:13.909	he came here, to adelaide.
+A	00:08:13.919	00:08:16.080	he studied computer science.
+A	00:08:16.080	00:08:17.629	we thought he was happy.
+E	00:08:20.639	00:08:22.400	and then what happened?
+A	00:08:22.400	00:08:23.440	i don't know.
+A	00:08:23.440	00:08:25.909	he wrote every week and then the letters stopped.
+E	00:08:27.919	00:08:29.599	do you know where he lived?
+A	00:08:29.599	00:08:31.172	he stayed with an australian family.
+A	00:08:31.260	00:08:31.959	he was a boarder.
+A	00:08:32.959	00:08:35.469	and here's the address.
+E	00:08:40.479	00:08:42.000	did you phone them?
+A	00:08:42.000	00:08:43.829	yes, of course.
+A	00:08:43.839	00:08:45.519	he left there a year ago.
+A	00:08:45.519	00:08:47.670	i don't know where he went.
+E	00:08:47.680	00:08:50.240	does he have a mobile phone?
+A	00:08:50.240	00:08:53.180	i don't know. he did, but he doesn't answer it now.
+E	00:09:04.880	00:09:06.279	don't worry ms lee.
+E	00:09:07.279	00:09:08.990	i'll find your brother.
+
+A	00:09:14.000	00:09:16.640	hmm, it's very smooth.
+A	00:09:16.640	00:09:17.990	good flavor too.
+B	00:09:18.000	00:09:20.000	it sells well in restaurants here.
+B	00:09:20.000	00:09:22.389	i think these will sell well in singapore.
+A	00:09:22.399	00:09:25.590	and the samples you sent me were very popular with our staff.
+A	00:09:25.600	00:09:27.920	you seem to understand our taste in singapore.
+B	00:09:27.920	00:09:29.030	thank you.
+B	00:09:29.040	00:09:35.070	it's my job to know what my clients like.
+B	00:09:38.080	00:09:41.829	so, are you enjoying the city?
+A	00:09:41.839	00:09:43.680	it's very nice.
+B	00:09:43.680	00:09:45.829	what are you going to do tomorrow?
+A	00:09:45.839	00:09:46.720	i don't know.
+A	00:09:46.720	00:09:48.870	i'll probably stay in the hotel and relax.
+B	00:09:48.880	00:09:51.200	why don't you come to lunch with us at home?
+A	00:09:51.200	00:09:53.519	oh, thank you. but you have your family.
+B	00:09:53.519	00:09:55.910	yes, and they want to meet you.
+B	00:09:55.920	00:10:00.230	we're going to have roast chicken, traditional aussie food.
+A	00:10:00.240	00:10:02.560	sounds good. all right, i'll come.
+B	00:10:02.560	00:10:03.509	great!
+A	00:10:03.519	00:10:04.480	what time?
+B	00:10:04.480	00:10:05.760	we eat at about one o'clock.
+B	00:10:05.760	00:10:08.079	so about twelve thirty?
+B	00:10:08.079	00:10:09.600	i'll show you the house.
+A	00:10:09.600	00:10:10.720	okay. thank you.
+B	00:10:10.720	00:10:12.560	i'll get my brother to pick you up.
+A	00:10:12.560	00:10:13.279	no, that's okay.
+A	00:10:13.279	00:10:14.630	i'll get a taxi.
+B	00:10:14.640	00:10:15.760	all right, then.
+B	00:10:15.760	00:10:17.230	it's settled.
+
+H	00:10:30.240	00:10:31.040	here we are.
+A	00:10:31.040	00:10:32.640	how much is that?
+H	00:10:32.640	00:10:36.150	that will be seventeen fifty. thanks, love.
+A	00:10:36.160	00:10:36.720	keep the change.
+H	00:10:36.720	00:10:37.892	thank you, have a nice day.
+A	00:10:37.914	00:10:38.465	thank you!
+
+A	00:10:59.920	00:11:01.760	hello, i'm anne.
+I	00:11:01.760	00:11:02.350	mummy.
+B	00:11:05.360	00:11:06.990	come in, anne.
+A	00:11:11.200	00:11:12.560	what a beautiful house!
+B	00:11:12.560	00:11:13.519	it's been a lot of work.
+B	00:11:13.519	00:11:14.949	but we're getting there.
+B	00:11:14.959	00:11:16.110	this is the bathroom.
+B	00:11:21.120	00:11:25.030	this is my daughter's bedroom and here's the kitchen.
+B	00:11:27.040	00:11:28.640	anne's here.
+B	00:11:28.640	00:11:30.240	uh. you've met my daughter, louise.
+A	00:11:30.240	00:11:31.269	hello. louise!
+I	00:11:31.279	00:11:32.640	i'm helping.
+B	00:11:32.640	00:11:33.839	yes. i see.
+B	00:11:33.839	00:11:35.360	and my husband, mark.
+A	00:11:35.360	00:11:37.279	hello again.
+A	00:11:37.279	00:11:39.829	oh. sorry about my heavy bag.
+C	00:11:39.839	00:11:41.800	just kidding!
+B	00:11:42.800	00:11:44.630	but you haven't met my little brother.
+B	00:11:44.640	00:11:46.079	this is steve.
+J	00:11:46.079	00:11:47.829	i was going to pick you up this morning.
+J	00:11:47.839	00:11:49.360	you wouldn't let me.
+A	00:11:49.360	00:11:50.399	i'm sorry.
+A	00:11:50.399	00:11:52.629	i'd like to find my own way around.
+J	00:11:52.639	00:11:55.829	no worries.
+J	00:11:57.839	00:11:59.839	maybe another time.
+A	00:11:59.839	00:12:01.839	yes, maybe.
+B	00:12:01.839	00:12:03.710	come on, let's go outside.
+
+J	00:12:08.720	00:12:11.519	so anne, have you been to an australian home before?
+A	00:12:11.519	00:12:12.959	no, never.
+A	00:12:12.959	00:12:14.720	it's a beautiful home, sarah.
+A	00:12:14.720	00:12:17.829	so big! the rooms are much bigger than at home.
+A	00:12:17.839	00:12:19.670	there's more space here.
+J	00:12:19.680	00:12:20.880	do you live in a house?
+C	00:12:20.880	00:12:23.509	no steve, she lives in an igloo.
+A	00:12:23.519	00:12:24.858	actually, no.
+A	00:12:24.870	00:12:26.000	we live in an apartment.
+A	00:12:26.000	00:12:27.509	most people do.
+A	00:12:27.519	00:12:30.870	singapore is much busier than adelaide and more crowded.
+J	00:12:30.880	00:12:32.560	yeah, and more exciting.
+J	00:12:32.560	00:12:34.470	so boring here.
+B	00:12:34.480	00:12:37.839	it's quieter, some people like that.
+A	00:12:37.839	00:12:39.829	i don't think it's boring.
+C	00:12:39.839	00:12:42.160	adelaide is a very beautiful city.
+C	00:12:42.160	00:12:45.839	it's a better place to live than anywhere else i've been.
+B	00:12:45.839	00:12:48.470	but you haven't been anywhere.
+B	00:12:48.480	00:12:50.959	mark hates travelling.
+B	00:12:50.959	00:12:52.949	i love it.
+C	00:12:52.959	00:12:55.430	i just don't see the point of it.
+A	00:12:57.440	00:12:58.720	what about you, steve?
+A	00:12:58.720	00:12:59.839	do you like to travel?
+J	00:12:59.839	00:13:08.240	yes yeah,i've been to kuala lumpur and to bali, bali's great!
+I	00:13:06.427	00:13:07.987	i've been to the zoo.
+A	00:13:09.040	00:13:10.000	you're lucky!
+A	00:13:10.000	00:13:11.350	i haven't been to the zoo.
+A	00:13:11.360	00:13:13.269	i'd love to go to the zoo.
+J	00:13:13.279	00:13:14.065	i'll take you.
+
+B	00:13:22.480	00:13:23.950	i'm sorry about my brother.
+A	00:13:23.950	00:13:25.350	not at all.
+A	00:13:26.160	00:13:27.350	you have a lovely family.
+A	00:13:32.160	00:13:34.160	everyone seems so happy.
+B	00:13:34.160	00:13:36.560	anne! what's the matter?
+A	00:13:36.560	00:13:38.399	there's something i haven't told you.
+B	00:13:38.399	00:13:40.150	oh, what is it?
+A	00:13:40.160	00:13:42.560	when i met your brother.
+A	00:13:42.560	00:13:45.670	i was thinking about my brother, david.
+A	00:13:45.680	00:13:47.839	i haven't seen him for two years.
+B	00:13:47.839	00:13:48.750	how come?
+A	00:13:49.760	00:13:51.079	he's missing.
+A	00:13:52.079	00:13:55.030	one reason i came to australia is to find him.
+B	00:13:55.040	00:13:57.000	i'm so sorry!
+B	00:13:58.000	00:13:59.990	have you had any luck?
+A	00:14:00.000	00:14:01.230	not yet.
+
+A	00:14:08.240	00:14:10.399	i've hired a private investigator.
+B	00:14:10.399	00:14:11.639	my goodness.
+B	00:14:12.639	00:14:14.839	do you think you'll find him?
+A	00:14:14.839	00:14:17.720	perhaps, i don't know.
+A	00:14:18.720	00:14:22.150	it's been a long time since david last called.
+B	00:14:22.160	00:14:24.639	what do you think's happened to him?
+B	00:14:24.639	00:14:26.870	have any idea?
+A	00:14:26.880	00:14:27.979	i really don't know.
+
+A	00:14:34.720	00:14:37.120	i can't help thinking the worst.
+B	00:14:37.120	00:14:39.829	i'm sure he's all right.
+B	00:14:39.839	00:14:41.279	if something bad had happened.
+B	00:14:41.279	00:14:43.550	you would have heard.
+A	00:14:44.560	00:14:46.040	i guess so.
+A	00:14:47.040	00:14:48.224	i suppose you're right.
+B	00:14:50.720	00:14:52.420	can i help you find your brother?
+A	00:14:53.120	00:14:55.189	you're very kind.
+A	00:14:55.199	00:14:57.279	it's not your problem.
+B	00:14:57.279	00:14:58.230	i want to help.
+B	00:14:58.240	00:15:00.240	what can i do?
+A	00:15:00.240	00:15:05.829	well, maybe you could get some copies made of this photograph.
+B	00:15:05.839	00:15:08.829	sure, i'd love to. anything.
+B	00:15:09.839	00:15:11.339	he's very good-looking.
+B	00:15:12.399	00:15:14.870	such a nice smile.
+B	00:15:14.880	00:15:16.399	is he tall?
+A	00:15:16.399	00:15:17.680	fairly tall.
+B	00:15:17.680	00:15:19.269	he looks very fit.
+B	00:15:19.279	00:15:21.040	does he play a lot of sport?
+A	00:15:21.040	00:15:23.199	well, he used to.
+B	00:15:23.199	00:15:24.160	what does he do?
+B	00:15:24.160	00:15:25.920	is he a student?
+A	00:15:25.920	00:15:27.829	he's not really academic.
+A	00:15:27.839	00:15:31.189	he's clever but he prefers to do things with his hands.
+B	00:15:31.199	00:15:32.959	he sounds nice.
+B	00:15:32.959	00:15:35.189	i'm looking forward to meeting him.
+
+B	00:15:39.199	00:15:40.160	come in, anne.
+A	00:15:40.160	00:15:40.959	good morning!
+B	00:15:40.959	00:15:42.007	good morning.
+B	00:15:42.691	00:15:43.070	are you feeling better today?
+A	00:15:43.125	00:15:43.943	yes, thank you.
+B	00:15:45.600	00:15:47.030	what's on the agenda?
+A	00:15:47.040	00:15:49.199	i'm thinking about this trip to the wineries.
+A	00:15:49.199	00:15:51.920	i want to meet your main suppliers and talk to them about the market.
+B	00:15:51.920	00:15:52.959	great!
+B	00:15:52.959	00:15:54.639	they've been dying to meet you.
+B	00:15:54.639	00:15:55.990	uh, when do you want to go?
+A	00:15:56.000	00:15:57.120	as soon as possible.
+A	00:15:57.120	00:15:58.800	how about tomorrow?
+B	00:15:58.800	00:16:00.217	i can't tomorrow.
+B	00:16:00.260	00:16:01.680	i've got some other appointments.
+B	00:16:01.680	00:16:04.399	uh, what about the day after tomorrow?
+A	00:16:04.399	00:16:06.079	uh yes, that's good.
+A	00:16:06.079	00:16:07.279	it's monday today.
+A	00:16:07.279	00:16:09.120	so that will be wednesday.
+A	00:16:09.120	00:16:10.160	what date is that?
+B	00:16:10.160	00:16:12.230	uh, the fifth of november.
+A	00:16:12.240	00:16:14.079	okay. what time should we meet?
+B	00:16:14.079	00:16:16.069	i'll pick you up at nine o'clock.
+A	00:16:16.079	00:16:16.880	good.
+A	00:16:16.880	00:16:18.800	how many wineries you think we'll be able to see?
+B	00:16:18.800	00:16:21.279	i'm not sure, four or five.
+B	00:16:21.279	00:16:25.759	uh, definitely our biggest suppliers uh and maybe a few surprises.
+A	00:16:25.759	00:16:27.199	oh i can't wait.
+A	00:16:27.199	00:16:28.639	will it take all day?
+B	00:16:28.639	00:16:29.990	most of the day.
+B	00:16:30.000	00:16:35.269	i'll start ringing now and let them know that we've got a very important client all the way from singapore.
+A	00:16:35.279	00:16:36.240	thank you.
+A	00:16:36.240	00:16:37.519	i'm looking forward to it.
+B	00:16:37.519	00:16:39.230	me too.
+
+D	00:16:56.240	00:16:57.835	medina hotel. marie speaking.
+D	00:16:57.835	00:16:58.639	how may i help you?
+J	00:16:58.639	00:17:00.800	can i speak to ms anne lee, please?
+J	00:17:00.800	00:17:03.040	i'm not sure what room she's in.
+D	00:17:03.040	00:17:04.549	i'll put you through, sir.
+
+A	00:17:12.559	00:17:13.600	hello?
+J	00:17:13.600	00:17:14.880	hello anne?
+J	00:17:14.880	00:17:16.870	this is steve parker.
+A	00:17:16.880	00:17:18.640	steve parker?
+J	00:17:18.640	00:17:21.669	steve. sarah's brother...
+A	00:17:21.679	00:17:23.559	oh, steve! hello steve.
+J	00:17:24.559	00:17:26.319	hi. what are you doing?
+A	00:17:26.319	00:17:27.360	oh, working.
+A	00:17:27.360	00:17:30.230	i'm planning a trip to the wineries later in the week.
+J	00:17:30.240	00:17:32.000	ah, when are you going?
+A	00:17:32.000	00:17:33.039	uh, wednesday.
+J	00:17:33.039	00:17:34.880	oh good.
+J	00:17:34.880	00:17:37.590	what are you doing tomorrow?
+A	00:17:37.600	00:17:41.840	um, nothing. why?
+J	00:17:41.840	00:17:43.520	well, i have the day off.
+J	00:17:43.520	00:17:45.320	and i was just wondering.
+J	00:17:46.320	00:17:50.720	well, i was just wondering whether you want to go to a wildlife park, with me.
+J	00:17:50.720	00:17:52.559	you said you'd like to go to the zoo?
+A	00:17:52.559	00:17:54.320	that's right, i did.
+A	00:17:54.320	00:17:55.110	yes, thank you, steve.
+A	00:17:55.224	00:17:55.955	i'd love to go.
+J	00:17:56.665	00:17:57.318	all right!
+J	00:17:58.160	00:17:59.990	i'll meet you in the foyer.
+J	00:18:00.000	00:18:01.280	ten o'clock?
+A	00:18:01.280	00:18:02.799	okay, ten.
+A	00:18:02.799	00:18:04.150	i'll see you then.
+J	00:18:04.160	00:18:05.280	great!
+J	00:18:05.280	00:18:06.720	good night, anne.
+A	00:18:06.720	00:18:08.150	good night, steve.
+
+J	00:18:14.160	00:18:16.830	two please. and a bag of food.
+K	00:18:17.840	00:18:18.720	and your chickens.
+K	00:18:18.720	00:18:20.110	have a nice day!
+A	00:18:21.120	00:18:22.160	how much do i owe you?
+J	00:18:22.160	00:18:24.000	ah it's okay, it's my treat.
+A	00:18:24.000	00:18:24.870	thank you.
+A	00:18:24.880	00:18:26.080	i'll buy lunch.
+A	00:18:26.080	00:18:27.200	is there somewhere to have lunch?
+J	00:18:27.200	00:18:29.950	of course, there's a cafe just over there.
+
+J	00:18:38.960	00:18:40.240	what do you want to do first?
+A	00:18:40.240	00:18:41.679	i really want to hold a koala.
+A	00:18:41.679	00:18:42.880	is there a koala here?
+J	00:18:42.880	00:18:45.440	yes, it's the most popular animal.
+J	00:18:45.440	00:18:46.720	we might have to queue though.
+A	00:18:46.720	00:18:47.830	i don't mind.
+A	00:18:47.840	00:18:48.720	what else is there?
+A	00:18:48.720	00:18:50.000	are there some kangaroos?
+J	00:18:50.000	00:18:51.590	of course. there are lots.
+A	00:18:51.600	00:18:52.160	and birds?
+A	00:18:52.160	00:18:54.000	i've heard australian birds are amazing!
+J	00:18:54.000	00:18:54.820	don't worry.
+J	00:18:54.820	00:18:57.110	you'll get to see lots of birds.
+A	00:18:57.120	00:18:58.880	what should we do first?
+J	00:18:58.880	00:19:01.750	well, the kangaroos are just over there.
+J	00:19:01.760	00:19:04.480	and i think the birds are next.
+J	00:19:04.480	00:19:05.190	and next...
+A	00:19:05.200	00:19:07.600	we'll cuddle a koala?
+J	00:19:07.600	00:19:09.600	sure! and after that?
+A	00:19:09.600	00:19:11.270	after that i'll buy you lunch.
+J	00:19:11.280	00:19:12.470	it's a deal.
+
+A	00:19:14.480	00:19:15.840	look at this big grey one.
+J	00:19:15.840	00:19:17.590	he's massive.
+J	00:19:17.600	00:19:20.310	he has very, very strong arms and legs.
+A	00:19:20.320	00:19:21.750	and a big strong tail.
+J	00:19:21.760	00:19:24.950	yeah, and ears. very big ears.
+A	00:19:24.960	00:19:26.559	this fur looks very soft.
+J	00:19:26.559	00:19:28.070	it feels soft on my hand.
+A	00:19:28.080	00:19:30.287	it's got beautiful big brown eyes.
+
+A	00:19:46.559	00:19:48.080	oh look at that little black and white one.
+J	00:19:48.080	00:19:49.120	oh yeah.
+J	00:19:49.120	00:19:51.320	i think that's a willy wagtail.
+J	00:19:52.320	00:19:54.470	they're very fast they move around a lot.
+A	00:19:54.480	00:19:56.070	it's cute.
+A	00:19:56.080	00:19:57.789	it's got such a long tail.
+A	00:20:00.799	00:20:02.320	oh, look at that bird!
+J	00:20:02.320	00:20:03.679	oh that's a kingfisher.
+A	00:20:03.679	00:20:05.029	oh we have them in singapore.
+J	00:20:05.039	00:20:06.720	really?
+A	00:20:06.720	00:20:08.640	look at its beautiful blue back.
+J	00:20:08.640	00:20:10.149	very colorful, isn't it?
+J	00:20:10.159	00:20:11.600	there's lots in australia.
+J	00:20:11.600	00:20:13.270	big ones and small ones.
+J	00:20:13.280	00:20:16.080	we have a very big one called a kookaburra.
+J	00:20:16.080	00:20:19.270	has a very interesting laugh.
+A	00:20:25.280	00:20:26.640	so soft and cuddly.
+J	00:20:26.640	00:20:28.630	yeah they're like me.
+J	00:20:28.640	00:20:31.280	they've actually also got really sharp claws.
+J	00:20:31.280	00:20:32.070	see?
+A	00:20:32.080	00:20:34.000	oh it's so cute.
+A	00:20:34.000	00:20:35.669	can i take him home?
+J	00:20:36.389	00:20:38.377	don't think they'd be very happy about that.
+
+J	00:20:52.159	00:20:53.430	look at that one.
+J	00:20:57.440	00:20:59.080	what's the matter?
+A	00:21:00.080	00:21:02.750	nothing... i'm just feeling a bit homesick.
+J	00:21:05.760	00:21:08.510	come on. let's go get some to eat.
+
+L	00:21:13.520	00:21:15.360	what would you like?
+J	00:21:15.360	00:21:16.400	anne?
+A	00:21:16.400	00:21:21.360	um, i'll have a cheese and salad sandwich and a cappuccino, thanks.
+J	00:21:21.360	00:21:22.640	do you have wine?
+L	00:21:22.640	00:21:24.320	no, sir, we don't serve alcohol.
+L	00:21:24.320	00:21:27.840	we have coffee, tea, soft drinks and juices.
+J	00:21:27.840	00:21:33.840	okay, i'd like a... orange juice and a pie with chips.
+J	00:21:33.840	00:21:35.190	do you have sauce?
+L	00:21:35.200	00:21:36.480	just help yourself.
+L	00:21:36.480	00:21:38.080	and i'll bring the food when it's ready.
+J	00:21:38.080	00:21:40.070	thank you.
+
+A	00:21:44.080	00:21:46.000	is that good?
+J	00:21:46.000	00:21:47.190	it's delicious.
+J	00:21:47.200	00:21:48.799	you should try one.
+J	00:21:48.799	00:21:50.149	true aussie food.
+A	00:21:50.159	00:21:51.350	maybe one day.
+A	00:21:51.360	00:21:53.200	i don't need a lot of meat.
+J	00:21:53.200	00:21:54.159	how's your coffee?
+A	00:21:54.159	00:21:55.270	it's very good.
+A	00:21:55.280	00:21:56.799	don't you drink coffee?
+J	00:21:56.799	00:22:00.400	sometimes i prefer tea or juice.
+J	00:22:00.400	00:22:02.470	so, is the koala the best?
+A	00:22:02.480	00:22:03.760	oh definitely.
+A	00:22:03.760	00:22:05.280	the kangaroos are interesting, too.
+A	00:22:05.280	00:22:07.360	i've never seen real ones before.
+A	00:22:07.360	00:22:09.520	and the birds are wonderful.
+A	00:22:09.520	00:22:11.350	i think i like the birds the most.
+A	00:22:11.360	00:22:13.840	they're so colorful in so many different kinds.
+A	00:22:13.840	00:22:14.870	what about you?
+A	00:22:14.880	00:22:17.360	what did you like best?
+J	00:22:17.360	00:22:18.950	just being here.
+
+J	00:22:24.960	00:22:27.190	tell me about your life in singapore.
+J	00:22:27.200	00:22:29.029	what do you do every day?
+A	00:22:29.039	00:22:32.000	well, i work in my father's business importing wines.
+A	00:22:32.000	00:22:34.070	i live with my family.
+J	00:22:34.080	00:22:35.200	how do you get to work?
+J	00:22:35.200	00:22:36.400	do you catch a bus?
+A	00:22:36.400	00:22:37.350	usually.
+A	00:22:37.360	00:22:39.830	sometimes i go with my father in his car.
+A	00:22:39.840	00:22:40.455	what about you?
+A	00:22:40.455	00:22:41.750	what do you do?
+J	00:22:41.760	00:22:42.880	i'm a builder.
+J	00:22:42.880	00:22:44.789	i build houses.
+A	00:22:44.799	00:22:46.080	how do you get to work?
+J	00:22:46.080	00:22:47.120	i drive.
+J	00:22:47.120	00:22:48.880	i have to use my car for work.
+J	00:22:48.880	00:22:50.400	so i never go by bus.
+A	00:22:55.200	00:22:56.080	do you enjoy it?
+A	00:22:56.080	00:22:57.520	your work?
+J	00:22:57.520	00:23:01.600	mostly. it's not easy being a builder.
+J	00:23:01.600	00:23:03.440	but it's outside.
+J	00:23:03.440	00:23:05.120	i prefer to work outside.
+A	00:23:05.120	00:23:06.720	i never work outside.
+A	00:23:06.720	00:23:08.080	occasionally i travel, though.
+A	00:23:08.080	00:23:09.350	like now.
+J	00:23:09.360	00:23:12.480	and what do you do on the weekends?
+A	00:23:12.480	00:23:14.230	sometimes i go shopping.
+A	00:23:14.240	00:23:17.590	sometimes, i go out.
+J	00:23:17.600	00:23:18.720	where do you go?
+J	00:23:18.720	00:23:19.840	nightclubs?
+A	00:23:19.840	00:23:22.110	not really. occasionally.
+J	00:23:27.120	00:23:29.039	who do you go with?
+A	00:23:29.039	00:23:30.549	a bunch of friends.
+J	00:23:32.559	00:23:34.640	boyfriend?
+A	00:23:34.640	00:23:36.149	not at the moment.
+
+J	00:23:46.159	00:23:47.679	did you have a good day?
+A	00:23:47.679	00:23:48.640	very much.
+A	00:23:48.640	00:23:49.990	thank you for taking me.
+A	00:23:50.000	00:23:50.880	how about you?
+J	00:23:50.880	00:23:51.840	of course.
+A	00:23:51.840	00:23:52.789	not too boring?
+A	00:23:52.799	00:23:54.470	you must have been there a hundred times.
+J	00:23:54.480	00:23:55.760	not since i was a kid.
+J	00:23:55.760	00:23:58.230	it was great.
+A	00:23:58.240	00:23:59.679	do you like chinese food?
+J	00:23:59.679	00:24:01.200	i love chinese food.
+A	00:24:01.200	00:24:03.669	i'm gonna cook a chinese meal for you and your family.
+J	00:24:03.679	00:24:06.480	really? that'll be great. when?
+A	00:24:06.480	00:24:07.590	friday?
+J	00:24:07.600	00:24:08.720	fantastic.
+J	00:24:08.720	00:24:10.080	oh, i'll see you then.
+A	00:24:10.080	00:24:11.830	yes, bye.
+J	00:24:14.840	00:24:15.549	bye.
+
+A	00:24:24.559	00:24:25.520	excuse me.
+D	00:24:25.520	00:24:27.029	sorry ms lee. i didn't see you.
+A	00:24:27.039	00:24:28.470	could i have my key please?
+D	00:24:28.480	00:24:29.440	certainly.
+D	00:24:29.440	00:24:32.070	here you are.
+D	00:24:32.080	00:24:34.310	oh, and there's a message for you.
+
+A	00:24:52.960	00:24:54.960	have you found my brother?
+E	00:24:54.960	00:24:56.870	not yet. no.
+E	00:24:56.880	00:25:00.630	not quite.
+E	00:25:00.640	00:25:02.799	but i have found something.
+A	00:25:02.799	00:25:04.710	what is it?
+E	00:25:04.720	00:25:06.480	i went to the university.
+E	00:25:06.480	00:25:07.909	you said he was a student.
+E	00:25:07.919	00:25:12.390	i spoke to his professor, the head of the course he studied.
+A	00:25:12.400	00:25:13.919	and what did he say?
+A	00:25:13.919	00:25:15.919	does he know what happened?
+E	00:25:15.919	00:25:17.520	well, no, not exactly.
+E	00:25:17.520	00:25:20.549	uh, he didn't know where your brother went.
+E	00:25:20.559	00:25:23.520	but he told me david had left the university.
+E	00:25:23.520	00:25:26.960	he stopped going to lectures.
+A	00:25:26.960	00:25:28.240	when did he stop?
+E	00:25:28.240	00:25:29.279	about a year ago.
+E	00:25:29.279	00:25:30.950	he didn't tell anyone.
+E	00:25:30.960	00:25:33.279	but he left the letter with the professor.
+A	00:25:33.279	00:25:34.320	a letter?
+A	00:25:34.320	00:25:35.520	have you got it?
+A	00:25:35.520	00:25:36.470	where is it?
+E	00:25:37.200	00:25:38.559	the professor has it.
+E	00:25:38.559	00:25:42.000	he wouldn't give it to me because it was addressed to you.
+E	00:25:42.000	00:25:47.710	he left... his ah his card.
+A	00:25:48.720	00:25:49.760	i'll go and see him.
+A	00:25:49.760	00:25:50.320	thank you.
+E	00:25:50.320	00:25:52.549	oh, i i found out something else.
+A	00:25:52.559	00:25:53.360	yes?
+E	00:25:53.360	00:25:55.360	your brother had a girlfriend.
+A	00:25:55.360	00:25:58.400	really! he didn't tell me.
+A	00:25:58.400	00:25:59.600	who is she?
+E	00:25:59.600	00:26:00.710	well i don't know yet.
+E	00:26:00.720	00:26:01.919	but i'm sure i can find her.
+E	00:26:01.919	00:26:03.750	we're closing in ms lee.
+E	00:26:03.760	00:26:05.919	fear not.
+A	00:26:05.919	00:26:07.820	thank you.
+
+M	00:26:34.480	00:26:35.120	hello, dear.
+M	00:26:35.120	00:26:36.320	how are you?
+A	00:26:36.320	00:26:37.630	very well, thank you.
+M	00:26:40.640	00:26:41.600	are you sure?
+M	00:26:41.600	00:26:42.880	is anything wrong?
+A	00:26:42.880	00:26:44.440	no, i'm fine.
+M	00:26:45.440	00:26:47.919	i watched you walking.
+M	00:26:47.919	00:26:49.909	you walk sadly.
+M	00:26:49.919	00:26:52.000	i'm old, i walk slowly.
+M	00:26:52.000	00:26:54.870	but you walk sadly.
+A	00:26:54.880	00:26:58.149	well, i do have a problem.
+M	00:26:58.159	00:27:00.720	not too serious, i hope?
+A	00:27:00.720	00:27:01.830	i don't know.
+A	00:27:01.840	00:27:03.360	i hope not.
+M	00:27:03.360	00:27:05.305	worrying doesn't help, my dear.
+M	00:27:06.937	00:27:08.671	think positively, it helps.
+M	00:27:10.159	00:27:12.880	do something, take action.
+M	00:27:12.880	00:27:14.480	you'll be all right.
+A	00:27:14.480	00:27:17.830	i hope so, thank you.
+M	00:27:17.840	00:27:18.960	where are you from, dear?
+A	00:27:18.960	00:27:20.320	singapore.
+M	00:27:20.320	00:27:22.870	you speak english very well.
+A	00:27:22.880	00:27:24.000	thank you.
+A	00:27:24.000	00:27:27.430	sometimes when people speak very quickly i can't understand.
+M	00:27:27.440	00:27:28.320	don't worry.
+M	00:27:28.459	00:27:29.648	i speak slowly.
+M	00:27:32.240	00:27:35.269	and i see badly these days.
+M	00:27:35.279	00:27:37.080	what number bus is that, dear?
+A	00:27:38.080	00:27:40.310	it's one ninety.
+M	00:27:40.320	00:27:44.250	at last, it was nice talking to you.
+A	00:27:44.350	00:27:45.850	you too.
+
+A	00:27:59.120	00:28:00.840	does this bus go to the university?
+N	00:28:00.840	00:28:02.549	yes, miss.
+A	00:28:02.559	00:28:03.520	how much is that?
+N	00:28:03.520	00:28:04.799	single or day trip?
+A	00:28:04.799	00:28:05.750	sorry?
+N	00:28:05.760	00:28:07.039	are you coming back today?
+A	00:28:07.039	00:28:07.600	yes.
+N	00:28:07.600	00:28:09.430	how long will you be at the university?
+A	00:28:09.440	00:28:10.240	i'm not sure.
+A	00:28:10.240	00:28:11.200	an hour perhaps.
+N	00:28:11.200	00:28:12.159	a single will do.
+N	00:28:12.159	00:28:13.700	you can use the same ticket to come back.
+N	00:28:13.725	00:28:15.110	that's three dollars, please.
+A	00:28:19.120	00:28:20.559	how far is it?
+N	00:28:20.559	00:28:21.520	uh, not far.
+N	00:28:21.520	00:28:23.350	about four kilometers from here.
+A	00:28:23.360	00:28:24.559	how many stops is it?
+N	00:28:24.559	00:28:26.000	about ten.
+A	00:28:26.000	00:28:27.300	thank you.
+N	00:28:45.279	00:28:46.720	university!
+N	00:28:46.720	00:28:48.159	this is your stop, miss.
+A	00:28:48.159	00:28:49.290	oh, thank you.
+A	00:28:51.760	00:28:53.520	where do i catch the bus to go back?
+N	00:28:53.520	00:28:55.269	just across the street over there.
+A	00:28:55.279	00:28:56.799	how often do the buses come?
+N	00:28:56.799	00:28:57.840	every twenty minutes.
+N	00:28:57.840	00:28:58.880	you won't have to wait long.
+N	00:28:58.880	00:29:01.919	it's ten thirty.
+N	00:29:01.919	00:29:04.870	the next one's at ten forty and then eleven o'clock.
+A	00:29:04.880	00:29:06.320	thanks, goodbye.
+N	00:29:06.320	00:29:07.140	have a good day!
+
+O	00:29:23.679	00:29:27.269	i'm sorry to hear your brother's gone missing, ms lee.
+A	00:29:27.279	00:29:28.720	we're also worried.
+A	00:29:28.720	00:29:30.789	i've come to adelaide to look for him.
+A	00:29:30.799	00:29:32.399	how long did he study here?
+O	00:29:32.399	00:29:39.440	uh, i'm not sure, two semesters.
+A	00:29:39.440	00:29:40.559	did he get good grades?
+O	00:29:40.559	00:29:42.230	i'm afraid not.
+O	00:29:42.240	00:29:47.510	i don't think computer science was the right direction for him.
+A	00:29:47.520	00:29:51.029	the investigator, mr babour said you have a letter from david.
+O	00:29:51.039	00:29:54.070	of course, yes.
+O	00:29:54.080	00:29:55.760	it's addressed to you.
+O	00:29:58.688	00:30:01.479	i told him i'd only give it to you in person.
+
+O	00:30:43.200	00:30:44.620	here.
+A	00:30:48.080	00:30:49.291	i don't know what to do.
+O	00:30:53.039	00:30:55.679	i think you should go to the police.
+A	00:30:55.679	00:30:57.909	but he says i shouldn't look for him.
+O	00:30:57.919	00:31:00.559	yes, well he might have felt that way then.
+O	00:31:00.559	00:31:03.830	but a year is a long time.
+O	00:31:03.840	00:31:06.600	if i were you, i'd report your brother missing.
+A	00:31:07.600	00:31:09.320	should i tell my parents about the letter?
+O	00:31:10.320	00:31:12.230	your poor parents.
+O	00:31:12.240	00:31:15.269	they must be so worried.
+O	00:31:15.279	00:31:17.120	i think you should tell them what you know.
+A	00:31:19.120	00:31:21.200	what if i can't find him?
+O	00:31:21.200	00:31:22.470	have faith.
+O	00:31:22.480	00:31:26.389	i'm sure you will, you know your brother.
+O	00:31:26.399	00:31:28.990	you'll find him.
+O	00:31:30.000	00:31:32.389	i'll show you out.
+
+O	00:31:40.399	00:31:43.430	well, good luck. ms lee.
+A	00:31:43.440	00:31:45.679	i don't know what else to do.
+O	00:31:45.679	00:31:49.750	um, why don't you advertise in a newspaper?
+O	00:31:49.760	00:31:53.679	put a photograph of your brother there, somebody might recognize him.
+A	00:31:53.679	00:31:55.190	good, i haven't thought of that.
+O	00:31:55.200	00:31:57.840	my advice is never give up.
+A	00:31:57.840	00:31:59.310	thank you for your help.
+O	00:32:04.320	00:32:07.566	when you find your brother, say hello to him for me.
+A	00:32:08.080	00:32:08.830	i will.
+

@@ -1,0 +1,279 @@
+A	00:00:05.200	00:00:08.042	what are those wacky glasses you're wearing?
+B	00:00:08.153	00:00:16.950	these are ultra high tech top of the line, state of the art cutting edge tv glasses.
+A	00:00:16.960	00:00:20.640	and you're actually watching tv right now?
+B	00:00:20.640	00:00:21.359	yeah.
+B	00:00:21.359	00:00:23.750	right here in the corner.
+A	00:00:23.760	00:00:24.960	what are you watching?
+B	00:00:24.960	00:00:26.371	the basketball game.
+A	00:00:26.842	00:00:29.589	unbelievable.
+A	00:00:29.599	00:00:31.279	and cheryl doesn't mind this?
+B	00:00:31.279	00:00:32.057	yes.
+A	00:00:32.181	00:00:33.061	what?
+B	00:00:33.360	00:00:34.399	sorry.
+B	00:00:34.399	00:00:37.670	my team is winning.
+A	00:00:37.680	00:00:40.630	this new invention doesn't bother you?
+C	00:00:40.640	00:00:42.069	are you kidding?
+C	00:00:42.079	00:00:48.320	if i'd known how happy they would make him, i would have bought those glasses for bob long ago.
+A	00:00:48.320	00:00:51.670	technology today is amazing.
+A	00:00:51.680	00:00:58.320	you know, i wish they'd invent something that would make people who talk on cell phones quieter.
+A	00:00:58.320	00:01:06.230	this guy in the caf... today was so loud, i couldn't hear myself talking,it doesn't funny?
+B	00:01:06.240	00:01:07.200	what?
+B	00:01:07.200	00:01:08.159	oh, sorry.
+B	00:01:08.159	00:01:13.030	i was laughing at this guy on tv.
+C	00:01:13.040	00:01:21.670	if i could invent something, it would be a thing for bob's car that would automatically charge him when he goes over the speed limit.
+C	00:01:21.680	00:01:27.040	he drives so fast sometimes, but he'd slow down if he had to pay.
+B	00:01:27.040	00:01:28.799	no!
+A	00:01:28.799	00:01:30.149	is your team losing?
+B	00:01:30.159	00:01:31.200	no.
+B	00:01:31.200	00:01:33.119	i heard what you said.
+B	00:01:33.119	00:01:42.240	you just leave my car alone.
+
+C	00:01:50.240	00:01:51.119	hi, paul.
+D	00:01:51.119	00:01:53.749	wait till you see what i've got.
+B	00:01:53.759	00:01:54.870	what is it?
+D	00:01:54.880	00:01:57.680	well, i have this problem with my cell phone.
+D	00:01:57.680	00:02:02.479	whenever i'm traveling with a group, i can never hear it ring or feel it vibrate.
+D	00:02:02.479	00:02:06.870	so i got this thing that lets me know whenever my phone is ringing.
+A	00:02:06.880	00:02:08.399	how does it do that?
+D	00:02:08.399	00:02:10.070	it buzzes me.
+A	00:02:10.080	00:02:10.959	buzzes?
+D	00:02:10.959	00:02:13.430	you know.
+D	00:02:13.440	00:02:15.040	so i could feel it.
+A	00:02:15.040	00:02:16.400	does it work?
+D	00:02:16.400	00:02:17.920	i don't know.
+D	00:02:17.920	00:02:20.840	no one's called me yet.
+D	00:02:20.840	00:02:22.070	oh!
+A	00:02:22.080	00:02:23.280	what?
+D	00:02:23.280	00:02:24.750	someone's calling me!
+D	00:02:25.813	00:02:27.951	hello,hello?
+D	00:02:29.520	00:02:31.599	no one's there?
+D	00:02:31.599	00:02:32.550	wow!
+D	00:02:32.560	00:02:34.480	that was a big buzz.
+D	00:02:34.480	00:02:35.910	that almost hurt.
+C	00:02:35.920	00:02:37.910	maybe it isn't working right.
+D	00:02:37.920	00:02:43.030	it's working fine.
+D	00:02:43.040	00:02:45.760	another phone call.
+D	00:02:45.760	00:02:49.270	hello?
+D	00:02:49.280	00:02:51.200	that's strange.
+D	00:02:51.200	00:02:52.239	man.
+D	00:02:52.239	00:03:02.869	if i ever get used to that, i'll always know whenever my phone is ringing.
+D	00:03:02.879	00:03:07.670	stop calling me!
+A	00:03:07.680	00:03:14.159	paul, if i were you, i would take that thing back to the store before you hurt yourself.
+D	00:03:14.159	00:03:15.519	i'm going.
+D	00:03:15.519	00:03:28.550	i'll see you later.
+A	00:03:28.560	00:03:31.840	i hope he can drive okay.
+B	00:03:31.840	00:03:33.190	he'll be fine.
+C	00:03:33.200	00:03:35.360	how do you know?
+B	00:03:35.360	00:03:55.270	i'll stop calling him.
+
+E	00:03:55.280	00:03:56.480	hello, bob.
+E	00:03:56.480	00:03:58.080	dining alone?
+B	00:03:58.080	00:04:00.390	paul and marie went to get newspapers.
+E	00:04:00.400	00:04:02.080	do you mind if i join you?
+B	00:04:02.080	00:04:05.670	oh please, sit down.
+E	00:04:05.680	00:04:07.920	may i ask what you're reading?
+B	00:04:07.920	00:04:12.319	um a history of the world.
+E	00:04:12.319	00:04:13.509	the best seller?
+E	00:04:13.519	00:04:15.120	i'm very impressed.
+E	00:04:15.120	00:04:17.349	reading nonfiction over lunch!
+E	00:04:17.359	00:04:19.749	i hear that it's a very difficult book.
+B	00:04:19.759	00:04:21.519	uh, no.
+B	00:04:21.519	00:04:24.437	it's... it's a pretty easy read.
+B	00:04:25.748	00:04:27.616	i... i can't put it down, actually.
+E	00:04:27.840	00:04:31.189	a real page, turner huh?
+E	00:04:31.199	00:04:33.759	do you think i could borrow it when you're done?
+B	00:04:33.759	00:04:35.909	sure.
+E	00:04:35.919	00:04:38.639	i usually prefer fiction myself.
+E	00:04:38.639	00:04:42.000	you know, thrillers, mysteries...
+E	00:04:42.000	00:04:46.800	there's nothing like curling up with a good science fiction novel, is there?
+B	00:04:46.800	00:04:49.350	you read science fiction, too?
+E	00:04:49.360	00:04:50.960	i don't tell anyone.
+E	00:04:50.960	00:04:53.830	are you learning a lot from your book?
+B	00:04:53.840	00:04:55.600	yeah, i think so.
+E	00:04:55.600	00:04:58.469	so tell me what you're reading about right now.
+B	00:04:58.479	00:05:04.749	um... this part is about great britain.
+E	00:05:05.039	00:05:06.479	really?
+E	00:05:06.479	00:05:11.110	do you mind if i take a look?
+B	00:05:11.120	00:05:14.469	cheryl hates when i read comics.
+E	00:05:14.479	00:05:18.230	then i can understand why you can't put the book down.
+E	00:05:18.240	00:05:20.710	do you think that i could borrow it, then?
+B	00:05:20.720	00:05:25.440	i'm still reading this one, but i have another one i can loan you.
+E	00:05:25.440	00:05:28.320	i meant this one.
+B	00:05:28.320	00:05:31.884	oh, help yourself.
+
+D	00:05:36.479	00:05:38.000	look at this.
+D	00:05:38.000	00:05:44.950	the paper says that a tornado carried a woman for three hundred miles, and she lived to tell about it.
+A	00:05:44.960	00:05:50.160	i'm not sure if you know this but that story isn't true.
+D	00:05:50.160	00:05:51.280	it's in the paper.
+D	00:05:51.280	00:05:52.960	it must be true.
+A	00:05:52.960	00:05:54.639	that paper is trash.
+A	00:05:54.639	00:05:56.710	i can't believe you're reading it.
+D	00:05:56.121	00:05:58.197	what do you mean?
+A	00:05:58.560	00:06:01.199	it's fiction, it's not news.
+A	00:06:01.199	00:06:02.950	nothing in there is true.
+A	00:06:02.960	00:06:05.919	if you want real news, you have to read this paper.
+D	00:06:05.919	00:06:07.510	that paper is boring.
+D	00:06:07.520	00:06:12.629	this one's much more interesting.
+A	00:06:12.639	00:06:16.790	woman gives birth to cow.
+A	00:06:16.800	00:06:20.230	man builds house from bread.
+A	00:06:20.240	00:06:22.160	baby with two heads.
+A	00:06:22.160	00:06:23.039	come on.
+A	00:06:23.039	00:06:27.990	this is offensive.
+D	00:06:28.000	00:06:32.070	storm kills one hundred in texas.
+D	00:06:32.080	00:06:36.309	train accident kills five, injures more.
+D	00:06:36.319	00:06:40.070	man kills wife and son.
+D	00:06:40.080	00:06:45.189	i'm sorry, but all that death and destruction is pretty offensive to me.
+A	00:06:45.199	00:06:47.520	i know that these things happened.
+A	00:06:47.520	00:06:49.749	and i know that those didn't.
+D	00:06:49.759	00:06:50.880	you don't know that.
+D	00:06:50.880	00:06:53.909	you just assume that it's true.
+A	00:06:53.919	00:06:57.278	let's ask bob and mr.evans what paper they read.
+A	00:07:01.039	00:07:02.240	never mind.
+A	00:07:02.240	00:07:03.680	let's just read.
+D	00:07:03.680	00:07:07.350	that sounds good to me.
+D	00:07:07.360	00:07:08.400	look at this!
+D	00:07:08.400	00:07:18.710	a man with four legs!
+
+D	00:07:18.720	00:07:21.990	did you see the politicians expect to raise taxes again?
+B	00:07:22.000	00:07:22.639	really?
+B	00:07:22.639	00:07:26.710	what does the government decide to spend our money on now?
+D	00:07:26.720	00:07:29.599	they're planning to build a stronger military.
+A	00:07:29.599	00:07:32.870	it's wrong to spend so much on the military.
+A	00:07:32.880	00:07:37.029	they should spend it on education instead.
+C	00:07:37.039	00:07:40.390	can we please avoid discussing politics?
+A	00:07:40.400	00:07:42.240	why?
+C	00:07:42.240	00:07:49.189	every time we begin talking about politics, people get mad at each other.
+B	00:07:49.199	00:07:52.400	they should spend more money on fighting corruption.
+B	00:07:52.400	00:07:58.879	if they were able to stop corrupt officials, maybe they wouldn't need to raise our taxes.
+D	00:07:58.879	00:08:03.680	that's true, but i think we need to spend more money on the military.
+D	00:08:03.680	00:08:07.510	without a strong military, the world won't be very safe.
+A	00:08:07.520	00:08:09.759	that's one way to look at it.
+A	00:08:09.759	00:08:18.309	but maybe the world would be safer and better if we try to eliminate poverty.
+B	00:08:18.319	00:08:21.039	what do you think, cheryl?
+C	00:08:21.039	00:08:28.479	i think that if i say what i really think, you'll get all mad and call me crazy or ridiculous.
+A	00:08:28.479	00:08:29.270	cheryl.
+A	00:08:29.280	00:08:31.120	don't be so afraid.
+A	00:08:31.120	00:08:35.350	we're only talking.
+C	00:08:35.360	00:08:43.670	i think that the government should spend more money on cooking schools.
+A	00:08:43.680	00:08:45.600	what?
+C	00:08:45.600	00:08:48.320	most people don't know how to cook well.
+C	00:08:48.320	00:08:52.640	i think the government should help teach them.
+A	00:08:52.640	00:08:55.040	that's ridiculous!
+B	00:08:55.200	00:08:57.040	are you crazy?
+B	00:08:57.040	00:09:02.000	use our taxes to pay for cookies?
+D	00:09:02.000	00:09:04.310	of course not!
+C	00:09:04.320	00:09:06.000	but look at you.
+C	00:09:06.000	00:09:08.790	you're all mad at me.
+C	00:09:08.800	00:09:12.870	this is why i never discuss politics with friends.
+C	00:09:12.880	00:09:19.910	but don't let me stop you from getting mad at each other.
+
+A	00:09:19.920	00:09:23.440	paul, i never knew you were so conservative.
+D	00:09:23.440	00:09:25.360	i'm not conservative.
+A	00:09:25.360	00:09:26.630	sure you are.
+A	00:09:26.640	00:09:30.230	you always seem to want things to be just like they used to be.
+D	00:09:30.240	00:09:31.440	that's not conservative.
+D	00:09:31.440	00:09:35.430	that's just smart.
+D	00:09:35.440	00:09:37.200	thanks.
+A	00:09:37.200	00:09:40.240	that's the definition of conservative.
+D	00:09:40.240	00:09:41.120	really?
+D	00:09:41.120	00:09:44.000	well, i didn't know you were so radical.
+A	00:09:44.000	00:09:46.160	what makes you think i'm radical?
+D	00:09:46.160	00:09:48.949	you always want to change everything.
+A	00:09:48.959	00:09:50.480	no, i don't.
+A	00:09:50.480	00:09:58.710	i just want our government to realize that it's the  twenty one century and they need new ways of doing things.
+A	00:09:58.720	00:09:59.839	thank you.
+D	00:09:59.839	00:10:02.630	that sounds radical to me.
+A	00:10:02.640	00:10:05.120	bob, tell him i'm not a radical.
+B	00:10:05.120	00:10:06.949	she's not a radical.
+B	00:10:06.959	00:10:08.320	she's a liberal.
+B	00:10:08.320	00:10:10.310	like me.
+A	00:10:10.320	00:10:12.160	i wouldn't call you a liberal.
+B	00:10:12.160	00:10:14.069	oh, really?
+A	00:10:14.079	00:10:16.720	i'd say you're more of a moderate.
+A	00:10:16.720	00:10:17.920	you're always in the middle.
+B	00:10:17.920	00:10:21.670	if i want to be a liberal, i'll be a liberal.
+B	00:10:21.680	00:10:23.760	thank you, honey.
+A	00:10:23.760	00:10:29.190	you can be whatever you want, you just can't be one thing and call it something else.
+D	00:10:29.200	00:10:30.640	listen to you.
+D	00:10:30.640	00:10:33.040	you're like a little dictator.
+A	00:10:33.040	00:10:35.600	i studied politics in school.
+A	00:10:35.600	00:10:39.760	i know something about the definition of political beliefs.
+D	00:10:39.760	00:10:41.269	is that so?
+D	00:10:41.279	00:10:43.519	so what is cheryl?
+D	00:10:43.519	00:10:45.350	a radical?
+D	00:10:45.360	00:10:46.920	moderate?
+D	00:10:46.920	00:10:48.870	conservative?
+A	00:10:48.880	00:10:50.079	who knows?
+A	00:10:50.079	00:10:52.069	she's not saying.
+D	00:10:52.079	00:10:53.360	cheryl, what are you?
+D	00:10:53.360	00:10:56.790	would you mind telling us that much?
+C	00:10:56.800	00:10:58.480	okay,
+C	00:10:58.480	00:11:01.829	you want to know what i believe?
+C	00:11:01.839	00:11:07.030	i believe...
+C	00:11:07.040	00:11:10.949	i believe...
+C	00:11:10.959	00:11:29.030	i believe these are the best chips i have ever tasted.
+
+C	00:11:29.040	00:11:32.710	everyone, we'd like to ask your opinion about something.
+E	00:11:32.720	00:11:34.240	what is that?
+C	00:11:34.240	00:11:38.684	we're trying to decide where to go on vacation after the wedding for our honeymoon.
+B	00:11:38.715	00:11:43.509	we thought you might be able to help us decide on a location.
+E	00:11:43.519	00:11:45.760	an excellent idea.
+E	00:11:45.760	00:11:47.910	where are you thinking of going?
+C	00:11:47.920	00:11:59.829	well, bob doesn't really like to travel, so he's agreed to go wherever i want to go as long as the hotel has nice bathrooms and a tv.
+E	00:11:59.839	00:12:01.360	that sounds fair.
+E	00:12:01.360	00:12:03.040	what's your first choice?
+C	00:12:03.040	00:12:07.750	i've always wanted to go to cozumel, off the yucatan peninsula.
+D	00:12:07.760	00:12:10.079	cozumel is spectacular.
+D	00:12:10.079	00:12:16.639	the island itself is pretty flat, but the beaches are beautiful and the ocean is so blue.
+A	00:12:16.639	00:12:20.480	aren't there too many sharks to go swimming there?
+D	00:12:20.480	00:12:20.959	no!
+D	00:12:20.959	00:12:23.120	it's very safe.
+A	00:12:23.120	00:12:24.480	what?
+D	00:12:24.480	00:12:26.150	oh!
+D	00:12:26.160	00:12:29.430	but it's somewhat overrated.
+B	00:12:29.440	00:12:31.839	you just said.
+E	00:12:31.839	00:12:34.399	what else are you thinking of?
+C	00:12:34.399	00:12:38.550	what about tierra del fuego in the south of argentina in chile?
+D	00:12:38.560	00:12:41.590	the scenery is extraordinary.
+D	00:12:41.600	00:12:45.750	the mountain ranges and national parks are breathtaking.
+A	00:12:45.760	00:12:50.629	but in june won't it be too dark to do very much?
+D	00:12:50.639	00:12:51.120	no!
+D	00:12:51.120	00:12:55.990	plenty of people go there in june to go skiing or...
+D	00:12:56.000	00:13:04.230	but, of course it's probably not romantic enough forhoneymoon.
+C	00:13:04.240	00:13:09.030	i've heard the jungles and rainforests in malaysia are a must see.
+D	00:13:09.040	00:13:13.269	they're so lush...
+D	00:13:13.279	00:13:21.509	of course, some people feel that the scorpions make it too dangerous to hike.
+B	00:13:21.519	00:13:25.750	we could go to that hotel on grant street along the river.
+C	00:13:25.760	00:13:27.519	stay in town?
+C	00:13:27.519	00:13:30.069	for our honeymoon?
+B	00:13:30.079	00:13:50.470	well, i heard the rooms have really nice bathrooms and big televisions.
+A	00:13:50.480	00:13:55.110	cheryl, you once told me that you wanted to go to tahiti.
+C	00:13:55.120	00:13:56.959	that's right.
+C	00:13:56.959	00:13:59.430	i forgot about that.
+E	00:13:59.440	00:14:02.079	you would love tahiti.
+D	00:14:02.079	00:14:05.110	one of the most beautiful places on earth.
+A	00:14:05.120	00:14:08.790	and very, very romantic.
+C	00:14:08.800	00:14:10.160	really?
+C	00:14:10.160	00:14:13.279	you all think tahiti is a good idea?
+E	00:14:13.279	00:14:15.519	i think you'd love it.
+B	00:14:15.519	00:14:17.509	it's too expensive.
+C	00:14:17.519	00:14:18.639	how expensive?
+B	00:14:18.639	00:14:23.252	well, do you remember how much mr.rasheed's vacation to tahiti cost?
+C	00:14:24.160	00:14:26.079	yes, i do.
+B	00:14:26.079	00:14:27.578	he traveled cheaply.
+C	00:14:29.792	00:14:31.534	what that's it?
+C	00:14:31.628	00:14:33.437	i'm out of ideas.
+C	00:14:33.839	00:14:40.470	i guess we'll go someplace boring.
+E	00:14:40.480	00:14:51.199	we weren't going to tell you until a couple months from now, but paul, marie, and i were talking, and we thought a vacation in the south pacific would be perfect.
+C	00:14:51.199	00:14:53.829	i just wish we could afford it.
+E	00:14:53.839	00:15:00.480	so, we decided that as our wedding gift to you, we'd like to send you to tahiti.
+E	00:15:00.480	00:15:03.110	all expenses paid.
+C	00:15:03.120	00:15:06.000	you're kidding.
+E	00:15:06.000	00:15:11.269	we booked your flights and a hotel on the southern coast for two weeks.
+C	00:15:11.279	00:15:13.680	i don't know how to thank you!
+E	00:15:13.680	00:15:15.670	but the...
+E	00:15:15.680	00:15:22.240	and the hotel room has a spectacular bathroom and a tv this big.
+B	00:15:22.240	00:15:23.796	i don't know how to thank you!
+C	00:15:29.846	00:15:30.566	oh!
+C	00:15:38.871	00:15:43.538	thank you so much I'm so excited.
+

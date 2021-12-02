@@ -1,0 +1,398 @@
+A	00:00:01.360	00:00:03.270	i think everything is ready.
+A	00:00:03.280	00:00:15.429	why don't we sit down?
+B	00:00:19.439	00:00:21.680	this smells so wonderful!
+B	00:00:21.680	00:00:23.750	what are we having to eat?
+A	00:00:23.760	00:00:33.360	there's roast chicken, baked potatoes, salad, broccoli with garlic, red cabbage and rice.
+A	00:00:33.360	00:00:35.200	help yourself, everyone.
+C	00:00:35.200	00:00:38.630	wow, that's a lot of vegetables.
+A	00:00:38.640	00:00:41.440	vegetables are very healthy for you.
+A	00:00:41.440	00:00:44.399	mr evans, would you like some chicken?
+D	00:00:44.399	00:00:47.270	just a little, thank you.
+D	00:00:47.280	00:00:51.830	i'm not a big chicken eater.
+A	00:00:51.840	00:00:54.719	how about some potatoes?
+D	00:00:54.719	00:01:04.070	i'm sorry, i'm avoiding potatoes.
+A	00:01:04.080	00:01:05.600	some broccoli?
+D	00:01:05.600	00:01:12.230	i'll pass, i'm afraid it doesn't agree with me.
+A	00:01:12.240	00:01:14.080	cabbage.
+D	00:01:14.080	00:01:15.270	sorry.
+D	00:01:15.280	00:01:19.830	i'm allergic.
+A	00:01:19.840	00:01:22.560	mr evans, i'm so sorry.
+A	00:01:22.560	00:01:27.990	there's very little here for you to eat.
+D	00:01:28.000	00:01:30.799	i'm crazy about rice.
+A	00:01:30.799	00:01:40.270	well, then pass the rice please.
+B	00:01:57.280	00:02:05.910	cheryl, this tastes so delicious.
+B	00:02:05.920	00:02:09.510	bob, you're not eating very much tonight.
+B	00:02:09.520	00:02:13.030	don't you like the food?
+A	00:02:13.040	00:02:15.440	bob's on a diet.
+E	00:02:15.440	00:02:18.239	i'm trying to lose weight.
+D	00:02:18.239	00:02:19.760	good for you, bob.
+C	00:02:19.760	00:02:23.830	i'm on a diet, too.
+B	00:02:23.840	00:02:25.840	why are you on a diet?
+B	00:02:25.840	00:02:27.670	you're so skinny.
+C	00:02:27.680	00:02:31.580	i'm trying to gain weight.
+E	00:02:33.920	00:02:35.270	i can't stand it.
+A	00:02:36.494	00:02:38.793	bob!
+A	00:02:59.280	00:03:01.760	cheryl, that was fantastic.
+D	00:03:01.760	00:03:03.680	the rice was terrific.
+A	00:03:03.680	00:03:05.110	cookies, anyone?
+B	00:03:05.120	00:03:07.519	yes, one please!
+C	00:03:07.519	00:03:14.550	i'll take two, thanks. or three. or four.
+A	00:03:14.560	00:03:16.800	do you eat sweets, mr evans?
+D	00:03:16.800	00:03:24.229	i used to, but i can't anymore.
+B	00:03:24.239	00:03:26.239	no dessert for you, bob?
+A	00:03:26.239	00:03:32.309	not on his diet.
+B	00:03:32.319	00:03:37.200	but weren't you eating cookies today at work?
+E	00:03:37.200	00:03:39.830	i was eating carrots.
+B	00:03:39.840	00:03:43.120	didn't i see you snacking on candy this afternoon?
+E	00:03:43.120	00:03:45.360	that was an apple.
+B	00:03:45.360	00:03:48.959	what about that ice cream, you ate yesterday?
+E	00:03:48.959	00:03:51.110	fruit salad.
+B	00:03:51.120	00:03:54.630	my mistake.
+C	00:03:54.640	00:03:56.560	these cookies are terrific.
+A	00:03:56.560	00:03:59.680	if you like the cookies, you'll love this cake.
+A	00:03:59.680	00:04:04.550	oh would you eat some strawberries, mr evans?
+D	00:04:04.560	00:04:06.229	strawberries are my passion!
+A	00:04:06.239	00:04:07.200	really?
+D	00:04:07.200	00:04:12.080	i'd eat strawberries on anything- cereal, pasta, even rice.
+C	00:04:12.080	00:04:13.971	I'm crazy about chocolate cake!
+C	00:04:13.920	00:04:16.610	i can gain weight with every bite!
+A	00:04:18.239	00:04:20.560	i think i'll have a cookie.
+A	00:04:20.560	00:04:24.870	bob, could you pass the...
+A	00:04:24.880	00:04:27.360	where'd they go?
+B	00:04:27.360	00:04:29.749	i have one.
+C	00:04:29.759	00:04:31.600	i have four.
+D	00:04:31.600	00:04:32.550	i have none.
+E	00:04:59.360	00:05:09.350	hey, you only live once.
+
+A	00:05:09.360	00:05:12.240	cheryl, your hair looks gorgeous.
+B	00:05:12.240	00:05:13.280	thank you!
+B	00:05:13.280	00:05:16.230	i have a new shampoo- bright clean.
+A	00:05:16.240	00:05:17.510	i'd like to try it.
+A	00:05:17.520	00:05:19.360	did you find it at the drugstore?
+B	00:05:19.360	00:05:22.230	no, i bought it at my salon on friday.
+B	00:05:22.240	00:05:24.639	i'll pick some up for you next time i'm there.
+A	00:05:24.639	00:05:28.080	great, thanks!
+B	00:05:28.080	00:05:30.629	would you like some too, bob?
+E	00:05:30.639	00:05:32.639	i have shampoo, thanks.
+B	00:05:32.639	00:05:34.950	but mine will make your hair softer.
+B	00:05:34.960	00:05:36.560	and cleaner-smelling.
+E	00:05:36.560	00:05:39.840	uh, thanks, but no thanks.
+A	00:05:39.840	00:05:43.749	come on, bob, don't you care about how you look?
+E	00:05:43.759	00:05:45.039	of course i do.
+E	00:05:45.039	00:05:49.520	i shampoo, shower, and shave every day.
+A	00:05:49.520	00:05:51.749	that's all?
+E	00:05:51.759	00:05:53.759	is there more to do?
+A	00:05:53.759	00:05:58.479	don't you use any skin care products- body lotion or skin cream?
+E	00:05:58.479	00:06:03.039	no, should i?
+A	00:06:03.039	00:06:05.919	if you want your skin to stay young and healthy.
+A	00:06:05.919	00:06:07.360	do you use any conditioner?
+E	00:06:07.360	00:06:08.560	that's for women.
+B	00:06:08.560	00:06:10.309	lots of men use it, too.
+E	00:06:10.319	00:06:11.360	really?
+A	00:06:11.360	00:06:12.720	sure.
+A	00:06:12.720	00:06:16.469	women like men who take care of their appearance.
+E	00:06:16.479	00:06:18.800	really?
+E	00:06:18.800	00:06:19.440	okay.
+E	00:06:20.080	00:06:22.319	well, what else should i do?
+E	00:06:22.319	00:06:24.469	you don't want me to wear makeup, do you?
+E	00:06:24.479	00:06:26.508	lipstick, mascara, eyeshadow...
+B	00:06:26.515	00:06:27.590	no.
+B	00:06:27.600	00:06:30.479	but how about a manicure?
+B	00:06:30.479	00:06:32.070	i'm serious.
+B	00:06:32.080	00:06:34.319	look at your nails, they're a mess.
+E	00:06:34.319	00:06:35.749	men get manicures?
+A	00:06:35.759	00:06:37.680	many do, yes.
+B	00:06:37.680	00:06:40.400	we can give you one right here.
+E	00:06:40.400	00:06:41.600	really?
+B	00:06:41.600	00:06:43.590	piece of cake.
+E	00:06:43.600	00:06:46.830	well, okay.
+B	00:06:46.840	00:06:48.000	great!
+B	00:06:48.000	00:06:49.680	then we can talk about your haircut.
+B	00:06:49.680	00:06:51.233	facial, and face-lift.
+E	00:06:52.220	00:06:52.997	what?
+E	00:07:02.400	00:07:06.550	what is this stuff on my face?
+B	00:07:06.560	00:07:11.990	it makes your skin soft and smooth.
+E	00:07:12.000	00:07:16.629	it tastes terrible.
+B	00:07:16.639	00:07:20.309	sorry.
+E	00:07:20.319	00:07:24.150	i can't believe you cut my hair.
+E	00:07:24.160	00:07:26.639	and what'd you put in it?
+B	00:07:26.639	00:07:27.678	some hairs pray.
+E	00:07:28.234	00:07:29.195	hairs pray!
+B	00:07:30.160	00:07:32.870	not much.
+B	00:07:32.880	00:07:38.469	you'll like it.
+B	00:07:38.479	00:07:41.360	there.
+E	00:07:41.360	00:07:42.550	wow!
+E	00:07:42.560	00:07:47.350	my nails look great!
+E	00:07:47.360	00:07:48.729	could i get a pedicure, too?
+A	00:07:50.400	00:07:51.272	no!
+E	00:07:54.174	00:07:56.191	my hair looks great, too!
+B	00:07:57.280	00:07:59.350	see what a little personal care can do?
+E	00:07:59.360	00:08:00.240	wow!
+E	00:08:00.240	00:08:05.430	thank you so much.
+A	00:08:05.440	00:08:11.350	you know, it's customary to tip the person who gives you a haircut.
+E	00:08:11.360	00:08:13.440	how do i look?
+B	00:08:13.440	00:08:14.710	good.
+B	00:08:14.720	00:08:16.960	you look really, really good!
+B	00:08:16.960	00:08:19.599	you look amazing!
+E	00:08:19.599	00:08:22.080	then let's get pizza, my treat.
+B	00:08:22.080	00:08:23.830	great!
+E	00:08:23.840	00:08:30.080	you can never tell anyone about this, especially the facial.
+B	00:08:30.080	00:08:31.670	deal.
+E	00:08:31.680	00:08:40.710	now when can i get an appointment for another manicure?
+
+D	00:08:44.720	00:08:55.120	hello, top-notch travel.
+D	00:08:55.120	00:08:58.949	one moment please.
+D	00:08:58.959	00:09:00.880	hello, top-notch.
+D	00:09:00.880	00:09:04.710	just a moment please.
+D	00:09:04.720	00:09:06.640	top-notch.
+D	00:09:06.640	00:09:10.710	hold please.
+D	00:09:10.720	00:09:12.560	hello.
+D	00:09:12.560	00:09:14.710	hi, mrs beatty.
+D	00:09:14.720	00:09:15.680	cheryl?
+D	00:09:15.680	00:09:19.350	i'm afraid cheryl's not here.
+D	00:09:19.360	00:09:23.350	you're not satisfied with your hotel?
+D	00:09:23.360	00:09:25.200	no bellman?
+D	00:09:25.200	00:09:27.350	i'm sorry.
+D	00:09:27.360	00:09:32.150	cheryl will call you back.
+D	00:09:32.160	00:09:32.746	okay.
+D	00:09:34.496	00:09:35.361	goodbye.
+D	00:09:39.040	00:09:39.864	hello?
+D	00:09:40.557	00:09:42.279	yes, hello, mr rashid.
+D	00:09:43.680	00:09:44.714	cheryl's not here.
+D	00:09:44.731	00:09:48.230	can i take a message?
+D	00:09:48.240	00:09:52.230	you want a cheaper hotel in budapest.
+D	00:09:52.240	00:09:57.750	a hotel without breakfast is ok.
+D	00:09:57.760	00:09:59.360	very good.
+D	00:09:59.360	00:10:03.509	i'll give cheryl your message.
+D	00:10:03.519	00:10:06.870	goodbye.
+D	00:10:06.880	00:10:08.800	hello?
+D	00:10:08.800	00:10:12.560	oh, hi, ms novak.
+D	00:10:12.560	00:10:14.630	she'll be right back.
+D	00:10:14.640	00:10:17.360	is there a message?
+D	00:10:17.360	00:10:21.590	can your cat stay with you at your hotel in rio?
+D	00:10:21.600	00:10:26.640	and you'd like to reserve a king-size bed.
+D	00:10:26.640	00:10:30.829	i'll ask her to check and call you,bye-bye.
+D	00:10:33.760	00:10:34.800	oh! you're back.
+D	00:10:34.800	00:10:37.440	i have three messages for you.
+D	00:10:37.440	00:10:39.600	let's see.
+D	00:10:39.600	00:10:43.279	mrs beatty wants a cheaper cat.
+D	00:10:43.279	00:10:48.870	mr rashid isn't satisfied with his breakfast.
+D	00:10:48.880	00:10:55.590	and ms novak thinks the bellman needs a king-sized bed.
+D	00:10:59.600	00:11:12.829	they'll explain it all to you.
+
+A	00:11:20.800	00:11:27.040	hello, i'd like to speak to a guest mrs beatty in room five fourteen.
+A	00:11:27.040	00:11:31.990	thank you.
+F	00:11:32.000	00:11:33.040	hello?
+A	00:11:33.040	00:11:35.110	hello, mrs beatty?
+A	00:11:35.120	00:11:37.279	this is cheryl from top notch.
+A	00:11:37.279	00:11:39.279	how's los angeles?
+F	00:11:39.279	00:11:42.470	well, the hotel isn't very nice, dear.
+A	00:11:42.480	00:11:44.640	i'm sorry to hear that.
+A	00:11:44.640	00:11:46.230	are you okay?
+A	00:11:46.240	00:11:48.720	you sound tired.
+F	00:11:48.720	00:11:51.040	my room is on the fifth floor.
+F	00:11:51.040	00:11:53.760	i had to walk up with my luggage.
+A	00:11:53.760	00:11:55.590	there's no bellman?
+A	00:11:55.600	00:11:57.760	no elevator?
+F	00:11:57.760	00:11:59.110	no.
+F	00:11:59.120	00:12:02.710	and i wanted a non-smoking room with a king-size bed.
+A	00:12:02.720	00:12:05.040	and i requested that for you.
+F	00:12:05.040	00:12:09.990	well, they gave me a smoking room with a twin-size bed.
+F	00:12:10.000	00:12:12.079	it's all they have.
+A	00:12:12.079	00:12:14.399	i'd better check your reservation.
+A	00:12:14.399	00:12:17.430	what hotel are you at?
+F	00:12:17.440	00:12:23.750	the candle inn, i think.
+F	00:12:23.760	00:12:28.150	and another thing, they didn't make up the room.
+F	00:12:28.160	00:12:30.160	the towels are dirty.
+A	00:12:30.160	00:12:32.320	did you call housekeeping?
+F	00:12:32.320	00:12:34.320	they're not answering.
+F	00:12:34.320	00:12:37.110	and there are all these students everywhere.
+F	00:12:37.120	00:12:40.949	i thought you said that movie stars stay at this hotel.
+A	00:12:40.959	00:12:48.230	mrs beatty, your reservation is for the chandler inn.
+A	00:12:48.240	00:12:50.720	you're in the wrong hotel.
+A	00:12:50.720	00:12:55.590	the chandler in is a much nicer hotel.
+F	00:12:55.600	00:12:57.440	oh!
+F	00:12:57.440	00:12:59.030	well!
+F	00:12:59.040	00:13:00.959	i'd better call a taxi.
+A	00:13:00.959	00:13:04.310	how will you get your bags to the front desk?
+F	00:13:04.320	00:13:06.470	i'm sure i can find a student to help.
+F	00:13:06.480	00:13:08.150	i'll say i'm a movie star.
+F	00:13:08.160	00:13:09.519	i'll be fine.
+A	00:13:09.519	00:13:12.389	okay, good luck.
+F	00:13:12.399	00:13:19.590	goodbye.
+
+C	00:13:19.600	00:13:22.790	give us another one, marie.
+A	00:13:22.800	00:13:26.629	we're running out of time.
+A	00:13:26.639	00:13:29.120	oh, there she is.
+G	00:13:29.120	00:13:30.710	i'm sorry i'm late.
+G	00:13:30.720	00:13:32.959	i couldn't find a parking space.
+G	00:13:32.959	00:13:34.470	have you been here long?
+E	00:13:34.480	00:13:36.079	since yesterday.
+E	00:13:36.079	00:13:37.750	but it's no problem.
+E	00:13:37.760	00:13:39.760	the waiter brought us food.
+E	00:13:39.760	00:13:44.230	and we slept on the floor.
+G	00:13:44.240	00:13:46.160	have you chosen a movie yet?
+A	00:13:46.160	00:13:47.519	we've been trying.
+A	00:13:47.519	00:13:51.670	unfortunately, these guys have seen almost everything.
+C	00:13:51.680	00:13:54.480	we like the movies.
+F	00:13:54.480	00:13:59.509	what about the action film, the last train to hong kong?
+E	00:13:59.519	00:14:01.279	"where is this train going?"
+C	00:14:01.279	00:14:03.760	"believe me, you'd rather not know."
+E	00:14:03.760	00:14:07.269	"we're going to hong kong, aren't we?"
+C	00:14:07.279	00:14:09.829	"rather stay here and fight the one hunderd men?"
+E	00:14:09.839	00:14:13.293	"no, and i've always wanted to see hong kong."
+C	00:14:13.550	00:14:14.136	"look out!"
+A	00:14:16.800	00:14:20.949	they've been doing this for a half hour.
+G	00:14:20.959	00:14:24.389	that looks a little too violent for me.
+G	00:14:24.399	00:14:26.720	what about on the bridge?
+G	00:14:26.720	00:14:28.800	i hear it's great.
+E	00:14:28.800	00:14:30.880	"you're late, frederick."
+C	00:14:30.880	00:14:32.870	"i'm sorry."
+E	00:14:32.880	00:14:36.550	"and i've waited for you for so long."
+C	00:14:36.560	00:14:40.389	"i got stuck in traffic."
+E	00:14:40.399	00:14:43.360	"for two years?"
+A	00:14:43.360	00:14:46.079	very romantic.
+G	00:14:46.079	00:14:50.310	how about the horror movie the hand?
+C	00:14:50.320	00:14:52.492	"i've just returned from the train station. 
+C	00:14:52.509	00:14:53.823	have you seen anything lately?"
+E	00:14:53.760	00:14:56.320	"no, we should go inside."
+C	00:14:56.320	00:14:59.670	"good idea. i don't want to see that terrible head."
+E	00:14:59.680	00:15:02.949	"do you really think there's a hand out there that..."
+G	00:15:02.959	00:15:05.120	stop doing that right now.
+G	00:15:05.120	00:15:07.211	and the movie tickets are my treat.
+E	00:15:07.767	00:15:08.674	deal!
+G	00:15:12.880	00:15:14.042	i'm not buying you popcorn.
+A	00:15:16.079	00:15:21.829	so, what do you want to do?
+A	00:15:21.839	00:15:25.509	hey, isn't that david doolittle?
+A	00:15:25.519	00:15:27.503	the famous british actor?
+G	00:15:27.524	00:15:28.083	you're right!
+G	00:15:28.092	00:15:28.966	it is!
+E	00:15:28.639	00:15:29.767	let's go say hi.
+G	00:15:29.809	00:15:37.269	no! don't! what are you doing?
+C	00:15:37.279	00:15:40.310	aren't you david doolittle?
+H	00:15:40.320	00:15:41.199	yes, i am.
+E	00:15:41.199	00:15:43.829	wow, we really like your movies.
+H	00:15:43.839	00:15:44.480	thank you.
+C	00:15:44.480	00:15:45.440	you're great!
+H	00:15:45.440	00:15:46.959	thank you very much.
+C	00:15:46.959	00:15:49.839	remember that movie where you were that dancer?
+C	00:15:49.839	00:15:51.430	what was that called?
+H	00:15:51.440	00:15:52.181	the dancer.
+C	00:15:52.732	00:15:53.530	that's it!
+C	00:15:53.462	00:15:54.868	that was unforgettable!
+E	00:15:55.920	00:15:57.749	i love that one where you're the chef.
+E	00:15:57.759	00:15:59.990	what's that one called?
+H	00:16:00.000	00:16:01.320	docter fork?
+E	00:16:01.320	00:16:02.320	that's it!
+E	00:16:02.320	00:16:03.920	that was so funny!
+E	00:16:03.920	00:16:05.440	unforgettable, man.
+H	00:16:05.440	00:16:06.629	thank you.
+C	00:16:06.639	00:16:12.680	my favorite is the one where you're that robot musician named...
+H	00:16:12.777	00:16:13.811	did you forty-two.
+C	00:16:13.792	00:16:14.183	yeah!
+C	00:16:14.800	00:16:16.797	i just saw that movie again last week.
+C	00:16:16.809	00:16:18.215	that's a great movie.
+C	00:16:18.160	00:16:19.279	what's that called?
+H	00:16:19.279	00:16:20.480	songs of love.
+C	00:16:20.480	00:16:23.647	yeah, man. that's unforgettable.
+H	00:16:25.279	00:16:26.800	thanks.
+H	00:16:26.800	00:16:28.550	you know what?
+H	00:16:28.560	00:16:31.519	i have to go soon, and i should finish my lunch.
+E	00:16:31.519	00:16:32.710	oh, right!
+E	00:16:32.720	00:16:34.560	yeah, sorry.
+E	00:16:34.560	00:16:35.839	it was nice to meet you.
+H	00:16:35.839	00:16:37.120	you too.
+H	00:16:37.120	00:16:37.888	take it easy.
+E	00:16:38.639	00:16:39.508	take it easy.
+E	00:16:40.320	00:16:43.107	isn't that what you say at the end of that movie?
+E	00:16:43.129	00:16:44.870	where you're the pilot?
+H	00:16:44.880	00:16:45.745	pie in the sky.
+E	00:16:45.778	00:16:46.367	yeah!
+C	00:16:46.160	00:16:48.289	that was unforgettable, man.
+E	00:16:48.273	00:16:49.349	unforgettable.
+H	00:16:49.759	00:16:51.177	would you guys care to join me?
+C	00:16:55.519	00:16:57.513	what's your favorite movie?
+
+C	00:17:07.679	00:17:10.400	hello.
+A	00:17:10.400	00:17:13.679	paul, what happened to you?
+C	00:17:13.679	00:17:15.510	i had an accident with the van.
+G	00:17:15.520	00:17:16.480	oh, no!
+G	00:17:16.480	00:17:17.520	are you okay?
+C	00:17:17.520	00:17:18.710	i'm fine.
+C	00:17:18.720	00:17:20.559	i was wearing my seat belt.
+C	00:17:20.559	00:17:21.919	no one was hurt.
+C	00:17:21.919	00:17:23.760	but i think we're going to need a new van.
+E	00:17:23.760	00:17:25.350	what happened?
+C	00:17:25.360	00:17:27.520	i was driving on sixth street.
+C	00:17:27.520	00:17:29.363	and there were a lot of fish on the road.
+A	00:17:30.720	00:17:32.402	a lot of what?
+C	00:17:33.200	00:17:33.857	fish.
+A	00:17:35.200	00:17:38.390	why were there fish in the road?
+C	00:17:38.400	00:17:40.080	i don't know.
+C	00:17:40.080	00:17:42.710	anyway, i tried to turn.
+C	00:17:42.720	00:17:44.480	but i had a problem with the steering wheel.
+E	00:17:44.480	00:17:46.230	the steering wheel broke?
+C	00:17:46.240	00:17:48.080	no.
+C	00:17:48.080	00:17:50.710	it came off.
+C	00:17:50.720	00:17:54.070	so i drove over the fish.
+C	00:17:54.080	00:17:56.320	the fish made the road slippery.
+C	00:17:56.320	00:17:59.840	so i tried to stop, i hit a parked car.
+E	00:17:59.840	00:18:01.440	oh, no!
+C	00:18:01.440	00:18:03.430	i'm not finished.
+C	00:18:03.440	00:18:06.630	the car behind me was tailgating, so he hit me.
+C	00:18:06.640	00:18:09.600	a car on the opposite side of the road hit a stop sign.
+C	00:18:09.600	00:18:12.175	the stop sign fell and smashed my hood.
+G	00:18:12.203	00:18:13.162	oh, no.
+C	00:18:13.600	00:18:21.480	then, worst of all, when i got out to look at the damage, a piano fell on the van.
+A	00:18:23.679	00:18:26.480	what? where did it come from?
+C	00:18:26.480	00:18:27.909	i don't know.
+C	00:18:27.919	00:18:30.320	but the van does not look good.
+C	00:18:30.320	00:18:31.760	the bumpers are damaged..
+C	00:18:31.760	00:18:32.799	so is the hood.
+C	00:18:32.799	00:18:34.335	the doors won't open.
+C	00:18:34.349	00:18:35.871	the windows won't close.
+C	00:18:35.890	00:18:37.505	the engine's not working.
+C	00:18:37.732	00:18:39.762	the headlights are smashed.
+C	00:18:39.600	00:18:42.400	the horn won't honk.
+C	00:18:42.400	00:18:45.909	and it smells like fish.
+E	00:18:45.919	00:18:49.830	are there any parts that are ok?
+C	00:18:49.840	00:18:52.390	the steering wheel still looks good.
+E	00:18:52.400	00:18:53.280	great!
+E	00:18:53.280	00:19:00.470	all we need is a van to go with it.
+
+G	00:19:00.480	00:19:03.029	we're going to need a van this afternoon.
+G	00:19:03.039	00:19:06.470	you're taking the tourist from chile to the museum.
+G	00:19:06.480	00:19:08.960	i'll call the rental company.
+E	00:19:08.960	00:19:10.240	are you hungry?
+C	00:19:10.240	00:19:11.600	yeah.
+E	00:19:11.600	00:19:14.630	want some my fish sandwich?
+E	00:19:14.640	00:19:20.549	oh, sorry. guess not.
+G	00:19:20.559	00:19:22.080	hi.
+G	00:19:22.080	00:19:24.310	is this autorent?
+G	00:19:24.320	00:19:25.919	i need a rental car.
+C	00:19:25.919	00:19:27.750	a van.
+G	00:19:27.760	00:19:30.320	do you rent vans?
+G	00:19:30.320	00:19:32.390	that's great.
+G	00:19:32.400	00:19:35.110	we'll need to pick it up right away.
+G	00:19:35.120	00:19:38.720	we'll probably need it for two weeks.
+G	00:19:38.720	00:19:42.549	could we return it on the fifteen of the month?
+G	00:19:42.559	00:19:43.679	great.
+C	00:19:43.679	00:19:45.909	four-wheel drive.
+C	00:19:45.919	00:19:49.510	i could take the group from france to the mountains.
+G	00:19:49.520	00:19:53.190	do you have any four-wheel drive vans?
+G	00:19:53.200	00:19:55.909	they don't have four wheel drive vans.
+C	00:19:55.919	00:20:01.590	how about a luxury van with dvd player and stereo?
+G	00:20:01.600	00:20:08.320	do you have any luxury vans with dvd and stereo?
+G	00:20:08.320	00:20:11.760	stereo, yes, dvd, no.
+C	00:20:11.760	00:20:15.070	how about a convertible van?
+C	00:20:15.070	00:20:18.070	ask them.
+G	00:20:18.080	00:20:23.470	do you have any convertible vans?
+G	00:20:24.480	00:20:26.480	what color do you want?
+C	00:20:26.480	00:20:27.750	blue.
+C	00:20:27.760	00:20:30.080	no, red.
+C	00:20:30.080	00:20:32.070	no, green.
+G	00:20:32.080	00:20:35.270	white will be fine.
+G	00:20:35.280	00:20:37.120	insurance?
+G	00:20:37.120	00:20:40.070	yes, we'd like insurance.
+G	00:20:40.080	00:20:44.015	lots and lots of insurance, please.
+

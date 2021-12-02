@@ -1,0 +1,692 @@
+A	00:00:14.476	00:00:15.578	may I help you?
+B	00:00:15.744	00:00:17.021	yes,you can.
+B	00:00:17.910	00:00:23.759	my name is Mark Johnson and I'm five minutes late for a job interview.
+A	00:00:23.759	00:00:25.269	that's okay.
+A	00:00:25.269	00:00:28.210	you can fill out this job application.
+A	00:00:28.210	00:00:31.240	you can have a seat right over there.
+B	00:00:31.240	00:00:33.209	oh!
+B	00:00:33.209	00:00:34.801	okay thank you.
+A	00:00:34.893	00:00:35.594	you're welcome.
+B	00:00:40.909	00:00:41.793	excuse me.
+A	00:00:42.068	00:00:42.769	yes.
+B	00:00:42.861	00:00:50.195	yes, on this application,should I use my full name or my nickname?
+A	00:00:50.110	00:00:53.229	your full name would be the best.
+B	00:00:53.229	00:00:54.310	thank you.
+A	00:00:54.320	00:01:04.120	you're welcome.
+A	00:01:05.122	00:01:06.773	yes.
+B	00:01:05.839	00:01:06.507	excuse me.
+A	00:01:06.615	00:01:07.141	yes.
+B	00:01:08.209	00:01:09.327	for my address.
+B	00:01:09.309	00:01:11.480	do you want my home address?
+B	00:01:11.939	00:01:14.410	or my university address?
+A	00:01:14.410	00:01:18.640	your home address would be the best.
+B	00:01:18.640	00:01:19.790	thank you.
+A	00:01:19.790	00:01:29.220	you're welcome.
+B	00:01:29.230	00:01:30.379	pardon me.
+A	00:01:30.379	00:01:31.720	yes.
+B	00:01:31.720	00:01:34.900	for job experience.
+B	00:01:34.900	00:01:36.886	do you want full-time?
+A	00:01:36.919	00:01:38.050	we want everything.
+A	00:01:38.117	00:01:39.427	we would like everything.
+B	00:01:40.420	00:01:41.900	full-time part-time.
+A	00:01:41.984	00:01:45.096	yes,everything,full-time part-time everything.
+B	00:01:45.125	00:01:45.626	everything?
+A	00:01:45.705	00:01:46.264	yes.
+B	00:01:46.480	00:01:47.540	thank you.
+A	00:01:47.540	00:01:48.233	you're welcome.
+B	00:02:10.648	00:02:11.324	pardon me!
+A	00:02:11.395	00:02:11.912	yes.
+B	00:02:13.473	00:02:14.828	for references.
+A	00:02:16.201	00:02:17.231	you need two.
+A	00:02:17.561	00:02:18.337	two of them.
+A	00:02:18.637	00:02:19.409	OK.
+B	00:02:19.490	00:02:22.137	can it be somebody in my family?
+A	00:02:22.275	00:02:22.709	no.
+A	00:02:23.076	00:02:24.536	it cannot be.
+A	00:02:24.937	00:02:27.886	a family member cannot be a reference.
+A	00:02:28.529	00:02:28.933	no.
+B	00:02:29.030	00:02:29.960	ok.
+A	00:02:29.960	00:02:33.390	yes.
+A	00:02:33.400	00:02:34.790	that's ok.
+A	00:02:34.790	00:02:35.990	don't worry about it.
+A	00:02:35.990	00:02:36.500	um.
+A	00:02:36.500	00:02:37.670	do you have a resume?
+A	00:02:38.524	00:02:39.258	a resume?
+B	00:02:39.283	00:02:39.947	a resume?
+A	00:02:39.972	00:02:40.222	yes.
+B	00:02:40.247	00:02:40.973	oh,yes.
+A	00:02:41.198	00:02:42.838	if you give me a resume.
+A	00:02:42.888	00:02:44.290	that's all we need.
+B	00:02:45.053	00:02:45.550	okay.
+A	00:02:45.579	00:02:46.159	just a resume.
+B	00:02:46.021	00:02:46.517	sure.
+B	00:02:46.542	00:02:47.085	I have it.
+B	00:02:47.168	00:02:47.761	I have one.
+B	00:02:53.180	00:02:53.664	yes.
+B	00:02:54.607	00:02:55.140	here.
+A	00:02:55.520	00:02:56.254	thank you.
+A	00:02:56.605	00:02:57.623	thank you very much.
+A	00:02:57.706	00:03:01.311	please have a seat and my boss will be with you in a moment.
+A	00:03:01.632	00:03:02.691	please sit down.
+A	00:03:02.825	00:03:04.636	just sit down.
+B	00:03:05.316	00:03:05.862	okay.
+B	00:03:12.082	00:03:12.791	Wow!
+B	00:03:13.655	00:03:17.635	I think I should not ask her any more questions.
+
+C	00:03:18.832	00:03:20.288	hello,mr. Johnson.
+C	00:03:21.490	00:03:23.613	I'm Sam Wilson the office manager.
+B	00:03:23.717	00:03:24.785	Oh,how are you?
+C	00:03:24.940	00:03:26.037	I'm fine thank you.
+B	00:03:26.260	00:03:27.414	it's nice to meet you mr. Wilson.
+C	00:03:27.439	00:03:28.548	nice to meet you too.
+C	00:03:28.630	00:03:30.130	would you please move into my office?
+B	00:03:30.130	00:03:31.306	thank you sir.
+
+B	00:03:49.690	00:03:52.190	this is a very nice office.
+C	00:03:52.190	00:03:54.320	thank you,please sit down.
+B	00:03:54.320	00:03:55.490	thank you.
+C	00:03:55.490	00:04:03.359	I understand that you are interested in the position in our sales marketing department.
+B	00:04:03.369	00:04:04.369	yes.
+B	00:04:04.369	00:04:08.272	I think I could do a very good job.
+B	00:04:08.856	00:04:11.259	I think I would enjoy being a Salesman.
+C	00:04:11.320	00:04:13.910	how did you find out about this job?
+B	00:04:13.910	00:04:20.560	I read about it in the classified ads in the newspaper.
+C	00:04:20.560	00:04:29.690	your resume said that you're graduated from the University with a bachelor's degree in both business and chemistry.
+B	00:04:29.780	00:04:35.309	yes,I also graduated with a master's degree in chemical engineering.
+C	00:04:35.319	00:04:39.310	that's very good but for this job you need to know about marketing.
+B	00:04:39.310	00:04:40.869	no problem.
+B	00:04:40.879	00:04:43.420	I've had many courses in marketing.
+C	00:04:43.420	00:04:45.620	do you have your transcripts with you?
+B	00:04:45.620	00:04:46.580	yes.
+B	00:04:46.580	00:04:57.050	I have copies of both my bachelor's degree and my master's degree transcripts.
+C	00:04:56.498	00:05:03.181	Oh.they're great. ok thank you.
+C	00:05:03.140	00:05:06.340	tell me about your past work experience.
+B	00:05:06.340	00:05:11.360	well,I worked for six months delivering pizzas.
+B	00:05:11.360	00:05:12.797	when I was in university.
+C	00:05:12.885	00:05:14.074	that's very good.
+C	00:05:14.579	00:05:17.069	but for this job you will need to know about marketing.
+C	00:05:17.124	00:05:19.385	tell me about your experience in business.
+B	00:05:19.727	00:05:22.159	oh,well um.
+B	00:05:23.273	00:05:29.334	when I studied at the University I worked part-time as a sales clerk.
+C	00:05:29.772	00:05:31.545	so you have experience in sales.
+B	00:05:31.666	00:05:40.394	yes,I also worked for two years in a chemical company in town in the marketing department.
+C	00:05:41.821	00:05:43.089	did you enjoy that job?
+B	00:05:43.302	00:05:45.317	yes,I enjoyed it very much!
+C	00:05:47.152	00:05:50.031	well,if you work here I will be your employer.
+C	00:05:50.982	00:05:53.176	I am sure you will enjoy working here also.
+B	00:05:53.744	00:05:54.428	thank you.
+C	00:05:54.770	00:05:57.615	Mark, I think you have the qualifications for this job.
+C	00:05:58.174	00:05:59.768	I would like to welcome you to the company.
+B	00:06:00.051	00:06:00.819	really?
+B	00:06:02.922	00:06:03.514	great!
+B	00:06:04.565	00:06:10.214	thanks a lot mr. Wilson,I promise to be the best employee you have.
+
+B	00:06:23.238	00:06:24.940	hello good morning.
+B	00:06:25.007	00:06:26.108	do you remember me?
+A	00:06:26.250	00:06:27.327	oh yes.
+A	00:06:27.435	00:06:31.540	you're the man who asked so many questions yesterday?
+B	00:06:32.133	00:06:33.309	I'm sorry.
+B	00:06:33.618	00:06:36.288	I was very nervous about the job interview.
+A	00:06:36.822	00:06:37.798	that's okay.
+A	00:06:37.856	00:06:40.960	I was very nervous on my job interview too.
+C	00:06:42.962	00:06:43.955	mark!
+C	00:06:44.731	00:06:45.507	hello.
+C	00:06:46.742	00:06:47.752	how are you this morning?
+B	00:06:47.793	00:06:50.238	I'm fine thank you mr. Wilson. and you?
+C	00:06:50.572	00:06:51.765	I'm well too.
+C	00:06:52.441	00:06:57.322	but today I am very busy,I have reports to create and I have meetings to attend.
+C	00:06:58.415	00:07:02.603	I think today I will not have time to take you on a tour of the office.
+C	00:07:02.887	00:07:05.882	I'll ask the secretary to do that for us okay?
+C	00:07:06.275	00:07:06.867	Linda?
+A	00:07:07.151	00:07:07.718	yes.
+C	00:07:07.835	00:07:11.181	would you take mr. Johnson for a tour of the office please?
+A	00:07:11.331	00:07:11.990	yes sir.
+C	00:07:12.107	00:07:13.024	thank you very much.
+C	00:07:13.517	00:07:17.580	Oh mark would you meet me today at one o'clock for a business meeting please?
+B	00:07:17.839	00:07:18.281	sure.
+B	00:07:18.289	00:07:20.181	no problem,mr. Wilson. I'll be there.
+C	00:07:20.342	00:07:20.661	thank you.
+A	00:07:22.880	00:07:23.402	okay.
+A	00:07:23.473	00:07:25.252	please come with me mr. Johnson.
+B	00:07:25.352	00:07:25.565	oh.
+B	00:07:26.789	00:07:29.249	please call me mark.
+A	00:07:30.006	00:07:30.427	okay.
+A	00:07:36.015	00:07:43.126	okay,mark this will be your desk and this is your chair,this is your telephone.
+A	00:07:43.595	00:07:45.550	then these are your files.
+B	00:07:46.939	00:07:48.965	how I feel like it's my birthday.
+A	00:07:49.791	00:07:52.823	well here's some more birthday presents.
+A	00:07:53.180	00:07:55.927	here are your pens and pencils.
+A	00:07:56.144	00:07:59.903	your calculator,your ruler.
+A	00:08:00.998	00:08:02.827	your scissors.
+A	00:08:03.881	00:08:05.362	your stapler.
+A	00:08:16.158	00:08:16.774	you're welcome.
+B	00:08:17.719	00:08:21.573	by the way a moment ago,I didn't hear your name.
+A	00:08:22.030	00:08:24.141	Oh my name is Linda.
+A	00:08:24.387	00:08:25.384	how do you do?
+B	00:08:28.092	00:08:30.741	yes nice......nice to meet you Linda.
+B	00:08:31.876	00:08:32.406	so.
+B	00:08:37.107	00:08:39.139	do you work here every day?
+A	00:08:39.660	00:08:42.760	yes,I work here Monday to Friday.
+B	00:08:43.240	00:08:47.791	oh,so you're free on Saturday and Sunday?
+A	00:08:48.350	00:08:52.226	well,yes,I don't work on Saturday or Sunday.
+B	00:08:52.213	00:08:55.238	Oh,neither do I.
+B	00:08:56.681	00:09:08.112	so if you have some free time,maybe we could go to see a movie and eat some dinner?
+A	00:09:08.433	00:09:09.134	sure.
+A	00:09:09.172	00:09:10.598	that would be nice!
+A	00:09:11.887	00:09:14.441	would you mind can I ask you a question?
+B	00:09:14.737	00:09:15.680	sure!
+A	00:09:16.401	00:09:20.348	when we go and see you movie and eat dinner.
+B	00:09:20.932	00:09:21.629	yes.
+A	00:09:22.142	00:09:26.455	would you mind if I invited my husband and three children?
+B	00:09:28.858	00:09:32.934	husband and children?
+B	00:09:33.038	00:09:36.413	oh,sure that,that's fine.
+B	00:09:36.756	00:09:41.616	um,so uh.
+B	00:09:42.237	00:09:45.153	if if I need to send a fax.
+B	00:09:45.291	00:09:47.068	where's the fax machine?
+A	00:09:47.360	00:09:49.438	the fax machine is in here.
+B	00:09:50.047	00:09:51.173	okay and.
+B	00:09:51.532	00:09:53.526	oh what about a computer?
+A	00:09:53.964	00:09:58.207	the computers are over there and you can use them anytime.
+B	00:09:58.457	00:09:59.062	OK.
+
+D	00:10:01.365	00:10:02.174	oh mark.
+A	00:10:02.195	00:10:04.406	I would like to introduce you to.
+A	00:10:04.569	00:10:07.289	Tom Brown and Susan Davis.
+A	00:10:07.560	00:10:13.138	tom is the purchasing manager and Susan is the marketing supervisor.
+B	00:10:13.250	00:10:14.523	it's nice to meet you both.
+E	00:10:14.652	00:10:15.128	thank you.
+E	00:10:15.015	00:10:16.333	it's nice to meet you also.
+D	00:10:16.892	00:10:18.294	you're the new place aren't you?
+B	00:10:18.398	00:10:20.697	yes,today is my first day.
+E	00:10:20.906	00:10:22.199	welcome to our company.
+D	00:10:22.512	00:10:24.468	yes,welcome to the company.
+D	00:10:24.840	00:10:27.426	in fact I will be your supervisor.
+D	00:10:28.069	00:10:31.377	Linda do you mind if I take mr. Johnson now?
+D	00:10:31.419	00:10:33.434	and talk to him about his new job.
+A	00:10:33.534	00:10:34.422	not at all.
+A	00:10:34.468	00:10:37.343	I've just finished giving him the company tour.
+A	00:10:37.843	00:10:39.232	well,goodbye mark.
+B	00:10:39.437	00:10:40.530	see you later Linda.
+B	00:10:40.609	00:10:41.306	see you later.
+
+D	00:10:52.102	00:10:54.539	so mark how do you like your new job?
+B	00:10:54.877	00:10:57.359	well I think I like it a lot.
+B	00:10:57.638	00:11:01.831	but I don't know very much about what I will be doing.
+D	00:11:02.532	00:11:04.267	oh that's no problem.
+D	00:11:04.430	00:11:06.416	I can tell you what ever you need to know.
+B	00:11:07.033	00:11:07.496	good.
+B	00:11:08.865	00:11:10.913	what will be my work schedule?
+D	00:11:11.472	00:11:16.537	well you'll be working about one hundred hours a week.
+B	00:11:16.653	00:11:18.589	one hundred hours a week?
+B	00:11:19.553	00:11:21.117	isn't that a lot of work?
+D	00:11:21.660	00:11:26.424	I'm just joking mark he'll be working about forty hours a week.
+B	00:11:26.461	00:11:27.283	okay.
+B	00:11:28.385	00:11:30.391	what time should I come in the morning?
+D	00:11:31.059	00:11:34.417	you should be here around nine o'clock in the morning.
+D	00:11:34.726	00:11:39.323	and you can go home at around five o'clock in the evening.
+B	00:11:39.698	00:11:42.648	that's a lot better than one hundred hours a week.
+D	00:11:42.806	00:11:43.687	yes it is.
+D	00:11:44.354	00:11:48.297	your job is going to be to sell our product to the customer.
+B	00:11:48.430	00:11:48.977	okay.
+B	00:11:49.865	00:11:51.680	how would I do that?
+D	00:11:52.489	00:11:56.694	well you'll need to call them on the telephone and set up an appointment.
+D	00:11:57.078	00:12:00.674	then when you meet them you can discuss our product with them.
+B	00:12:01.404	00:12:03.023	when I meet with our customers.
+B	00:12:03.094	00:12:06.949	do I meet them at our office or do I go to their office?
+D	00:12:07.341	00:12:13.624	you should go to their office or if it's more convenient you can meet them for lunch.
+B	00:12:14.433	00:12:16.310	should I pay for their lunch also?
+D	00:12:16.773	00:12:20.807	yes definitely pay for their lunch we have money in our budget for that.
+B	00:12:20.953	00:12:21.508	oh!
+B	00:12:21.859	00:12:24.145	well then maybe I will have steak.
+D	00:12:25.242	00:12:29.497	speaking of food would you like to go to the canteen for a small snack?
+D	00:12:29.798	00:12:31.516	we can talk a little bit more there.
+B	00:12:31.721	00:12:32.672	sure yeah!
+B	00:12:32.801	00:12:35.738	I was just thinking I was a little bit thirsty.
+D	00:12:36.018	00:12:36.506	good.
+D	00:12:36.673	00:12:37.386	let's go.
+D	00:12:37.728	00:12:38.696	I'll show you where it is.
+B	00:12:38.759	00:12:39.130	okay.
+
+B	00:13:00.911	00:13:01.286	okay.	
+D	00:13:02.384	00:13:06.910	anyway you will also have a budget for your travel.
+D	00:13:06.993	00:13:10.506	will pay for your gasoline and your parking.
+B	00:13:10.606	00:13:15.203	really Wow I think I'm going to like this job very much.
+D	00:13:16.338	00:13:20.030	mm-hmm yes there are some very nice things about this job.
+D	00:13:20.773	00:13:23.489	but you will also need to work hard every day.
+B	00:13:23.539	00:13:24.578	and of course.
+D	00:13:25.116	00:13:30.268	you should try to meet with five to ten customers every week.
+B	00:13:30.877	00:13:31.578	why?
+D	00:13:32.199	00:13:34.490	that is our target for our sales staff.
+B	00:13:36.350	00:13:41.473	do we have a target for how many customers should buy our products?
+D	00:13:41.803	00:13:42.863	yes of course.
+B	00:13:42.979	00:13:43.730	how many?
+D	00:13:44.210	00:13:45.119	all of them.
+D	00:13:45.278	00:13:46.650	all of us.
+D	00:13:47.406	00:13:48.027	really?
+D	00:13:48.069	00:13:54.911	we do have goals and targets for our sales stuff but you won't need to worry about that until after your training.
+B	00:13:55.215	00:13:56.025	oh!
+B	00:13:56.116	00:13:58.281	how long will my training be!
+D	00:13:58.828	00:14:01.139	it depends on how quickly you learn.
+B	00:14:01.861	00:14:03.192	oh no.
+D	00:14:03.467	00:14:04.064	what?
+B	00:14:04.589	00:14:11.640	if my training time depends on how quickly I learn I could be training for twenty years.
+D	00:14:14.139	00:14:14.760	okay.
+D	00:14:15.144	00:14:18.878	usually our employees train for six months.
+B	00:14:19.704	00:14:21.310	that sounds like enough time.
+D	00:14:21.493	00:14:27.146	right and also you need to write a sales report for me every Monday.
+B	00:14:28.252	00:14:28.928	okay.
+B	00:14:29.545	00:14:31.093	what do you want me to write?
+D	00:14:31.543	00:14:34.605	you should write what customers you've met with.
+D	00:14:35.582	00:14:39.173	what products they would like to buy and how much.
+B	00:14:39.165	00:14:40.200	okay.
+B	00:14:40.817	00:14:44.192	do we have any other meetings during the week?
+D	00:14:44.739	00:14:46.591	no, not usually.
+D	00:14:47.346	00:14:50.546	but if we do I will send you a memo to tell you about it.
+B	00:14:50.629	00:14:51.142	okay.
+B	00:14:51.397	00:14:57.717	oh do you have a book pamphlets brochures about our products?
+D	00:14:58.093	00:15:00.625	yes there are few.
+B	00:15:00.566	00:15:01.284	okay.
+D	00:15:02.569	00:15:09.515	you can look over them before our business conference today upon.
+B	00:15:15.635	00:15:16.507	a few.
+D	00:15:17.583	00:15:17.950	okay.
+D	00:15:17.950	00:15:20.178	there you are hard enjoy your morning.
+B	00:15:21.334	00:15:29.544	what well at least I don't have to give a presentation about all of this today.
+D	00:15:32.931	00:15:33.807	Oh mark.
+D	00:15:33.849	00:15:35.113	I forgot to tell you.
+D	00:15:35.472	00:15:40.286	please be sure to be prepared to give a presentation before today's meeting.
+D	00:15:40.737	00:15:41.851	about what you've read.
+D	00:15:42.047	00:15:42.710	goodbye.
+
+C	00:15:51.191	00:15:52.726	thank you all for coming today.
+C	00:15:54.132	00:15:57.624	first of all, I would like you all to meet mr. mark Johnson.
+C	00:15:57.879	00:15:59.923	he's our new salesperson with the company.
+D	00:16:01.988	00:16:04.015	I think mark has met everyone.
+D	00:16:04.875	00:16:06.427	oh except for Ann.
+F	00:16:07.048	00:16:10.352	hello mark, I'm Ann, nice to meet you.
+F	00:16:10.469	00:16:11.979	I'm a salesperson too.
+B	00:16:12.038	00:16:13.410	it's nice to meet you,ann.
+B	00:16:13.631	00:16:17.198	maybe you can help to teach me about my new job.
+F	00:16:17.449	00:16:19.622	sure we can be a team.
+F	00:16:19.826	00:16:21.946	you help me I'll help you.
+C	00:16:22.889	00:16:24.461	that sounds good to me, too.
+C	00:16:24.749	00:16:26.522	now let's talk about business.
+C	00:16:26.902	00:16:29.739	Linda will you please take notes of our meeting for us.
+A	00:16:29.760	00:16:33.218	sure,I have my pen and paper ready.
+C	00:16:32.692	00:16:35.921	great, please read the notes of our last meeting for us.
+A	00:16:36.092	00:16:36.797	okay.
+A	00:16:37.390	00:16:40.381	first we talked about the budget for next year.
+D	00:16:40.957	00:16:43.820	our budget is getting smaller every year.
+A	00:16:44.816	00:16:48.629	second we talked about the new products we are going to be selling.
+B	00:16:49.254	00:16:52.575	she means the products you and I will be selling.
+A	00:16:54.336	00:16:59.488	okay third we talked about the profit that we had last month.
+A	00:17:00.026	00:17:03.530	and first we talked about the bills we had to pay.
+C	00:17:04.657	00:17:07.060	we always have more bills than profits.
+A	00:17:08.995	00:17:13.138	finally we talked about the raising the cost of our new products.
+D	00:17:13.935	00:17:18.144	I'm afraid our customers will think our product is too expensive.
+A	00:17:18.983	00:17:21.060	why is everyone whispering.
+C	00:17:23.104	00:17:24.252	sorry Linda.
+C	00:17:25.140	00:17:28.444	okay we have a few things to talk about today.
+C	00:17:29.145	00:17:33.008	Susan would you like to give your report.
+D	00:17:34.206	00:17:35.574	yes thank you.
+D	00:17:38.502	00:17:41.356	I have a thin scrap I would like to show everyone.
+D	00:17:42.228	00:17:45.540	this shows how well we are selling our product this year.
+D	00:17:47.618	00:17:55.227	this line is the sales of our product and this line is the sales of our competitors product!
+F	00:17:55.891	00:18:00.546	so if that line goes up am i doing a good job.
+D	00:18:00.884	00:18:01.810	exactly!
+F	00:18:02.169	00:18:07.763	okay and if that line goes up does my salary go up.
+D	00:18:08.089	00:18:12.911	good question and we'll talk about that after the meeting.
+B	00:18:13.562	00:18:17.175	Susan do we have many competitors?
+D	00:18:17.751	00:18:21.184	no, not really, but enough to keep us busy.
+D	00:18:23.758	00:18:28.877	anyway good job man I'm sure you and mark will do even better next month.
+C	00:18:30.408	00:18:31.468	Thank You Susan.
+C	00:18:31.826	00:18:32.607	very good.
+C	00:18:33.320	00:18:35.168	Tom do you have anything to tell everyone?
+E	00:18:35.481	00:18:41.768	yes don't forget if you want me to buy something for your office the deadline is tomorrow.
+D	00:18:42.389	00:18:42.944	oh.
+D	00:18:43.278	00:18:45.739	I need a new typewriter mine is broken.
+E	00:18:46.282	00:18:53.194	okay no problem if anyone wants me to buy something tell me before the deadline.
+C	00:18:55.247	00:18:56.982	okay is that everything?
+C	00:18:59.110	00:19:01.626	okay I think that's all you can go now.
+A	00:19:03.962	00:19:09.535	oh wait mark has the presentation he would like to give about his new job.
+B	00:19:12.047	00:19:12.798	oh yeah.
+B	00:19:14.971	00:19:15.680	okay.
+D	00:19:47.799	00:19:50.807	mark Friday at one o'clock.
+D	00:19:50.924	00:19:53.043	I would like you to go with me to a seminar.
+B	00:19:53.798	00:19:56.881	sure, no problem, Friday one o'clock.
+D	00:19:57.720	00:20:01.166	maybe you should write that on your calendar so you don't forget.
+B	00:20:01.875	00:20:03.956	really. no problem.
+B	00:20:04.232	00:20:06.614	I can remember I promise.
+D	00:20:07.127	00:20:09.426	okay see you on Friday.
+B	00:20:09.492	00:20:09.960	okay.
+D	00:20:10.590	00:20:12.183	Oh mark.
+D	00:20:12.976	00:20:17.156	now you should probably call some customers and make some appointments.
+B	00:20:17.865	00:20:18.549	okay.
+B	00:20:23.831	00:20:30.543	let's see who would be a good company to call?
+B	00:20:34.790	00:20:36.868	this looks like a good company.
+B	00:20:38.253	00:20:41.498	maybe they will be interested in our products.
+G	00:20:45.420	00:20:47.498	in st company good afternoon.
+B	00:20:47.923	00:20:51.127	yes hello my name is Mark Johnson.
+B	00:20:51.423	00:20:54.285	I'm calling from the Wilson marketing company.
+B	00:20:54.807	00:20:57.618	may I please speak to the production manager?
+G	00:20:58.603	00:21:02.512	ah that would be Jim Pearson just a moment I will connect you.
+H	00:21:06.859	00:21:07.777	hello.
+H	00:21:08.286	00:21:10.405	this is Jim Pearson can I help you?
+B	00:21:10.638	00:21:14.865	yes hello mr. Pierson my name is Mark Johnson.
+B	00:21:15.261	00:21:17.781	I'm calling from the Wilson marketing company.
+B	00:21:17.885	00:21:18.940	how are you today?
+H	00:21:19.232	00:21:21.869	fine thank you mr. Johnson.
+B	00:21:22.641	00:21:24.656	are you the production manager?
+H	00:21:25.290	00:21:28.181	yes I am how can I help you?
+B	00:21:28.773	00:21:31.777	actually I think I can help you.
+H	00:21:32.557	00:21:34.464	really how?
+B	00:21:35.386	00:21:42.857	I have many products that I can show you that will help your company to save a lot of money.
+B	00:21:43.637	00:21:49.315	you will have more production and better quality if you use our products.
+H	00:21:49.916	00:21:57.863	really that's very interesting are they expensive products or are they cheap products?
+B	00:21:58.072	00:22:00.842	we can talk about the price later!
+B	00:22:01.468	00:22:06.286	I would like to meet with you to talk with you more if you are free.
+H	00:22:11.100	00:22:16.599	actually mr. Johnson I'm very busy every day this week.
+B	00:22:18.376	00:22:22.022	do you have one hour free this week?
+B	00:22:25.526	00:22:28.530	I promise I won't be wasting your time.
+H	00:22:29.519	00:22:36.728	well I have a little bit of time at lunchtime on Friday.
+B	00:22:37.337	00:22:42.059	if it is convenient we can eat lunch together on Friday.
+H	00:22:43.365	00:22:44.763	that would be fine.
+B	00:22:45.380	00:22:52.259	how about one o'clock on Friday at the Blue Moon restaurant.
+H	00:22:54.041	00:22:58.354	one o'clock on Friday that's fine.
+H	00:22:59.251	00:23:03.961	okay then I will see you at the Blue Moon restaurant.
+B	00:23:04.892	00:23:10.361	one o'clock on Friday fine thank you very much for your time mr. Pierson.
+H	00:23:10.740	00:23:12.680	you're welcome mr. Johnson.
+H	00:23:12.690	00:23:13.690	goodbye.
+B	00:23:13.690	00:23:17.490	goodbye.
+
+C	00:23:17.741	00:23:20.073	mark I need you to help me.
+B	00:23:20.782	00:23:23.068	me? help you?
+B	00:23:23.865	00:23:26.589	sure I'll do anything to help you sir.
+C	00:23:26.643	00:23:27.227	anything.
+B	00:23:27.565	00:23:28.354	anything.
+C	00:23:28.792	00:23:31.045	I need you to take me to the airport this week.
+B	00:23:31.378	00:23:32.809	sure no problem.
+B	00:23:32.855	00:23:33.406	when?
+C	00:23:33.973	00:23:35.258	Friday at one o'clock.
+B	00:23:36.989	00:23:39.639	Friday and one o clock.
+C	00:23:40.064	00:23:42.046	yes thank you for your help.
+C	00:23:42.212	00:23:43.164	I appreciate it.
+B	00:23:46.293	00:23:52.629	oh no I have three appointments on Friday at one o'clock.
+B	00:23:54.152	00:23:58.086	I have a seminar with Susan Friday at one o'clock.
+B	00:23:58.937	00:24:03.384	I must meet my customer Friday at one o'clock.
+B	00:24:04.336	00:24:10.852	and I must take my boss to the airport Friday at one o'clock.
+B	00:24:14.957	00:24:22.337	number one cancel seminar with Susan.
+B	00:24:24.185	00:24:38.332	number two ask someone to take my boss to the airport for me.
+B	00:24:40.392	00:24:52.595	number three meet my customer Friday at one o'clock at the restaurant.
+B	00:24:55.945	00:25:03.204	and number four buy a new calendar.
+
+H	00:25:33.420	00:25:35.377	you must be mark Johnson.
+B	00:25:35.410	00:25:37.529	you must be mr. Pierson.
+H	00:25:38.005	00:25:38.310	yes.
+H	00:25:39.357	00:25:40.984	oh sorry I'm late.
+B	00:25:41.155	00:25:42.936	never mind please sit down.
+H	00:25:42.969	00:25:43.570	thank you.
+B	00:25:44.792	00:25:46.319	would you like something to drink?
+H	00:25:46.503	00:25:49.023	oh,yes, some tea would be nice.
+B	00:25:49.089	00:25:51.288	okay waitress!
+B	00:25:53.153	00:25:55.130	a cup of tea please.
+B	00:25:58.922	00:26:00.220	so mr. Pierson.
+B	00:26:00.917	00:26:03.591	I hear that your company is very large.
+H	00:26:04.212	00:26:06.911	yes it is a very large company.
+H	00:26:07.504	00:26:10.069	we have more than one million customers.
+B	00:26:11.667	00:26:19.081	and it seems that your company is not only domestic but it is also an international company.
+H	00:26:19.214	00:26:21.817	yes it is an international company.
+H	00:26:22.301	00:26:26.419	it has customers in more than ten countries.
+B	00:26:27.349	00:26:30.136	I think you must be a very busy man.
+H	00:26:30.507	00:26:32.818	yes I stay very busy.
+I	00:26:34.178	00:26:39.472	okay what can I get for you to eat today?
+H	00:26:39.856	00:26:41.187	I would like a steak.
+I	00:26:41.608	00:26:44.591	all right and what can I get for you sir?
+B	00:26:45.843	00:26:47.908	I think I would like a steak also.
+I	00:26:49.293	00:26:52.205	okay I'll have that back in about five minutes.
+B	00:26:52.305	00:26:52.780	thank you.
+B	00:26:52.880	00:26:53.456	thank you.
+H	00:27:20.043	00:27:23.643	how long have you worked at Wilson marketing company?
+B	00:27:24.795	00:27:28.015	well not very long actually.
+B	00:27:29.092	00:27:35.191	this is my first week but I have worked in chemical sales for several years.
+H	00:27:35.762	00:27:38.637	really? how do you like it?
+B	00:27:38.720	00:27:40.159	oh I love it.
+B	00:27:40.422	00:27:46.884	it is a very good job and the products that I will sell to you are very good also.
+H	00:27:47.398	00:27:54.239	that is if I buy the products I have to know about them first before I decide to buy them.
+B	00:27:54.344	00:27:55.946	that's true, that's true.
+B	00:27:56.104	00:27:57.527	um today.
+B	00:27:57.618	00:28:06.217	I just wanted to meet with you for a short time and talk with you about how our products can help you.
+B	00:28:11.644	00:28:14.681	these papers explain how the products will help.
+H	00:28:16.579	00:28:18.502	what is this page about?
+B	00:28:18.632	00:28:19.082	okay.
+B	00:28:19.558	00:28:28.640	this page lists our product specifications and explains the chemical processes of our products.
+H	00:28:30.129	00:28:30.934	I see.
+H	00:28:32.440	00:28:35.181	and about this page.
+B	00:28:35.607	00:28:46.220	well this page is a report about the new high technology that we used to research and develop our products.
+H	00:28:47.238	00:28:47.822	okay.
+H	00:28:51.414	00:28:53.083	and how about this page?
+B	00:28:53.341	00:29:03.024	okay this page lists all of the advantages that your company will receive when you use our products.
+H	00:29:05.110	00:29:13.399	good,could you give me a few days to read them and to talk with my staff about them.
+B	00:29:13.499	00:29:15.176	sure, no problem.
+B	00:29:16.098	00:29:22.248	maybe I can meet with you again next week and we can discuss our products then.
+H	00:29:22.344	00:29:24.171	yes,I think it would be fine.
+B	00:29:26.820	00:29:27.742	thank you.
+B	00:29:41.396	00:29:43.841	also I need a receipt please.
+I	00:29:43.899	00:29:45.184	okay I'll be right back.
+B	00:29:45.222	00:29:45.764	thank you.
+B	00:29:50.753	00:30:00.891	okay here are some papers and brochures with information about our products.
+H	00:30:03.769	00:30:04.433	thank you.
+H	00:30:05.104	00:30:08.459	you know mark I'm really glad I met you today.
+H	00:30:08.822	00:30:12.555	it seems like we're already friends.
+B	00:30:12.989	00:30:14.967	Thank You mr. Pearson.
+B	00:30:15.475	00:30:19.038	so when would be a good day to meet next week?
+H	00:30:26.481	00:30:29.384	I think Tuesday morning is good.
+H	00:30:29.993	00:30:31.041	are you free then?
+B	00:30:45.875	00:30:47.494	yes.Tuesday is fine.
+B	00:30:48.354	00:30:53.247	so I will meet you at your office on next Tuesday.
+B	00:30:56.071	00:31:02.004	and if you have any questions about our products you can ask me then.
+H	00:31:02.325	00:31:03.030	okay.
+H	00:31:04.736	00:31:07.619	thank you for lunch mark it was delicious.
+H	00:31:07.869	00:31:08.653	you're welcome.
+B	00:31:09.592	00:31:12.729	all right so I'll see you next Tuesday.
+H	00:31:13.468	00:31:15.166	yes. it will be fine.
+H	00:31:16.805	00:31:17.435	good bye mark.
+B	00:31:17.519	00:31:18.607	goodbye mr. Pearson.
+
+E	00:31:30.522	00:31:32.241	hello mark come in please.
+B	00:31:32.541	00:31:34.156	hello how are you today?
+E	00:31:34.736	00:31:35.662	fine thank you.
+B	00:31:36.087	00:31:37.493	did you have a nice weekend?
+E	00:31:37.631	00:31:41.081	yes it was very nice I spent time with my family.
+E	00:31:41.377	00:31:43.596	I took my children to a football game.
+B	00:31:44.514	00:31:46.329	sounds like you had a nice time.
+B	00:31:47.368	00:31:50.438	I hope you're not too busy to talk with me today.
+E	00:31:50.739	00:31:51.727	no never mind.
+E	00:31:53.087	00:31:56.458	I have read all of your papers about the products.
+B	00:31:56.654	00:31:59.958	oh good what do you think are you interested.
+E	00:32:00.196	00:32:07.046	your products are very interesting but I have some questions about the products.
+B	00:32:07.668	00:32:10.409	no problem.what would you like to know?
+E	00:32:10.805	00:32:14.547	okay.tell me about these products,mark.
+B	00:32:14.893	00:32:21.835	okay,well you can use these products in your machines at your factory.
+E	00:32:22.860	00:32:25.390	really how will they help?
+B	00:32:25.390	00:32:31.230	well first of all they can help your machines to run faster.
+E	00:32:31.230	00:32:40.329	you mean they will help to improve the production if I use these products?
+B	00:32:40.329	00:32:49.470	yes you will have more production and you will have better quality if you use these products.
+E	00:32:49.470	00:32:54.360	for my factory which product is the best to use?
+B	00:32:54.360	00:32:56.669	let's see.
+B	00:32:56.669	00:33:06.250	I think this product is the best for your factory.
+E	00:33:06.260	00:33:06.920	why?
+B	00:33:06.920	00:33:15.340	well because you can use this product in all of your machines and it's very easy to use.
+E	00:33:15.340	00:33:18.199	is it dangerous or toxic?
+B	00:33:18.199	00:33:20.199	oh not at all, not at all.
+E	00:33:20.199	00:33:23.900	and can I store this in my warehouse?
+B	00:33:23.900	00:33:26.350	yes you can.
+E	00:33:26.360	00:33:27.610	for how long?
+B	00:33:27.610	00:33:35.770	you can store this product in your warehouse I for over one year?
+E	00:33:35.780	00:33:40.579	now can I test this product before I buy it?
+B	00:33:40.579	00:33:42.040	you sure can.
+B	00:33:42.050	00:33:49.550	as a matter of fact I have brought a small sample for you to test in your factory.
+B	00:33:49.550	00:33:56.860	ok a small sample.
+B	00:33:56.860	00:34:03.140	I think this will be enough for you to tell.
+E	00:34:03.140	00:34:08.500	yes I am very sure that that will be enough.
+E	00:34:08.500	00:34:13.700	can you help my workers at the factory to test this product.
+B	00:34:14.690	00:34:16.579	can it's very easy.
+E	00:34:16.579	00:34:19.120	ok.
+B	00:34:19.120	00:34:21.890	when would you like to test it?
+E	00:34:25.010	00:34:31.730	well if you have enough time you could go to the factory today.
+E	00:34:31.730	00:34:34.700	I can call and let them know you are coming.
+B	00:34:34.700	00:34:36.430	today?
+B	00:34:36.430	00:34:38.390	sure that's fine.
+B	00:34:38.390	00:34:44.130	that's fine.
+E	00:34:44.140	00:34:46.220	hello is this.
+E	00:34:46.720	00:34:49.180	yes this is Jim.
+E	00:34:49.180	00:34:57.490	today a sales technician will bring the sample to test in the machines can you help them?
+E	00:34:57.490	00:35:01.360	okay thank you.
+B	00:35:01.360	00:35:05.580	wow it sure was easy.
+E	00:35:05.590	00:35:09.490	everything is easy when you are the production manager.
+B	00:35:09.490	00:35:11.550	okay.
+B	00:35:11.560	00:35:17.680	so after we have tested the product in the machines when would you like for me.
+B	00:35:17.690	00:35:21.300	to come again to discuss the results?
+E	00:35:21.310	00:35:23.510	give me one or two weeks.
+E	00:35:23.510	00:35:27.860	I want to look at the data then I will call you.
+B	00:35:27.860	00:35:33.310	no problem we can discuss all of the details then.
+B	00:35:33.310	00:35:37.850	okay thank you very much for your interest Tim.
+E	00:35:37.850	00:35:43.440	I hope it will help my factory to have more production.
+B	00:35:43.450	00:35:46.430	it will I guarantee it.
+E	00:35:46.430	00:35:48.220	you guarantee it?
+B	00:35:48.230	00:35:50.170	yes, I guarantee it.
+E	00:35:50.170	00:35:52.130	okay thank you.
+E	00:35:52.130	00:35:54.290	well thank you very much mark.
+B	00:35:54.290	00:35:55.610	okay thank you Jim.
+E	00:35:55.610	00:35:56.570	goodbye!
+B	00:35:56.570	00:35:58.900	goodbye!
+
+E	00:36:08.680	00:36:09.680	yes.
+B	00:36:09.680	00:36:12.460	this is very important.
+E	00:36:12.460	00:36:17.560	how much will it cost if I only buy one?
+E	00:36:17.560	00:36:23.230	and if I buy two will it be cheaper?
+C	00:36:23.230	00:36:28.600	if I buy two it will be cheaper.
+C	00:36:28.600	00:36:31.680	okay thank you.
+B	00:36:31.690	00:36:37.970	wow it sounded like you were ordering something very important for your company.
+C	00:36:37.970	00:36:43.100	well it's very important but not for my company.
+B	00:36:43.100	00:36:46.190	it sounded very important what did you order?
+C	00:36:46.190	00:36:48.360	I ordered two pizzas.
+C	00:36:48.370	00:36:51.880	I'm miss lunch I'm very hungry.
+B	00:36:51.890	00:36:53.450	I see I see.
+B	00:36:53.450	00:36:56.390	I heard the test went very well.
+B	00:36:56.390	00:36:58.430	are you happy with our product?
+C	00:36:58.430	00:37:04.780	yes I'm very happy with your product and I hope I will be happy with the cost!
+B	00:37:04.780	00:37:09.130	well that's what we are going to talk about today the cost.
+C	00:37:09.130	00:37:14.890	well your product be very expensive or will it be cheap?
+B	00:37:14.890	00:37:16.960	expensive or cheap?
+B	00:37:16.960	00:37:25.310	well our product cost is a little high but don't forget you will have more production.
+B	00:37:25.310	00:37:29.110	and better quality so you. will not lose money.
+C	00:37:29.110	00:37:32.410	but how much will it cost?
+B	00:37:32.410	00:37:38.350	well that depends on how much you order.
+B	00:37:38.350	00:37:43.700	if you order a lot the cost will be a little lower.
+C	00:37:43.700	00:37:48.489	and if I order a little bit.
+B	00:37:48.489	00:37:54.070	if you order only a little bit the cost will be higher.
+C	00:37:54.070	00:37:57.400	so how much does it cost?
+B	00:37:57.400	00:38:07.429	well one bottle of our product costs about twenty
+C	00:38:07.429	00:38:10.689	Oh Marge that's very expensive.
+B	00:38:10.689	00:38:15.270	but don't forget we can negotiate the price.
+C	00:38:15.280	00:38:18.650	you mean I can bargain with you.
+B	00:38:18.650	00:38:22.166	yes and I can discount the price for you.
+C	00:38:22.610	00:38:23.150	Great.
+B	00:38:23.330	00:38:23.952	but.
+C	00:38:23.989	00:38:26.439	I knew you would say that.
+B	00:38:26.439	00:38:33.189	but you must order a lot to get a good price.
+C	00:38:33.199	00:38:37.580	and if I order just a little bit.
+B	00:38:37.580	00:38:40.580	I said before the price will be high.
+C	00:38:40.580	00:38:44.439	and what are the terms of payment?
+B	00:38:44.439	00:38:49.840	well you have a one-year contract.
+B	00:38:49.840	00:38:59.199	okay and you can make one large payment or you can divide into monthly payments.
+C	00:38:59.199	00:39:01.540	let's see I would.
+C	00:39:01.540	00:39:04.689	much rather pay by month.
+B	00:39:04.689	00:39:06.967	no problem that's okay.
+C	00:39:07.084	00:39:12.766	how much will five hundred bottles cost per month?
+B	00:39:13.396	00:39:16.045	five hundred bottles?
+B	00:39:16.959	00:39:20.075	okay let's see.
+B	00:39:28.986	00:39:32.403	there you go how's that.
+C	00:39:32.790	00:39:33.708	that's not bad.
+C	00:39:34.040	00:39:45.748	but this is better.
+B	00:39:45.900	00:39:56.179	ah,you can buy our product at this price only if you buy one thousand bottles.
+C	00:39:56.189	00:39:58.790	six hundred.
+B	00:39:58.790	00:40:00.860	eight hundred and fifty.
+C	00:40:00.870	00:40:03.199	seven hundred.
+B	00:40:03.199	00:40:04.820	seven hundred and fifty.
+C	00:40:04.830	00:40:06.410	it's a deal.
+B	00:40:06.410	00:40:08.330	okay.
+C	00:40:08.330	00:40:12.060	well you are very good at bargaining mark.
+B	00:40:12.060	00:40:16.120	well you can negotiate the price very well also Tim.
+C	00:40:16.130	00:40:20.550	thank you,well I guess everything is finished then.
+B	00:40:20.550	00:40:25.340	okay,I know you will be very happy with our product.
+C	00:40:25.340	00:40:32.340	I hope I can agree with you but if there are any problems I have your guarantee.
+B	00:40:32.340	00:40:39.390	yes,you have my guarantee if you have any problems please call me and I will come to help you.
+C	00:40:39.390	00:40:43.665	okay,thank you very much,I will talk to you soon mark.
+B	00:40:43.703	00:40:45.034	okay thank you Tim.
+C	00:40:45.242	00:40:45.930	good bye mark.
+B	00:40:45.976	00:40:47.003	good bye.
+
+A	00:41:01.900	00:41:06.748	mark,how did your presentation go with mr. Pearson yesterday?
+B	00:41:06.948	00:41:09.213	it went great I got the deal.
+A	00:41:09.351	00:41:11.696	wonderful congratulation.
+B	00:41:11.700	00:41:15.880	Thanks,listen I've written a contract for mr. Pearson.
+B	00:41:16.422	00:41:17.928	would you mind typing it for me?
+A	00:41:18.116	00:41:19.622	sure,no problem.
+A	00:41:19.739	00:41:20.473	okay.
+A	00:41:21.716	00:41:23.402	excuse me mark.
+A	00:41:23.535	00:41:28.504	is that in the contract that you will send product number four to its factory.
+A	00:41:28.725	00:41:30.711	what is the address to his factory?
+B	00:41:30.719	00:41:34.920	oh,the address is on the back of the contract.
+A	00:41:35.633	00:41:37.757	oh,okay,thank you.
+A	00:41:43.272	00:41:50.130	mark you didn't write how much of the product that you were going to send to the company.
+B	00:41:50.401	00:41:56.284	oh um,he'll buy seven hundred and fifty bottles a month.
+A	00:41:56.701	00:41:58.774	oh,okay,thank you.
+B	00:41:58.908	00:41:59.417	sure.
+A	00:41:59.483	00:42:00.147	mm-hmm.
+A	00:42:02.450	00:42:03.238	mark.
+B	00:42:04.631	00:42:05.249	yes.
+A	00:42:05.470	00:42:09.729	I'm sorry um but when are you going to send the product?
+B	00:42:11.845	00:42:15.165	wrote it at the bottom of the page then died right there are.
+A	00:42:15.382	00:42:17.047	oh,I'm sorry.
+B	00:42:16.563	00:42:18.207	I'll be sending it next week okay?
+A	00:42:18.407	00:42:19.850	okay I didn't see it.
+A	00:42:19.871	00:42:20.755	I'm sorry.
+B	00:42:20.914	00:42:21.857	no problem.
+A	00:42:22.074	00:42:24.297	okay,Oh mark.
+A	00:42:26.279	00:42:30.263	is this a short or long-term contract?
+B	00:42:30.447	00:42:33.567	it's a long-term contract Linda.
+A	00:42:33.788	00:42:35.824	okay,thank you.
+A	00:42:39.583	00:42:40.772	okay,mark.
+B	00:42:42.486	00:42:43.934	yes,linda,what is it?
+A	00:42:43.997	00:42:50.688	I'm sorry in the contract that said you negotiated the price and I can't read the price.
+A	00:42:51.452	00:42:52.357	i don't know.
+B	00:42:52.528	00:42:53.842	that is a three.
+B	00:42:54.422	00:42:55.160	not an eight.
+A	00:42:55.327	00:42:58.160	oh,okay I'm sorry okay.
+A	00:42:58.498	00:42:59.157	okay.
+A	00:43:02.553	00:43:03.112	mark.
+B	00:43:03.153	00:43:05.177	oh yes my what what.
+A	00:43:05.198	00:43:10.796	okay,is this was it paid in full or is it going to be paid in monthly payment.
+B	00:43:10.817	00:43:12.711	monthly monthly monthly.
+A	00:43:12.824	00:43:14.284	oh okay.
+B	00:43:14.422	00:43:15.356	monthly payments.
+A	00:43:15.427	00:43:16.136	oh okay.
+B	00:43:16.174	00:43:17.847	at the month monthly.
+A	00:43:17.976	00:43:19.983	okay all right.
+B	00:43:22.878	00:43:23.562	Linda.
+A	00:43:23.900	00:43:25.314	yes,yes Mark.
+B	00:43:26.599	00:43:31.968	do you remember the first time I came to our company the first day?
+A	00:43:32.064	00:43:35.172	yes,you were going to have an interview with the boss.
+B	00:43:35.452	00:43:43.532	yes,and do you remember that I asked very many questions.
+A	00:43:44.016	00:43:50.407	yes, you were bothering me I almost became upset because I couldn't do any work.
+B	00:43:50.453	00:43:53.420	right,you were upset right,upset?
+A	00:43:54.087	00:44:00.895	Yeah right now I I am trying to work work.
+A	00:44:00.925	00:44:04.604	oh oh I'm sorry. I'm sorry.
+A	00:44:05.084	00:44:06.757	okay all right.
+B	00:44:06.828	00:44:07.391	thank you.
+A	00:44:08.897	00:44:09.577	oh,mark.
+B	00:44:09.598	00:44:10.954	what Linda what?
+A	00:44:11.266	00:44:14.575	what congratulations on your first contract.
+B	00:44:18.446	00:44:19.877	thanks Linda.
+

@@ -1,0 +1,631 @@
+A	00:00:10.300	00:00:12.650	hello! Silver Airways.
+A	00:00:12.650	00:00:13.820	This is Steven speaking.
+A	00:00:13.900	00:00:15.330	May I help you?
+B	00:00:15.330	00:00:19.100	I like to book two round-trip tickets to Evansville.
+A	00:00:19.100	00:00:20.420	Ok, sir.
+A	00:00:20.420	00:00:22.140	And what is your name?
+B	00:00:22.140	00:00:25.540	Richard Greene. I'll be traveling with my wife, June.
+A	00:00:25.540	00:00:34.000	Ok then. That is Richard Greene and June Greene.
+B	00:00:34.000	00:00:35.120	yes.
+A	00:00:35.120	00:00:36.750	Ok.
+A	00:00:36.750	00:00:39.050	Where will you be flying from?
+B	00:00:39.060	00:00:40.190	Chicago.
+B	00:00:40.190	00:00:42.590	You have flights out of Chicago, don't you?
+A	00:00:42.590	00:00:46.230	Yes Mr. Greene. Chicago is one of our main hubs.
+A	00:00:49.100	00:00:55.100	We have two daily flights between Chicago and Evansville.
+A	00:00:57.270	00:01:06.350	The morning flight departs at seven fifteen it is a direct flight but stops at Rapid City.
+B	00:01:06.350	00:01:09.180	Do you have any non-stop flights?
+A	00:01:14.230	00:01:22.830	Yes. We have a non-stop flight Chicago Evansville every afternoon at sixteen twenty-five
+B	00:01:22.830	00:01:23.600	oh!
+B	00:01:24.120	00:01:27.210	We really would prefer traveling in the morning.
+B	00:01:27.230	00:01:30.320	Don't you have any non-stop flights in the morning?
+A	00:01:34.480	00:01:36.840	No. I'm sorry, sir.
+A	00:01:37.060	00:01:41.100	just the one flight with the brief stop in Rapid City.
+A	00:01:41.200	00:01:43.980	And you will not have to change planes.
+B	00:01:44.430	00:01:49.530	Ok, we'll take the morning flight, Friday, June twenty-one
+A	00:01:49.540	00:01:52.270	okay, one moment. please.
+A	00:01:54.100	00:01:56.200	Ok, sir.
+A	00:01:56.560	00:01:59.440	We have flight seats available.
+A	00:01:59.720	00:02:01.980	Do you have a seating preference?
+B	00:02:02.120	00:02:05.100	Yes. I'd like to have a seat on the aisle.
+B	00:02:05.100	00:02:06.400	My legs are pretty long.
+A	00:02:06.400	00:02:08.700	haha Ok, sir.
+A	00:02:08.790	00:02:10.360	I know what you mean.
+A	00:02:12.410	00:02:14.890	Do you know your return date?
+B	00:02:15.330	00:02:18.800	Is it possible for me to leave my return date open?
+A	00:02:18.820	00:02:19.930	yes, sir.
+A	00:02:19.930	00:02:22.590	We can leave the return date open.
+A	00:02:22.750	00:02:27.990	but the return portion of the ticket must be used within thirty days.
+B	00:02:28.030	00:02:30.150	Ok. That will be no problem.
+A	00:02:35.740	00:02:40.710	Your tickets come to five hundred and fifty-eight dollars.
+A	00:02:40.710	00:02:42.680	How would you like to pay for them?
+A	00:02:42.680	00:02:45.470	I'll have my secretary come pick them up.
+B	00:02:45.900	00:02:47.740	she can pay for them.
+A	00:02:48.370	00:02:56.120	Ok. The tickets have to be paid one week before departure or your reservation will be cancelled.
+B	00:02:57.100	00:03:00.200	I'll send my secretary over this afternoon.
+A	00:03:01.100	00:03:02.810	That will be fine.
+A	00:03:04.120	00:03:06.730	Does she know where our offices are located?
+B	00:03:06.870	00:03:08.740	Yes, she has been there before.
+A	00:03:08.770	00:03:10.230	Ok then sir.
+A	00:03:10.600	00:03:20.810	I have two round-trip tickets in the names of Dick and June Green.
+A	00:03:21.700	00:03:34.560	The Chicago Evansville flight. That portion of the ticket is confirmed for Friday, June twenty-one at seven fifteen
+B	00:03:35.600	00:03:37.060	That is correct.
+A	00:03:38.410	00:03:41.190	The return portion has been left open.
+A	00:03:41.800	00:03:53.700	the total price comes to five hundred and fifty-eight dollars and we should expect your secretary to pick the tickets up at the office this afternoon.
+B	00:03:53.880	00:03:55.100	thanks very much.
+A	00:03:55.180	00:03:55.100	our pleasure sir.
+A	00:03:56.199	00:03:59.790	I hope you enjoy flying with Silver Airways.
+B	00:03:59.800	00:04:00.759	good bye.
+A	00:04:00.759	00:04:01.300	good bye.
+
+C	00:04:03.870	00:04:06.820	good morning, mom. what are you doing?
+D	00:04:07.330	00:04:13.150	I was thinking I should make some reservations for our trip to Evansville next month.
+C	00:04:13.500	00:04:15.180	sounds like a good idea!
+D	00:04:16.120	00:04:17.150	let me see.
+D	00:04:17.600	00:04:21.500	Is silver Airways? Let me see.
+A	00:04:24.960	00:04:26.320	Silver Airways.
+A	00:04:26.320	00:04:27.920	This is Steven speaking.
+A	00:04:27.930	00:04:29.260	How may I help you?
+D	00:04:30.050	00:04:32.929	I'd like to book a flight to Evansville.
+A	00:04:33.250	00:04:34.750	one moment, please.
+A	00:04:35.450	00:04:37.590	what is your name, please?
+D	00:04:37.770	00:04:40.200	Mrs. and Rafferty.
+A	00:04:40.490	00:04:46.450	OK, Mrs. Rafferty Could you spell your name for me, please?
+D	00:04:46.710	00:04:56.710	Certainly ann without the e and Rafferty... R A F F E R T Y.
+A	00:04:56.700	00:05:03.110	OK. Thank you Mrs. Rafferty. will you be traveling alone?
+D	00:05:03.510	00:05:08.310	no, I will be traveling with my daughter her name is Susan.
+A	00:05:08.830	00:05:13.500	Miss Susan Rafferty. is that correct?
+D	00:05:14.290	00:05:18.440	that is correct. but she prefers MS.
+A	00:05:19.260	00:05:24.120	oh, ok Ms. Susan Rafferty.
+A	00:05:24.780	00:05:27.720	when would you like to travel Mrs. Rafferty?
+D	00:05:27.940	00:05:32.100	On the twenty-one in the morning if possible.
+A	00:05:32.590	00:05:35.300	I'm sorry Mrs.
+A	00:05:35.670	00:05:39.820	Rafferty, Tuesday May twenty-one is completely booked.
+A	00:05:40.110	00:05:43.270	would you like me to check the twenty-two for you?
+D	00:05:43.440	00:05:48.730	I'm sorry I'll be trying on June twenty-one not May twenty-one
+D	00:05:48.800	00:05:50.860	it's a Friday, isn't it?
+A	00:05:50.860	00:05:53.340	one moment, please. let me check.
+A	00:05:54.470	00:05:58.130	yes, Friday June twenty-one
+A	00:05:58.140	00:06:04.240	we have two seats available on the eight thirty a.m. flight to Evansville.
+A	00:06:04.960	00:06:06.820	will that be a round-trip?
+D	00:06:07.050	00:06:11.110	yes, we'd like to return on Sunday the twenty-three
+A	00:06:11.110	00:06:12.770	okay.
+A	00:06:16.690	00:06:23.570	We have seats available returning Sunday June twenty-three at .fourteen thirty
+A	00:06:24.420	00:06:27.300	would you also like to book your return flight?
+D	00:06:28.490	00:06:29.466	yes I would.
+A	00:06:30.110	00:06:31.327	okay then.
+A	00:06:32.890	00:06:36.640	Would you like smoking or non-smoking seats?
+D	00:06:36.970	00:06:38.370	non-smoking, please.
+A	00:06:41.620	00:06:45.950	and would you prefer an aisle or a window seat?
+D	00:06:46.100	00:06:47.360	just a second.
+D	00:06:47.360	00:06:49.460	Suzy, would you like it window seat?
+C	00:06:49.470	00:06:51.500	sure mom if there is one available.
+D	00:06:51.870	00:06:53.050	window, please.
+A	00:06:53.410	00:06:55.180	okay, Mrs. Rafferty.
+A	00:06:59.290	00:07:05.570	your tickets come to four hundred and twenty-eight dollars including tax.
+A	00:07:06.270	00:07:08.740	how would you like to pay for your tickets?
+D	00:07:08.870	00:07:23.190	I'll charge them. My visa account number is five four nine four four eight four two four five two one.
+D	00:07:23.200	00:07:28.200	expiration date January one thousand nine hundred and ninety-eight
+A	00:07:28.410	00:07:30.200	okay Mrs. Rafferty.
+A	00:07:30.840	00:07:39.129	you are confirmed on flight s a four five five, Rapid City to Evansville.
+A	00:07:39.129	00:07:44.810	Friday twenty-one of June departing eight thirty a.m.
+A	00:07:44.810	00:07:57.730	and returning flight s a four five six, Evansville to Rapid City, Sunday 23rdEtwenty-three June,
+A	00:07:57.730	00:08:01.200	departing fourteen thirty in the afternoon.
+D	00:08:01.210	00:08:02.270	thank you.
+D	00:08:02.270	00:08:04.340	Where do I pick up my tickets?
+A	00:08:05.220	00:08:10.970	you can pick up your tickets at the silver Airways counter when you check-in for your flight.
+D	00:08:11.120	00:08:11.970	excuse me.
+A	00:08:12.370	00:08:13.280	yes ma'am.
+D	00:08:14.070	00:08:18.310	how long before the departure time should we check in?
+A	00:08:19.060	00:08:27.030	For a domestic flight we request that you check in at least one hour before departure time.
+A	00:08:28.100	00:08:30.100	is there anything else I can help you with?
+D	00:08:30.750	00:08:31.700	no thank you.
+A	00:08:32.320	00:08:37.640	well, then I hope you have a pleasant trip to Evansville and please call us again.
+D	00:08:37.670	00:08:38.880	thank you. goodbye.
+A	00:08:38.880	00:08:39.710	goodbye.
+
+D	00:08:42.470	00:08:44.740	he was an awfully nice young man.
+C	00:08:44.810	00:08:45.610	who was?
+D	00:08:45.620	00:08:47.929	the man at silver Airways.
+C	00:08:47.929	00:08:49.880	oh! so you got our tickets?
+D	00:08:49.880	00:08:51.010	yes.
+D	00:08:51.010	00:08:59.690	we are confirmed for Friday June twenty-one eight thirty a.m. and we can pick up our tickets at the counter.
+D	00:08:59.690	00:09:02.279	do you know where we can stay in Evan sville?
+C	00:09:02.289	00:09:05.479	Joe's mother says that the grand is a nice hotel.
+D	00:09:05.479	00:09:07.310	is it downtown?
+C	00:09:07.310	00:09:10.520	I think it is just off of the main plaza.
+C	00:09:10.520	00:09:13.789	an old hotel which has recently been redone.
+C	00:09:13.789	00:09:18.049	the Grand Plaza Hotel I think that is its full name.
+D	00:09:18.049	00:09:20.540	oh! that sounds very nice, let me see.
+D	00:09:22.750	00:09:25.650	grand plaza hotel.
+D	00:09:27.370	00:09:36.729	hi my name is Anne Rafferty and I would like to make a reservation for the weekend. of Friday June twenty-one
+E	00:09:36.739	00:09:40.489	one moment, please. and I will connect you with the reservation.
+D	00:09:40.489	00:09:41.979	thank you.
+F	00:09:43.989	00:09:49.070	hello the Grand Plaza reservations desk. how may I help you?
+D	00:09:49.070	00:09:58.199	hi my name is Anne Rafferty and I would like to make a reservation for the weekend of Friday June twenty-one
+F	00:09:58.209	00:09:59.970	one moment, please.
+F	00:10:01.870	00:10:07.659	yes, Mrs. Rafferty we have rooms available on June twenty-first.
+F	00:10:07.659	00:10:10.760	how long do you plan to stay with us?
+D	00:10:10.760	00:10:13.539	to Sunday the twenty-three
+F	00:10:13.539	00:10:17.089	will you and your daughter be sharing a room?
+D	00:10:17.089	00:10:17.810	yes.
+F	00:10:17.810	00:10:25.159	and Mrs. Rafferty would you like a room looking out on the in street?
+D	00:10:25.159	00:10:27.080	is their price difference?
+F	00:10:27.080	00:10:28.539	yes.
+F	00:10:28.539	00:10:36.580	rooms facing Main Street are slightly larger than standard rooms and cost fifty in night.
+F	00:10:36.580	00:10:39.589	standard rooms cost forty
+D	00:10:39.589	00:10:42.339	we'll take a room on Main Street.
+F	00:10:42.339	00:10:52.789	Mrs. Rafferty! I believe you'll be very happy with your decision. I've reserved you and your daughter a room facing Main Street.
+F	00:10:52.789	00:10:59.450	from Friday June twenty-one until Sunday June twenty-three
+D	00:10:59.450	00:11:00.910	thank you.
+F	00:11:00.910	00:11:04.360	do you know what time you expect to arrive?
+D	00:11:04.360	00:11:06.910	our flight arrives in the morning
+D	00:11:06.920	00:11:11.700	and I expect to go straight to the hotel.
+F	00:11:11.710	00:11:18.830	okay. Mrs. Rafferty. we will expect you in the morning. is there anything else I can help you with?
+D	00:11:18.830	00:11:20.000	no. thank you.
+F	00:11:20.000	00:11:22.640	and thank you for calling the grand.
+F	00:11:22.640	00:11:26.120	I hope that we will be able to make your stay a pleasant one.
+D	00:11:26.120	00:11:28.200	thank you! goodbye!
+
+G	00:11:38.510	00:11:39.230	to the Grand Plaza.
+G	00:11:39.230	00:11:41.120	how may I help you this morning?
+G	00:11:41.120	00:11:44.620	hello I'm Mrs. Andreotti and I have a reservation.
+D	00:11:44.620	00:11:50.080	nice to have you with us Mrs. Rafferty one moment while I check your reservation.
+G	00:11:50.090	00:11:53.690	yes Mrs. Rafferty we have room one thousand two hundred and six for you.
+G	00:11:53.690	00:11:57.320	your room is facing the Main Street and gives you a view of the plaza,
+G	00:11:57.320	00:11:58.250	thank you.
+D	00:11:58.250	00:12:03.110	I have here that you'll be with us until Sunday morning is that correct?
+G	00:12:03.110	00:12:04.660	yes, it is.
+D	00:12:04.660	00:12:05.660	good!
+G	00:12:05.660	00:12:09.130	now here is a registration card.
+G	00:12:09.130	00:12:12.260	Susy, could your fill this out for me please?
+D	00:12:12.260	00:12:13.810	I don't have my glasses.
+D	00:12:13.820	00:12:14.350	sure mom.
+C	00:12:14.350	00:12:16.180	mom, what's your passport number?
+C	00:12:16.190	00:12:21.460	oh, I don't know. I didn't bring my passport with me.
+D	00:12:21.470	00:12:25.040	excuse me sir. I don't have my passport with me.
+D	00:12:25.040	00:12:28.100	that's okay. do you have any other identification?
+G	00:12:28.100	00:12:30.920	yes I have my driver's license.
+D	00:12:30.920	00:12:34.240	you can use a driver's license instead.
+G	00:12:34.240	00:12:36.580	thanks
+D	00:12:36.580	00:12:47.640	two four four nine five seven nine nine signature. okay mom you need to sign this now.
+C	00:12:47.650	00:12:58.010	here's the registration card. okay mrs. Rafferty your room is one thousand two hundred and six this is the key. your room is on the twelve floor.
+D	00:12:58.010	00:13:00.700	you can take the elevator over there.
+G	00:13:00.700	00:13:06.920	when you get to the twelve floor you'll need to go out the elevator and take the corridor to your left.
+G	00:13:06.920	00:13:08.540	where are the elevators?
+D	00:13:08.540	00:13:11.590	there, over there mom just be on the man in the green coat.
+C	00:13:11.600	00:13:12.970	I'll see them now.
+D	00:13:12.970	00:13:22.489	this is a brochure telling you about the facilities at the Grand Plaza. and one listing the town tours that the hotel can arrange for you if you're interested.
+G	00:13:22.489	00:13:24.830	I'll have someone help you with your bags.
+G	00:13:24.830	00:13:26.120	thank you very much.
+D	00:13:26.120	00:13:28.850	I hope you have a pleasant stay with us at the crowd.
+G	00:13:28.850	00:13:31.840	thank you.
+D	00:13:31.840	00:13:36.250	welcome to the Grand Plaza. I'm sorry to have kept you waiting.
+G	00:13:36.260	00:13:37.610	how may I help you this morning?
+G	00:13:37.610	00:13:40.750	hi, there. I was warned do you have any rooms available for this evening?
+H	00:13:40.760	00:13:43.910	I believe we do how long do you plan to stay?
+G	00:13:43.910	00:13:45.669	ah give me for a few days.
+H	00:13:45.679	00:13:50.500	let me check.
+G	00:13:50.500	00:13:55.420	we have civil rooms which you prefer room looking out on Main Street.
+G	00:13:55.420	00:13:59.420	yes I suppose. but I'd really like a room close to the ground.
+H	00:13:59.420	00:14:01.720	I really don't like to be up too high.
+H	00:14:02.110	00:14:03.630	let me check for you again.
+G	00:14:06.730	00:14:11.000	yes, we have two rooms available on the fourth floor for this evening.
+G	00:14:11.000	00:14:15.109	but unfortunately those rooms still need to be made do you mind waiting?
+G	00:14:15.109	00:14:20.120	when with the room be ready?
+H	00:14:22.080	00:14:24.050	good morning! the front desk.
+H	00:14:24.050	00:14:25.030	how may I help you?
+H	00:14:25.040	00:14:28.090	I'd like to change my arrival date.
+I	00:14:28.090	00:14:33.380	I'm sorry ma'am you'll need to speak with someone in reservations to change your arrival date.
+G	00:14:33.380	00:14:35.630	one moment and I'll transfer you.
+G	00:14:38.200	00:14:40.580	sorry for the interruption, sir.
+G	00:14:40.580	00:14:41.420	oh! that's fine.
+H	00:14:41.420	00:14:44.090	I was wondering someplace I could leave my bags.
+H	00:14:44.090	00:14:45.849	I'd like to go get something to eat.
+H	00:14:45.859	00:14:46.640	certainly, sir.
+G	00:14:46.640	00:14:51.410	you can leave your bags here with me, and when your room is available, I'll have someone put it in your room.
+G	00:14:51.410	00:14:52.140	thank you.
+H	00:14:54.000	00:15:01.220	here is your registration card. which you prefer a queen-size or twin beds?
+G	00:15:01.400	00:15:03.850	queen-size please.
+H	00:15:03.643	00:15:12.151	okay,you will be in room four hundred and twelve,how would you like to pay for your room.
+G	00:15:12.530	00:15:13.299	with case.
+H	00:15:13.299	00:15:18.530	okay mr. Simmonds if you'll check back with us in about an hour your room should be ready.
+G	00:15:18.530	00:15:22.190	and you can pay for your room when you come to pick up your key.
+G	00:15:22.190	00:15:22.820	thank you.
+H	00:15:22.820	00:15:25.220	I hope you enjoy your stay with us at the Grand Plaza.
+G	00:15:25.220	00:15:27.729	Nice.
+
+G	00:15:27.729	00:15:29.299	may I help you?
+J	00:15:29.299	00:15:34.900	yes I'm Pat Brogan in room eight two three could you check and see if there are any messages for me?
+G	00:15:34.910	00:15:38.049	certainly. just a moment.
+G	00:15:38.049	00:15:44.979	here you go man. will there be anything else?
+J	00:15:44.979	00:15:47.090	could you tell me where there is a phone?
+G	00:15:47.090	00:15:52.700	yes. there are house phones over against the wall and there's the public phone by the coffee shop.
+J	00:15:52.700	00:15:54.169	thank you very much.
+G	00:15:54.169	00:15:55.510	my pleasure.
+G	00:15:58.450	00:16:00.049	welcome to the Grand Plaza.
+G	00:16:00.049	00:16:01.940	how may I help you this morning?
+K	00:16:01.940	00:16:02.770	we'd like a room.
+G	00:16:02.770	00:16:05.120	How long will you be staying in Evansville?
+K	00:16:05.120	00:16:10.479	we're here for some meetings till next Friday but we might like to spend the weekend.
+G	00:16:10.479	00:16:14.100	let me check for you. we're quite busy tonight.
+G	00:16:18.400	00:16:25.310	For tonight I'm afraid we only have a few rooms available and they have twin beds.
+L	00:16:25.320	00:16:27.410	We'd really prefer a double bed.
+G	00:16:27.410	00:16:34.100	well, for the rest of the week I have room with queen-size beds available.
+L	00:16:34.100	00:16:38.220	well, I guess that is okay but if that is the best you can do.
+G	00:16:38.220	00:16:40.970	we could always check with somewhere else if you'd like.
+L	00:16:40.970	00:16:47.030	no, no. that's okay. it's only for the one night. but I do hate to.
+G	00:16:47.375	00:16:51.848	Well I can check and see if we have any cancellations and.
+G	00:16:52.060	00:16:53.470	if we do I can put you in that room.
+L	00:16:53.470	00:16:56.130	oh! that would be great, thank you.
+G	00:16:56.140	00:17:04.050	here's your registration card. your room should be available around noontime.
+G	00:17:04.050	00:17:06.480	how would you like to pay for your room?
+K	00:17:06.490	00:17:07.420	well charging.
+G	00:17:07.420	00:17:15.470	okay, sir. can I have your credit card and a form of identification?
+K	00:17:15.480	00:17:18.530	there you go.
+G	00:17:18.540	00:17:23.650	would you like to check into a room with twin beds now or wait and see.
+G	00:17:23.650	00:17:24.970	if we have any cancellation.
+K	00:17:25.240	00:17:30.810	we can wait. we're just on our way to a meeting but is there someplace we can leave our bags?
+G	00:17:30.820	00:17:38.310	certainly, sir. you can leave your bags here with me.
+G	00:17:38.310	00:17:42.840	here are your cards and we'll see you again later this evening.
+G	00:17:42.850	00:17:46.750	and I'll try to have a room with a queen-size bed room.
+L	00:17:46.870	00:17:48.910	thank you very much for being so helpful!
+G	00:17:48.910	00:17:50.170	my pleasure.
+G	00:17:50.170	00:17:56.190	I hope you enjoy your stay with us at the Grand Plaza ordering room service.
+M	00:18:00.620	00:18:02.570	hello room service.
+H	00:18:02.570	00:18:04.500	I'd like to get something to drink.
+M	00:18:04.500	00:18:07.710	a beverage or a cocktail, sir?
+H	00:18:07.710	00:18:10.490	oh! I'm not quite sure what do you have.
+M	00:18:10.490	00:18:17.570	we have a wide selection of both hot and cold drinks as well as cocktails, wines and beers.
+M	00:18:17.570	00:18:23.960	have you had a chance to look at the room service menu? there should be one on your nightstand.
+H	00:18:23.970	00:18:29.870	oh! let me see. oh, yes. I see the menu.
+H	00:18:29.870	00:18:32.250	give me a minute and I'll call you back.
+M	00:18:32.250	00:18:37.910	okay. thank you for calling room service.
+M	00:18:37.910	00:18:40.880	hello, room service how may I help you?
+C	00:18:40.880	00:18:45.530	hi I'd like a sandwich can you deliver that to the pool?
+M	00:18:45.530	00:18:49.920	I'm sorry you will have to order that from the service bar at the pool.
+M	00:18:49.920	00:18:52.120	would you like me to transfer you?
+C	00:18:53.130	00:18:57.450	No. I guess I'll just order it when I get down there. thanks anyway.
+M	00:18:57.450	00:19:00.530	no problem I hope you enjoy your time at the pool.
+C	00:19:00.530	00:19:01.530	thanks.
+M	00:19:01.530	00:19:04.340	bye.
+M	00:19:04.340	00:19:06.130	hello room service.
+H	00:19:06.140	00:19:10.430	hi I'd like a fruit plate and some yogurt.
+M	00:19:10.430	00:19:17.300	okay. fruit plate and yogurt plain or strawberry?
+H	00:19:17.300	00:19:20.270	what kind of fruit is on the fruit plate?
+M	00:19:20.270	00:19:23.190	melon, a banana and some berries.
+H	00:19:23.190	00:19:26.840	oh! I'll have the plain yogurt then.
+M	00:19:26.840	00:19:29.010	okay, sir. and your room number?
+H	00:19:29.010	00:19:31.580	room four hundred and twelve.
+M	00:19:31.580	00:19:33.000	anything else, sir?
+H	00:19:33.000	00:19:34.430	no. thank you.
+M	00:19:34.430	00:19:36.360	that would be fifteen minutes.
+H	00:19:36.360	00:19:39.950	thank you.
+M	00:19:39.950	00:19:42.320	hello room service.
+N	00:19:42.320	00:19:45.050	hi I'm sorry I'm whispering.
+N	00:19:45.050	00:19:49.820	My wife's in the bathroom and I don't want her to hear.
+M	00:19:49.820	00:19:51.180	okay, sir.
+M	00:19:51.180	00:19:52.170	how can I help you?
+N	00:19:52.170	00:19:58.250	I was wondering could you bring some wine and flowers up to our room.
+M	00:19:58.250	00:20:01.140	mm, okay sir that is no problem.
+N	00:20:01.140	00:20:07.520	no. I mean while we're out I want it to be here when we get back from shopping.
+M	00:20:07.520	00:20:12.240	yes. I think we can do that do you know what time you'll be getting back?
+N	00:20:12.240	00:20:15.000	Oh! about four in the afternoon.
+M	00:20:15.000	00:20:21.330	I could have the wine delivered at say three fourty-five would that be convenient?
+N	00:20:21.330	00:20:23.380	yeah. that would be great!
+M	00:20:23.390	00:20:26.600	okay, sir. have you made a wine selection?
+N	00:20:26.610	00:20:32.750	oh! no, I'm sorry. I don't know much about wines. my wife likes red wines.
+N	00:20:32.750	00:20:36.830	could you pick one out for us?
+N	00:20:36.830	00:20:39.710	something not too expensive.
+M	00:20:39.710	00:20:46.590	certainly, sir. how about a nice bottle of Burgundy it will cost about twenty-five
+N	00:20:46.590	00:20:48.440	that sounds great.
+M	00:20:48.450	00:20:51.470	and would you like some cheese and crackers with then?
+N	00:20:51.470	00:20:54.250	that's a great idea.
+M	00:20:54.260	00:21:00.470	so flowers wine, cheese and crackers. at three forty-five this afternoon.
+N	00:21:00.470	00:21:02.480	yes.
+M	00:21:02.480	00:21:04.230	and what is your room number?
+N	00:21:04.230	00:21:08.330	oh, yes. we're in the honeymoon sweet.
+M	00:21:08.330	00:21:11.750	okay sir. thank you for calling room service.
+N	00:21:11.750	00:21:18.020	hey! thanks for your help. my wife's coming. bye!
+M	00:21:18.020	00:21:19.480	hello room service'
+H	00:21:19.490	00:21:22.850	hi this is Mr. Simmons in room four hundred and twelve
+M	00:21:22.860	00:21:24.360	yes. Mr. Simmons.
+H	00:21:24.360	00:21:27.080	I've just placed an order for some fruit and yogurt.
+H	00:21:27.080	00:21:29.190	could you send me some tea as well?
+M	00:21:29.190	00:21:31.800	sure Mr. Simmons. I'll add that to your order.
+H	00:21:31.800	00:21:33.610	thank you.
+M	00:21:33.620	00:21:34.860	thank you.
+H	00:21:34.860	00:21:36.950	bye.
+
+O	00:21:45.640	00:21:48.130	good afternoon! how may I help you?
+P	00:21:48.140	00:21:51.350	hi! I'm Universal see the city. do you have any tours available?
+O	00:21:51.350	00:21:55.030	yes, we have several. when would you like to take a tour?
+P	00:21:55.030	00:22:00.460	Saturday I'm gonna be in business meetings all during the week I have a free day on Saturday.
+O	00:22:00.460	00:22:04.630	well then, we have several tours planned for this Saturday.
+O	00:22:04.640	00:22:07.790	are you staying here at the Grand Plaza Hotel?
+P	00:22:07.790	00:22:08.410	yes.
+O	00:22:08.410	00:22:17.270	well then, you'll be entitled to a ten percent discount on the tour price and the tour van can be scheduled to pick you up here.
+P	00:22:17.270	00:22:18.820	oh! that sounds great.
+O	00:22:18.830	00:22:21.860	would you prefer to take a tour of
+O	00:22:21.860	00:22:26.930	the city or are you more interested. in the surrounding area, the bay and coast?
+P	00:22:26.930	00:22:28.910	is there much to see in Evansville?
+O	00:22:28.910	00:22:30.800	we have two tours
+O	00:22:30.800	00:22:43.190	tour a is a morning tour which visit some of the main historical sites of the city and ends with the cable car ride and lunch at the top of Evans peak well.
+P	00:22:43.190	00:22:45.010	that sounds really very nice.
+O	00:22:45.010	00:22:47.690	yes. and we have a whole day tour.
+O	00:22:47.690	00:22:56.260	Tour B which includes the sites in Tour A, plus an afternoon visit to the Art Gallery and Zoo.
+O	00:22:56.260	00:23:01.090	in tour B you would arrive back at the hotel in time for dinner.
+P	00:23:01.090	00:23:05.040	okay. what about the tours outside of the city?
+O	00:23:05.050	00:23:12.220	we have a tour that takes you to the harbor and then on a boat ride around the islands and down the coast.
+O	00:23:12.220	00:23:16.330	this tour goes from ten a.m. to two p.m.
+P	00:23:16.340	00:23:17.390	what about lunch?
+O	00:23:17.390	00:23:19.310	lunch is served on the boat.
+P	00:23:19.310	00:23:21.020	yeah, well. that sounds good.
+P	00:23:21.020	00:23:22.030	I have another question.
+P	00:23:22.030	00:23:26.280	is there any way that I can get a shuttle to the beach from here?
+O	00:23:26.290	00:23:44.290	yes. the hotel offers a shuttle service to and from Sandy Cove. the shuttles leave at ten eleven and one thirty for Sandy Cove and returned at two three and four thirty p.m.
+O	00:23:44.300	00:23:48.920	why don't you have a look at these brochures for a moment while I answer the phone.
+O	00:23:48.930	00:23:52.520	hello, tours at City outings. how may I help you?
+Q	00:23:52.530	00:23:59.750	hi. my name is Dan Barker. my wife and I scheduled an all-day city tour with you this Saturday.
+Q	00:23:59.750	00:24:06.020	but I'm afraid we're going to have to cancel. my business meetings have been extended.
+O	00:24:06.020	00:24:11.350	ok Mr. Barker would you hold on one moment please?
+O	00:24:11.360	00:24:16.760	yes. I see here dawn and Diane Barker for the Saturday city tour.
+O	00:24:16.760	00:24:20.840	would you like to change your reservation to Sunday perhaps?
+Q	00:24:20.840	00:24:25.620	mmm, no. I'm afraid we have an early flight out on Sunday.
+O	00:24:25.620	00:24:28.260	oh! that is a shame.
+O	00:24:28.260	00:24:33.559	I see here that you have prepaid for your tour with your Visa card.
+Q	00:24:33.559	00:24:38.000	yes. that's right, could you credit my account?
+O	00:24:38.000	00:24:47.840	yes. I will cancel your tour and have Visa reimburse your account for the tour price minus the fifty cancellation fee.
+Q	00:24:47.840	00:24:49.470	thank you. very much.
+O	00:24:49.470	00:24:53.900	I'm sorry that you won't be able to join the tour.
+Q	00:24:53.900	00:25:00.439	perhaps next time I am in Evansville for business meetings again next month.
+O	00:25:00.449	00:25:03.390	well if I can be of service please let me know.
+Q	00:25:03.390	00:25:06.059	I will, goodbye now.
+O	00:25:06.059	00:25:07.280	goodbye.
+O	00:25:07.280	00:25:09.360	I'm sorry about that interruption.
+O	00:25:09.360	00:25:11.970	is there a tour that you were interested in?
+P	00:25:11.970	00:25:12.689	yes.
+P	00:25:12.689	00:25:16.350	I was thinking would it be possible for me to take the city morning tour.
+P	00:25:16.350	00:25:22.110	tour a and still make it back to the hotel on time to catch the one thirty shuttle to the beach.
+O	00:25:22.110	00:25:30.020	yes. you should get back at about one o'clock and we can reserve a place for you on the beach shuttle.
+O	00:25:30.020	00:25:32.459	so that they will be expecting you.
+P	00:25:32.459	00:25:38.790	ok, Ok. it says here that the tour a cost one hundred and five is that correct?
+O	00:25:38.790	00:25:49.650	yes. plus tax which brings the total to one hundred thirty two dollars. the hotel Beach shuttle costs seven dollars and will be charged to your room.
+P	00:25:49.650	00:25:56.870	okay. I'd like to make a reservation for both the city morning too and the one hundred and thirty beat shuttle.
+O	00:25:56.870	00:26:02.300	okay then. tour A for this Saturday. sir. your name is...
+P	00:26:02.310	00:26:03.520	Paul Simmons
+O	00:26:03.530	00:26:10.140	okay, Mr. Simmons. would you fill out this information card? yes here you go.
+P	00:26:10.140	00:26:10.650	thank you.
+O	00:26:10.650	00:26:13.920	and mr. Simmons how will you be paying for this tour?
+P	00:26:13.920	00:26:17.040	I'll pay with cash. one hundred and thirty two dollars wasn't it?
+O	00:26:17.040	00:26:23.180	yes. and here is your receipt.
+O	00:26:23.190	00:26:27.750	I will go and hit ahead and call the front desk.
+O	00:26:27.750	00:26:32.610	and reserve a place for you on the one thirty beat shuttle for this Saturday.
+P	00:26:32.610	00:26:34.370	and what it will I made the tour?
+O	00:26:34.370	00:26:43.070	you can meet here for the tour and the one hundred and thirty beat settle leaves from the hotel Porte cochere.
+O	00:26:43.070	00:26:45.960	here take this complimentary city map.
+O	00:26:45.960	00:26:49.110	and tour brochure with you.
+P	00:26:49.110	00:26:51.060	okay I will. thank you.
+O	00:26:51.060	00:26:56.530	thank you.
+O	00:26:56.540	00:27:00.310	hello. tours and city outings. how may I help you?
+R	00:27:00.320	00:27:05.810	hi! I'd like a book an airline ticket to Portsmouth for next Tuesday.
+O	00:27:05.810	00:27:10.760	I'm sorry but we cannot make airline reservations from this office.
+O	00:27:10.760	00:27:14.270	you could try calling the airline or a travel agent.
+R	00:27:14.270	00:27:17.000	thank you. I'll do that. goodbye.
+O	00:27:17.000	00:27:20.320	goodbye.
+O	00:27:20.320	00:27:22.660	hello how may I help you?
+D	00:27:23.260	00:27:29.600	hello! they told us at the front desk that you might be able to help us go around town into some shopping.
+O	00:27:29.600	00:27:34.150	yes ma'am. we offer a city shopping tour on Saturdays.
+D	00:27:34.150	00:27:35.660	what is the tour like?
+O	00:27:35.890	00:27:43.390	Year. let me show you this brochure.
+O	00:27:43.390	00:27:50.959	the two leaves the hotel at eight thirty a.m. and we have a light breakfast at a cafe on the main plaza.
+D	00:27:50.959	00:27:54.670	that sounds like a very nice way to start the day
+O	00:27:54.670	00:28:00.949	from there a van takes you on a brief tour of the dog downtown shopping district.
+O	00:28:00.949	00:28:06.400	and points out some of the highlights and unique shops.
+O	00:28:06.400	00:28:11.980	that lasts until about ten o'clock when we stop for coffee at the cafe George.
+C	00:28:11.980	00:28:16.840	knowing where the different shops are could save us a lot of time and walking.
+O	00:28:16.840	00:28:24.709	after coffee you are free to shop until twelve thirty when we will meet again for lunch at the president park grill.
+D	00:28:24.709	00:28:31.810	oh! the president Park Grille,I've heard of it they supposed to have very nice lunch buffet.
+O	00:28:31.810	00:28:44.030	at two o'clock we travel out to the harbor district where we have a brief tour of the shopping district,then you are free to shop until five thirty when the van returns to the hotel.
+D	00:28:44.030	00:28:48.560	that sounds very nice, what do you think Suzy?
+C	00:28:48.560	00:28:54.230	sounds great mom,but you talked about wanting to see a show if we are going shopping all day.
+C	00:28:54.230	00:28:56.740	are we going to still want to see a show?
+D	00:28:56.750	00:29:00.069	Miss, will we still be able to see a show?
+O	00:29:00.069	00:29:06.020	actually many people reserved tickets for the Marx theatre down in the harbor district.
+D	00:29:06.020	00:29:07.689	oh! why is that?
+O	00:29:07.689	00:29:14.790	well, that way they can have dinner on the harbour after shopping and stay to see the show.
+D	00:29:14.800	00:29:17.290	but how do they get back to their hotel?
+O	00:29:17.300	00:29:21.579	you can take a taxi back to the hotel after the show.
+D	00:29:21.579	00:29:23.510	what do you think Suzy?
+C	00:29:23.510	00:29:29.240	I don't know,I don't want to carry whatever we buy to dinner and then to the theater.
+O	00:29:29.240	00:29:31.160	oh! that is no problem.
+O	00:29:31.160	00:29:35.959	you can always send your bags back to the hotel with the shopping tour van.
+C	00:29:36.346	00:29:38.540	In that case,sounds like a good idea.
+C	00:29:38.845	00:29:41.611	what show is playing at the Marx theater right now?
+O	00:29:41.705	00:29:42.120	cats.
+C	00:29:42.260	00:29:47.590	oh! let's do it mom I've been wanting to see cats for a long time.
+D	00:29:47.590	00:29:52.990	Miss, how much with the shopping tour and tickets to cats for to cost?
+O	00:29:52.990	00:29:57.530	for the shopping tour which includes both breakfast and lunch,
+O	00:29:57.530	00:30:06.530	and orchestra seats in the center section for cats the total price would be three hundred and twenty-five dollars including tax.
+D	00:30:06.530	00:30:08.633	can I pay for that my credit card?
+O	00:30:08.680	00:30:09.675	yes, you can.
+O	00:30:13.827	00:30:16.765	This is Rafferty if you would sign here please.
+O	00:30:18.210	00:30:21.160	the shopping tool will meet in the lobby.
+O	00:30:21.170	00:30:26.870	and your tour guide Mrs. Swan will have your tickets for cats for you.
+O	00:30:26.870	00:30:29.640	be sure to bring this receipt with you.
+C	00:30:29.640	00:30:31.650	oh! I'm so excited.
+D	00:30:31.650	00:30:34.280	me too. thank you very much!
+O	00:30:34.280	00:30:38.750	thank you, I can be of any help please feel free to call.
+D	00:30:38.750	00:30:39.900	good bye
+O	00:30:39.900	00:30:40.410	good bye.
+C	00:30:40.410	00:30:42.240	good bye.
+
+R	00:30:50.530	00:30:53.180	good evening, can I help you sir?
+S	00:30:53.180	00:30:55.626	yes. thank you. my name is Paul Simmons.
+S	00:30:55.727	00:30:57.440	I'm looking for Don Barker.
+S	00:30:57.440	00:31:00.280	I was supposed to meet him here at six fifteen.
+R	00:31:00.280	00:31:12.470	Don Barker? let me see. ah! yes, Mr. Barker has a reservation for two at seven fifteen
+S	00:31:12.470	00:31:18.760	oh, right seven fifteen would you mind if I wait for him here at the restaurant?
+R	00:31:18.760	00:31:27.250	no problem sir, just follow me please.
+R	00:31:27.250	00:31:31.300	hello,Charley's grill how may I help you?
+T	00:31:31.300	00:31:34.930	hi! I'd like to make reservations for Sunday dinner.
+R	00:31:34.930	00:31:38.740	just a minute please let me get Sunday's reservation book.
+R	00:31:38.740	00:31:41.640	okay your name is...
+T	00:31:41.650	00:31:44.380	Woodward Janet Woodward.
+R	00:31:44.380	00:31:47.050	and what time will you be arriving?
+T	00:31:47.050	00:31:49.480	about six thirty.
+R	00:31:49.480	00:31:54.450	and how many people do you expect in your party?
+T	00:31:54.460	00:31:57.010	about seven or eight.
+T	00:31:57.010	00:32:02.070	I'm not sure if my mother will be able to join us or not.
+R	00:32:02.080	00:32:04.400	I'll put you down for eight
+T	00:32:04.400	00:32:05.630	thank you.
+R	00:32:05.630	00:32:14.230	so that's Woodward party of eight for six thirty Sunday.
+T	00:32:14.230	00:32:16.900	yes, thank you.
+R	00:32:16.900	00:32:22.630	we look forward to seeing you then. goodbye.
+R	00:32:22.630	00:32:26.600	sorry to keep you waiting would you like a table for two?
+D	00:32:26.532	00:32:29.541	no,four although I believe we have a reservation.
+R	00:32:31.180	00:32:32.960	what is the name, please?
+D	00:32:32.960	00:32:33.860	dick Greene.
+R	00:32:33.860	00:32:38.600	dick Greene? ah! yes, I see it here,
+R	00:32:38.600	00:32:41.920	green a table of four at seven thirty
+R	00:32:41.920	00:32:44.750	the rest of your party has not arrived yet.
+R	00:32:44.750	00:32:46.780	but your table is ready.
+R	00:32:46.790	00:32:48.020	would you like to be seated?
+D	00:32:48.020	00:32:51.819	yes, thank you I believe the Greens will be here any moment.
+R	00:32:51.829	00:32:56.620	follow me, please.
+R	00:32:56.620	00:32:58.939	welcome to charli's. may I help you?
+U	00:32:58.939	00:33:04.270	we have a reservation for green Dick green, seven thirty party of four.
+R	00:33:04.280	00:33:08.329	yes. Mr. green. the other members of your party have already arrived.
+R	00:33:08.329	00:33:14.069	let me show you to your table.
+R	00:33:14.079	00:33:16.280	welcome to Charliy's may I help you?
+V	00:33:16.280	00:33:21.140	hi! is there a Mr. Paul Simmons here waiting for me?
+V	00:33:21.140	00:33:25.880	I'm Dan Barker the bartender told me to look for him here.
+R	00:33:25.880	00:33:36.050	ah! yes, Mr. Barker we have a reservation for you at seven fifteen Mr. Simmons arrived only a few minutes ago. let me show you to your table.
+V	00:33:36.050	00:33:38.350	thank you.
+
+W	00:33:43.510	00:33:48.050	good evening, sir. my name is Alex and I'll be your waitress this evening.
+W	00:33:48.050	00:33:50.270	can I get you something to drink while you wait?
+S	00:33:50.270	00:33:53.710	yes. that'd be great. I'll have a ginger ale.
+W	00:33:53.710	00:34:01.090	one ginger ale I'll be right back!
+R	00:34:01.090	00:34:02.330	Here you go.
+V	00:34:02.330	00:34:07.160	hi Paul! nice to see you. although it seems we have a bit of a mix-up.
+S	00:34:07.160	00:34:11.539	oh, sorry about that. I thought we're gonna meet it six fifteen my mistake.
+V	00:34:11.539	00:34:15.130	no problem.
+W	00:34:15.130	00:34:17.150	here's your ginger ale, sir.
+S	00:34:17.150	00:34:20.530	thank you.
+W	00:34:20.530	00:34:22.940	can I get you something to drink, sir?
+V	00:34:22.940	00:34:24.799	sure. I'll have a Heineken.
+W	00:34:24.799	00:34:29.530	one Heineken. I'll be right back to take your order.
+W	00:34:29.530	00:34:31.460	are you ready to place your order?
+X	00:34:31.460	00:34:36.200	I think so. can you tell me what is the soup of the day?
+W	00:34:36.200	00:34:37.960	cream of asparagus.
+X	00:34:37.960	00:34:45.340	hmm, okay. I'll have a cup of cream of asparagus soup and a t-bone steak
+W	00:34:45.350	00:34:49.780	okay, sir. and how would you like your steak done?
+X	00:34:49.790	00:34:51.590	medium-rare, please.
+W	00:34:51.590	00:34:55.480	medium-rare. would you like a baked potato or french fries?
+X	00:34:55.490	00:34:56.970	baked potato.
+W	00:34:56.970	00:35:02.910	on your salad would you prefer French, Italian blue cheese are the house dressing.
+X	00:35:02.910	00:35:04.430	French please.
+W	00:35:04.430	00:35:14.300	okay sir. that is one t-bone steak with a baked potato. and with French dressing on your salad. and one cup of asparagus soup.
+X	00:35:14.310	00:35:16.760	yes. thank you.
+W	00:35:16.760	00:35:19.340	for you man?
+Y	00:35:19.340	00:35:24.570	I'll have the chef's salad. can you tell me what is the house dressing like?
+W	00:35:24.570	00:35:29.690	yes, ma'am. it's a fresh vinaigrette. I'd recommend. it is quite good.
+Y	00:35:29.690	00:35:32.490	it sounds good to me I'll take that.
+Y	00:35:32.490	00:35:34.560	does bread come with my salad?
+W	00:35:34.560	00:35:35.690	yes, ma'am.
+Y	00:35:35.690	00:35:37.650	good.
+W	00:35:37.660	00:35:39.520	and ma'ma what can I get for you?
+D	00:35:39.520	00:35:43.730	miss, can you tell me what is this Indian curry?
+W	00:35:43.740	00:35:46.840	this is a chicken curry made with potatoes,
+W	00:35:46.840	00:35:49.810	carrots and onions and is served on a bed of rice.
+D	00:35:49.810	00:35:51.480	it's a very spicy?
+W	00:35:51.480	00:35:53.320	it is a bit spicy
+W	00:35:53.320	00:35:56.820	but I can ask the cook to make it less spicy for you if that's what you prefer.
+D	00:35:56.820	00:36:00.730	no. that's okay. as long as it's not too spicy.
+W	00:36:00.730	00:36:03.430	no ma'am. so one Indian curry.
+W	00:36:03.430	00:36:05.320	and Miss, what can I get for you?
+C	00:36:05.320	00:36:09.130	I think I will have the Western burger and french fries.
+W	00:36:09.130	00:36:13.540	okay. one Western burger and fries. how do you like your burgers?
+C	00:36:13.540	00:36:16.060	well-done, please. and may I have a coke?
+W	00:36:16.060	00:36:18.690	yes, one coke. is there
+W	00:36:18.700	00:36:20.260	anything else I can get for you?
+X	00:36:20.260	00:36:25.000	no. I think that will be awll. okay then. I'll be right back with your coke.
+X	00:36:25.000	00:36:26.080	thank you
+W	00:36:26.080	00:36:28.080	thank you
+W	00:36:28.080	00:36:36.229	here you go, sir. are you ready to order?
+V	00:36:36.229	00:36:43.940	done. yes I I believe so. let me see what is the catch of the day?
+W	00:36:43.940	00:36:46.370	today's catch of the day is the sea bass.
+V	00:36:46.370	00:36:49.979	and the chef's special?
+W	00:36:49.989	00:36:51.400	blackened chicken
+V	00:36:51.400	00:36:59.800	hmm. I think I'll have the sea bass. can I have it rolled with the lemon butter sauce?
+W	00:36:59.810	00:37:04.920	sea bass broiled would you like mixed vegetables or the tossed salad with them.
+V	00:37:04.930	00:37:08.200	I'll have the mixed vegetables.
+W	00:37:08.200	00:37:13.560	that also comes with a baked potato or rice pilaf.
+V	00:37:13.570	00:37:16.630	I'll have the rice pilaf.
+W	00:37:16.630	00:37:24.259	okay. that is the broiled sea bass with rice pilaf and mixed vegetables. and for you, sir?
+S	00:37:24.259	00:37:27.070	I like the sound of that blackened chicken.
+W	00:37:27.070	00:37:30.350	that also comes with a baked potato or the rice.
+S	00:37:30.350	00:37:32.910	i love a baked potato and a salad.
+W	00:37:32.920	00:37:39.259	we have a choice of French, Italian blue cheese or the house vinaigrette for your salad.
+S	00:37:39.259	00:37:42.920	blue cheese and you have croutons on the salad?
+W	00:37:42.920	00:37:43.790	yes sir.
+S	00:37:43.790	00:37:45.590	I'll take an extra of those please.
+W	00:37:45.590	00:37:46.880	no problem, sir.
+W	00:37:46.880	00:37:49.590	that's black and chicken with a baked potato,
+W	00:37:49.600	00:37:52.900	salad with blue cheese dressing and extra croutons.
+S	00:37:52.900	00:37:54.550	yes. thank you.
+S	00:37:54.560	00:37:56.330	Then I'll have another ginger ale?
+W	00:37:56.330	00:37:57.590	one ginger ale.
+S	00:37:57.590	00:37:59.460	thank you.
+W	00:37:59.470	00:38:00.830	how's everything?
+S	00:38:00.830	00:38:02.380	oh! very good thank you.
+S	00:38:02.390	00:38:04.120	the blackened chicken was delicious.
+W	00:38:04.120	00:38:05.870	I'm glad to hear that.
+W	00:38:05.870	00:38:08.450	is there anything else that I can get for you?
+S	00:38:08.450	00:38:10.090	Don, is there anything else?
+V	00:38:10.100	00:38:11.800	yes. I'll have another beer.
+S	00:38:11.800	00:38:14.300	okay. and I'll have another ginger ale.
+S	00:38:14.300	00:38:17.540	with that along would you bring the bill back as well, please
+W	00:38:17.540	00:38:20.600	one Heineken and one ginger ale. I'll be right back.
+S	00:38:20.600	00:38:32.710	thank you.
+W	00:38:32.720	00:38:40.660	and here's your bill, sir. I'll take that when you're ready.
+S	00:38:40.660	00:38:43.080	just a minute, please.
+S	00:38:43.090	00:38:46.240	excuse me! what is this charge for here?
+W	00:38:46.250	00:38:47.690	that's for the water, sir.
+S	00:38:47.690	00:38:52.690	oh, okay. here you go I'll check.
+W	00:38:52.700	00:38:54.740	okay, sir. I'll be right back.
+S	00:38:54.740	00:38:56.270	thank you.
+
+Z	00:39:02.050	00:39:03.119	good morning.
+R	00:39:03.126	00:39:06.130	good morning Mrs. Brogan. how are you this morning?
+Z	00:39:06.140	00:39:08.300	not very well, I slept poorly.
+R	00:39:08.300	00:39:10.480	oh. I'm sorry to hear that.
+Z	00:39:10.480	00:39:13.130	do you have any messages for me?
+R	00:39:13.130	00:39:20.180	let me check. this is for you, mrs. Brogan,it just arrived this morning.
+Z	00:39:20.180	00:39:32.577	thank you. oh! this is bad news! I'm going to have to fly up to Parkersville,my husband isn't able to meet me here.
+R	00:39:32.608	00:39:34.310	oh! I'm sorry to hear that.
+Z	00:39:34.310	00:39:37.610	I'm going to go back upstairs and pack my bags.
+Z	00:39:37.610	00:39:40.757	could you send a boy up for them in half an hour?
+R	00:39:40.843	00:39:41.990	certainly, ma'am.
+Z	00:39:41.990	00:39:43.992	and could you get my bill ready?
+Z	00:39:44.024	00:39:47.103	I'll want to charge it to broken enterprises as usual.
+R	00:39:47.570	00:39:48.530	yes, mrs. Brogan.
+Z	00:39:48.530	00:39:50.950	thank you. I'll be ready in half an hour.
+D	00:39:50.960	00:39:55.390	oh, she was rush.
+R	00:39:55.390	00:40:01.871	yes. mrs. Brogan is usually in a hurry,good morning ma'am, how may I help you this morning?
+D	00:40:02.320	00:40:07.050	I'm Mrs. Anne Rafferty in room twelve six and I'd like to check out.
+R	00:40:07.160	00:40:08.810	oh, ok. Mrs. Rafferty.
+R	00:40:08.810	00:40:11.150	just one minute and I'll get your bill for you.
+R	00:40:11.150	00:40:16.060	I hope you had a pleasant stay here.
+D	00:40:16.070	00:40:18.640	yes. we have thank you.
+R	00:40:18.640	00:40:21.770	in addition to the charge for the two nights.
+R	00:40:21.770	00:40:28.250	you'll see that there is a charge for a couple of local phone calls you made as well as a call to Rapid City.
+D	00:40:28.250	00:40:30.130	yes. we made those calls.
+R	00:40:30.130	00:40:38.620	ok, then if everything is in order. please sign here.
+R	00:40:38.630	00:40:40.940	can I get you a cab?
+D	00:40:40.950	00:40:43.865	oh. thank you you're going to take the shuttle to the airport.
+R	00:40:44.445	00:40:45.142	ok.
+R	00:40:46.430	00:40:50.078	have a nice trip and I hope we will see you again at the Grand Plaza.
+D	00:40:50.130	00:40:52.400	I think you will.
+

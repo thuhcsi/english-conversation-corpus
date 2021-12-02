@@ -1,0 +1,432 @@
+A	00:00:03.199	00:00:04.040	Mirror!
+A	00:00:06.399	00:00:09.120	Mirror, mirror on the wall...
+A	00:00:09.120	00:00:11.790	Who's the fairest of them all?
+A	00:00:13.040	00:00:14.549	Ehi!
+A	00:00:14.559	00:00:16.400	It's the new girl
+B	00:00:16.400	00:00:18.550	Hello, i'm Elena.
+A	00:00:18.560	00:00:20.325	Come in, come in!
+A	00:00:21.920	00:00:24.320	So good to see you, Elena.
+A	00:00:24.320	00:00:26.857	I'm Agatha, agatha johnson.
+B	00:00:27.039	00:00:29.359	Pleased to meet you, mrs johnson.
+A	00:00:29.359	00:00:31.617	Welcome to the johnson family!
+B	00:00:32.880	00:00:34.534	I come from Madrid.
+A	00:00:35.680	00:00:40.720	No, no: welcome to the johnson family.
+B	00:00:41.760	00:00:44.070	My family is in spain.
+A	00:00:44.399	00:00:46.100	Yes, yes. i know.
+A	00:00:47.120	00:00:49.841	You must be tired after your long journey!
+B	00:00:50.559	00:00:52.559	Sorry, i don't understand.
+B	00:00:52.559	00:00:55.256	my english is not very good.
+A	00:00:56.480	00:01:05.587	You... must... be... tired... after your journey!
+B	00:01:06.000	00:01:09.439	Yes, very tired... very long journey.
+A	00:01:09.439	00:01:11.030	Yes!
+A	00:01:11.040	00:01:13.583	Well now, let's sit down together!
+B	00:01:13.920	00:01:15.270	Thank you.
+A	00:01:17.280	00:01:18.804	Is everything all right?
+B	00:01:19.360	00:01:22.020	Everything is all right, mrs johnson.
+A	00:01:22.320	00:01:22.799	No!
+A	00:01:22.799	00:01:25.442	you call me Agatha.
+B	00:01:25.920	00:01:27.910	Alright, thank you, Agatha.
+A	00:01:27.920	00:01:30.880	You're part of the family now.
+B	00:01:31.520	00:01:33.000	Part of the family?
+A	00:01:33.600	00:01:34.030	Yes.
+A	00:01:35.600	00:01:39.558	My family... my brother, me...
+B	00:01:40.560	00:01:42.950	I have four brothers!
+A	00:01:42.960	00:01:44.248	Four brothers!
+A	00:01:44.399	00:01:46.450	Wow, well, that's nice!
+B	00:01:46.320	00:01:47.520	They're big boys.
+A	00:01:47.520	00:01:48.454	Really?
+A	00:01:48.640	00:01:49.935	What about sisters?
+B	00:01:50.159	00:01:52.240	I also have three sisters.
+A	00:01:52.240	00:01:53.920	Oh, dear!
+A	00:01:53.920	00:01:55.910	that's too many!
+B	00:01:55.920	00:01:59.070	My family is a very big... many people.
+A	00:01:59.680	00:02:02.099	Yes Elena, that's nice!
+A	00:02:02.399	00:02:04.010	You have a big family.
+A	00:02:04.640	00:02:06.910	I have a small family.
+B	00:02:07.920	00:02:09.800	Now an extra person, me!
+A	00:02:09.920	00:02:13.270	Yes, Elena you're one of the family now.
+B	00:02:13.280	00:02:14.424	Thank you Agatha.
+B	00:02:14.424	00:02:15.528	that's nice.
+A	00:02:16.000	00:02:17.937	Well now, it's teatime.
+B	00:02:18.239	00:02:22.692	Oh good... one cup of tea, two cups of tea.
+A	00:02:23.520	00:02:25.282	Yes, that's right!
+A	00:02:26.080	00:02:29.110	I'll take your bags to your room, then go into the kitchen.
+A	00:02:31.120	00:02:33.157	What... what heavy bags!
+B	00:02:33.599	00:02:35.030	Yes, many bags.
+A	00:02:35.040	00:02:38.070	No, no, I said 'heavy', heavy bags!
+B	00:02:38.080	00:02:41.390	Oh yes, heavy, very heavy bags.
+A	00:02:42.400	00:02:44.589	Ok, i'll be right back.
+B	00:02:45.599	00:02:47.830	All right.
+A	00:03:08.959	00:03:10.959	Here we are...
+A	00:03:10.959	00:03:12.981	Tea for two.
+B	00:03:12.981	00:03:13.869	Thank you!
+A	00:03:16.879	00:03:18.000	Milk and sugar?
+B	00:03:18.000	00:03:18.990	Yes, please.
+A	00:03:22.000	00:03:23.519	Have a biscuit.
+A	00:03:23.519	00:03:24.817	they're homemade.
+B	00:03:24.879	00:03:26.919	No, thank you.
+A	00:03:27.519	00:03:30.592	Now you must tell me about yourself.
+A	00:03:30.959	00:03:34.876	Your family: mom, dad...
+B	00:03:35.440	00:03:37.124	I have four brothers...
+B	00:03:37.599	00:03:39.621	And three sisters.
+B	00:03:40.640	00:03:44.949	Well, i'm a student, and i go to a language school.
+A	00:03:44.959	00:03:46.910	To study English.
+B	00:03:47.120	00:03:50.000	Yes, my english is not very good.
+A	00:03:50.000	00:03:53.405	No, no, no, no... it's quite good.
+A	00:03:54.159	00:03:55.506	Where is the school?
+B	00:03:55.920	00:03:58.790	It's near here, on exeter avenue.
+A	00:03:59.200	00:04:01.120	That's very close!
+B	00:04:01.120	00:04:01.932	Good.
+A	00:04:02.720	00:04:04.161	Just ten minutes.
+B	00:04:04.560	00:04:05.869	Oh, that's easy.
+A	00:04:06.879	00:04:12.166	Perhaps, victor could take you by car.
+B	00:04:12.560	00:04:13.200	Victor?
+B	00:04:13.200	00:04:14.239	who's victor?
+A	00:04:14.239	00:04:15.245	My brother!
+B	00:04:15.519	00:04:16.590	Your brother...
+A	00:04:17.600	00:04:19.926	That is a photo of victor.
+B	00:04:20.079	00:04:22.488	Oh, he's a big boy!
+A	00:04:22.639	00:04:24.380	Well, he's twenty-five!
+A	00:04:25.759	00:04:29.110	And that is my boyfriend, harold.
+B	00:04:29.120	00:04:30.479	Your boyfriend...
+A	00:04:30.479	00:04:32.950	He works in a bank.
+B	00:04:32.960	00:04:34.520	In a bank...
+A	00:04:35.520	00:04:37.520	That's my brother, Allan.
+B	00:04:37.520	00:04:39.040	Oh, your brother.
+A	00:04:39.040	00:04:41.199	He lives in Sydney.
+B	00:04:41.199	00:04:42.080	In australia?
+A	00:04:42.080	00:04:44.267	Yes, he loves it!
+B	00:04:44.479	00:04:46.560	Oh, i want to see australia.
+A	00:04:46.560	00:04:48.150	Me too!
+A	00:04:48.160	00:04:49.800	perhaps, one day...
+B	00:04:50.800	00:04:53.199	And and who's that photo?
+A	00:04:53.199	00:04:55.310	Oh, that's just my sister, Betty.
+B	00:04:55.520	00:04:56.639	Oh, your sister...
+A	00:04:56.639	00:04:57.840	She lives near here.
+A	00:04:57.840	00:05:00.800	I see her every day.
+B	00:05:00.800	00:05:01.652	Everyday?
+A	00:05:02.000	00:05:04.639	Yes, we go shopping together.
+B	00:05:04.639	00:05:06.070	You go shopping.
+A	00:05:08.080	00:05:11.749	She's a very difficult person.
+B	00:05:11.759	00:05:13.280	But she's your sister!
+A	00:05:13.280	00:05:17.790	Yes, she's a very difficult sister!
+A	00:05:21.840	00:05:23.950	And this...
+A	00:05:24.960	00:05:29.840	This is a photo of my mother and my father.
+B	00:05:29.840	00:05:32.386	Your mother and your father, your parents?
+A	00:05:32.386	00:05:33.440	Yes.
+A	00:05:33.440	00:05:37.440	My parents, on their anniversary day.
+B	00:05:37.440	00:05:39.080	Sorry, i don't understand.
+A	00:05:40.080	00:05:42.160	On the day that they got married.
+B	00:05:42.160	00:05:44.800	Oh, yes, that anniversary day.
+A	00:05:44.800	00:05:45.590	yes.
+A	00:05:45.600	00:05:50.150	And here... is the rest of my family.
+B	00:05:50.160	00:05:51.919	Oh, that's interesting.
+A	00:05:51.919	00:05:54.800	Oh, that's victor.
+A	00:05:54.800	00:05:57.919	He is punctual like always.
+A	00:05:57.919	00:06:01.312	He arrives at home at five o'clock every day.
+B	00:06:02.080	00:06:03.061	Everyday?
+B	00:06:03.280	00:06:04.880	he lives here?
+A	00:06:04.880	00:06:06.950	Yes, he lives with me!
+B	00:06:06.960	00:06:08.240	Oh, he lives here.
+A	00:06:08.240	00:06:10.880	Yes, with my cat, felix...
+B	00:06:10.880	00:06:12.720	oh, Your cat, felix.
+A	00:06:12.720	00:06:15.608	...And my canary, Tweety.
+B	00:06:16.000	00:06:17.550	...And your canary, tweety.
+A	00:06:18.560	00:06:20.240	Hello victor!
+A	00:06:20.240	00:06:23.199	come in and meet Elena.
+A	00:06:23.199	00:06:25.590	Hello, darling!
+C	00:06:25.600	00:06:27.950	Hi, agatha.
+C	00:06:30.960	00:06:31.960	Who are you?
+B	00:06:32.960	00:06:34.309	I'm Elena.
+A	00:06:34.319	00:06:36.400	Darling, this is Elena.
+C	00:06:37.759	00:06:38.800	Elena.
+C	00:06:38.800	00:06:40.870	Hello Elena!
+C	00:06:40.880	00:06:42.595	What are you doing here?
+A	00:06:43.440	00:06:45.629	She's staying with us, sweetheart.
+C	00:06:46.639	00:06:48.950	Why don't you tell me about these things?
+A	00:06:48.960	00:06:51.310	I do, i do!
+A	00:06:51.310	00:06:53.586	i tell you everything, darling.
+A	00:06:54.080	00:06:58.319	Elena, this is my gorgeous brother, vic.
+A	00:06:58.319	00:07:02.929	he's very handsome, very clever, and very forgetful!
+B	00:07:03.759	00:07:05.520	I'm studying english here.
+B	00:07:05.520	00:07:07.280	I come from Madrid.
+B	00:07:07.280	00:07:08.790	Nice to meet you.
+C	00:07:08.800	00:07:10.800	...Studying english?
+B	00:07:10.800	00:07:15.680	Yes, i want to speak a good english and become a tourist guide.
+A	00:07:15.680	00:07:17.029	Lovely!
+A	00:07:17.039	00:07:18.440	lovely girl!
+C	00:07:19.440	00:07:21.302	Where... where are you studying?
+B	00:07:22.000	00:07:25.120	At the queen school on exeter avenue.
+B	00:07:25.120	00:07:25.870	You know it?
+C	00:07:26.880	00:07:27.640	Do i know it?
+C	00:07:29.440	00:07:30.109	...agatha?
+C	00:07:30.109	00:07:31.360	Do i know the school?
+A	00:07:31.360	00:07:32.727	Of course darling!
+A	00:07:32.727	00:07:33.749	Of course he does.
+C	00:07:33.759	00:07:35.520	Of course i do!
+C	00:07:35.520	00:07:36.400	Silly me.
+A	00:07:36.400	00:07:37.670	Silly you.
+B	00:07:37.680	00:07:39.400	Silly you!
+A	00:07:40.400	00:07:47.749	Well, i think that we are going to have a wonderful time with Elena staying here.
+C	00:07:47.759	00:07:50.080	Yes, a wonderful time.
+B	00:07:50.080	00:07:50.822	Thank you.
+C	00:07:52.479	00:07:54.340	How long are you going to be in London?
+A	00:07:55.039	00:08:01.089	That's right: get to know each other and... i'll go start dinner.
+B	00:08:01.360	00:08:02.710	Can i help you, agatha?
+A	00:08:02.720	00:08:03.280	No!
+A	00:08:03.280	00:08:04.160	Sweet girl.
+A	00:08:04.160	00:08:05.760	You stay right where you are!
+B	00:08:06.160	00:08:07.080	All right.
+C	00:08:08.080	00:08:09.510	When did you arrive?
+B	00:08:09.520	00:08:10.677	Today.
+C	00:08:11.599	00:08:16.156	And you'll be staying with us... until you go back to spain?
+C	00:08:16.960	00:08:17.749	When?
+B	00:08:17.759	00:08:22.933	I go back to Madrid after my english course.
+B	00:08:23.280	00:08:26.479	And my language course is eight weeks.
+C	00:08:31.199	00:08:32.000	i'm sorry.
+C	00:08:32.000	00:08:34.852	My sister is a little... eccentric.
+B	00:08:35.120	00:08:37.630	Your sister is very nice.
+C	00:08:38.640	00:08:41.309	Tell me... tell me about your family, Elena.
+B	00:08:41.919	00:08:45.963	I have many... sister and brothers.
+C	00:08:46.720	00:08:48.000	Are you the oldest?
+B	00:08:48.000	00:08:48.800	No.
+B	00:08:48.800	00:08:54.320	I have two brothers and one sister, who are older...
+C	00:08:54.320	00:08:55.829	...older? older than you.
+B	00:08:55.839	00:08:56.640	Yes.
+B	00:08:56.640	00:09:03.230	And... my mother is carmen and my father is Fernando.
+C	00:09:04.240	00:09:08.000	And this is your first time away from Madrid?
+B	00:09:08.000	00:09:08.880	Yes.
+B	00:09:08.880	00:09:14.000	Um i'm happy uh to be in London but also i'm a little sad.
+C	00:09:14.000	00:09:17.200	You miss... you miss your big family?
+B	00:09:17.200	00:09:21.959	Yes, but you are very kind and you are very nice.
+C	00:09:22.959	00:09:23.640	Thank you.
+C	00:09:24.640	00:09:26.070	And what does your...
+C	00:09:26.080	00:09:28.663	What does your father do back in Madrid?
+C	00:09:28.560	00:09:29.633	What's his job?
+B	00:09:30.959	00:09:35.760	He makes... this... and this...
+C	00:09:39.120	00:09:39.401	Oh!
+C	00:09:39.401	00:09:41.269	He makes... he makes furniture!
+B	00:09:41.279	00:09:42.959	Yes, yes.
+C	00:09:42.959	00:09:44.160	And your mother?
+C	00:09:44.160	00:09:45.750	Does she work?
+B	00:09:45.760	00:09:52.710	My mother works very hard in the house... cooking, washing, cleaning.
+C	00:09:52.720	00:09:55.360	Your mother is a housewife.
+B	00:09:55.360	00:09:56.374	A housewife.
+C	00:09:56.240	00:09:57.440	Housewife.
+A	00:09:57.440	00:10:00.550	So... how are you getting along?
+C	00:10:00.560	00:10:03.603	Just fine thanks, agatha.
+B	00:10:04.240	00:10:05.040	Very fine.
+B	00:10:05.040	00:10:05.760	Thank you.
+A	00:10:05.760	00:10:07.024	Wonderful!
+A	00:10:07.600	00:10:10.430	Now come and help me set the table.
+B	00:10:11.440	00:10:12.284	Ok.
+
+B	00:10:13.200	00:10:14.630	Can i help?
+A	00:10:15.279	00:10:16.390	Yes, please.
+A	00:10:16.390	00:10:17.821	Set the table, dear.
+B	00:10:17.821	00:10:19.600	Set the table?
+C	00:10:19.600	00:10:20.959	I'll help you.
+A	00:10:21.920	00:10:23.110	That's a good boy.
+C	00:10:25.120	00:10:26.150	The plates.
+B	00:10:28.160	00:10:31.750	Is your boyfriend harold eating with us?
+A	00:10:31.760	00:10:34.790	No, harold is in oxford.
+C	00:10:34.800	00:10:38.069	Harold's bank has an office in oxford.
+C	00:10:39.920	00:10:45.630	The knives and forks.
+C	00:10:46.640	00:10:53.399	Knife... fork and... spoon!
+A	00:10:56.160	00:10:57.600	Is the table set?
+C	00:10:57.600	00:10:59.190	Yes, Agatha.
+A	00:10:59.200	00:10:59.686	Good.
+A	00:10:59.600	00:11:00.959	Sit down, please.
+A	00:11:00.959	00:11:02.190	dinner is ready.
+B	00:11:03.200	00:11:05.040	Are we having dinner now?
+A	00:11:05.040	00:11:06.959	Why of course, dear.
+C	00:11:06.959	00:11:08.240	What are we having?
+A	00:11:08.240	00:11:11.920	We are having soup and a salad.
+A	00:11:11.920	00:11:13.829	Do you like chicken soup, Elena?
+B	00:11:13.839	00:11:14.329	Yes.
+B	00:11:14.329	00:11:15.132	Thank you.
+A	00:11:16.320	00:11:19.180	Please, put the napkins on the table, victor!
+C	00:11:19.180	00:11:20.310	Sorry.
+C	00:11:20.320	00:11:22.430	Here they are.
+A	00:11:23.440	00:11:27.023	My silly victor he forgets everything!
+B	00:11:27.279	00:11:28.269	Everything!
+A	00:11:31.279	00:11:32.433	Here is your soup...
+A	00:11:33.200	00:11:34.880	Help yourselves to the bread...
+B	00:11:34.880	00:11:36.320	Thank you, agatha.
+A	00:11:36.320	00:11:38.150	You're welcome, my dear!
+A	00:11:38.160	00:11:39.760	It's so nice to have you here.
+C	00:11:39.760	00:11:40.160	Yes.
+C	00:11:40.160	00:11:41.990	It's nice to have you here.
+B	00:11:42.000	00:11:42.478	Thank you.
+B	00:11:42.478	00:11:43.752	That is very kind.
+A	00:11:44.002	00:11:45.190	Nonsense.
+A	00:11:45.200	00:11:46.430	Now, let's eat!
+C	00:11:51.440	00:11:52.720	How's your soup?
+B	00:11:52.720	00:11:55.910	It's delicious.
+A	00:11:57.920	00:11:59.440	What's wrong, dear?
+A	00:11:59.440	00:12:00.500	Don't you like it?
+B	00:12:02.399	00:12:03.360	Well...
+C	00:12:03.360	00:12:05.120	You don't feel well?
+B	00:12:05.120	00:12:06.566	No, i'm sorry.
+B	00:12:07.200	00:12:08.870	It is a bit early for me.
+B	00:12:08.880	00:12:10.880	I am not really hungry.
+A	00:12:10.880	00:12:11.990	not hungry?
+C	00:12:12.000	00:12:15.829	What time does your family eat dinner back in spain?
+B	00:12:15.839	00:12:18.550	We eat dinner at ten o'clock at home.
+A	00:12:18.560	00:12:20.959	Well, imagine that!
+C	00:12:20.959	00:12:23.600	We're usually in bed before midnight!
+A	00:12:23.600	00:12:29.120	Elena, darling, you must forgive our strange english habits.
+B	00:12:29.120	00:12:31.835	No, it is all a bit strange for me now.
+A	00:12:32.560	00:12:33.797	My poor dear!
+A	00:12:34.320	00:12:36.585	You must be exhausted!
+C	00:12:37.120	00:12:40.710	Maybe you should go to bed soon, Elena.
+B	00:12:40.720	00:12:41.760	Yes, please.
+B	00:12:41.760	00:12:43.440	I'm sorry.
+A	00:12:43.440	00:12:44.069	No!
+A	00:12:44.079	00:12:45.120	Don't worry.
+A	00:12:45.120	00:12:46.800	You go and sleep.
+B	00:12:46.800	00:12:47.992	Thank you both.
+C	00:12:49.279	00:12:50.160	Good night, Elena.
+B	00:12:50.160	00:12:50.757	Night.
+A	00:12:51.440	00:12:52.710	Sleep well dear!
+C	00:12:56.720	00:12:58.110	Not again, Agatha.
+C	00:12:58.110	00:12:59.920	Don't do this to me again!
+A	00:12:59.920	00:13:02.048	Why, my darling brother.
+A	00:13:02.048	00:13:05.310	What are you talking about?
+
+B	00:13:18.320	00:13:19.200	Oh!
+C	00:13:19.200	00:13:20.560	Good morning!
+C	00:13:20.560	00:13:22.166	You're up early!
+B	00:13:22.560	00:13:26.150	Yes, i'm looking for... for my...
+C	00:13:26.639	00:13:27.680	For your keys?
+B	00:13:27.680	00:13:28.120	Yes.
+C	00:13:28.033	00:13:28.564	There're here.
+B	00:13:29.016	00:13:29.839	Thank you.
+B	00:13:29.839	00:13:31.360	Thank you victor.
+C	00:13:31.360	00:13:33.920	Do your classes start today?
+B	00:13:33.920	00:13:36.710	No, i start classes on Wednesday.
+B	00:13:36.720	00:13:38.320	I'm looking for a job today.
+C	00:13:38.320	00:13:39.279	Oh.
+C	00:13:39.279	00:13:43.760	It's a good idea to get the paper early.
+C	00:13:43.760	00:13:45.509	Can i... can i make you some tea?
+B	00:13:45.519	00:13:46.680	Do you have coffee?
+C	00:13:47.680	00:13:50.338	Sorry, i'm not sure if we have any coffee.
+C	00:13:50.338	00:13:51.031	Let me have a look.
+A	00:13:59.680	00:14:00.880	Darling!
+A	00:14:00.880	00:14:02.079	Good morning!
+B	00:14:02.079	00:14:03.545	Good morning, agatha!
+A	00:14:05.199	00:14:06.384	What a clever girl!
+A	00:14:06.384	00:14:08.399	You're doing morning exercises!
+B	00:14:08.399	00:14:10.880	Oh, yes, yes.
+A	00:14:10.880	00:14:12.150	Did you sleep well?
+B	00:14:12.160	00:14:13.519	Very well.
+C	00:14:13.519	00:14:15.709	Sorry, no coffee.
+C	00:14:15.709	00:14:17.509	Maybe we should add it to the shopping list.
+A	00:14:17.519	00:14:18.639	Yes, yes.
+A	00:14:18.639	00:14:20.000	Tell me what you need.
+A	00:14:20.000	00:14:22.399	I'm going shopping with my sister, betty.
+B	00:14:22.399	00:14:24.430	Coffee would be nice.
+A	00:14:25.440	00:14:28.240	Well, what are your plans for today, sweetheart?
+C	00:14:28.240	00:14:30.160	She's job hunting.
+C	00:14:30.160	00:14:31.926	She's looking for a part-time job.
+A	00:14:32.800	00:14:34.663	How industrious!
+A	00:14:35.040	00:14:39.230	Well, a pretty girl like you will have no trouble finding a job!
+C	00:14:40.240	00:14:41.158	Here's the paper.
+B	00:14:41.680	00:14:42.331	Thanks.
+C	00:14:41.700	00:14:42.800	And look!
+C	00:14:42.800	00:14:43.670	There's one.
+C	00:14:43.680	00:14:45.240	It's here in kensington.
+B	00:14:46.880	00:14:49.269	'Video store on the high street...'
+A	00:14:52.720	00:14:57.040	'Young person with excellent communication skills'.
+A	00:14:57.040	00:14:58.399	That's perfect!
+C	00:14:58.639	00:15:03.120	And... 'afternoon shifts Thursdays, Saturdays and Sundays.'
+B	00:15:03.680	00:15:05.130	Where is the high street?
+A	00:15:05.839	00:15:09.829	Just make a left at the top of our road onto hornton.
+A	00:15:09.839	00:15:12.720	And then make another left onto the high street.
+A	00:15:12.720	00:15:15.466	The store is on your right, next to the tube station.
+B	00:15:16.800	00:15:17.629	The tube?
+C	00:15:19.839	00:15:20.959	I'll walk you up there.
+C	00:15:20.959	00:15:21.435	Ok?
+B	00:15:21.435	00:15:21.906	Thank you!
+B	00:15:21.906	00:15:23.350	That is very kind of you.
+A	00:15:23.360	00:15:24.399	Nonsense!
+A	00:15:24.399	00:15:26.189	My brother is a gentleman.
+C	00:15:27.600	00:15:31.839	Go get ready and i'll meet you downstairs in fifteen minutes.
+C	00:15:31.839	00:15:32.240	Ok?
+B	00:15:32.240	00:15:33.150	Ok.
+A	00:15:34.160	00:15:37.120	Well, good luck my dear.
+A	00:15:37.120	00:15:38.470	Have a nice day.
+B	00:15:38.480	00:15:39.199	Thanks.
+B	00:15:39.199	00:15:40.499	You too Agatha.
+A	00:15:40.499	00:15:41.759	I'll see you in a little while.
+B	00:15:41.759	00:15:42.240	Bye!
+A	00:15:42.240	00:15:42.910	Bye bye!
+
+A	00:15:45.920	00:15:47.040	Hello!
+B	00:15:47.040	00:15:47.759	Hello.
+A	00:15:47.759	00:15:49.280	How was your day?
+B	00:15:49.519	00:15:50.399	Fabulous.
+A	00:15:50.399	00:15:51.523	Fabulous?
+A	00:15:52.160	00:15:54.187	'Fabulous' is excellent!
+A	00:15:54.639	00:15:56.532	I had a fabulous day, too!
+B	00:15:57.680	00:15:58.839	Going shopping?
+A	00:15:59.839	00:16:03.082	Yes, betty and i shopped all day.
+A	00:16:03.519	00:16:06.110	Look at my new nail polish.
+A	00:16:07.120	00:16:09.440	and this blouse is new.
+A	00:16:09.440	00:16:11.910	It looks divine on me, don't you think?
+B	00:16:11.920	00:16:13.079	It's very beautiful.
+A	00:16:14.079	00:16:21.710	And i have a skirt to go with it and... a pair of boots.
+B	00:16:22.720	00:16:23.320	Lovely!
+A	00:16:24.320	00:16:27.027	Of course, betty is jealous.
+A	00:16:28.320	00:16:33.600	She says i spend too much money on clothes.
+C	00:16:33.600	00:16:35.350	Hi girls.
+C	00:16:35.360	00:16:36.880	it's getting cold out there.
+C	00:16:36.880	00:16:38.629	I think it's going to rain.
+A	00:16:38.880	00:16:40.639	I hope not.
+C	00:16:40.639	00:16:42.639	Had a productive day, agatha?
+A	00:16:42.639	00:16:43.440	Yes.
+A	00:16:43.440	00:16:44.600	Delightful!
+C	00:16:45.600	00:16:48.480	And how was your interview, Elena?
+B	00:16:48.839	00:16:50.240	Productive!
+B	00:16:50.240	00:16:53.480	I start work on thursday after the school.
+C	00:16:53.480	00:16:54.639	Congratulations!
+A	00:16:54.639	00:16:56.350	Well done, darling!
+C	00:16:57.360	00:17:00.389	And when do you finish work?
+B	00:17:01.040	00:17:03.472	My shifts are from three to seven.
+C	00:17:04.240	00:17:07.909	And what will you do at the store?
+B	00:17:07.919	00:17:14.837	I put the videos on their shelves and i find information on the computer for customers.
+A	00:17:15.360	00:17:17.621	I love movies!
+A	00:17:18.160	00:17:20.470	Do you know what my favorite movie is?
+B	00:17:20.480	00:17:20.959	No.
+B	00:17:20.959	00:17:22.829	What is your favorite movie?
+A	00:17:22.839	00:17:25.760	'Butterfield eight'.
+A	00:17:25.760	00:17:29.110	Well, any movie with liz taylor.
+B	00:17:29.600	00:17:30.960	I don't know it.
+C	00:17:30.960	00:17:33.639	Agatha watches it a lot.
+C	00:17:34.400	00:17:36.470	Betty has the video.
+B	00:17:37.520	00:17:39.770	I would like to see the movie, too.
+A	00:17:40.080	00:17:41.348	You will love it!
+A	00:17:42.240	00:17:51.039	Liz wears the most brilliant clothes... and Laurence harvey... Oh!
+A	00:17:51.039	00:17:52.288	What a man!
+B	00:17:53.200	00:17:54.569	Do you like it, victor?
+C	00:17:55.360	00:17:58.320	It's a bit old for me.
+C	00:17:58.320	00:18:01.150	I prefer science fiction and fantasy stories.
+C	00:18:02.160	00:18:08.630	When i finish my course, i'd like to try painting sets for films.
+B	00:18:08.640	00:18:09.120	Oh!
+B	00:18:09.120	00:18:11.063	That sounds exciting!
+A	00:18:11.600	00:18:16.537	Speaking of clothing, do you have a warm coat, Elena?
+B	00:18:17.360	00:18:18.960	This is my coat.
+A	00:18:19.679	00:18:21.990	You will die of cold in that coat!
+C	00:18:22.000	00:18:26.320	You will really need a warmer coat soon, Elena.
+A	00:18:26.320	00:18:29.601	It gets very cold in London.
+A	00:18:29.760	00:18:32.470	Not like sunny Barcelona.
+B	00:18:32.480	00:18:33.253	Madrid!
+C	00:18:34.480	00:18:37.679	We might get some some snow at christmas.
+B	00:18:37.679	00:18:38.400	Snow?
+C	00:18:38.559	00:18:40.549	That will be a new experience for you!
+B	00:18:40.559	00:18:41.520	Yes!
+A	00:18:41.520	00:18:42.960	How wonderful!
+A	00:18:42.960	00:18:44.729	You don't have school tomorrow.
+A	00:18:45.120	00:18:47.150	Let's go shopping!
+B	00:18:48.160	00:18:48.799	Ok.
+B	00:18:48.799	00:18:50.039	Let's go shopping!

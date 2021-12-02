@@ -1,0 +1,377 @@
+A	00:00:04.240	00:00:05.049	hi, renee!
+B	00:00:05.359	00:00:07.040	sarah! oh, god.
+B	00:00:07.040	00:00:08.070	can you help me?
+A	00:00:08.400	00:00:09.360	sure.
+B	00:00:09.360	00:00:10.030	thank you.
+B	00:00:10.480	00:00:12.470	take this red paper.
+A	00:00:12.480	00:00:13.920	ok.
+A	00:00:13.920	00:00:15.509	what are you doing?
+B	00:00:15.519	00:00:18.640	i'm putting up decorations for lunar new year.
+A	00:00:18.640	00:00:22.000	i don't know anything about lunar new year.
+A	00:00:22.000	00:00:23.519	how do you celebrate it?
+B	00:00:23.519	00:00:28.960	well, on lunar new year's eve, families get together.
+B	00:00:28.960	00:00:32.719	then they eat a big meal.
+A	00:00:32.719	00:00:34.630	what do you eat?
+B	00:00:34.640	00:00:39.520	we eat chicken, fish, noodles and dumplings.
+B	00:00:39.520	00:00:45.200	and parents give red envelopes to their children.
+A	00:00:45.200	00:00:47.280	red envelopes?
+B	00:00:47.280	00:00:50.239	the envelopes have money inside!
+A	00:00:50.239	00:00:51.520	cool!
+B	00:00:51.520	00:00:54.510	oh! we also wear new clothes.
+B	00:00:59.520	00:01:01.100	look at my qipao!
+B	00:01:01.520	00:01:03.510	it is from my mom.
+A	00:01:03.520	00:01:06.550	it's really pretty.
+A	00:01:06.560	00:01:08.446	how do you say that word again?
+B	00:01:12.824	00:01:13.960	qipao.
+B	00:01:13.840	00:01:17.080	a qipao is a traditional chinese dress.
+A	00:01:17.360	00:01:21.119	lunar new year sounds interesting.
+A	00:01:21.119	00:01:24.080	i can write about it for the newspaper.
+B	00:01:24.080	00:01:25.429	great!
+B	00:01:25.439	00:01:27.759	write about the diner, too.
+A	00:01:27.759	00:01:29.749	why?
+B	00:01:29.759	00:01:33.990	this month, the diner has a lunar new year menu!
+B	00:01:34.000	00:01:38.149	we are serving delicious chinese food all month.
+A	00:01:38.159	00:01:39.600	ok!
+A	00:01:39.600	00:01:42.230	i can write about the diner.
+A	00:01:42.240	00:01:46.663	but i want a red envelope first!
+
+C	00:01:50.720	00:01:52.880	you look great, honey.
+C	00:01:52.880	00:01:54.030	what's the occasion?
+B	00:01:55.040	00:01:56.160	very funny.
+B	00:01:58.020	00:02:00.002	why are you wearing running shorts?
+B	00:02:01.360	00:02:04.000	tonight is lunar new year's eve.
+B	00:02:04.000	00:02:06.000	did you forget?
+C	00:02:06.000	00:02:09.140	no. we've having dinner with my family.
+C	00:02:10.720	00:02:12.560	i don't want to go.
+B	00:02:12.560	00:02:14.550	well, we have to go.
+B	00:02:14.560	00:02:15.680	change your clothes.
+B	00:02:15.680	00:02:23.430	i put your new clothes in your bag.
+C	00:02:23.440	00:02:27.350	honey, why am i wearing this?
+C	00:02:27.360	00:02:29.040	i feel silly.
+B	00:02:29.040	00:02:33.680	i like to wear traditional chinese clothes for lunar new year.
+B	00:02:33.680	00:02:35.240	we'll be a hit at dinner!
+C	00:02:36.239	00:02:38.640	fine.
+C	00:02:38.640	00:02:42.160	i'm not too excited about seeing my brother.
+C	00:02:42.160	00:02:46.229	last lunar new year, he kept talking about his money.
+B	00:02:46.239	00:02:47.840	i understand.
+B	00:02:47.840	00:02:49.210	but he's family.
+C	00:02:50.060	00:03:06.229	i know,let's go,happy lunar new year!
+
+A	00:03:06.239	00:03:09.200	i have a lot of work to do.
+D	00:03:09.200	00:03:11.350	what are you working on?
+A	00:03:11.360	00:03:14.289	i'm writing a column about lunar new year!
+A	00:03:16.239	00:03:19.200	the date of lunar new year changes every year.
+A	00:03:19.200	00:03:20.470	did you know that?
+D	00:03:20.480	00:03:24.550	yes. it follows the lunar calendar.
+A	00:03:24.560	00:03:25.920	that's right!
+D	00:03:25.920	00:03:28.949	lunar new year isn't just a chinese holiday?
+D	00:03:28.959	00:03:30.560	did you know that?
+D	00:03:30.560	00:03:35.840	many other asian countries also celebrate new year's on the same day.
+A	00:03:35.840	00:03:37.440	yes!
+A	00:03:37.440	00:03:39.750	max, how do you know all this?
+D	00:03:39.760	00:03:45.840	when i cook foods from different countries, i like to learn about the culture, too.
+D	00:03:45.840	00:03:49.200	i love reading about other cultures and foods.
+A	00:03:49.200	00:03:51.030	cool!
+A	00:03:51.040	00:03:55.110	chinese called their new year chunjie.
+A	00:03:55.120	00:03:57.260	and koreans call theirs Seollal.
+D	00:03:57.840	00:04:00.390	and vietnamese call it tet.
+D	00:04:00.400	00:04:03.280	but i don't know much about their traditions.
+D	00:04:03.280	00:04:04.789	do you?
+A	00:04:04.799	00:04:07.040	i know some traditions.
+D	00:04:07.040	00:04:11.190	do all three holidays have the same traditions?
+A	00:04:11.200	00:04:13.439	they have similar traditions.
+A	00:04:13.439	00:04:17.919	in all three countries, people eat a big meal with their families.
+D	00:04:17.919	00:04:19.749	cool tradition.
+D	00:04:19.759	00:04:22.870	so what are some of the differences?
+A	00:04:22.880	00:04:24.639	the food is different.
+A	00:04:24.639	00:04:28.000	koreans enjoy rice cake soup.
+A	00:04:28.000	00:04:31.680	vietnamese eats sticky rice with meat.
+A	00:04:31.680	00:04:33.430	it's wrapped in leaves.
+D	00:04:33.440	00:04:35.840	i want to try to make that!
+A	00:04:35.840	00:04:38.160	let's stop talking about food.
+A	00:04:38.160	00:04:39.749	i'm getting hungry!
+D	00:04:39.759	00:04:44.310	i'll cook some new year's food for us.
+
+E	00:04:44.320	00:04:47.040	betty picks up a stuffed rat.
+E	00:04:47.040	00:04:52.310	she gives the rat to sarah because it's the year of the rat.
+E	00:04:52.320	00:04:55.430	sarah has a gift for betty, too.
+E	00:04:55.440	00:05:01.600	betty is happy but a little confused when she sees the gift.
+E	00:05:01.600	00:05:05.270	she isn't sure what the gift is.
+F	00:05:05.280	00:05:09.430	thanks! uh, what is it?
+A	00:05:09.440	00:05:12.870	it's a chinese paper lantern.
+A	00:05:12.880	00:05:14.400	it's flat now.
+A	00:05:14.400	00:05:18.150	pick up the top and it opens up.
+F	00:05:18.160	00:05:22.710	wow! where did you get this lantern?
+A	00:05:22.720	00:05:25.680	in chicago's chinatown.
+A	00:05:25.240	00:05:28.390	i went there with my brother last night.
+F	00:05:28.400	00:05:31.990	chicago? that's far.
+F	00:05:32.000	00:05:35.909	you must have driven a long time.
+A	00:05:35.919	00:05:38.000	it took us two hours.
+A	00:05:38.000	00:05:40.400	it's ok,we had fun.
+F	00:05:40.400	00:05:43.350	well, that's good.
+A	00:05:43.360	00:05:47.919	we ate a lunar new year's eve dinner in chinatown.
+F	00:05:47.919	00:05:52.230	i've always wanted to go to chinatown.
+A	00:05:52.240	00:05:54.320	you should go!
+A	00:05:54.320	00:05:58.319	there will be a lunar new year parade on Saturday.
+A	00:05:58.319	00:06:00.080	max and i are going.
+F	00:06:00.080	00:06:03.270	will there be firecrackers?
+A	00:06:03.280	00:06:05.440	yes. do you want to go?
+F	00:06:05.440	00:06:11.029	ok. i'm sure we can find the best chinese food there.
+A	00:06:11.039	00:06:12.960	i don't think so!
+A	00:06:12.960	00:06:17.870	i think max cooks the best chinese food!
+
+E	00:06:18.880	00:06:21.520	renee listens to them.
+E	00:06:21.520	00:06:25.520	they are talking about max's daily special.
+E	00:06:25.520	00:06:27.840	simon doesn't like it.
+E	00:06:27.840	00:06:30.319	max isn't happy about that.
+E	00:06:30.319	00:06:32.319	he loves his food.
+E	00:06:32.319	00:06:34.240	renee smiles.
+E	00:06:34.240	00:06:37.280	she walks over to max and simon.
+B	00:06:37.280	00:06:39.350	what's wrong boys?
+D	00:06:39.360	00:06:42.950	simon can't appreciate good food!
+C	00:06:42.960	00:06:46.309	i can appreciate good food!
+C	00:06:46.319	00:06:49.830	i just don't want this food.
+B	00:06:49.840	00:06:51.546	what's wrong with it, simon?
+C	00:06:52.080	00:06:55.680	well, it's strange.
+B	00:06:55.680	00:06:57.110	it is?
+C	00:06:57.120	00:06:58.800	yes.
+B	00:06:58.800	00:07:01.909	what's so strange about it, simon?
+C	00:07:01.919	00:07:03.759	it's slimy.
+C	00:07:03.759	00:07:10.309	and it smells a little strange, too.
+B	00:07:10.319	00:07:12.720	it smells ok to me, simon.
+D	00:07:12.720	00:07:16.710	simon, just try it. it tastes really good!
+C	00:07:16.720	00:07:17.440	but.
+B	00:07:17.440	00:07:19.830	simon, come on!
+B	00:07:19.840	00:07:22.160	one bite can't hurt you.
+B	00:07:22.160	00:07:24.850	and you may really like it.
+C	00:07:27.050	00:07:31.100	oh, all right.
+C	00:07:44.160	00:07:47.270	hey! this is really good.
+D	00:07:47.280	00:07:50.240	see? my food is good!
+C	00:07:50.240	00:07:53.039	yes, it is.
+C	00:07:53.039	00:07:55.510	renee, bring me another plate of this.
+C	00:07:55.520	00:07:57.039	i love it!
+B	00:07:57.039	00:08:02.790	ok, honey. coming right up.
+
+G	00:08:02.800	00:08:04.080	hi sarah!
+G	00:08:04.080	00:08:05.520	how was school?
+A	00:08:05.520	00:08:07.029	great!
+A	00:08:07.039	00:08:10.960	we're doing presentations on world festivals.
+A	00:08:10.960	00:08:13.840	my presentation is next week.
+D	00:08:13.840	00:08:16.710	which festival will you talk about?
+A	00:08:16.720	00:08:20.309	the winter carnival in quebec.
+A	00:08:20.319	00:08:23.199	i can make snow cones for everyone.
+D	00:08:23.199	00:08:25.280	great idea!
+D	00:08:25.280	00:08:26.720	i can help you!
+G	00:08:26.720	00:08:30.879	or you can present australia day and talk about the cockroach races.
+G	00:08:30.992	00:08:32.057	i can help you!
+G	00:08:32.399	00:08:35.829	i found some cockroaches.
+A	00:08:35.839	00:08:39.919	ben! you brought cockroaches into our house!
+D	00:08:39.919	00:08:42.134	sarah, they're safe in the box.
+D	00:08:42.161	00:08:43.750	don't worry.
+D	00:08:43.760	00:08:47.190	when is this winter carnival in quebec?
+A	00:08:47.200	00:08:48.800	in february.
+A	00:08:48.800	00:08:52.230	it's the biggest winter carnival in the world.
+A	00:08:52.240	00:08:54.880	there are many cultural events.
+A	00:08:54.880	00:08:57.680	and they have a night parade.
+D	00:08:57.680	00:08:59.750	we should go!
+G	00:08:59.760	00:09:01.040	no, thanks.
+G	00:09:01.040	00:09:05.350	i'll stay with my new friends.
+
+A	00:09:05.360	00:09:09.350	maybe you can visit this winter carnival one day.
+A	00:09:09.360	00:09:12.000	bring lots of warm clothes.
+A	00:09:12.000	00:09:19.350	now let's enjoy some snow cones!
+B	00:09:19.360	00:09:21.839	great job!
+B	00:09:21.839	00:09:24.720	you are ready for your presentation.
+B	00:09:24.720	00:09:27.910	i can see that you did a lot of research.
+G	00:09:27.920	00:09:30.560	yeah, well done.
+G	00:09:30.560	00:09:34.000	so where are our snow cones?
+A	00:09:34.000	00:09:36.399	ben, i'm just practicing.
+G	00:09:36.399	00:09:37.920	fine.
+G	00:09:37.920	00:09:42.240	let's have snow cones at our small town festival.
+B	00:09:42.240	00:09:43.829	what festival?
+A	00:09:43.839	00:09:47.110	ben wants to have a small town festival.
+A	00:09:47.120	00:09:49.200	what do you think?
+B	00:09:49.200	00:09:51.920	i think that's a great idea!
+B	00:09:51.920	00:09:54.630	we do have our own culture here.
+B	00:09:54.640	00:09:57.360	we can have all kinds of events.
+B	00:09:57.360	00:10:01.200	we can have a fast talking contest.
+A	00:10:01.200	00:10:03.509	betty would win.
+B	00:10:03.519	00:10:05.360	you're right.
+B	00:10:05.360	00:10:06.790	i can dance.
+G	00:10:06.800	00:10:10.310	and i can hold cockroach races.
+B	00:10:10.320	00:10:11.680	what?
+G	00:10:11.680	00:10:16.880	i have my box of cockroaches right here.
+B	00:10:16.880	00:10:21.600	ben, a restaurant is not the best place for those!
+B	00:10:21.600	00:10:24.399	and why do you have them?
+G	00:10:24.399	00:10:27.030	they're for the cockroach races.
+G	00:10:27.040	00:10:32.320	you did say we could have all kinds of events.
+B	00:10:32.320	00:10:34.630	that's true.
+B	00:10:34.640	00:10:39.680	it would be an interesting way to celebrate small town.
+A	00:10:39.680	00:10:42.030	how many cockroaches are in there?
+G	00:10:42.618	00:10:44.709	six. do you want to see them?
+A	00:10:44.839	00:10:45.375	no!
+G	00:10:48.873	00:10:54.338	one, two, three, four, five, uh-oh...
+G	00:10:56.320	00:11:03.190	one is missing.
+
+F	00:11:03.200	00:11:06.870	there's my beautiful junior reporter!
+A	00:11:06.880	00:11:08.880	hi, betty.
+F	00:11:08.880	00:11:13.110	there's something different about you, dear.
+F	00:11:13.120	00:11:17.110	i know. your hair is a different color.
+A	00:11:17.120	00:11:18.399	no.
+F	00:11:18.399	00:11:23.680	hmm... are you taller?
+A	00:11:23.680	00:11:27.920	no, betty. i'm the same old me.
+F	00:11:27.920	00:11:30.959	well, you look wonderful.
+A	00:11:30.959	00:11:33.269	thanks, betty.
+A	00:11:33.279	00:11:37.910	so do you have any assignments for me?
+F	00:11:37.920	00:11:44.640	yes i do, i need a writer for my new travel column.
+A	00:11:44.640	00:11:47.760	and are you asking me to write it?
+F	00:11:47.760	00:11:51.040	yes. you're an excellent writer.
+F	00:11:51.040	00:11:53.110	you'll do a good job.
+A	00:11:53.120	00:11:55.279	thanks, betty.
+A	00:11:55.279	00:11:58.160	so what's my first column about?
+F	00:11:58.160	00:12:06.320	for your first column, i want you to write about dubai city.
+A	00:12:03.920	00:12:07.750	dubai city,where is that?
+F	00:12:07.760	00:12:10.480	it's a city in the middle east.
+A	00:12:10.480	00:12:14.949	are there a lot of interesting things in dubai city?
+F	00:12:14.959	00:12:22.150	there are,for example, they have a place to go skiing inside.
+A	00:12:22.160	00:12:23.600	really?
+A	00:12:23.600	00:12:24.800	fun.
+F	00:12:24.800	00:12:29.990	yes. and right now, workers are building the bird to buy.
+F	00:12:30.000	00:12:34.150	that's the tallest building in the world.
+A	00:12:34.130	00:12:38.230	great! i'll be sure to write about that.
+F	00:12:38.240	00:12:40.959	good.
+F	00:12:40.959	00:12:45.600	can you finish this assignment by Thursday?
+A	00:12:45.600	00:12:47.590	i'll do my best.
+F	00:12:47.600	00:12:52.870	excellent. i can't wait to read it.
+
+E	00:12:52.880	00:12:55.910	betty is in the post office.
+E	00:12:55.920	00:12:58.720	she picks up a big bag.
+E	00:12:58.720	00:13:01.279	it's very heavy.
+E	00:13:01.279	00:13:06.079	there are a lot of letters and packages inside the bag.
+E	00:13:06.079	00:13:08.069	simon smiles.
+E	00:13:08.079	00:13:11.509	he is very excited about his package.
+E	00:13:11.519	00:13:14.000	he wants it now.
+E	00:13:14.000	00:13:16.959	betty looks inside the bag.
+F	00:13:16.959	00:13:18.639	i am looking...
+F	00:13:18.639	00:13:22.480	i am looking for a package.
+C	00:13:22.250	00:13:25.350	it is not a big package.
+F	00:13:25.360	00:13:28.079	ok.
+F	00:13:28.079	00:13:29.760	is your name on the box?
+F	00:13:29.760	00:13:32.389	or is renee's name on the box?
+C	00:13:32.399	00:13:35.670	my name is on there. simon way.
+F	00:13:35.680	00:13:38.079	hmm... that is strange.
+F	00:13:38.079	00:13:40.320	i don't see any mail for you.
+C	00:13:40.320	00:13:43.990	really? are you sure?
+F	00:13:44.008	00:13:47.590	oh, here it is.
+C	00:13:47.600	00:13:50.399	all right!
+C	00:13:50.399	00:13:51.269	wait.
+C	00:13:51.279	00:13:53.199	this isn't my package.
+C	00:13:53.079	00:13:56.079	it's for simon monroe.
+F	00:13:56.079	00:13:59.910	oh, sorry.
+F	00:13:59.920	00:14:03.829	well, your package isn't in this bag.
+F	00:14:03.839	00:14:05.020	let me look in the back.
+F	00:14:14.480	00:14:18.790	here's a magazine for renee.
+F	00:14:18.800	00:14:21.120	but i don't see a package.
+C	00:14:21.120	00:14:23.680	it's here. i'm sure.
+F	00:14:23.290	00:14:26.290	sorry. i can't find it.
+F	00:14:28.480	00:14:30.800	what's in the package?
+C	00:14:30.800	00:14:37.430	oh... uh, nothing special.
+F	00:14:37.440	00:14:40.299	sorry, simon. your package is not here.
+F	00:14:41.199	00:14:44.710	the mail is slow sometimes.
+C	00:14:44.720	00:14:46.880	ok.
+F	00:14:46.880	00:14:50.160	another mail truck will come this afternoon.
+F	00:14:50.160	00:14:52.320	come back after four.
+C	00:14:52.320	00:14:54.800	really? thanks, betty.
+C	00:14:54.800	00:14:57.829	you're a good mailman.
+F	00:14:57.839	00:15:01.269	i'm not a mailman, simon.
+F	00:15:01.279	00:15:04.389	i'm a postal worker.
+C	00:15:04.399	00:15:07.670	oh, right. sorry.
+C	00:15:07.680	00:15:11.430	well, you're a great postal worker.
+F	00:15:11.440	00:15:16.480	thanks, simon. i enjoy helping people.
+F	00:15:16.480	00:15:18.560	just last week i.
+C	00:15:18.560	00:15:22.550	sorry, i have to go now.
+F	00:15:22.560	00:15:26.310	see you later!
+
+B	00:15:26.320	00:15:31.650	hey, honey.
+B	00:15:33.040	00:15:35.519	did you go to the post office?
+B	00:15:35.519	00:15:37.670	was your package there?
+C	00:15:37.680	00:15:40.079	yes i went.
+C	00:15:40.079	00:15:43.680	but my package wasn't there yet.
+B	00:15:43.680	00:15:46.639	too bad.
+B	00:15:46.639	00:15:49.189	do you want to eat lunch here?
+C	00:15:49.199	00:15:50.639	yes.
+C	00:15:50.639	00:15:55.199	i'll go back to the post office if i have time this afternoon.
+B	00:15:55.199	00:15:58.870	good! i have some cards to mail.
+B	00:15:58.880	00:16:00.880	can i give them to you?
+C	00:16:00.880	00:16:03.269	sure.
+C	00:16:03.279	00:16:08.069	hey, these cards don't have any envelopes or stamps.
+B	00:16:08.079	00:16:08.800	i know.
+B	00:16:08.800	00:16:10.959	i don't have any.
+B	00:16:11.109	00:16:15.350	can you buy some envelopes and stamps for me, dear?
+C	00:16:15.360	00:16:17.839	ok.
+C	00:16:17.839	00:16:19.839	how much are stamps now?
+B	00:16:19.839	00:16:23.430	they're fourty-one cents each.
+B	00:16:23.440	00:16:26.160	i'm sorry about your package.
+B	00:16:26.110	00:16:29.230	maybe it'll be there when you go back.
+D	00:16:29.360	00:16:31.759	what package?
+C	00:16:31.759	00:16:34.560	oh, nothing.
+C	00:16:34.560	00:16:37.430	it's not important.
+B	00:16:37.440	00:16:39.360	it's just something fun.
+D	00:16:39.360	00:16:41.430	something fun?
+D	00:16:41.440	00:16:47.670	what is it?
+B	00:16:47.680	00:16:50.480	when simon gets it, he'll show you.
+D	00:16:50.480	00:16:54.079	ok. i like getting packages and letters.
+D	00:16:54.079	00:16:58.470	my friend writes a letter to me every month.
+C	00:16:58.100	00:17:00.090	why don't you use email?
+D	00:17:00.480	00:17:01.670	no way!
+D	00:17:01.680	00:17:06.630	i like finding letters in my mailbox.
+D	00:17:06.640	00:17:08.799	hey, betty.
+D	00:17:08.799	00:17:10.630	we aren't open yet.
+F	00:17:10.640	00:17:12.160	that's ok.
+F	00:17:12.160	00:17:15.520	i just have a message for simon.
+F	00:17:15.520	00:17:17.839	i found your package!
+C	00:17:17.839	00:17:20.319	great! where is it?
+F	00:17:20.319	00:17:22.390	in alaska.
+B	00:17:22.400	00:17:25.199	what? why?
+F	00:17:25.179	00:17:29.510	the sender sent it to the wrong address.
+F	00:17:29.520	00:17:33.059	the post office tracked your package.
+B	00:17:34.559	00:17:40.280	honey, i'll call girls exercise today about your dvds.
+F	00:17:40.280	00:17:45.881	dvds,girls exercise?
+C	00:17:53.039	00:17:57.510	i ordered some girls exercise dvds.
+C	00:17:57.520	00:18:00.630	they have great exercises for my back.
+B	00:18:00.640	00:18:06.240	simon is embarrassed because the dvds are for women.
+C	00:18:06.240	00:18:08.789	the exercises work for men, too!
+D	00:18:08.799	00:18:14.000	it's ok, simon. i use girls exercise, too.
+C	00:18:14.000	00:18:15.039	really?
+D	00:18:15.039	00:18:20.630	yes. we can exercise together!
+
+F	00:18:20.640	00:18:25.760	sarah! how are you? how's your boyfriend?
+A	00:18:25.760	00:18:29.220	betty, you know i don't have a boyfriend.
+F	00:18:29.520	00:18:33.080	i know, but you will someday!
+F	00:18:34.160	00:18:38.480	sorry, i asked too many personal questions.
+A	00:18:38.480	00:18:41.430	i don't mind.
+A	00:18:41.440	00:18:43.039	guess what?
+A	00:18:43.039	00:18:47.360	i just started a blog about life in small town.
+F	00:18:47.360	00:18:48.710	great!
+F	00:18:48.720	00:18:50.640	do you write about me?
+A	00:18:50.640	00:18:51.990	of course!
+A	00:18:52.000	00:18:56.000	i have to write about our town's post mistress.
+F	00:18:56.000	00:18:59.590	and the editor of our town newspaper.
+A	00:18:59.600	00:19:01.039	that's right!
+H	00:19:01.039	00:19:02.789	hi, girls.
+F	00:19:02.799	00:19:07.029	Hugh! my favorite salesman!
+F	00:19:07.039	00:19:09.120	what are you selling today?
+H	00:19:09.120	00:19:15.919	well, you know whenever i come to town, i always bring something interesting.
+F	00:19:15.919	00:19:17.590	we know.
+H	00:19:17.250	00:19:27.510	well, today is no different.
+H	00:19:27.520	00:19:29.360	here.
+A	00:19:29.360	00:19:30.870	a book?
+H	00:19:30.880	00:19:34.710	open it.
+F	00:19:34.720	00:19:40.400	hey, there are no pages in this book!
+H	00:19:40.400	00:19:41.160	that's right!
+H	00:19:41.600	00:19:43.840	you don't read this book.
+H	00:19:43.840	00:19:47.360	you keep things in it!
+F	00:19:47.230	00:19:50.799	no thanks, Hugh.
+H	00:19:50.799	00:19:55.190	someday you'll buy something from me, betty!
+F	00:19:55.200	00:19:58.230	maybe!
+

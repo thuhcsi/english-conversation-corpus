@@ -1,0 +1,256 @@
+A	00:00:05.120	00:00:08.800	here we are home sweet home.
+A	00:00:08.800	00:00:11.910	i would have preferred to stay away just a little bit longer!
+A	00:00:14.920	00:00:17.109	oh my god!
+A	00:00:17.119	00:00:21.750	look at the mess, look at this place and look at the dust!
+A	00:00:21.760	00:00:24.550	oh, i don't even know where i'm going to begin!
+A	00:00:26.560	00:00:28.560	calm down, anne.
+A	00:00:28.560	00:00:30.470	one thing at a time.
+A	00:00:32.480	00:00:35.510	let's just have a look at the post to start with.
+A	00:00:37.520	00:00:42.879	electricity bill, heating bill, telephone bill...
+A	00:00:42.879	00:00:45.350	i can't believe there are only bills to pay.
+A	00:00:45.360	00:00:50.470	i'll open them later, coming home from holidays, stressful enough as it is!
+A	00:00:52.480	00:00:55.029	oh, here's a letter from sharon.
+A	00:00:57.039	00:01:00.150	let's see what she has to say.
+A	00:01:00.160	00:01:02.360	i'll tidy up later.
+A	00:01:06.240	00:01:13.600	dear anne, i would have preferred to say goodbye in person, but you had already left for your trip to italy.
+A	00:01:13.600	00:01:15.710	speaking of which, did you enjoy yourself?
+A	00:01:16.720	00:01:20.870	unfortunately, things between me and jack just haven't worked out.
+A	00:01:20.880	00:01:25.510	maybe we rushed everything, maybe memories with peter were still too fresh.
+A	00:01:25.520	00:01:30.030	i don't know, anyway, living together just became impossible.
+A	00:01:31.040	00:01:40.710	after thinking about things long and hard, i decided to accept my boss's offer to transfer to amsterdam, to take charge of the new museum opening.
+A	00:01:40.720	00:01:42.320	it's a great city.
+A	00:01:42.320	00:01:47.200	in any case, i need time to get my life in order,well.
+A	00:01:47.200	00:01:49.149	i hope everything's fine with you.
+B	00:01:49.352	00:01:50.235	don't move.
+A	00:01:50.159	00:01:52.240	oh, don't hurt me!
+A	00:01:52.240	00:01:54.219	there! you'll find all my money there!
+A	00:01:54.219	00:01:55.614	just just take it and leave!
+B	00:01:55.659	00:01:56.527	relax, anne!
+B	00:01:56.557	00:01:57.825	it's me, jack!
+A	00:01:58.000	00:02:01.350	oh, jack! jack!
+A	00:02:03.680	00:02:04.880	are you crazy?
+A	00:02:04.880	00:02:06.540	you scared me half to death!
+A	00:02:07.840	00:02:09.190	how did you get in here?
+B	00:02:09.200	00:02:13.670	well, i might be living next door but i still have these.
+B	00:02:13.680	00:02:16.790	so i can surprise you from time to time.
+A	00:02:16.800	00:02:18.720	jack, you'll never change.
+A	00:02:18.720	00:02:22.505	i was reading a letter from sharon explaining why she left.
+B	00:02:23.760	00:02:27.283	if you don't mind, and i'd... i'd rather not talk about that.
+B	00:02:29.360	00:02:32.480	what about you and your mr perfection, nick?
+B	00:02:32.480	00:02:33.280	how are you?
+A	00:02:33.280	00:02:39.492	well, i realized that things weren't all as perfect as he wanted me to believe.
+A	00:02:40.835	00:02:44.364	and in any case, if you don't mind i'd rather not talk about.
+B	00:02:44.720	00:02:48.150	absolutely. let bygones be bygones.
+B	00:02:48.160	00:02:50.720	what about a drink to celebrate your homecoming?
+A	00:02:50.720	00:02:52.560	um, no, jack.
+A	00:02:52.560	00:02:58.879	i've just arrived and i need to unpack and just take a look at the place!
+A	00:02:58.879	00:03:00.266	it's a disaster area.
+A	00:03:00.296	00:03:02.836	no, the first thing i want to do is get things tidied up.
+B	00:03:04.239	00:03:07.350	where did you get this?
+A	00:03:07.360	00:03:08.640	isn't it marvellous?
+A	00:03:08.640	00:03:12.319	my grandmother gave it to me, it's fantastic!
+B	00:03:12.319	00:03:15.704	well, if you want to get tidied up, you'd better start right away.
+B	00:03:15.729	00:03:17.621	it'll take you a month to clean this.
+A	00:03:17.593	00:03:18.567	i know.
+B	00:03:19.223	00:03:21.529	if you say i'll never change.
+B	00:03:21.760	00:03:24.509	and do you ever think about anything besides cleaning?
+B	00:03:25.519	00:03:26.480	no guys.
+B	00:03:26.480	00:03:28.417	you should get engaged to a hoover!
+B	00:03:29.040	00:03:32.229	anyway, no excuses, come on go get ready.
+B	00:03:32.239	00:03:34.710	can you manage to be ready by seven?
+
+A	00:03:40.720	00:03:45.990	hello? alice? hi!
+A	00:03:46.000	00:03:48.560	yes, yes, i arrived this morning.
+A	00:03:48.560	00:03:50.470	and i'm here with jack now.
+A	00:03:50.480	00:03:53.589	he says hello, she says hello.
+A	00:03:53.599	00:03:55.120	i'm so happy.
+A	00:03:55.120	00:04:00.670	you know jack insisted on cleaning the whole house straight away!
+A	00:04:01.680	00:04:07.270	hmm? what? what telegram?
+A	00:04:09.280	00:04:11.190	no, i haven't received anything.
+A	00:04:13.200	00:04:15.710	what? but tonight?
+A	00:04:18.799	00:04:23.152	alice, uh,no.
+A	00:04:23.177	00:04:28.310	yes, alice, you should have given me some advance notice!
+A	00:04:30.320	00:04:33.280	okay, yes, fine!
+A	00:04:33.280	00:04:35.990	i'll see you at the airport at nine.
+B	00:04:36.000	00:04:38.240	what do you mean at the airport?
+B	00:04:38.240	00:04:40.590	what did alice have to say?
+A	00:04:41.600	00:04:46.040	she's arriving tonight at nine o'clock. for good!
+A	00:04:47.040	00:04:48.647	and she's bringing the surprise.
+B	00:04:48.657	00:04:49.280	wow!
+B	00:04:49.280	00:04:51.749	oh, that is good news.
+B	00:04:51.759	00:04:55.680	but together again, all for one one for all.
+B	00:04:55.680	00:04:58.080	isn't that great? anne?
+A	00:04:58.080	00:05:00.800	yep, fantastic.
+B	00:05:01.031	00:05:02.882	what's the matter,why the sad face?
+A	00:05:03.280	00:05:04.629	nothing.
+A	00:05:06.639	00:05:11.360	well, it's just that i was just thinking about the poor house.
+A	00:05:11.360	00:05:16.212	i don't even want to start to imagine what a mess i'm going to have in here with you two!
+
+A	00:05:33.680	00:05:35.400	edward, stop!
+A	00:05:36.400	00:05:38.880	put that infernal gadget away!
+A	00:05:38.880	00:05:40.639	that's enough!
+A	00:05:40.639	00:05:42.469	there's a limit to everything, you know.
+C	00:05:42.479	00:05:45.987	great! that's it anne, go on like that!
+C	00:05:46.045	00:05:47.230	you are fantastic!
+A	00:05:47.352	00:05:48.862	fantastic, my eye!
+A	00:05:49.199	00:05:52.080	i told you to cut it out!
+A	00:05:52.080	00:05:54.440	alice? alice?
+D	00:05:54.960	00:05:55.760	yes, anne.
+D	00:05:55.773	00:05:57.040	what can i do for you?
+A	00:05:58.000	00:06:06.319	stop laughing and tell your director friend to give it a rest and put away that damn video camera.
+A	00:06:06.319	00:06:09.199	i absolutely do not want to be filmed like this.
+A	00:06:09.199	00:06:11.430	have i made myself perfectly clear?
+B	00:06:15.678	00:06:16.274	hi, alice.
+B	00:06:16.639	00:06:18.240	good morning, edward.
+B	00:06:18.240	00:06:20.390	can't stop working, eh?
+B	00:06:20.400	00:06:22.790	what's on the menu for today's shoot?
+B	00:06:24.800	00:06:26.319	wow, anne.
+B	00:06:26.319	00:06:29.430	you look beautiful.
+B	00:06:29.440	00:06:32.876	excuse me. um could i use the bathroom for a moment?
+D	00:06:36.800	00:06:39.120	calm down, anne.
+D	00:06:39.120	00:06:44.319	none of these sessions are going to be shown for air,at least for now.
+A	00:06:44.319	00:06:46.880	what exactly does for now mean?
+D	00:06:46.880	00:06:54.790	well, once all the material has been put in place, cut and edited, edward's planning on showing it to a producer.
+D	00:06:54.800	00:06:59.350	if it's accepted, the idea is to go for our own tv program.
+D	00:06:59.360	00:07:00.800	isn't that a great idea?
+A	00:07:00.800	00:07:04.897	what? producer? television?
+A	00:07:06.000	00:07:07.510	let me in, jack.
+A	00:07:07.545	00:07:08.444	let me in.
+A	00:07:08.733	00:07:11.997	NA,let me in!OH!
+A	00:07:14.423	00:07:17.328	oh, let me in...oh.
+
+D	00:07:57.360	00:07:59.919	so, anne.
+D	00:07:59.919	00:08:02.150	what do you think of edward?
+A	00:08:02.160	00:08:04.000	in what sense?
+A	00:08:04.000	00:08:06.800	as a man, or as a director?
+D	00:08:06.800	00:08:08.879	do you really have to ask?
+D	00:08:08.879	00:08:11.680	as a man, of course.
+A	00:08:11.680	00:08:14.710	well, i've just met him so i can't really say.
+A	00:08:14.720	00:08:21.599	but as a director, my view is that he's a bit too intrusive.
+D	00:08:21.599	00:08:23.039	come on, anne, get over it.
+D	00:08:23.039	00:08:25.199	that's his job!
+D	00:08:25.199	00:08:31.029	in my opinion, i think he's just great.
+A	00:08:31.039	00:08:35.909	oh, what's this i'm hearing?
+A	00:08:35.919	00:08:40.560	our little alice might be in love?
+D	00:08:40.560	00:08:43.509	well, yes.
+D	00:08:43.519	00:08:49.760	as i see it, anne. this is the first time in my life, i've fallen head over heels in love!
+D	00:08:49.760	00:08:51.766	so much in love!
+D	00:08:53.360	00:08:56.000	but he doesn't even notice me.
+D	00:08:56.000	00:09:00.960	you know we share so many common interests and we see things in the same way.
+D	00:09:00.933	00:09:05.829	we can talk for hours on end but it just ends there.
+D	00:09:05.839	00:09:08.000	he looks on me as a good friend.
+D	00:09:08.000	00:09:10.800	nothing more, nothing less.
+D	00:09:10.800	00:09:14.000	you know, i'm really not used to that role.
+D	00:09:14.000	00:09:18.080	usually, i'm the one to keep others at bay.
+A	00:09:18.080	00:09:20.829	yes, i remember.
+A	00:09:20.839	00:09:24.470	tom, frank, david.
+A	00:09:24.480	00:09:28.399	how many broken hearts have you left behind?
+A	00:09:28.399	00:09:34.320	so tell me, have you asked edward how he feels about you?
+D	00:09:34.320	00:09:36.389	no, of course not!
+D	00:09:36.399	00:09:39.680	look, edward isn't interested in some relationship.
+D	00:09:39.680	00:09:44.870	he's... he's profound and introspective.
+D	00:09:44.889	00:09:45.919	spiritual!
+D	00:09:49.200	00:09:52.810	he's a person who enjoys observing and analyzing others.
+A	00:09:53.120	00:09:56.630	yes, if you ask me, too much so!
+A	00:09:56.640	00:10:00.550	anyway, i can't agree with you i'm afraid.
+A	00:10:00.560	00:10:06.790	even spiritual beings, personal longings.
+A	00:10:06.800	00:10:08.640	i think you should tell him.
+A	00:10:08.640	00:10:10.160	and who knows?
+A	00:10:10.160	00:10:14.790	your edward might be much more human than you think.
+D	00:10:14.800	00:10:18.150	oh, maybe you're right.
+D	00:10:18.160	00:10:24.710	but i have to think of a special way to show him just how i feel.
+D	00:10:24.720	00:10:27.030	maybe i should see what my horoscope has to say.
+D	00:10:31.040	00:10:32.399	yes, yes!
+D	00:10:32.399	00:10:35.750	i've just had a brilliant idea!
+
+A	00:10:51.760	00:10:56.880	alice, are you feeling okay?
+D	00:10:56.880	00:10:59.440	oh yeah. hi, anne.
+D	00:10:59.440	00:11:02.224	i'm just preparing a little lunch for edward.
+A	00:11:03.347	00:11:04.350	edward?
+A	00:11:05.279	00:11:07.150	what's with the french accent?
+A	00:11:08.160	00:11:10.480	i thought you said he was canadian.
+D	00:11:10.480	00:11:17.263	he is, from the french part. his mother's french so he's fully bilingual.
+A	00:11:18.560	00:11:22.630	well, now that you mention it i had noticed just like french accent.
+D	00:11:22.640	00:11:26.829	yes, isn't it adorable?
+A	00:11:26.839	00:11:33.680	hmm... well, i must say.
+A	00:11:33.680	00:11:35.750	love does work wonders!
+A	00:11:35.760	00:11:40.160	i'm not at all used to seeing you as a... a housewife.
+D	00:11:40.160	00:11:42.480	well, to tell you the truth.
+D	00:11:42.480	00:11:44.710	i haven't got used to it yet.
+D	00:11:44.720	00:11:48.399	you know, i just hope i got the recipe right.
+D	00:11:48.399	00:11:57.269	you know, i followed the instructions to the letter, but you know i feel like a fish out of water with these things.
+A	00:11:57.279	00:12:02.320	so, um, you've decided to go for edward's jugular.
+D	00:12:02.320	00:12:05.120	well, not only that.
+D	00:12:05.120	00:12:07.800	here's the crowning touch.
+A	00:12:08.800	00:12:09.990	what is it?
+D	00:12:10.000	00:12:15.110	it's a chinese fortune cookie with a little note inside.
+A	00:12:15.120	00:12:16.800	what a romantic idea.
+D	00:12:16.800	00:12:18.550	do you think?
+D	00:12:18.560	00:12:20.854	i wrote the note myself.
+D	00:12:21.760	00:12:27.760	i thought i would surprise him by hiding it inside his napkin, like this.
+D	00:12:27.760	00:12:29.310	what do you think?
+A	00:12:30.320	00:12:31.839	i think it's just perfect.
+A	00:12:31.839	00:12:34.069	oh, you'll see.
+A	00:12:34.079	00:12:37.190	it will go straight to his heart.
+D	00:12:51.200	00:12:55.030	hello? yes, this is alice.
+D	00:12:55.040	00:12:57.519	ah, it's already come in?
+D	00:12:57.519	00:13:01.360	what? oh, in half an hour?
+D	00:13:01.360	00:13:03.839	um yeah, okay, okay.
+D	00:13:03.839	00:13:08.310	i'll... i'll be there in a few minutes.
+D	00:13:08.320	00:13:13.286	anne. could i borrow your car, please?
+D	00:13:13.303	00:13:18.921	i have to go and pick up a packet my father sent me, but uh the post office closes in half an hour.
+D	00:13:19.347	00:13:20.665	i won't make it on foot.
+A	00:13:21.120	00:13:23.201	um, my car?
+A	00:13:24.214	00:13:25.574	you don't have a license.
+D	00:13:26.390	00:13:27.453	don't worry about it.
+D	00:13:27.519	00:13:28.800	i have it.
+D	00:13:28.800	00:13:31.519	and anyway, i always used to drive.
+D	00:13:31.519	00:13:35.120	you know, my dad's got a car just like yours.
+D	00:13:35.120	00:13:37.032	okay, i'm off.
+D	00:13:38.240	00:13:41.550	tell eduard i'll be back in a flash.
+A	00:13:44.560	00:13:48.389	alice? alice?
+A	00:13:48.399	00:13:52.470	but who's gonna clean up this mess?
+A	00:13:54.480	00:13:56.430	get used to it, anne.
+A	00:13:59.440	00:14:01.110	it's the same old story!
+A	00:14:05.120	00:14:11.120	now i'm late. oh.
+
+A	00:14:11.120	00:14:14.470	i can't believe i always get myself into these situations!
+A	00:14:14.480	00:14:18.720	i'm late and here i am helping alice with her grand plan!
+C	00:14:18.720	00:14:19.279	hi, anne!
+A	00:14:19.279	00:14:20.160	oh. hello!
+C	00:14:20.160	00:14:23.350	oh. that smells great!
+C	00:14:23.360	00:14:25.482	my compliments to the chef.
+A	00:14:26.720	00:14:27.579	no no no.
+A	00:14:28.079	00:14:29.360	it's not like you think.
+A	00:14:29.360	00:14:32.560	i have to go i've got a meeting with my boss.
+A	00:14:32.560	00:14:39.990	alice has just gone out, she told me to let you know that she'll be returning soon.
+A	00:14:40.000	00:14:40.823	bye bye.
+C	00:14:44.160	00:14:48.629	well, i'm starving!
+C	00:14:48.639	00:14:51.279	what's this?
+C	00:14:51.279	00:14:52.363	a little note?
+C	00:14:56.399	00:14:59.910	a little delight for the man who's got my heart racing.
+C	00:14:59.920	00:15:03.207	what? what's this all about?
+C	00:15:07.120	00:15:09.279	there must be some mistake.
+C	00:15:09.279	00:15:13.829	oh well, yes. this is my napkin.
+C	00:15:13.839	00:15:16.560	who could have written this?
+C	00:15:16.560	00:15:18.710	oh my god!
+C	00:15:18.720	00:15:19.640	anne!
+C	00:15:20.160	00:15:24.480	but, but she was just here and she was so shy.
+C	00:15:24.480	00:15:27.430	this is getting interesting.
+C	00:15:27.440	00:15:28.800	anne is very cute.
+C	00:15:28.800	00:15:30.430	so what i'm going to do now?
+C	00:15:31.440	00:15:33.470	i'm not used to these things.
+A	00:15:34.480	00:15:36.160	now has it gone?
+A	00:15:36.160	00:15:38.069	well, it's not here.
+A	00:15:38.079	00:15:39.600	it's not there, either.
+A	00:15:39.600	00:15:40.320	edward?
+C	00:15:40.449	00:15:41.071	yes?
+A	00:15:42.320	00:15:44.399	have you seen my mobile phone?
+A	00:15:44.399	00:15:47.629	oh, no, here it is. thanks.
+A	00:15:52.639	00:15:56.998	pardon me, why you eyeing me like that?
+C	00:15:57.920	00:16:00.320	no... nothing, nothing.
+A	00:16:00.320	00:16:02.320	well, all right.
+A	00:16:02.320	00:16:07.870	i've got to run. bye bye!
+C	00:16:08.880	00:16:12.790	she's acting like nothing is happening at all!
+C	00:16:12.800	00:16:16.629	this is getting very interesting!
+

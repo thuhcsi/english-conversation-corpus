@@ -1,0 +1,707 @@
+B	00:00:13.502	00:00:14.380	good afternoon.
+B	00:00:14.482	00:00:15.917	has anyone helped you yet?
+C	00:00:16.736	00:00:18.260	no, not yet.
+B	00:00:18.712	00:00:20.000	what could I do for you?
+C	00:00:20.966	00:00:22.672	I'm looking for some socks.
+B	00:00:23.429	00:00:24.593	what kind of socks?
+C	00:00:25.435	00:00:28.835	I'd like to buy some warm winter socks.
+B	00:00:29.580	00:00:32.804	I'm sorry all we have is thin dress socks.
+C	00:00:34.474	00:00:36.788	do you know where I can buy winter socks?
+B	00:00:37.788	00:00:41.900	yes, there's an outdoor clothing store located on the third level.
+C	00:00:42.725	00:00:43.356	oh, ok.
+C	00:00:43.570	00:00:44.450	I'll try there.
+C	00:00:44.950	00:00:45.820	thanks for your help.
+B	00:00:46.220	00:00:47.130	you're welcome.
+
+E	00:00:49.415	00:00:50.022	hello.
+D	00:00:50.198	00:00:50.638	hi!
+E	00:00:51.070	00:00:52.619	can I help you find something?
+D	00:00:52.779	00:00:53.294	sure.
+D	00:00:53.511	00:00:54.762	I'm looking for a tie.
+E	00:00:55.399	00:00:55.721	oh.
+E	00:00:56.099	00:00:58.200	all of our ties are in the middle aisle.
+D	00:00:58.466	00:00:59.190	thank you.
+E	00:00:59.156	00:01:00.000	you're welcome!
+D	00:01:00.630	00:01:03.800	oh, by the way, are any of your ties on sale?
+E	00:01:04.182	00:01:07.326	yes, all of our silk ties are on sale today.
+D	00:01:09.059	00:01:09.425	oh!
+D	00:01:09.395	00:01:11.375	do you have any thin ties?
+D	00:01:11.741	00:01:13.380	I prefer the thin style.
+E	00:01:13.980	00:01:15.698	yes, we do.
+E	00:01:15.844	00:01:17.760	although we don't have many left.
+E	00:01:18.300	00:01:20.700	you will find some located on the back rack.
+D	00:01:22.388	00:01:23.570	one more question.
+D	00:01:24.540	00:01:27.855	do you have any solid color ties without any designs?
+E	00:01:28.676	00:01:30.576	no, I'm so sorry.
+E	00:01:30.576	00:01:31.466	we don't.
+E	00:01:31.698	00:01:33.842	all of our solid colors have been sold.
+
+B	00:01:40.279	00:01:41.009	good morning.
+B	00:01:41.107	00:01:41.820	may I help you?
+F	00:01:42.274	00:01:43.617	not, quite yet.
+F	00:01:43.798	00:01:44.688	I'm still looking.
+B	00:01:45.025	00:01:45.519	ok.
+B	00:01:45.531	00:01:47.428	let me know if you have any questions.
+F	00:01:47.803	00:01:48.994	sure, thanks.
+F	00:01:54.135	00:01:54.840	excuse me.
+F	00:01:56.163	00:01:58.146	do you have any items on sale today?
+B	00:01:58.777	00:01:59.188	yes.
+B	00:01:59.542	00:02:02.228	our men's clothing department has a sale on belts.
+F	00:02:03.032	00:02:04.899	and where's the men's clothing department?
+B	00:02:05.446	00:02:07.792	go straight ahead and turn left.
+F	00:02:08.436	00:02:09.427	ok, thanks.
+F	00:02:10.758	00:02:11.950	and have a nice day!
+B	00:02:12.163	00:02:12.702	thanks.
+B	00:02:12.702	00:02:13.470	you, too.
+
+C	00:02:25.640	00:02:25.895	hi.
+C	00:02:26.570	00:02:27.487	do you need any help?
+G	00:02:27.726	00:02:28.125	yes.
+G	00:02:28.217	00:02:30.191	could you tell me how much this shirt costs?
+C	00:02:30.673	00:02:35.160	ah, this shirt is  nine ninety five
+G	00:02:35.473	00:02:37.140	that's a very reasonable price.
+G	00:02:37.417	00:02:38.917	do you have this one in black?
+C	00:02:39.570	00:02:40.349	I'm sorry.
+C	00:02:40.564	00:02:46.274	we only have this shirt in four colors: gray, pink, blue and green.
+G	00:02:46.911	00:02:48.490	I like the one in green.
+G	00:02:48.790	00:02:50.627	but do you think the color fade?
+C	00:02:50.803	00:02:51.062	oh.
+C	00:02:51.642	00:02:54.385	the colors will definitely not fade.
+C	00:02:54.786	00:02:56.418	these are pre-washed shirts.
+G	00:02:56.552	00:02:58.472	I would like the one in green, please.
+G	00:02:58.699	00:03:01.646	but can you tell me, do you have a size XXL?
+G	00:03:01.992	00:03:05.517	I'm buying this shirt from my husband and my husband is very big.
+C	00:03:06.749	00:03:07.675	I'm sorry.
+C	00:03:07.711	00:03:14.386	we only have four sizes of this shirt: small, medium, large and extra-large.
+G	00:03:14.830	00:03:16.664	could I see the extra-large, please?
+C	00:03:17.226	00:03:17.655	sure.
+C	00:03:19.117	00:03:19.757	here you are.
+G	00:03:22.473	00:03:24.610	I think this will fit my husband.
+G	00:03:26.554	00:03:28.561	it's  one hundred percent cotton.
+G	00:03:28.847	00:03:31.494	I wonder if it will shrink after a few washes.
+C	00:03:32.140	00:03:37.112	ma'am, these shirts are pre-shrunk, so you don't need to worry about shrinking.
+G	00:03:38.214	00:03:38.842	that's good.
+G	00:03:38.904	00:03:40.476	I will take this one, please.
+C	00:03:40.575	00:03:41.063	ok.
+C	00:03:41.170	00:03:43.111	that will be  nine ninety five
+G	00:03:49.822	00:03:50.486	here you go.
+G	00:03:50.567	00:03:52.165	thank you so much for your help.
+C	00:03:52.814	00:03:53.505	you're welcome.
+C	00:03:53.990	00:03:56.790	just one moment please for your change and your receipt.
+
+E	00:04:04.730	00:04:05.379	hello.
+E	00:04:05.379	00:04:07.603	has anyone taken care of you yet?
+G	00:04:07.630	00:04:08.743	no, not yet.
+G	00:04:08.832	00:04:11.324	could you help me find a pair of jeans, please?
+E	00:04:11.560	00:04:12.084	sure.
+E	00:04:12.378	00:04:13.471	what style do you like?
+G	00:04:13.888	00:04:15.841	I like the loose-fitting style.
+E	00:04:16.165	00:04:17.556	and what is your size?
+G	00:04:17.874	00:04:20.515	my waist size is  twenty nine inches.
+E	00:04:20.911	00:04:22.733	what length are you looking for?
+G	00:04:23.185	00:04:25.077	approximately  thirty inches.
+E	00:04:25.693	00:04:27.542	and what color do you like?
+E	00:04:27.997	00:04:31.070	we have black, light blue and navy blue.
+G	00:04:31.552	00:04:32.850	I like the navy blue
+E	00:04:40.675	00:04:42.339	you might be interested in these.
+G	00:04:43.298	00:04:45.656	yes, I like this style very much.
+E	00:04:45.858	00:04:48.747	they're very popular, we sell a lot of them.
+G	00:04:48.976	00:04:50.100	can I try them on?
+E	00:04:50.300	00:04:51.277	yes, of course.
+E	00:04:51.548	00:04:53.915	the fitting rooms are over there to your left.
+
+C	00:05:00.444	00:05:00.995	hello!
+C	00:05:01.296	00:05:02.543	can I help you with something?
+F	00:05:02.784	00:05:03.624	yes, please.
+F	00:05:03.642	00:05:05.288	I'm looking for some ties.
+C	00:05:05.994	00:05:10.647	well, you're in luck because we have some ties that are on sale today.
+F	00:05:10.978	00:05:11.526	really?
+F	00:05:11.773	00:05:12.568	which ones?
+C	00:05:13.282	00:05:17.841	well, the ties on this rack are  thirty to  fifty percent off.
+C	00:05:18.254	00:05:21.279	and the ties on this rack are  sixty percent off.
+F	00:05:22.988	00:05:24.933	do you have any silk ties?
+C	00:05:25.245	00:05:26.278	yes, we do.
+C	00:05:26.570	00:05:29.366	we have some ties that were made in Thailand.
+F	00:05:29.866	00:05:30.435	really?
+F	00:05:30.825	00:05:31.801	can I see a few?
+C	00:05:32.391	00:05:32.852	sure.
+C	00:05:33.272	00:05:35.990	they're on sale for  thirty to  fifty percent off, too.
+C	00:05:36.702	00:05:41.338	which do you like solid colors, stripes or designs?
+F	00:05:41.814	00:05:43.541	well, I prefer solid colors.
+C	00:05:44.098	00:05:44.875	ok.
+C	00:05:51.065	00:05:53.414	how about these?
+F	00:05:57.260	00:05:57.552	oh!
+F	00:05:57.552	00:06:00.282	these are nice but do you have a wide tie?
+C	00:06:01.226	00:06:01.592	no.
+F	00:06:01.592	00:06:04.016	I'm sorry. we only have the thin style.
+F	00:06:05.912	00:06:06.648	that's okay.
+F	00:06:06.934	00:06:07.755	I'll take these.
+
+A	00:06:11.426	00:06:15.309	unit  three asking for advice
+B	00:06:19.596	00:06:20.215	hi
+B	00:06:20.355	00:06:22.076	is there anything I could help you with?
+D	00:06:22.300	00:06:22.719	yes.
+D	00:06:22.731	00:06:25.009	I'm going to a friend's house warming party.
+D	00:06:25.152	00:06:28.349	and I would appreciate some suggestions on what gift to buy.
+B	00:06:29.052	00:06:29.642	sure.
+B	00:06:29.924	00:06:33.414	how about some detergents and utensils to help clean the house?
+D	00:06:33.554	00:06:36.847	oh! I'm sure other people will also buy detergents.
+B	00:06:37.832	00:06:39.693	what about a nice fruit basket?
+B	00:06:39.845	00:06:40.842	it's simple.
+D	00:06:41.667	00:06:45.677	no, I was thinking about getting them something more useful around the house.
+B	00:06:46.824	00:06:48.086	is your friend a man?
+D	00:06:48.152	00:06:48.679	yes.
+B	00:06:50.075	00:06:52.704	perhaps, he likes fixing things around the house.
+B	00:06:53.151	00:06:55.285	maybe you could get him a set of tools.
+D	00:06:56.003	00:06:57.426	that's a great idea.
+D	00:06:57.444	00:06:58.932	I'll get him a tool box.
+B	00:06:59.385	00:07:03.175	you can find it in the hardware section located on the third floor.
+D	00:07:03.315	00:07:05.218	ok. thank you so much.
+B	00:07:05.399	00:07:06.420	you're welcome.
+
+C	00:07:12.575	00:07:13.063	hello!
+C	00:07:14.117	00:07:15.114	what can I do for you?
+D	00:07:15.379	00:07:18.190	well, I'm looking for a new outfit for this weekend.
+C	00:07:18.857	00:07:19.652	okay, um.
+C	00:07:19.675	00:07:21.894	may I ask what the occasion would be?
+D	00:07:22.048	00:07:23.853	yes, it's a casual party.
+C	00:07:24.457	00:07:26.056	would this be for yourself?
+D	00:07:26.163	00:07:26.532	yes.
+C	00:07:27.333	00:07:30.141	ok. what price range are you thinking about?
+D	00:07:30.427	00:07:34.503	I'm looking to spend between  one hundred and fifty and  two hundred dollars
+C	00:07:34.765	00:07:35.256	hmm.
+C	00:07:35.717	00:07:38.730	well, we could start by looking at some pants.
+D	00:07:39.013	00:07:39.448	hmm!
+D	00:07:44.972	00:07:47.269	I like these navy blue slacks.
+D	00:07:47.299	00:07:48.440	how much are they?
+C	00:07:48.670	00:07:51.129	these are  sixty dollars.
+C	00:07:51.129	00:07:52.780	would you like to try them on?
+D	00:07:52.780	00:07:54.340	oh, yes, please.
+D	00:07:58.156	00:08:00.078	I really like these slacks.
+D	00:08:00.099	00:08:02.370	what color shirt would go well with them?
+C	00:08:02.616	00:08:08.562	well, if you're really brave I would recommend this red shirt.
+D	00:08:09.493	00:08:10.964	do you have anything else?
+C	00:08:11.175	00:08:12.271	hmm!
+C	00:08:15.755	00:08:18.022	we have these silk shirts.
+D	00:08:18.262	00:08:18.773	hmm.
+D	00:08:18.788	00:08:19.629	how much are they?
+C	00:08:19.870	00:08:22.700	the silk shirts are  sixty dollars.
+C	00:08:23.112	00:08:24.450	would you like to try them on?
+D	00:08:24.550	00:08:25.380	yes, please.
+D	00:08:25.390	00:08:31.900	I like the texture of silk but I think these shirts are too tight for me.
+D	00:08:31.762	00:08:33.609	do you have anything with a loose fit?
+C	00:08:34.080	00:08:35.670	yes.
+C	00:08:35.670	00:08:39.429	do you like this loose fit shirt?
+D	00:08:39.429	00:08:40.890	yes, I do.
+D	00:08:40.981	00:08:42.596	I'll take the black and white one, please.
+C	00:08:42.686	00:08:43.392	ok.
+C	00:08:43.767	00:08:47.423	huh, but don't you think this one is nice, too?
+D	00:08:47.604	00:08:49.451	please, I think I'm done here.
+C	00:08:49.954	00:08:51.140	okay, very well.
+C	00:08:51.790	00:08:54.010	please pay at the cashier counter over there.
+D	00:08:54.308	00:08:55.817	thank you very much for your help!
+C	00:08:55.870	00:08:56.576	sure.
+
+E	00:09:01.020	00:09:02.910	may I help you?
+F	00:09:02.910	00:09:07.830	yes, father's Day is approaching and I'd like to get a gift for my dad.
+E	00:09:07.840	00:09:09.960	do you have any ideas for a gift?
+F	00:09:10.353	00:09:11.104	not really.
+F	00:09:11.134	00:09:13.634	I thought I'd shop around for some ideas first.
+E	00:09:13.770	00:09:16.550	how about some clothing?
+F	00:09:16.560	00:09:19.750	no, not clothing. I get them clothing every year.
+F	00:09:19.750	00:09:22.860	this year I want you to do something just a little bit different.
+E	00:09:22.944	00:09:25.294	would you like to look at our men's accessories?
+F	00:09:25.860	00:09:26.860	sure.
+F	00:09:26.860	00:09:27.850	what do you suggest?
+E	00:09:27.850	00:09:30.160	well, that depends.
+E	00:09:30.160	00:09:31.920	does your father wear suits?
+F	00:09:31.930	00:09:34.930	oh, yes. he's a businessman.
+F	00:09:34.930	00:09:36.670	he wears suits every day.
+E	00:09:37.006	00:09:40.032	then would you like to look at our tie clips or cuff links?
+F	00:09:41.046	00:09:42.315	that sounds great.
+F	00:09:42.397	00:09:43.553	let's see your cuff links.
+E	00:09:43.961	00:09:44.447	sure.
+E	00:09:44.410	00:09:48.540	step over the counter with me and I'll show you what we have.
+
+B	00:09:57.660	00:09:59.020	good afternoon.
+B	00:09:59.020	00:10:01.000	is someone taking care of you?
+C	00:10:01.175	00:10:02.188	no, not yet.
+C	00:10:02.610	00:10:05.940	could I ask you about the prices for these shoes?
+B	00:10:05.950	00:10:08.520	yes, which shoes are you interested in?
+C	00:10:08.530	00:10:12.300	I'm interested in these  two pairs of shoes.
+B	00:10:12.767	00:10:20.816	the first pair is  sixty five dollars and the second pair which just arrived yesterday is  eighty five dollars.
+C	00:10:21.990	00:10:24.240	they're quite expensive.
+C	00:10:24.240	00:10:26.250	could you give me a discount?
+B	00:10:26.250	00:10:28.120	I'm sorry, sir.
+B	00:10:28.120	00:10:31.510	the prices are fixed throughout this store.
+C	00:10:32.520	00:10:37.770	could you give me a discount if I bought both pairs of shoes?
+B	00:10:38.317	00:10:39.788	I'm really sorry, sir.
+B	00:10:39.833	00:10:42.500	but there is no bargaining in this store.
+C	00:10:44.610	00:10:45.610	ok.
+C	00:10:45.610	00:10:50.220	a discount really would have helped me to buy both pairs of shoes.
+B	00:10:50.570	00:10:53.678	sir, if you need shoes with lower prices.
+B	00:10:53.693	00:10:55.135	I could show you some.
+C	00:10:56.238	00:10:57.147	no, that's ok.
+C	00:10:58.020	00:10:59.920	I'll take this pair.
+B	00:10:59.920	00:11:01.270	all right then.
+B	00:11:01.270	00:11:04.580	that will be  eighty five dollars.
+
+H	00:11:06.547	00:11:07.185	good morning.
+H	00:11:07.208	00:11:07.928	how are you?
+I	00:11:08.416	00:11:09.152	I'm very well.
+I	00:11:09.182	00:11:09.911	thank you.
+H	00:11:10.040	00:11:13.540	I would like to direct your attention to the televisions.
+I	00:11:13.540	00:11:15.640	they are very nice.
+I	00:11:15.640	00:11:18.900	the overall design is very modern and sleek.
+I	00:11:18.910	00:11:20.540	how much are they?
+H	00:11:20.540	00:11:29.680	well, the  fourteen inch, the  twenty inch and the  twenty-one inch are  one hundred and ten,  one hundred and eighty and  two hundred and ten respectively.
+I	00:11:29.680	00:11:30.850	hmm.
+I	00:11:31.098	00:11:33.433	I really like the  twenty-one inch.
+I	00:11:34.780	00:11:36.650	do you give discount?
+H	00:11:36.650	00:11:45.920	the TV's are already on sale, these prices are sales prices,  twenty percent off the regular price.
+I	00:11:45.920	00:11:47.560	oh!
+I	00:11:47.560	00:11:51.700	but I was expecting bigger discounts.
+H	00:11:51.700	00:11:53.170	I'm sorry.
+H	00:11:53.170	00:12:01.170	and I should mention to you that this is a special promotion sale for a limited time only.
+I	00:12:01.235	00:12:02.196	hmm!
+I	00:12:03.100	00:12:06.850	maybe I should wait for a clearance sale.
+H	00:12:06.850	00:12:15.050	you could do that but the model you want we no longer be in stock.
+I	00:12:23.459	00:12:24.623	ok.
+I	00:12:24.660	00:12:28.752	it's a little bit expensive but I'll go for the  twenty-one inch.
+
+H	00:12:32.590	00:12:33.370	hello.
+H	00:12:33.595	00:12:34.579	how may I help you?
+J	00:12:34.714	00:12:40.014	I have come to buy the new Sony stereo which was advertised in the newspaper last week.
+H	00:12:40.300	00:12:42.600	ah, that's just right over here.
+J	00:12:45.600	00:12:50.520	the price for the new model was advertised at a  one hundred and seventy nine dollars.
+J	00:12:50.520	00:12:55.110	but the price on the price tag shows  one hundred and ninety nine dollars.
+H	00:12:55.110	00:12:56.110	yes.
+H	00:12:56.110	00:13:00.250	the  one hundred and seventy nine dollars was for the weekend sale.
+H	00:13:00.250	00:13:02.640	the weekend's over now.
+J	00:13:02.640	00:13:07.320	but I came in expecting it to be  one hundred and seventy nine dollars.
+H	00:13:07.320	00:13:11.890	I'm sorry, ma'am but as you've missed the weekend sales period.
+H	00:13:11.890	00:13:15.660	I'm afraid I cannot offer you the weekend sales price.
+J	00:13:15.660	00:13:18.120	let me talk to the manager.
+H	00:13:18.208	00:13:18.846	okay.
+H	00:13:18.883	00:13:19.754	one moment, please.
+H	00:13:21.600	00:13:22.870	hello, Simon?.
+H	00:13:22.133	00:13:23.388	yes.
+H	00:13:23.411	00:13:25.325	can you help me with some customer service, please?
+H	00:13:25.363	00:13:26.264	over at Sony.
+H	00:13:26.350	00:13:27.370	thank you.
+H	00:13:27.370	00:13:32.240	one moment, please.
+K	00:13:32.250	00:13:33.580	good afternoon.
+K	00:13:33.629	00:13:35.123	how can I be of service to you?
+J	00:13:35.386	00:13:41.963	I came in expecting to buy the new Sony model for the advertised price of  one hundred and seventy nine dollars.
+J	00:13:41.850	00:13:45.850	but your salesperson tells me I have missed the sale period.
+K	00:13:45.850	00:13:46.570	see.
+K	00:13:46.570	00:13:50.800	it is correct that the sale price was only for the weekend.
+K	00:13:50.800	00:13:56.750	however, if you purchase the stereo for the regular price of  one hundred and ninety nine dollars.
+K	00:13:56.760	00:14:02.160	what I could do is give you discount coupons for your next purchase at our store.
+J	00:14:02.160	00:14:03.840	ok, thank you.
+J	00:14:03.826	00:14:06.942	then I will take the stereo and the discount coupons.
+K	00:14:06.942	00:14:07.528	great.
+
+C	00:14:17.419	00:14:18.679	hi!
+H	00:14:18.679	00:14:20.159	hi, can I help you?
+C	00:14:20.269	00:14:20.659	oh, yes.
+C	00:14:20.682	00:14:25.510	I'd like to buy a new GSM phone with internet capabilities.
+H	00:14:25.909	00:14:26.969	hmm.
+H	00:14:26.969	00:14:32.640	I think this Panasonic would be the best phone for you.
+C	00:14:32.552	00:14:33.776	ok.
+C	00:14:34.640	00:14:36.150	how much is it?
+H	00:14:36.150	00:14:39.279	it's only  three hundred and seventy five dollars.
+C	00:14:39.289	00:14:40.289	wow!
+C	00:14:40.440	00:14:42.500	that's too expensive.
+C	00:14:42.510	00:14:47.870	the last Panasonic model that I bought was only  two hundred and fifty dollars.
+H	00:14:48.146	00:14:48.582	yes.
+H	00:14:48.604	00:14:53.049	well, the internet capability has pushed up the cost of phone.
+H	00:14:53.099	00:14:58.029	really,  three hundred and seventy five dollars is not that expensive.
+C	00:14:58.039	00:15:03.320	well, could you lower the price to  three hundred?
+H	00:15:03.320	00:15:04.700	no.
+H	00:15:04.700	00:15:11.659	the best I can do for you is  three hundred and forty.
+C	00:15:11.659	00:15:12.659	ok.
+C	00:15:12.659	00:15:16.070	I'll take this new Panasonic model.
+
+L	00:15:16.070	00:15:17.360	good morning.
+L	00:15:17.370	00:15:18.030	how are you?
+H	00:15:18.030	00:15:19.200	I'm fine.
+H	00:15:19.200	00:15:20.060	how is business?
+L	00:15:20.070	00:15:21.780	business is going good.
+L	00:15:21.780	00:15:24.049	how is your business doing?
+H	00:15:24.297	00:15:26.978	our business is not so good.
+H	00:15:28.126	00:15:30.499	everybody in the market is reducing their prices.
+L	00:15:30.690	00:15:31.560	hmm.
+L	00:15:31.560	00:15:34.580	have you lowered your retail prices?
+H	00:15:34.580	00:15:35.969	not yet.
+H	00:15:35.969	00:15:40.979	but when we do we would like to ask for you to reduce your prices to us.
+L	00:15:40.979	00:15:41.880	hmm.
+L	00:15:41.880	00:15:45.679	how much of a reduction in price do you need?
+H	00:15:45.679	00:15:52.419	well, everybody else is reducing their prices between  ten and  fifteen percent.
+L	00:15:52.429	00:15:53.520	hmm.
+L	00:15:53.520	00:15:56.419	well as you know, costs are increasing.
+L	00:15:56.419	00:16:00.830	it will be very difficult for us to reduce our prices.
+H	00:16:00.830	00:16:06.630	well, as you know, if we cannot remain competitive, we will lose our business.
+L	00:16:06.630	00:16:07.729	yes.
+L	00:16:08.189	00:16:11.162	well, we understand and we want to work with you.
+L	00:16:11.000	00:16:15.600	however, we simply cannot cut our prices by ten to  fifteen percent.
+H	00:16:18.180	00:16:20.740	what is the best deal that you could offer us?
+L	00:16:20.773	00:16:25.345	well, we could reduce your prices by  five percent.
+L	00:16:25.368	00:16:31.659	and if you buy more than  fifty units, we can give you an additional five percent discount.
+H	00:16:32.880	00:16:34.510	fair enough.
+L	00:16:34.510	00:16:35.670	deal!
+
+M	00:16:38.670	00:16:39.670	hello.
+M	00:16:39.670	00:16:40.960	how can I help you?
+C	00:16:40.960	00:16:44.130	I'm looking to buy a car for my wife.
+M	00:16:44.140	00:16:44.920	hmm.
+M	00:16:44.920	00:16:47.610	did you have a specific model in mind?
+C	00:16:47.610	00:16:48.870	yes.
+C	00:16:48.880	00:16:55.090	I'm most interested in the soluna with automatic transmission and full option package.
+M	00:16:55.090	00:16:58.520	that's a very popular model at the moment.
+M	00:16:58.530	00:17:03.720	the price is  thirteen  thousand  five  hundred dollars.
+C	00:17:03.720	00:17:06.220	that seems quite expensive.
+C	00:17:06.220	00:17:10.230	is it possible you could give me a discount?
+M	00:17:10.686	00:17:14.830	the best we could do is  thirteen thousand two hundred dollars.
+M	00:17:15.550	00:17:21.440	additionally, we will also include  three hundred dollars worth of shopping coupons at central department store.
+C	00:17:25.440	00:17:29.680	maybe you could throw in a spoiler and other accessories?
+C	00:17:29.680	00:17:33.390	or perhaps you could absorb the cost of insurance.
+M	00:17:33.390	00:17:35.830	I'll have to check with my manager.
+M	00:17:35.830	00:17:38.130	please hold on for a moment.
+M	00:17:41.041	00:17:41.777	ok.
+M	00:17:41.957	00:17:46.567	in addition to the  three hundred dollars discount and the  three hundred dollars shopping coupons.
+M	00:17:46.690	00:17:50.110	we will also include the spoiler and a CD player.
+M	00:17:50.110	00:17:53.630	as for the insurance you'll have to pay for that yourself.
+C	00:17:54.630	00:17:56.130	ok.
+C	00:17:56.130	00:17:57.680	thank you very much.
+C	00:17:57.690	00:17:59.500	I'll take the soluna.
+M	00:17:59.481	00:18:00.201	oh, great.
+M	00:18:00.269	00:18:01.012	come this way.
+M	00:18:01.050	00:18:03.430	someone will show you to sign the necessary forms.
+
+I	00:18:19.930	00:18:21.150	excuse me!
+I	00:18:21.150	00:18:23.430	could you help me for a moment?
+H	00:18:23.440	00:18:24.280	certainly.
+H	00:18:24.280	00:18:26.070	what can I do for you?
+I	00:18:26.070	00:18:30.540	well, I think there might be some mistakes about phone prices in your store.
+H	00:18:30.540	00:18:31.540	really?
+H	00:18:31.540	00:18:34.630	can you tell me some more details about this mistake?
+I	00:18:34.630	00:18:35.380	yes.
+I	00:18:35.380	00:18:41.880	well, the price quoted on a special advertisement for this phone was  twenty-five dollars.
+I	00:18:41.880	00:18:45.190	but the tag on the phone says  thirty dollars.
+I	00:18:45.190	00:18:46.840	what is the correct price?
+H	00:18:47.449	00:18:48.253	I don't know.
+H	00:18:48.290	00:18:49.619	but I'm going to check.
+H	00:18:49.530	00:18:51.610	one moment, please.
+H	00:18:55.320	00:18:57.020	you are right!
+H	00:18:57.030	00:19:00.390	this phone should only be  twenty five dollars.
+H	00:19:00.390	00:19:03.090	I'm so sorry about the confusion.
+H	00:19:03.090	00:19:08.670	I'm going to find out who is responsible for this mistake and have it correct it right away.
+I	00:19:08.670	00:19:10.500	thank you.
+H	00:19:10.500	00:19:12.640	thank you for helping us.
+
+D	00:19:13.890	00:19:15.220	good afternoon.
+E	00:19:15.220	00:19:16.320	good afternoon.
+E	00:19:16.320	00:19:17.710	will this be all?
+D	00:19:17.710	00:19:19.330	yes, just one pair of pants.
+E	00:19:21.198	00:19:23.465	that will be  thirty nine ninety nine.
+D	00:19:23.555	00:19:24.622	wait a second.
+D	00:19:24.734	00:19:28.601	I thought the sign back there said  twenty nine ninety nine for these pants.
+E	00:19:28.630	00:19:29.310	really?
+E	00:19:29.310	00:19:32.990	let me try to re-scan the barcode and see.
+E	00:19:35.190	00:19:38.670	the computer still shows the price is  thirty nine ninety nine.
+E	00:19:38.670	00:19:41.170	let me check with a floor salesperson.
+E	00:19:41.087	00:19:42.055	please wait a moment.
+D	00:19:42.108	00:19:42.633	thank you.
+E	00:19:47.610	00:19:50.580	sir, the price is  thirty nine ninety nine.
+E	00:19:50.580	00:19:52.990	you may have misread the prices.
+D	00:19:52.990	00:19:53.470	ok.
+D	00:19:53.470	00:19:56.170	well, is it possible to cancel this purchase?
+D	00:19:56.170	00:19:58.500	I would like to look for another pair of pants.
+E	00:19:58.500	00:19:59.810	sure.
+D	00:20:00.157	00:20:00.795	thank you.
+E	00:20:00.818	00:20:01.490	you're welcome.
+
+E	00:20:05.112	00:20:06.103	may i help you?
+G	00:20:06.141	00:20:06.576	yes.
+G	00:20:06.599	00:20:09.122	I'm looking for the Ralph Lauren cosmetic set.
+E	00:20:09.519	00:20:09.970	oh.
+E	00:20:09.970	00:20:10.533	great!
+E	00:20:10.563	00:20:11.314	you're in luck.
+E	00:20:11.344	00:20:12.876	we still have  three sets left.
+G	00:20:12.883	00:20:13.364	oh, great.
+G	00:20:13.364	00:20:14.760	I will take one, please.
+E	00:20:16.020	00:20:19.350	it comes with a complimentary bag.
+G	00:20:19.350	00:20:23.040	how nice! is there more than one color for the bag?
+E	00:20:23.040	00:20:27.880	actually, we have two colors: silver and black.
+E	00:20:27.880	00:20:29.370	which one would you like?
+G	00:20:30.031	00:20:31.713	I'll take the black one, please.
+E	00:20:31.713	00:20:32.156	great.
+E	00:20:42.480	00:20:45.090	that will be  eighty five dollars.
+G	00:20:45.198	00:20:45.926	excuse me!
+G	00:20:45.926	00:20:51.715	according to the advertisement in Elle magazine this month, one set cost  sixty five dollars.
+E	00:20:51.900	00:20:56.260	yes, the ad quotes  sixty five dollars for the set.
+E	00:20:56.260	00:20:59.579	but you must bring the ad in order to receive the discount.
+E	00:20:59.579	00:21:04.710	let me check with my manager whether we can still give it to you with a discount.
+E	00:21:12.720	00:21:16.390	the manager has agreed to give it to you for  sixty five dollars.
+G	00:21:16.390	00:21:17.649	thank you so much.
+E	00:21:17.649	00:21:18.510	you're welcome.
+
+E	00:21:27.791	00:21:29.848	can I help you find anything else?
+G	00:21:29.893	00:21:30.268	no.
+G	00:21:30.268	00:21:31.192	that should do it.
+E	00:21:33.594	00:21:35.118	how would you like to pay today?
+G	00:21:35.216	00:21:36.800	do you accept Master Card?
+E	00:21:37.251	00:21:37.874	no.
+E	00:21:37.881	00:21:38.754	I'm sorry.
+E	00:21:38.770	00:21:41.490	we only accept Visa or American Express.
+G	00:21:41.943	00:21:42.484	all right.
+G	00:21:42.499	00:21:44.188	then I'll pay with my Visa card.
+E	00:21:44.338	00:21:45.021	ok.
+E	00:21:45.052	00:21:46.065	wait a moment, please.
+E	00:21:50.490	00:21:51.939	I'm sorry.
+E	00:21:51.939	00:21:53.439	this card has been denied.
+G	00:21:54.286	00:21:56.036	I wonder what the problem is?
+E	00:21:56.159	00:21:59.699	well, the computer indicates to contact your bank.
+G	00:22:00.128	00:22:00.450	all right.
+G	00:22:00.450	00:22:01.689	I'll do that immediately.
+G	00:22:02.222	00:22:04.970	it looks like I'll be paying with cash today.
+G	00:22:04.970	00:22:06.577	I'm so sorry for the trouble.
+E	00:22:06.819	00:22:09.040	it's quite all right.
+
+E	00:22:13.229	00:22:15.256	have you found what you were looking for, sir?
+D	00:22:15.294	00:22:15.759	yes.
+D	00:22:15.804	00:22:17.141	I have, thank you.
+D	00:22:17.350	00:22:18.959	I'm ready to pay.
+E	00:22:18.959	00:22:21.659	will you be paying by cash or credit?
+D	00:22:21.653	00:22:22.847	Oh, credit, please.
+E	00:22:43.734	00:22:44.688	I'm very sorry.
+E	00:22:44.688	00:22:47.075	there seems to be a problem with your credit card.
+E	00:22:47.230	00:22:49.570	the transaction is not going through.
+D	00:22:49.590	00:22:50.003	really?
+D	00:22:50.003	00:22:50.874	what's the matter?
+E	00:22:51.030	00:22:52.660	I'm not sure.
+E	00:22:52.660	00:22:55.410	the computer notes to contact your bank.
+D	00:22:55.410	00:22:58.140	can you try the card again?
+E	00:22:58.140	00:23:01.780	sir, I already tried the transaction  three times.
+E	00:23:01.780	00:23:04.050	I still received the same message.
+D	00:23:04.516	00:23:05.110	all right.
+D	00:23:05.282	00:23:06.904	well, can you try this card?
+E	00:23:06.970	00:23:07.740	sure.
+E	00:23:07.750	00:23:09.400	wait a moment.
+E	00:23:13.860	00:23:14.860	ok.
+E	00:23:15.065	00:23:16.619	this one works just fine.
+E	00:23:16.815	00:23:19.029	your total is  twenty eighty.
+E	00:23:21.660	00:23:23.890	please sign the receipt, right here.
+D	00:23:23.890	00:23:24.940	Thanks.
+D	00:23:24.940	00:23:26.230	sorry for the confusion.
+E	00:23:26.230	00:23:27.470	not a problem.
+
+E	00:23:33.480	00:23:34.440	may I help you, sir?
+F	00:23:34.440	00:23:37.540	is this tie on sale?
+E	00:23:39.609	00:23:40.435	yes, it is.
+F	00:23:41.373	00:23:42.484	how much is it?
+E	00:23:46.340	00:23:48.480	it's  fourteen ninety nine.
+F	00:23:48.480	00:23:50.520	can I pay with my Visa card?
+E	00:23:50.520	00:23:51.760	sure.
+F	00:23:52.760	00:23:53.870	here you go.
+E	00:23:53.880	00:23:56.049	thank you.
+E	00:24:02.059	00:24:04.160	could you please sign here?
+F	00:24:04.160	00:24:05.819	ok.
+E	00:24:10.819	00:24:12.350	here's your receipt.
+F	00:24:12.350	00:24:13.650	thank you.
+E	00:24:18.650	00:24:20.330	please come again.
+
+B	00:24:30.170	00:24:31.709	could I help you?
+C	00:24:31.709	00:24:32.610	yes.
+C	00:24:32.610	00:24:35.809	I'd like to return these shoes, please.
+B	00:24:35.819	00:24:37.920	what seems to be the problem?
+C	00:24:37.920	00:24:42.460	well, the sole is coming off of the right shoe.
+B	00:24:42.470	00:24:43.470	really?
+B	00:24:43.470	00:24:45.410	do you have a receipt?
+C	00:24:45.410	00:24:47.850	yes, I do.
+B	00:24:52.977	00:24:57.189	you may exchange the shoes for any item with the same price.
+C	00:24:57.800	00:25:01.590	actually, I like these shoes very much.
+C	00:25:01.590	00:25:04.230	can I exchange them for another pair?
+B	00:25:04.442	00:25:05.200	of course.
+B	00:25:05.200	00:25:05.823	you may.
+C	00:25:06.470	00:25:12.490	although, do you have the same style of shoes in a darker color?
+B	00:25:12.500	00:25:15.660	let me check our stock.
+B	00:25:18.640	00:25:18.993	yes.
+B	00:25:19.015	00:25:22.476	we carry a black pair and a navy blue pair.
+C	00:25:23.000	00:25:23.990	great.
+C	00:25:24.000	00:25:27.890	I'll exchange these for the navy blue pair, please.
+
+C	00:25:31.321	00:25:32.229	may I help you?
+G	00:25:32.259	00:25:33.738	I'd like to return this shirt.
+C	00:25:34.527	00:25:35.270	I'm sorry.
+C	00:25:35.292	00:25:37.950	we only have an exchange policy.
+G	00:25:38.370	00:25:40.260	what is your exchange policy?
+C	00:25:40.260	00:25:46.440	you can exchange this item for any item equivalent to the shirt's price.
+G	00:25:46.502	00:25:47.681	I see.
+G	00:25:47.756	00:25:50.068	in that case, I may browse around a bit?
+C	00:25:50.160	00:25:51.060	sure.
+C	00:25:51.060	00:25:51.810	feel free.
+C	00:25:51.810	00:25:52.740	take your time.
+G	00:25:52.740	00:25:53.610	thank you.
+G	00:26:00.400	00:26:03.900	I don't see anything else I like.
+G	00:26:03.900	00:26:08.040	is it possible to get the same shirt but only one size larger?
+C	00:26:08.040	00:26:09.140	sure.
+C	00:26:09.140	00:26:12.750	I'll look for one size larger.
+C	00:26:19.760	00:26:26.670	I'm sorry, we don't have this color but we do have this size in other colors.
+G	00:26:27.030	00:26:27.743	all right then.
+G	00:26:27.743	00:26:29.350	I'll look at some other colors.
+C	00:26:29.400	00:26:30.120	ok.
+C	00:26:30.120	00:26:32.550	let me know if you're interested in anything you see.
+G	00:26:32.550	00:26:34.190	thank you.
+
+E	00:26:36.708	00:26:37.271	hello, ma'am.
+E	00:26:37.271	00:26:38.090	may I help you?
+G	00:26:38.165	00:26:38.600	yes.
+G	00:26:38.653	00:26:42.985	I bought this purse last week and now the zipper doesn't work properly.
+G	00:26:42.980	00:26:45.290	can I get my money back?
+E	00:26:49.300	00:26:51.870	oh, I'm so sorry ma'am.
+E	00:26:51.870	00:26:54.780	but our store does not have a refund policy.
+E	00:26:54.780	00:26:56.910	you may exchange it for another purse.
+G	00:26:56.910	00:26:59.570	do I have to get another purse?
+E	00:26:59.570	00:27:01.500	no, not actually.
+E	00:27:01.500	00:27:04.290	you can exchange it for any item of equal price.
+G	00:27:04.356	00:27:04.480	oh!
+G	00:27:04.488	00:27:05.370	that sounds good.
+G	00:27:05.817	00:27:07.281	may I take a look around?
+E	00:27:07.200	00:27:08.700	yes, of course.
+E	00:27:08.700	00:27:10.840	take your time.
+G	00:27:16.850	00:27:19.199	could I see some of your women's wallets?
+E	00:27:19.209	00:27:26.899	yes, actually we just received a shipment of some really nice leather wallets for men and women.
+G	00:27:26.899	00:27:29.590	may I see the wallets that snap closed?
+E	00:27:29.590	00:27:30.590	sure.
+E	00:27:30.590	00:27:33.100	what color would you like, brown or black?
+G	00:27:33.100	00:27:35.080	brown sounds nice.
+E	00:27:34.978	00:27:36.059	follow me, please.
+
+G	00:27:47.058	00:27:47.666	hello.
+G	00:27:47.719	00:27:48.890	P&J flowers.
+G	00:27:49.069	00:27:51.549	this is Stephanie speaking.
+H	00:27:51.549	00:27:55.090	hello, I would like to order a dozen roses.
+G	00:27:55.090	00:27:57.649	would you like it in a box or a bouquet?
+H	00:27:57.649	00:28:09.610	I would like a dozen red roses in a box with a card that says "I love you. from Lee".
+G	00:28:09.610	00:28:11.000	how sweet!
+G	00:28:11.000	00:28:13.009	would you like anything else with it?
+G	00:28:13.009	00:28:16.480	perhaps a box of chocolates or a teddy bear?
+H	00:28:16.480	00:28:18.120	no, thank you.
+G	00:28:18.130	00:28:20.149	when are you going to pick it up?
+H	00:28:20.149	00:28:20.870	no.
+H	00:28:20.870	00:28:31.840	I would like those delivered by seven p.m. to miss Melanie Larson at  one three three Sequoia Lane in Glendale.
+G	00:28:31.840	00:28:34.309	could you spell "Sequoia" for me?
+H	00:28:34.309	00:28:40.209	certainly, s e q u o i a.
+G	00:28:40.590	00:28:41.371	thank you.
+G	00:28:41.539	00:28:43.389	the delivery will be arranged.
+H	00:28:43.443	00:28:44.284	excuse me.
+H	00:28:44.284	00:28:45.215	how much is that?
+G	00:28:45.409	00:28:47.709	that will be  seventy dollars.
+H	00:28:47.709	00:28:49.939	ok, since I'm not in town.
+H	00:28:49.939	00:28:51.679	can I pay by my Visa card?
+G	00:28:51.679	00:28:52.669	sure.
+G	00:28:52.669	00:28:54.669	may I have your credit card information?
+H	00:28:54.669	00:28:57.759	yes, my name is Lee King.
+H	00:28:57.769	00:28:59.679	I'll use my Visa card.
+H	00:28:59.679	00:29:18.189	the number is  seven  five  four  three  two  eight  one  one  three  zero  four  nine  seven  two  two  seven. and that expires December  twenty-fifth  two thousand and two.
+G	00:29:18.189	00:29:20.259	thank you very much.
+H	00:29:20.683	00:29:21.502	thank you.
+
+H	00:29:26.480	00:29:28.410	hello, ma books.
+H	00:29:28.410	00:29:29.660	this is Claire speaking.
+H	00:29:29.670	00:29:30.990	how can I help you?
+D	00:29:30.990	00:29:31.830	yes.
+D	00:29:31.825	00:29:37.832	I'm looking for J R R tolkien's "Lord of the Rings" trilogy.
+D	00:29:37.869	00:29:39.664	do you have it in stock?
+H	00:29:40.070	00:29:43.500	just a moment while I check our inventory, sir.
+H	00:29:45.500	00:29:48.720	yes, we have the trilogy in stock.
+H	00:29:48.973	00:29:50.017	you'd like it  one set.
+H	00:29:50.017	00:29:50.723	I assume?
+D	00:29:51.290	00:29:54.850	actually, I would like  two sets, please.
+H	00:29:54.860	00:30:03.110	ok,  two sets at  seventeen dollars each, plus  four dollars for shipping comes to  thirty eight dollars.
+H	00:30:03.110	00:30:05.420	may I have your credit card information?
+D	00:30:05.420	00:30:06.450	yes.
+D	00:30:06.450	00:30:09.450	my name is Andrew Arnold.
+D	00:30:09.450	00:30:12.830	and I'll be using Master Card.
+D	00:30:12.830	00:30:33.500	the credit card number is  seven  one  six  zero  four  two  one  eight  nine  three  nine  seven  one  four  three  two with the expiration date July  fifteenth,  two thousand and four.
+H	00:30:33.510	00:30:40.050	I also need your home address, phone number and email, please?
+D	00:30:40.050	00:30:41.070	ok.
+D	00:30:41.070	00:30:46.740	my address is ten/four Parkwood, Baltimore.
+D	00:30:46.740	00:30:55.670	and my phone number is  four  one  zero  four  eight  eight  three  two  nine  seven.
+H	00:30:55.900	00:30:56.358	ok.
+H	00:30:56.358	00:30:57.965	may I have your zip code, please?
+D	00:30:58.200	00:31:03.890	Oh, my zip code is  two  one  two  zero  six.
+H	00:31:03.890	00:31:05.430	and your email?
+D	00:31:05.430	00:31:15.180	my email address is M F L I m s @ hotmail.com.
+H	00:31:16.190	00:31:17.300	great!
+H	00:31:17.300	00:31:23.980	ok, I'll get those books out today and you should receive them within the next  three days.
+D	00:31:23.990	00:31:25.790	thank you.
+H	00:31:26.157	00:31:26.946	you're welcome.
+H	00:31:26.946	00:31:29.183	and thank you for shopping at MA books.
+D	00:31:29.746	00:31:30.640	goodbye!
+
+I	00:31:32.742	00:31:33.860	hello, P&S.
+I	00:31:33.883	00:31:35.159	this is anne speaking.
+I	00:31:35.040	00:31:36.569	how may I help you?
+D	00:31:36.569	00:31:39.949	I would like to order set menus for  five, please.
+I	00:31:39.949	00:31:44.900	yes, we currently have a regular  five course menus price of  five dollars.
+I	00:31:45.333	00:31:49.470	your choice is between beef, chicken, a vegetarian or a fish menu.
+D	00:31:49.530	00:31:52.429	and what is included in the  five course meals?
+I	00:31:52.429	00:31:58.199	while there is rice, soup, a stir-fried dish, main course and a dessert.
+D	00:31:58.199	00:31:59.360	hmm.
+D	00:31:59.370	00:32:01.130	how long would it take to deliver?
+I	00:32:01.130	00:32:06.059	the delivery time ranges between  ten to  thirty minutes, depending on the location.
+I	00:32:06.059	00:32:08.480	where would you like them to be delivered to?
+D	00:32:08.490	00:32:15.620	the address is the National Bank on the second floor of the mm building on Thompson St.
+I	00:32:15.620	00:32:17.819	and may I have your phone number, please?
+D	00:32:17.819	00:32:18.689	yes.
+D	00:32:18.689	00:32:24.410	it's  five  eight  five  nine  two  three  four  eight.
+I	00:32:24.410	00:32:27.660	the total bill will be  twenty five.
+I	00:32:27.660	00:32:29.080	please have it ready.
+D	00:32:29.090	00:32:30.299	thank you.
+I	00:32:30.299	00:32:31.919	thank you for eating P&S.
+I	00:32:31.919	00:32:32.819	bye bye.
+D	00:32:32.819	00:32:34.320	bye.
+
+C	00:32:45.562	00:32:46.486	oh, good morning.
+C	00:32:46.523	00:32:47.236	may i help you?
+D	00:32:47.499	00:32:48.160	yes.
+D	00:32:48.152	00:32:53.280	I would like an explanation on how the extra-large shirt that I bought  two days ago.
+D	00:32:53.340	00:32:57.710	now looks like an extra small shirt after just one wash!
+C	00:32:57.710	00:33:00.090	sir, may I see the shirt?
+D	00:33:00.090	00:33:03.990	yes, you may see the extra small shirt.
+C	00:33:03.990	00:33:06.380	oh.
+C	00:33:06.380	00:33:09.180	it's amazing how much is it shrunk?
+D	00:33:09.180	00:33:10.260	yes, it is.
+D	00:33:10.260	00:33:14.090	it is now the right size for my young son.
+C	00:33:14.090	00:33:18.840	sir, did you read the washing directions before you did your laundry?
+D	00:33:18.840	00:33:19.740	no.
+D	00:33:19.740	00:33:23.630	I just washed it in hot water with all the rest of my clothes.
+C	00:33:23.630	00:33:30.320	sir, the washing directions clearly indicate that you do not wash it in hot water.
+D	00:33:30.320	00:33:31.700	really?
+C	00:33:31.700	00:33:33.930	yes, I'm sorry.
+C	00:33:33.930	00:33:36.300	I'm afraid there's nothing I can do to help you.
+D	00:33:36.300	00:33:41.780	well, then I guess my son has got a new shirt.
+
+E	00:33:41.112	00:33:44.267	has anyone waited on you yet, ma'm?
+G	00:33:44.267	00:33:44.868	not yet.
+E	00:33:45.090	00:33:46.980	what can I help you with?
+G	00:33:46.980	00:33:51.030	I purchased this shirt for my husband last week and I'd like to return it.
+E	00:33:51.030	00:33:53.510	what is the problem with the shirt?
+G	00:33:53.520	00:33:56.640	well, I washed it once and the colour has faded.
+E	00:33:56.640	00:34:00.780	oh, did you follow the washing instructions on the shirt tag?
+G	00:34:00.747	00:34:01.408	of course.
+G	00:34:01.453	00:34:04.561	I did exactly what the instructions indicate to do.
+E	00:34:04.967	00:34:05.635	oh!
+E	00:34:05.688	00:34:06.934	do you have a receipt?
+G	00:34:06.930	00:34:08.630	yes.
+G	00:34:08.630	00:34:10.790	here it is.
+G	00:34:10.790	00:34:16.530	I'm not too happy about this because when the colour faded, it ruined some of the other clothing.
+E	00:34:16.530	00:34:19.010	I'm very sorry to hear that.
+E	00:34:19.020	00:34:21.870	the only thing I can do is refund the price with a shirt.
+G	00:34:21.980	00:34:23.332	at least you can do that.
+G	00:34:23.429	00:34:24.255	thank you.
+E	00:34:24.299	00:34:25.470	all right.
+E	00:34:25.470	00:34:29.750	could you please fill out the return form?

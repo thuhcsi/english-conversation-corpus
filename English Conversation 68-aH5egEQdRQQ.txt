@@ -1,0 +1,506 @@
+A	00:00:01.839	00:00:04.230	how does this scarf suit me, anne?
+B	00:00:04.240	00:00:06.799	oh...
+B	00:00:06.799	00:00:08.470	very well.
+B	00:00:08.480	00:00:10.559	you look fine!
+A	00:00:10.559	00:00:12.390	really?
+A	00:00:12.400	00:00:13.599	i'm not sure...
+A	00:00:13.599	00:00:14.240	look...
+A	00:00:14.240	00:00:19.189	maybe this one looks better...
+B	00:00:19.199	00:00:21.199	don't panic, peter!
+B	00:00:21.199	00:00:27.109	everything is going to be all right tonight!
+A	00:00:27.119	00:00:29.039	i don't know...
+A	00:00:29.039	00:00:31.679	actually i have a sore throat...
+A	00:00:31.679	00:00:33.600	and i'm losing my voice...
+A	00:00:33.600	00:00:36.239	i'll sing badly tonight, i'm sure of it!
+B	00:00:36.239	00:00:38.630	come on, peter!
+B	00:00:38.640	00:00:41.830	you will sing very well!
+B	00:00:41.840	00:00:44.480	you are a professional singer!
+B	00:00:44.480	00:00:47.350	don't forget it!
+B	00:00:47.360	00:00:50.470	well i'm going to have some tea.
+B	00:00:50.480	00:00:52.879	would you like some?
+A	00:00:52.879	00:00:55.270	thank you, anne! i would really like a cup of tea.
+A	00:00:55.280	00:00:57.840	if it's not too much trouble...
+B	00:00:57.840	00:01:02.709	no, not at all, i'll just add some water to the pot.
+B	00:01:02.719	00:01:07.520	a cup of tea and my chocolate cake.
+B	00:01:07.520	00:01:10.390	will keep your mind off the musical.
+B	00:01:10.400	00:01:12.080	for five minute at least!
+A	00:01:12.080	00:01:14.310	shall i give you a hand?
+B	00:01:14.320	00:01:14.640	oh...
+B	00:01:14.640	00:01:18.230	yes, thanks...
+B	00:01:18.240	00:01:24.950	here is the cake.
+A	00:01:24.960	00:01:26.640	Oops...
+B	00:01:26.640	00:01:30.069	oh peter!
+B	00:01:30.079	00:01:32.640	okay, listen...
+B	00:01:32.640	00:01:41.830	i know you are nervous, but try to be careful, please!
+A	00:01:41.840	00:01:47.840	i'm sorry anne... listen, how do you think the musical will go?
+B	00:01:47.840	00:01:50.960	i think it will go very well!
+B	00:01:50.960	00:01:54.640	greece is considered a classic musical!
+B	00:01:54.640	00:01:58.880	it's successful, entertaining...
+B	00:01:58.880	00:02:01.590	there will be loads of people clapping.
+A	00:02:01.600	00:02:03.680	do you really think so?
+B	00:02:03.680	00:02:05.510	sure i do!
+B	00:02:05.520	00:02:10.150	hey, peter. what time does the show start?
+A	00:02:10.160	00:02:12.879	at nine o'clock.
+A	00:02:12.879	00:02:16.229	how are we going get to the theater?
+B	00:02:16.239	00:02:17.840	i'm going to drive.
+A	00:02:17.840	00:02:21.270	i don't think that's a very good idea.
+B	00:02:21.280	00:02:22.480	why not?
+A	00:02:22.480	00:02:26.879	because parking there is almost impossible.
+B	00:02:26.879	00:02:31.200	okay, we'll take the tube.
+A	00:02:31.200	00:02:34.959	that's a much better idea.
+A	00:02:34.959	00:02:37.360	when shall we leave?
+B	00:02:37.360	00:02:38.790	around eight thirty?
+A	00:02:38.800	00:02:41.830	no, that's too late!
+B	00:02:41.840	00:02:46.710	okay! we'll leave earlier!
+A	00:02:46.720	00:02:48.777	oh i'm so sorry anne.
+B	00:02:49.722	00:02:50.495	Peter.
+B	00:02:51.120	00:02:54.710	you're hopeless!
+B	00:02:54.720	00:02:57.680	okay, okay, listen...
+B	00:02:57.680	00:03:03.030	i think you need to relax a bit!
+B	00:03:03.040	00:03:07.910	why don't you go and take a nap?
+A	00:03:07.920	00:03:09.680	i can't sleep...
+A	00:03:09.680	00:03:11.430	i'm too nervous!
+B	00:03:11.440	00:03:12.959	okay.
+B	00:03:12.959	00:03:16.400	why don't you rehearse your part again?
+A	00:03:16.400	00:03:17.360	i can't...
+A	00:03:17.360	00:03:19.270	i can't remember anything!
+B	00:03:19.280	00:03:20.080	okay.
+B	00:03:20.080	00:03:21.519	okay.
+B	00:03:21.519	00:03:24.480	go wherever you want...
+B	00:03:24.480	00:03:28.560	just, please, leave me alone!
+B	00:03:28.560	00:03:31.670	please...
+
+C	00:03:31.680	00:03:33.040	hi Anne.
+C	00:03:33.040	00:03:34.710	hi peter!
+C	00:03:34.720	00:03:36.959	i'm starving!
+C	00:03:36.959	00:03:38.550	is there anything to eat?
+A	00:03:38.560	00:03:42.070	how can you think about food at a time like this?
+C	00:03:42.080	00:03:42.720	why?
+C	00:03:42.720	00:03:43.760	what's the matter?
+A	00:03:43.760	00:03:46.470	what's the matter?
+A	00:03:46.480	00:03:48.159	the performance is tonight!
+C	00:03:48.159	00:03:49.750	come on, peter!
+C	00:03:49.760	00:03:51.840	don't panic!
+C	00:03:51.840	00:03:55.030	everything is going to be all right tonight...
+C	00:03:55.040	00:03:56.319	don't worry!
+A	00:03:56.319	00:04:00.400	why does everyone tell me the same stupid things?!
+C	00:04:00.400	00:04:04.470	because it's the truth!
+C	00:04:04.480	00:04:08.789	look peter, take this lucky charm!
+C	00:04:08.799	00:04:12.239	i bought it in portobello market this morning.
+C	00:04:12.239	00:04:16.069	i'll give it to you as a lucky mascot!
+C	00:04:16.079	00:04:24.070	remember, you have to kiss it three times...
+C	00:04:24.080	00:04:28.550	and then keep it in the right pocket of your jacket.
+A	00:04:28.560	00:04:31.590	why just in the right pocket?
+C	00:04:31.600	00:04:34.400	well, i don't know...
+C	00:04:34.400	00:04:39.590	the woman who gave it to me said that this is what you have to do.
+C	00:04:39.600	00:04:43.720	anyway i'm sure it will bring you luck!
+A	00:04:45.120	00:04:48.390	Hmm! not so sure...
+C	00:04:48.400	00:04:50.479	why not?
+C	00:04:50.479	00:04:52.469	shall we bet on it?
+A	00:04:52.479	00:04:53.759	all right!
+A	00:04:53.759	00:04:55.360	sounds like fun!
+A	00:04:55.360	00:04:56.710	how much?
+C	00:04:56.720	00:05:00.790	oh, let's make it interesting.
+C	00:05:00.800	00:05:06.560	if it brings you luck, you'll take me for dinner at bluebird.
+A	00:05:06.560	00:05:07.440	bluebird?
+A	00:05:07.440	00:05:08.870	are you crazy?
+A	00:05:08.880	00:05:11.520	that's london's most expensive restaurant.
+C	00:05:11.520	00:05:13.840	i know, i know...
+C	00:05:13.840	00:05:18.880	but the musical is important to you, peter, isn't it?
+A	00:05:18.880	00:05:21.350	well all right alice!
+A	00:05:21.360	00:05:26.479	what will you do if it doesn't bring me luck?
+C	00:05:26.479	00:05:32.070	well, i will cook dinner for a month!
+A	00:05:32.080	00:05:34.160	but you can't cook!
+C	00:05:34.160	00:05:35.990	aha, peter!
+C	00:05:36.000	00:05:38.320	that's why i said it!
+C	00:05:38.320	00:05:43.590	this way i'm sure you will make it bring you luck!
+
+A	00:05:43.600	00:05:47.919	well guys, why don't we go to the cinema tonight?
+B	00:05:47.919	00:05:49.919	that's a great idea.
+B	00:05:49.919	00:05:50.639	what's on?
+A	00:05:50.639	00:05:54.629	well, there's the new film with schwarzenegger.
+A	00:05:54.639	00:05:56.080	that should be good.
+D	00:05:56.080	00:05:58.070	you're joking, right?
+A	00:05:58.080	00:06:00.240	no i'm not.
+A	00:06:00.240	00:06:01.990	what would you suggest?
+D	00:06:02.000	00:06:04.800	how about going to the disco?
+A	00:06:04.800	00:06:06.390	the disco?
+A	00:06:06.400	00:06:07.840	are you crazy, alice?
+A	00:06:07.840	00:06:09.840	that's not even music...
+A	00:06:09.840	00:06:11.440	that's simply noise!
+D	00:06:11.440	00:06:12.639	come on, peter!
+D	00:06:12.639	00:06:14.230	it's saturday night.
+D	00:06:14.240	00:06:17.270	we have to do something special...
+D	00:06:17.280	00:06:19.759	something exciting!
+D	00:06:19.759	00:06:24.080	and going dancing is surely more exciting than going to the cinema!
+E	00:06:24.080	00:06:26.720	i agree with alice!
+E	00:06:26.720	00:06:31.270	let's go dancing!
+B	00:06:31.280	00:06:34.000	what about a third choice?
+A	00:06:34.000	00:06:36.710	i guess anne is right!
+A	00:06:36.720	00:06:40.080	why don't we try to find a good compromise?
+D	00:06:40.080	00:06:41.759	come on, guys how!
+D	00:06:41.759	00:06:44.629	boring and old-fashioned you are!
+A	00:06:44.639	00:06:47.520	and you are more frivolous than i am alice.
+E	00:06:47.520	00:06:48.880	come on guys!
+E	00:06:48.880	00:06:52.309	don't argue now, please!
+E	00:06:52.319	00:06:54.240	let's vote on it!
+E	00:06:54.240	00:06:57.430	well alice and i want to go dancing.
+E	00:06:57.440	00:07:00.950	peter and anne don't...
+E	00:07:00.960	00:07:03.280	how about you, sharon?
+B	00:07:03.280	00:07:06.870	i don't know...
+B	00:07:06.880	00:07:10.710	well...
+B	00:07:10.720	00:07:15.189	the disco is probably more entertaining than the cinema...
+D	00:07:15.199	00:07:16.880	great!
+D	00:07:16.880	00:07:18.390	okay, guys.
+D	00:07:18.400	00:07:20.400	three against two...
+D	00:07:20.400	00:07:26.390	let's go dancing!
+
+C	00:07:26.400	00:07:29.670	here's my party hat!
+C	00:07:29.680	00:07:31.039	how do you like it?
+B	00:07:31.039	00:07:33.589	you look great!
+B	00:07:33.599	00:07:35.759	i envy you!
+B	00:07:35.759	00:07:37.830	hats really suit you!
+C	00:07:37.840	00:07:40.160	well i envy your room, anne.
+C	00:07:40.160	00:07:42.960	but with all this traffic how do you sleep?
+B	00:07:42.960	00:07:44.800	oh i'm used to it!
+D	00:07:44.800	00:07:46.950	which disco are we going to?
+C	00:07:46.960	00:07:48.160	paradise.
+C	00:07:48.160	00:07:50.469	it's a new disco on kings road...
+C	00:07:50.479	00:07:52.400	it's very nice!
+B	00:07:52.400	00:07:54.800	did tom and you go there together?
+C	00:07:54.800	00:07:55.199	yes.
+C	00:07:55.199	00:07:57.680	we went last Saturday...
+C	00:07:57.680	00:08:01.110	we spent a nice night together...
+B	00:08:01.120	00:08:04.390	maybe i asked the wrong question.
+B	00:08:04.400	00:08:06.639	you don't like tom, do you?
+C	00:08:06.639	00:08:10.400	he's boring, very boring...
+C	00:08:10.400	00:08:13.199	besides. he's an aries!
+C	00:08:13.199	00:08:15.830	and he talks too much...
+D	00:08:15.840	00:08:16.639	last night.
+D	00:08:16.639	00:08:17.840	for example,
+C	00:08:17.840	00:08:22.000	he showed me all the pictures of his holiday in the alps.
+C	00:08:22.000	00:08:25.280	he talked for an hour about the mountains...
+C	00:08:25.280	00:08:27.120	but i hate the mountains!
+D	00:08:27.120	00:08:28.319	why'd you say that?
+D	00:08:28.319	00:08:32.159	the mountains are beautiful and spectacular.
+C	00:08:32.159	00:08:34.240	i prefer the beach...
+C	00:08:34.240	00:08:37.919	it's more relaxing and entertaining!
+D	00:08:37.919	00:08:38.159	oh.
+D	00:08:38.159	00:08:39.509	i don't know.
+D	00:08:39.519	00:08:42.320	i think the beach is more boring than the mountains.
+B	00:08:42.320	00:08:44.230	why do you say that?
+D	00:08:44.240	00:08:46.480	well think about it.
+D	00:08:46.480	00:08:49.030	lying on the beach every day.
+D	00:08:49.040	00:08:52.829	it's much more interesting to be walking in the countryside.
+B	00:08:52.839	00:08:58.560	yes, but it's usually colder in the mountains.
+B	00:08:58.560	00:09:02.630	i think the beach is also more romantic.
+C	00:09:02.640	00:09:06.470	girls stop talking nonsense!
+C	00:09:06.480	00:09:08.160	how do i look?
+D	00:09:08.160	00:09:10.949	you look very pretty, alice!
+C	00:09:10.959	00:09:11.839	thanks sharon.
+C	00:09:11.839	00:09:14.399	but you look better than me.
+D	00:09:14.399	00:09:16.880	no, how can you say that?
+D	00:09:16.880	00:09:18.800	you're much more tan than i am.
+C	00:09:18.800	00:09:21.920	yes but you are in better shape.
+B	00:09:21.920	00:09:25.829	and me?
+B	00:09:25.839	00:09:28.480	how do i look?
+D	00:09:28.480	00:09:29.910	you are very pretty too.
+D	00:09:29.920	00:09:31.600	anne.
+B	00:09:31.600	00:09:35.920	i'm sure i'm not nearly as beautiful as you!
+D	00:09:35.920	00:09:37.269	come on guys!
+D	00:09:37.279	00:09:41.670	start making stupid comparisons!
+D	00:09:41.680	00:09:45.590	let's just say that we're all different...
+E	00:09:45.600	00:09:47.040	hey girls!
+E	00:09:47.040	00:09:48.320	okay, are you ready?
+E	00:09:48.320	00:09:50.240	i need your advice...
+E	00:09:50.240	00:09:53.350	which shirt is better according to you?
+C	00:09:53.360	00:09:58.790	the red one it's much better than the blue one for a disco night.
+E	00:09:58.800	00:10:00.880	and you, sharon?
+E	00:10:00.880	00:10:02.710	what do you think?
+D	00:10:02.720	00:10:09.269	well, i think the red one is funnier, while the blue one is more professional...
+D	00:10:09.279	00:10:11.920	i prefer the blue one.
+E	00:10:11.920	00:10:15.990	so girls, which shirt should i put on?
+C	00:10:16.000	00:10:18.160	i told you the red one.
+C	00:10:18.160	00:10:22.000	with that one on you'll look more macho!
+C	00:10:22.000	00:10:24.480	yes macho, that's the right word!
+E	00:10:24.480	00:10:25.519	really?
+E	00:10:25.519	00:10:26.640	macho?
+E	00:10:26.640	00:10:28.230	i like it!
+E	00:10:28.240	00:10:32.389	okay, i'll put on the red shirt!
+E	00:10:32.399	00:10:34.399	do you agree with alice sharon?
+E	00:10:34.399	00:10:36.550	about being macho, i mean...
+D	00:10:36.560	00:10:40.069	come on, jack it's late...
+D	00:10:40.079	00:10:43.340	the disco is waiting for us!
+
+E	00:10:44.720	00:10:48.790	hi Peter...
+E	00:10:48.800	00:10:51.590	did you see the match yesterday evening?
+A	00:10:51.600	00:10:53.750	which match?
+E	00:10:53.760	00:10:55.440	which match?
+E	00:10:55.440	00:10:57.910	Ajax vs Juventus.
+A	00:10:57.920	00:11:00.320	those teams are boring...
+E	00:11:00.320	00:11:01.910	excuse me.
+E	00:11:01.920	00:11:04.240	uh excuse me.
+E	00:11:04.240	00:11:08.630	Ajax is the best football club in the world!
+A	00:11:08.640	00:11:13.209	i'm afraid i don't have a clue.
+E	00:11:13.420	00:11:20.870	I know that only music matters...
+E	00:11:20.880	00:11:22.160	anyway...
+E	00:11:22.160	00:11:24.870	in your opinion...
+E	00:11:24.880	00:11:28.150	which is the best team?
+A	00:11:28.160	00:11:29.440	i don't know!
+A	00:11:29.440	00:11:32.790	i heard arsenal is the best one of all time.
+A	00:11:32.800	00:11:38.800	they've got the most aggressive players, the most important coach, the toughest goalkeeper.
+E	00:11:38.800	00:11:42.240	peter, peter...
+E	00:11:42.240	00:11:45.430	you are so mistaken!
+A	00:11:45.440	00:11:49.509	okay, what's so great about Ajax?
+E	00:11:49.519	00:11:53.120	well, first of all, their defense is superb.
+E	00:11:53.120	00:11:56.560	it's much more intelligent than arsenal's.
+E	00:11:56.560	00:11:58.079	no still...
+F	00:11:58.079	00:11:59.750	no...
+F	00:11:59.760	00:12:02.480	but you promised me!
+F	00:12:02.480	00:12:06.079	you're always busy!
+F	00:12:06.079	00:12:09.519	no i don't want to go anymore!
+F	00:12:09.519	00:12:11.600	anyway, thanks daddy!
+F	00:12:11.600	00:12:14.310	thanks for your present!
+F	00:12:14.320	00:12:17.750	you are the worst father in the world!
+F	00:12:17.760	00:12:21.780	don't worry, i'm gonna have a great birthday, all the same!...
+F	00:12:21.920	00:12:24.320	With my friends...
+F	00:12:26.280	00:12:29.410	they do love me!
+F	00:12:32.340	00:12:34.120	Bye!
+E	00:12:34.240	00:12:36.320	is everything okay, alice?
+F	00:12:36.320	00:12:38.959	no, nothing is okay!
+F	00:12:38.959	00:12:42.470	my father keeps on being the same...
+B	00:12:42.480	00:12:45.120	oh, come on, alice!
+B	00:12:45.120	00:12:48.079	don't cry, please!
+B	00:12:48.079	00:12:50.629	tell us what happened.
+F	00:12:50.639	00:12:52.399	well, you know...
+F	00:12:52.399	00:12:53.829	i told you...
+F	00:12:53.839	00:12:57.990	my father decided to give me a trip for my birthday...
+F	00:12:58.000	00:13:00.320	well he promised to come with me...
+F	00:13:00.320	00:13:04.160	and just now he told me that he can't anymore...
+F	00:13:04.160	00:13:07.040	because he has some important work to do...
+F	00:13:07.040	00:13:08.079	as usual!
+D	00:13:08.079	00:13:10.800	oh don't be angry with him.
+D	00:13:10.800	00:13:13.509	even if he has something important to do.
+D	00:13:13.519	00:13:15.670	you can leave for your trip anyways!
+F	00:13:15.680	00:13:19.509	no, i don't want to go anymore!
+E	00:13:19.519	00:13:22.870	well, don't worry alice!
+E	00:13:22.880	00:13:26.310	we are going to give a big party for you.
+E	00:13:26.320	00:13:28.079	isn't that true, guys?
+A	00:13:28.079	00:13:28.880	absolutely!
+B	00:13:28.880	00:13:31.760	yes of course!
+E	00:13:31.760	00:13:34.880	you are the most brilliant,
+E	00:13:34.880	00:13:42.389	the smartest and the funniest roommate we've ever had!
+E	00:13:42.399	00:13:46.949	even if sometimes you are a bit lazy...
+E	00:13:46.959	00:13:50.550	you need a special party!
+F	00:13:50.560	00:13:52.320	thanks a lot!
+F	00:13:52.320	00:13:57.350	you are the best friends in the world...
+
+D	00:13:57.360	00:13:59.360	the musical was great, wasn't it?
+B	00:13:59.360	00:14:01.120	yes it was.
+B	00:14:01.120	00:14:03.839	peter was excellent!
+B	00:14:03.839	00:14:06.560	well, now let's think about the party!
+B	00:14:06.560	00:14:09.030	it's time for fun!
+B	00:14:09.040	00:14:13.120	oh by the way, who's coming to the party tomorrow?
+D	00:14:13.120	00:14:13.760	well...
+D	00:14:13.760	00:14:15.680	david will be here.
+D	00:14:15.680	00:14:19.509	mary paul and tom will be here as well...
+D	00:14:19.519	00:14:22.230	everyone will be here!
+B	00:14:22.240	00:14:24.639	i wonder if jack will be here...
+D	00:14:24.639	00:14:25.910	jack?
+D	00:14:25.920	00:14:27.760	why?
+B	00:14:27.760	00:14:31.030	he's leaving on a business trip tomorrow morning.
+B	00:14:31.040	00:14:37.189	he doesn't know exactly when he'll be back...
+E	00:14:37.199	00:14:40.310	hey, girls! what are you talking about?
+D	00:14:40.320	00:14:44.310	ann was telling me that you won't be coming to the party this evening.
+D	00:14:44.320	00:14:46.000	it isn't true is it?
+E	00:14:46.000	00:14:48.310	yes it is.
+E	00:14:48.320	00:14:49.600	i'm afraid i can't.
+D	00:14:49.600	00:14:51.760	business before pleasure?
+D	00:14:51.760	00:14:53.839	you never will change, will you?
+B	00:14:53.839	00:14:55.670	excuse me...
+B	00:14:55.680	00:14:56.880	hello?
+B	00:14:56.880	00:14:57.760	oh, hi...
+E	00:14:57.760	00:14:59.750	I really don't have a choice.
+D	00:14:59.760	00:15:01.680	listen, jack...
+D	00:15:01.680	00:15:10.310	i was wondering if you really have to go away on business or if you're not coming to peter's party for some other reason...
+E	00:15:10.457	00:15:11.321	no shame!and i...
+E	00:15:12.079	00:15:14.033	i do have a business engagement.
+E	00:15:20.160	00:15:21.876	anyway, since you asked...
+E	00:15:23.360	00:15:24.377	i'll tell you...
+E	00:15:26.320	00:15:27.180	there's more...
+E	00:15:28.959	00:15:30.310	i'm jealous of peter!
+D	00:15:31.839	00:15:33.269	come on, jack...
+D	00:15:33.279	00:15:34.918	you only care about business...
+E	00:15:36.160	00:15:38.682	sure, that's what they all say...
+E	00:15:41.519	00:15:45.954	but, you know... i...
+E	00:15:52.839	00:15:58.480	i'm interested in you...
+E	00:15:58.480	00:15:58.996	and...
+E	00:15:59.600	00:16:00.000	sharon...
+E	00:16:02.365	00:16:02.946	Are you...
+E	00:16:04.399	00:16:06.138	are you really interested in me?
+D	00:16:10.800	00:16:13.360	um, who are you talking to on the telephone?
+B	00:16:13.360	00:16:14.550	mary...
+B	00:16:14.560	00:16:17.034	she wanted to know what time the party's going to start.
+D	00:16:17.920	00:16:20.980	i think it will start at about nine o'clock, won't it?
+E	00:16:22.639	00:16:24.720	well, uh girls...
+E	00:16:24.720	00:16:26.812	i have to go finish my presentation.
+E	00:16:28.560	00:16:29.539	see you later.
+E	00:16:30.399	00:16:30.945	bye!
+B	00:16:32.240	00:16:33.283	back to work...
+B	00:16:34.320	00:16:36.705	you'll never quit, will you?
+B	00:16:39.360	00:16:43.278	um what a shame that jack isn't coming...
+B	00:16:43.759	00:16:45.821	he's a very interesting person...
+D	00:16:46.560	00:16:49.157	i wonder if you're falling in love with him!
+D	00:16:50.800	00:16:52.176	come on, you can tell me!
+B	00:16:55.759	00:16:56.458	okay...
+B	00:16:57.600	00:17:00.269	but don't tell anyone!...
+B	00:17:01.853	00:17:02.444	yes...
+B	00:17:04.720	00:17:06.173	he's quite handsome...
+B	00:17:08.160	00:17:10.061	do you think he likes me, sharon?
+D	00:17:10.720	00:17:11.890	what a question!
+D	00:17:12.720	00:17:14.204	it's none of my business!
+B	00:17:15.120	00:17:17.194	don't be so difficult, sharon!
+B	00:17:18.319	00:17:22.167	i was just asking confidentially your opinion...
+B	00:17:23.199	00:17:25.158	you are my friend, sharon...
+D	00:17:26.720	00:17:28.100	i'm sorry... anne.
+D	00:17:30.799	00:17:35.919	i didn't mean to hurt your feelings, i'm just a bit nervous these days...
+B	00:17:35.919	00:17:36.635	why?
+D	00:17:38.080	00:17:39.318	because of peter...
+D	00:17:40.160	00:17:41.560	we're having some problems...
+D	00:17:42.318	00:17:44.781	i'm sorry anne, but i don't want to talk about that...
+D	00:17:45.717	00:17:46.681	i've got to go...
+D	00:17:48.486	00:17:49.168	see you later.
+D	00:17:49.533	00:17:49.989	bye bye!
+B	00:17:56.160	00:17:58.080	oh, jack!
+B	00:17:58.080	00:17:59.925	you're always so messy...
+B	00:18:01.120	00:18:03.458	you leave your things everywhere...
+B	00:18:06.554	00:18:06.890	but...
+B	00:18:10.740	00:18:11.724	what's this?
+B	00:18:12.640	00:18:13.557	in the pocket?
+B	00:18:18.240	00:18:18.948	what?
+B	00:18:20.559	00:18:23.445	it's jack and sharon?
+B	00:18:24.320	00:18:26.345	and he's kissing her???
+B	00:18:27.039	00:18:29.129	oh my god!
+B	00:18:31.520	00:18:33.329	now, i understand everything!
+
+A	00:18:38.080	00:18:40.230	it's a shame jack isn't here, isn't it?
+G	00:18:40.240	00:18:44.331	yes, it's just not the same without him, is it?
+D	00:18:45.120	00:18:47.811	well, business is business, you know...
+A	00:18:48.880	00:18:53.206	well, anne, i wonder what wonderful food you cooked for us this evening...
+A	00:18:54.000	00:18:56.240	anne, hello!
+A	00:18:56.240	00:18:57.406	are you there?
+B	00:18:59.360	00:19:00.853	oh!sorry peter.
+B	00:19:01.520	00:19:02.850	i was miles away...
+B	00:19:05.440	00:19:06.880	what did you say?
+A	00:19:06.880	00:19:08.720	what did you cook for us?
+B	00:19:08.720	00:19:09.520	oh...
+B	00:19:09.520	00:19:11.120	your favorite!
+B	00:19:11.120	00:19:12.150	fish and chips!
+A	00:19:12.160	00:19:12.640	oh...
+A	00:19:12.640	00:19:14.394	what would i do without you?
+G	00:19:15.679	00:19:18.320	hey what about me?
+G	00:19:18.320	00:19:20.400	i brought the beer!
+A	00:19:20.400	00:19:22.655	yes, we're glad you did.
+A	00:19:22.698	00:19:24.160	cheers!
+D	00:19:24.160	00:19:25.039	cheers.
+G	00:19:25.039	00:19:25.520	cheers.
+G	00:19:25.520	00:19:27.594	is to peter's success.
+A	00:19:29.919	00:19:31.360	well, guys...
+A	00:19:31.360	00:19:35.679	this is the right time for an important announcement...
+A	00:19:35.679	00:19:38.789	last night there was a famous director at the theater...
+A	00:19:38.799	00:19:45.590	we met after the show and he told me he is preparing a musical to be performed all over japan...
+A	00:19:45.600	00:19:48.600	so, he wants to see me for an audition next week!
+B	00:19:49.387	00:19:50.112	cheers!
+E	00:19:57.739	00:19:59.318	surprise!!!
+A	00:19:59.440	00:20:00.480	jack!!!
+D	00:20:00.480	00:20:01.350	jack!!!
+B	00:20:01.360	00:20:02.559	jack!
+A	00:20:02.559	00:20:06.080	well, well. not so dedicated to your work, are you?!
+E	00:20:06.080	00:20:08.149	peter, get me a beer!
+A	00:20:08.159	00:20:09.086	now you're talking...
+E	00:20:21.200	00:20:22.075	hi Anne!
+E	00:20:22.720	00:20:24.178	is something okay?
+B	00:20:24.480	00:20:25.258	yes...
+B	00:20:28.880	00:20:29.832	no, jack!
+B	00:20:33.440	00:20:34.589	everything's fine!
+B	00:20:35.200	00:20:38.079	it was just really a surprise to me!
+
+L	00:20:46.159	00:20:49.039	jan knew january.
+L	00:20:49.039	00:20:50.390	january.
+L	00:20:50.400	00:20:56.480	and this one fair brew early february.
+L	00:20:56.480	00:20:57.510	february.
+L	00:20:57.520	00:20:59.120	okay so again.
+L	00:20:59.120	00:20:59.600	american.
+L	00:20:59.600	00:21:03.679	english february okay.
+L	00:21:03.679	00:21:09.750	and for british english january and february okay.
+L	00:21:09.760	00:21:22.080	now march remember ch march march this one april remember.
+L	00:21:22.080	00:21:26.789	remember okay april.
+L	00:21:26.799	00:21:35.679	april some students say april now.
+L	00:21:35.679	00:21:47.200	very easy nay nay this one june okay.
+L	00:21:47.200	00:21:50.789	so we have june june.
+L	00:21:50.799	00:21:56.960	this one july june july july.
+L	00:21:56.960	00:22:02.880	some of my students say this is julie no sorry this is july,
+K	00:22:02.880	00:22:03.760	july.
+L	00:22:03.760	00:22:14.880	okay this one uh some people would say august or august or august.
+L	00:22:14.880	00:22:16.240	sorry they're not correct.
+L	00:22:16.240	00:22:17.600	this is or.
+L	00:22:17.600	00:22:18.000	okay.
+L	00:22:18.000	00:22:22.710	long or or august august okay.
+L	00:22:22.720	00:22:25.960	this one september.
+L	00:22:25.960	00:22:27.909	september.
+L	00:22:27.919	00:22:31.510	this one october.
+L	00:22:31.520	00:22:34.870	october.
+L	00:22:34.880	00:22:38.840	this one november.
+L	00:22:37.789	00:22:38.936	november.
+L	00:22:39.920	00:22:41.404	december.
+L	00:22:41.919	00:22:45.110	december okay remember.
+L	00:22:45.120	00:22:52.880	from number uh from september to december we will stress at their second syllable okay.
+L	00:22:52.880	00:23:04.000	so september october this one november this one december again.
+L	00:23:04.000	00:23:08.960	september october november december.
+L	00:23:08.960	00:23:12.470	which month of the year do you like best.
+L	00:23:12.480	00:23:15.029	which month of the year do you like best.
+L	00:23:15.039	00:23:18.480	i love september my birthday is in september.
+L	00:23:18.480	00:23:21.669	i love september my birthday is in september.
+L	00:23:21.679	00:23:23.909	when do you start your summer vacation.
+L	00:23:23.919	00:23:26.310	when do you start your summer vacation.
+L	00:23:26.320	00:23:32.789	at the beginning of june or at the end of june or at the middle of june okay.
+L	00:23:32.799	00:23:39.190	now do you have any plans for your sorry do you have any plans for august.
+L	00:23:39.200	00:23:41.120	no nothing special.
+L	00:23:41.120	00:23:43.440	yes of course i'm gonna visit spain.
+L	00:23:43.440	00:23:45.990	yes of course i'm gonna visit spain.
+L	00:23:46.000	00:23:49.350	is it cold in january in paris.
+L	00:23:49.360	00:23:56.149	yes it's chilly in january in paris or no it's hard during that time okay.
+L	00:23:56.159	00:24:11.590	spur spring spring summer summer for four autumn autumn winter winter and remember this tea here.
+L	00:24:11.600	00:24:16.320	we stress in the first syllable wind so for the tea.
+L	00:24:16.320	00:24:22.320	that is not stressed we can say something in american english.
+L	00:24:22.320	00:24:25.600	so we so we can say the winter.
+L	00:24:25.600	00:24:30.870	winter now this is season.
+L	00:24:30.880	00:24:32.400	season.
+L	00:24:32.400	00:24:35.350	we have rainy season.
+L	00:24:35.360	00:24:36.159	rainy season.
+L	00:24:36.159	00:24:38.640	that means during that season.
+L	00:24:38.640	00:24:44.320	it rains a lot rainy season or instead of saying rainy season.
+L	00:24:44.320	00:24:46.870	we can say the word monsoon.
+L	00:24:46.880	00:24:53.279	monsoon season again rainy remember.
+L	00:24:53.279	00:25:03.279	this rainy season monsoon season and we have dry.
+L	00:25:03.279	00:25:08.070	remember they are the constant cluster dry.
+L	00:25:08.080	00:25:09.360	dry season.
+L	00:25:09.360	00:25:10.720	dry season.
+L	00:25:10.720	00:25:12.640	what season do you like?
+L	00:25:12.640	00:25:14.559	i like four.
+L	00:25:14.559	00:25:18.240	what do you like doing in the winter?
+L	00:25:18.240	00:25:21.039	i like skiing in the winter.
+L	00:25:21.039	00:25:23.590	do you like monsoon season do you like?
+L	00:25:23.600	00:25:27.200	monsoon season. yes i do.
+L	00:25:27.200	00:25:32.230	because the weather is cool and comfortable during the monsoon.
+L	00:25:32.240	00:25:36.630	yes i do because the weather is cool and comfortable during the monsoon.
+L	00:25:36.640	00:25:37.600	no i hate it.
+L	00:25:37.600	00:25:42.640	no i hate it it's so inconvenient.
+L	00:25:42.640	00:25:44.070	inconvenient.
+L	00:25:44.080	00:25:45.600	if you want to go out?
+L	00:25:45.600	00:25:47.279	no i hate it it's so inconvenient.
+L	00:25:47.279	00:25:51.600	if you want to go out want to you can say wanna.
+L	00:25:51.600	00:25:54.310	if you want.
+L	00:25:54.320	00:25:58.559	if you want to go out what season is it in your city now.
+L	00:25:58.559	00:26:02.400	what season is it in your city now?
+

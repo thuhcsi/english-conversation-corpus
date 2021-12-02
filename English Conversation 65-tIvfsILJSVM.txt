@@ -1,0 +1,447 @@
+A	00:00:02.560	00:00:03.880	hello.
+A	00:00:04.880	00:00:05.504	i'm jack.
+B	00:00:06.399	00:00:07.520	hello!
+B	00:00:07.520	00:00:09.509	my name is anne.
+B	00:00:09.519	00:00:10.260	nice to meet you.
+A	00:00:10.885	00:00:11.537	it's a pleasure.
+A	00:00:12.559	00:00:14.787	so, this is the house...
+A	00:00:16.240	00:00:18.063	it's really beautiful!
+B	00:00:18.108	00:00:19.593	oh yes, it is.
+B	00:00:20.400	00:00:24.880	but... but it's very difficult to keep clean...
+A	00:00:24.880	00:00:28.630	sorry... not a good start...
+B	00:00:28.640	00:00:29.452	don't worry.
+A	00:00:32.160	00:00:35.040	your accent is very clear.
+A	00:00:35.040	00:00:36.559	where are you from?
+B	00:00:36.559	00:00:38.480	i'm from oxford.
+A	00:00:38.480	00:00:40.470	wow! oxford!
+A	00:00:40.480	00:00:41.968	one hundred percent english.
+B	00:00:42.559	00:00:43.590	yes.
+B	00:00:43.600	00:00:46.630	and you are american.
+B	00:00:46.640	00:00:47.360	is that right?
+A	00:00:47.360	00:00:50.950	yes, but my family is from italy, bologna.
+B	00:00:50.960	00:00:53.840	oh, italy is wonderful!
+B	00:00:53.840	00:00:56.310	my sister is in italy at the moment.
+A	00:00:56.320	00:00:57.199	where?
+B	00:00:57.199	00:00:58.480	she's in rome.
+B	00:00:58.480	00:01:01.600	studying italian painters.
+B	00:01:01.600	00:01:05.519	she's really happy: italians are so friendly.
+B	00:01:05.519	00:01:07.920	oh, and that's alice.
+B	00:01:07.920	00:01:11.590	she's also part of the family.
+A	00:01:11.600	00:01:13.280	it's nice to meet you alice!
+C	00:01:13.280	00:01:16.320	so this is jack, the new flatmate.
+B	00:01:16.320	00:01:18.168	yes, and he's from...
+C	00:01:17.571	00:01:19.183	nice to meet you, jack.
+C	00:01:19.439	00:01:22.080	i'm from sydney, in australia,
+C	00:01:22.080	00:01:25.452	and you are.. a capricorn.
+A	00:01:25.600	00:01:29.119	yes! amazing!
+A	00:01:29.119	00:01:30.789	i come from america.
+A	00:01:30.799	00:01:32.479	i'm from new york.
+C	00:01:32.479	00:01:34.149	wow. the big apple!
+A	00:01:34.159	00:01:36.960	yes, okay...
+A	00:01:36.960	00:01:40.079	um, can i put my things in the bedroom?
+C	00:01:40.079	00:01:41.230	let me help you!
+C	00:01:48.240	00:01:50.317	hey, this is nice.
+A	00:01:51.439	00:01:52.960	i'm glad you like it.
+A	00:01:52.960	00:01:55.190	it's a mexican hat.
+A	00:01:55.200	00:01:59.270	you look great!
+C	00:01:59.280	00:02:01.759	and what is this?
+A	00:02:01.759	00:02:04.479	it's an african mask.
+C	00:02:04.479	00:02:05.280	is it magic?
+A	00:02:05.280	00:02:08.098	of course, but look at this.
+A	00:02:10.720	00:02:13.750	a bottle of italian wine.
+A	00:02:13.760	00:02:15.710	do you like wine?
+
+A	00:02:16.840	00:02:18.710	cheers!
+C	00:02:22.720	00:02:24.458	this wine is very good!
+B	00:02:24.800	00:02:26.128	yes, it's really good!
+B	00:02:28.400	00:02:31.509	by the way, you're very lucky, look it's raining now!
+A	00:02:31.519	00:02:32.576	yes, i am lucky.
+B	00:02:33.519	00:02:36.080	oh, that's my photo album there.
+B	00:02:36.080	00:02:37.867	the pictures of all my friends are in here.
+A	00:02:37.846	00:02:39.191	oh, that's interesting show me.
+B	00:02:41.840	00:02:43.599	so, this is mary.
+B	00:02:43.599	00:02:45.350	she's from ireland.
+B	00:02:45.360	00:02:46.896	her mother and father are greek.
+A	00:02:46.897	00:02:48.470	her parents are from greece?
+B	00:02:48.480	00:02:49.518	yes, they're greek.
+B	00:02:50.320	00:02:51.437	they're from athens.
+A	00:02:52.400	00:02:53.493	oh, and who's that?
+B	00:02:53.840	00:02:58.080	uh, that's alice!
+A	00:02:58.080	00:02:59.440	no that's, not alice...
+B	00:02:59.840	00:03:00.480	yes, it is!
+C	00:03:00.480	00:03:02.710	after a party... a halloween party.
+A	00:03:02.720	00:03:03.840	that's funny.
+A	00:03:03.840	00:03:05.339	and oh, and who are they?
+B	00:03:06.400	00:03:10.149	that's sharon and peter, they live in the flat near here.
+B	00:03:10.159	00:03:11.200	they're good friends.
+A	00:03:11.200	00:03:12.402	she's very pretty.
+
+A	00:03:16.626	00:03:17.231	hello.
+A	00:03:18.959	00:03:20.229	my name is jack.
+A	00:03:20.239	00:03:22.080	i'm the new flatmate.
+A	00:03:22.080	00:03:23.519	it's nice to meet you.
+D	00:03:23.519	00:03:25.357	hello, jack!i'm peter nash.
+D	00:03:27.120	00:03:29.840	and... sharon?
+D	00:03:29.840	00:03:31.869	okay, and this is sharon.
+E	00:03:34.879	00:03:36.910	it's a pleasure.
+A	00:03:37.920	00:03:39.840	how are you, sharon?
+E	00:03:39.840	00:03:41.710	fine, thanks.
+B	00:03:44.720	00:03:47.429	oh good, you're friends,but.
+B	00:03:48.159	00:03:51.270	so guys, there's work in the kitchen for everyone.
+
+A	00:03:55.280	00:03:57.680	anne, you are a great cook!
+B	00:03:57.680	00:03:58.789	thank you, jack.
+B	00:04:00.799	00:04:02.720	big announcement!
+B	00:04:02.720	00:04:07.910	finally, i have all the points and i can get that marvelous set of chinese plates!
+A	00:04:07.920	00:04:08.879	what?
+B	00:04:08.879	00:04:10.400	yes, for the cookies.
+B	00:04:10.400	00:04:12.291	help me fill in the form, jack, please.
+A	00:04:12.159	00:04:14.229	all right, let me see the questions.
+A	00:04:14.239	00:04:15.429	what's your name?
+B	00:04:15.439	00:04:16.346	are you joking?
+A	00:04:16.880	00:04:19.830	okay okay, a-n-n-e.
+A	00:04:19.840	00:04:21.199	and what's your family name?
+B	00:04:21.199	00:04:22.494	um, my surname?
+A	00:04:22.507	00:04:22.990	yes.
+B	00:04:23.120	00:04:24.796	right, uh, baxter.
+A	00:04:25.046	00:04:27.551	b-a-x-t-e-r.
+A	00:04:28.080	00:04:30.310	what's your phone number?
+B	00:04:30.320	00:04:38.160	it's zero four five four seven eight six two zero nine seven.
+A	00:04:38.160	00:04:42.240	zero four five four seven eight eight two zero nine seven.
+B	00:04:42.240	00:04:49.227	no, it's zero four five four seven eight six two zero nine seven.
+A	00:04:50.639	00:04:51.749	right.
+B	00:04:53.759	00:04:57.390	you have to remember, this is your telephone number too.
+A	00:04:58.400	00:04:59.919	you're right.
+A	00:04:59.919	00:05:01.360	are you married?
+B	00:05:01.360	00:05:02.577	no, i'm single.
+A	00:05:03.680	00:05:05.670	a pretty girl like you is still single?
+B	00:05:05.680	00:05:08.016	stop it, jack. please!
+B	00:05:08.504	00:05:11.390	yes, for the moment i'm single.
+A	00:05:12.400	00:05:14.220	next question, please.
+A	00:05:14.080	00:05:15.270	where are you from?
+B	00:05:15.280	00:05:17.840	um, there are a lot of questions.
+A	00:05:17.840	00:05:19.910	it's for your chinese plates!
+B	00:05:19.633	00:05:20.028	ok.
+B	00:05:20.029	00:05:21.360	for the last time!
+B	00:05:21.360	00:05:23.070	i'm from england.
+B	00:05:24.080	00:05:25.191	from oxford.
+A	00:05:25.547	00:05:27.704	a-x-f-o-r-d.
+B	00:05:27.680	00:05:31.326	no. o-x-f-o-r-d.
+A	00:05:31.401	00:05:32.550	just joking.
+B	00:05:32.560	00:05:34.240	that's okay.
+B	00:05:34.240	00:05:35.039	what's next?
+A	00:05:35.039	00:05:36.400	just two more questions.
+A	00:05:36.400	00:05:37.759	the address is...
+B	00:05:37.759	00:05:41.440	forty five trinity lane, flat c.
+A	00:05:41.440	00:05:43.510	what's the postcode?
+B	00:05:43.520	00:05:46.095	E C one four r n.
+A	00:05:46.399	00:05:49.171	E C one four r n.
+A	00:05:49.280	00:05:50.720	and what's your job?
+B	00:05:50.720	00:05:53.590	i'm an employee in a publishing company.
+A	00:05:53.600	00:05:56.319	oh, you're just the right person for me.
+A	00:05:56.319	00:05:59.270	i have a great love story to write.
+
+B	00:06:03.280	00:06:04.720	good morning, alice.
+B	00:06:04.720	00:06:05.950	how are you?
+C	00:06:06.960	00:06:07.840	hi, anne,
+B	00:06:07.840	00:06:09.680	good morning.
+C	00:06:09.680	00:06:11.240	i'm fine, and you?
+B	00:06:12.240	00:06:13.520	fine, thanks.
+B	00:06:18.080	00:06:19.360	excuse me.
+B	00:06:19.360	00:06:21.270	where's my watch?
+C	00:06:21.280	00:06:24.830	i don't know, isn't it under the magazines?
+B	00:06:27.840	00:06:29.520	no, it isn't.
+C	00:06:29.520	00:06:30.238	are you sure?
+B	00:06:30.272	00:06:31.830	yes, i'm sure.
+C	00:06:31.840	00:06:36.960	it's not under the magazines. and and i'm late.
+B	00:06:36.960	00:06:40.469	i have an appointment at eight o'clock.
+C	00:06:40.479	00:06:42.469	maybe it's here on the table.
+B	00:06:44.479	00:06:46.510	no, the watch isn't here.
+C	00:06:47.520	00:06:50.629	behind the apples? next to the pasta?
+B	00:06:50.639	00:06:53.199	oh, there it is!
+B	00:06:53.199	00:06:54.195	thanks, alice.
+C	00:06:56.000	00:06:58.050	you're welcome, anne. bye.
+A	00:07:04.400	00:07:05.720	oh, no.
+A	00:07:06.720	00:07:07.681	it's late.
+A	00:07:09.759	00:07:11.158	alice, what time is it?
+C	00:07:11.919	00:07:13.029	just a moment.
+C	00:07:15.039	00:07:18.000	it's half past seven.
+A	00:07:18.000	00:07:19.280	half past seven?
+A	00:07:19.280	00:07:21.510	my train is at eight o'clock!
+C	00:07:21.520	00:07:22.400	hurry up, jack!
+C	00:07:22.400	00:07:23.189	you're late.
+A	00:07:25.199	00:07:27.680	okay, okay.
+A	00:07:27.680	00:07:29.589	where are my keys?
+C	00:07:29.599	00:07:31.280	they're here, on the table.
+A	00:07:31.280	00:07:34.720	oh, thanks alice.
+A	00:07:34.720	00:07:39.280	now another problem, where is my sweater?
+C	00:07:39.280	00:07:41.280	maybe it's on the chair.
+A	00:07:41.280	00:07:42.960	no, it isn't.
+A	00:07:42.960	00:07:45.110	where is it?
+C	00:07:45.120	00:07:46.639	calm down, jack.
+C	00:07:46.639	00:07:48.150	you're wearing it!
+A	00:07:48.160	00:07:49.800	oh!
+A	00:07:50.800	00:07:53.270	thanks, alice.
+A	00:07:53.280	00:07:55.440	you're a life-saver!
+C	00:07:55.440	00:07:58.410	hurry up! go go go!
+C	00:08:00.720	00:08:03.280	too much stress...
+C	00:08:03.280	00:08:05.510	i must go back to bed again.
+
+A	00:08:07.520	00:08:08.720	okay okay, girls!
+A	00:08:08.720	00:08:11.270	what time is the dinner tonight at the restaurant?
+B	00:08:11.280	00:08:13.520	uh, it's at half past eight.
+C	00:08:13.520	00:08:14.309	are you sure?
+C	00:08:14.319	00:08:15.759	i think it's at half past nine.
+A	00:08:15.759	00:08:17.350	okay guys, when is it?
+B	00:08:17.360	00:08:20.240	i'm certain it's at eight thirty.
+C	00:08:20.240	00:08:22.029	sorry, it's at nine thirty.
+A	00:08:23.039	00:08:24.800	okay okay, it's tonight, right?
+B	00:08:24.800	00:08:26.639	yes, it's tonight.
+B	00:08:26.639	00:08:28.160	but what time is it, by the way...
+A	00:08:28.160	00:08:30.309	there's a clock over there it's a quarter seven.
+B	00:08:30.319	00:08:32.800	so if it's after six, sharon's at home.
+A	00:08:32.800	00:08:34.000	oh no, she isn't.
+A	00:08:34.000	00:08:35.350	she's at work.
+B	00:08:35.360	00:08:38.110	no, usually she comes back home after six.
+B	00:08:39.120	00:08:41.039	hi sharon, good evening.
+E	00:08:41.039	00:08:42.000	hi guys.
+C	00:08:42.000	00:08:43.039	sharon, please help us.
+C	00:08:43.039	00:08:44.399	what time is the dinner tonight?
+E	00:08:44.399	00:08:44.959	it's quite late,
+E	00:08:44.959	00:08:46.550	it's at half past ten.
+B	00:08:46.560	00:08:47.430	see jack,
+B	00:08:47.440	00:08:48.640	half past ten.
+A	00:08:48.640	00:08:49.760	okay, you're right.
+A	00:08:49.760	00:08:52.360	i'm wrong. wrong.
+
+D	00:08:55.360	00:08:56.240	hello anne.
+B	00:08:56.240	00:08:58.949	oh, it's you, peter!
+B	00:08:58.959	00:09:01.230	look, this is it!
+D	00:09:02.240	00:09:03.920	look at what?
+B	00:09:03.920	00:09:05.200	my office!
+B	00:09:05.200	00:09:07.040	here, near my bed.
+D	00:09:07.040	00:09:08.670	oh, i see.
+D	00:09:09.680	00:09:12.949	by the way, where are the office supplies?
+B	00:09:12.959	00:09:16.839	the computer supplies are in that cupboard over there.
+B	00:09:17.839	00:09:22.120	the folders, pencils, pens, etc. are here in this cupboard.
+B	00:09:23.120	00:09:26.640	and, i also have two chairs.
+D	00:09:26.640	00:09:27.120	oh, good!
+D	00:09:27.120	00:09:27.990	are these for everyone?
+B	00:09:28.000	00:09:29.279	no, they are not!
+B	00:09:29.279	00:09:31.839	don't touch anything, please!
+D	00:09:31.839	00:09:35.509	okay, so you say you have all of the office supplies?
+B	00:09:35.519	00:09:37.680	no, not really.
+B	00:09:37.680	00:09:39.990	there isn't a fax machine.
+B	00:09:40.000	00:09:43.590	there aren't all the programs i need on my computer.
+D	00:09:43.600	00:09:47.190	and i guess you have an answering machine, is it useful?
+B	00:09:47.200	00:09:49.680	i don't need an answering machine.
+B	00:09:49.680	00:09:51.550	i answer the telephone myself.
+D	00:09:52.560	00:09:53.839	okay, you're right.
+D	00:09:53.839	00:09:59.279	this office is nice, and if you need a fax machine i have one in my apartment.
+B	00:09:59.279	00:10:00.870	oh, thank you!
+D	00:10:00.880	00:10:02.480	wait a minute!
+D	00:10:02.480	00:10:03.670	something is missing.
+D	00:10:05.680	00:10:07.200	where's the coffee machine?
+D	00:10:07.200	00:10:09.030	all offices have a coffee machine.
+B	00:10:09.040	00:10:12.000	i'm afraid there isn't one here.
+B	00:10:12.000	00:10:16.240	there's a staff kitchen on the other side of the house,
+B	00:10:16.240	00:10:17.839	in the kitchen!
+B	00:10:17.839	00:10:19.110	we can have some coffee there.
+D	00:10:19.120	00:10:20.710	good idea!
+
+B	00:10:22.720	00:10:25.430	do you want milk with your coffee?
+B	00:10:25.440	00:10:27.600	there's a bottle in the back of the fridge.
+D	00:10:27.600	00:10:31.720	i prefer it without milk, but with some sugar.
+B	00:10:32.720	00:10:36.230	oh, i'm afraid there isn't any sugar.
+D	00:10:36.240	00:10:37.920	well, that's okay.
+D	00:10:37.920	00:10:40.640	black coffee is good, too.
+D	00:10:40.640	00:10:42.870	do you have any of those great cookies?
+B	00:10:42.880	00:10:45.069	oh, yes!
+B	00:10:46.079	00:10:48.910	there're some cookies over here.
+D	00:10:55.920	00:10:58.839	peter speaking.
+D	00:10:58.839	00:10:59.710	what?
+D	00:11:00.720	00:11:01.990	an audition?
+D	00:11:04.000	00:11:05.269	no, not at all.
+D	00:11:07.279	00:11:08.959	i'm free.
+D	00:11:08.959	00:11:09.829	great!
+D	00:11:12.839	00:11:12.959	bye.
+D	00:11:14.959	00:11:18.320	well, finally, an audition.
+B	00:11:18.320	00:11:19.750	wonderful!
+B	00:11:19.760	00:11:20.800	when?
+D	00:11:20.800	00:11:23.590	next monday, at the opera theater.
+D	00:11:23.600	00:11:25.600	these cookies are fantastic.
+D	00:11:25.600	00:11:27.829	are there any more?
+B	00:11:27.839	00:11:29.920	there're some more in the box.
+D	00:11:29.920	00:11:31.990	thank you, bye anne.
+D	00:11:32.000	00:11:33.310	time for music!
+B	00:11:36.320	00:11:41.790	hey! take your dirty napkin away from my kitchen!
+
+B	00:11:48.800	00:11:53.590	yes, i always go shopping on saturdays.
+B	00:11:53.600	00:11:57.590	the first thing i do on saturday is drive to the supermarket.
+E	00:11:59.600	00:12:06.310	i sometimes go shopping on saturdays, but usually i sleep late.
+E	00:12:06.320	00:12:08.590	i'm always so tired on saturdays.
+C	00:12:09.600	00:12:12.000	i'm never tired on the weekend!
+C	00:12:12.000	00:12:14.389	the weekend is a time for fun!
+C	00:12:14.399	00:12:19.440	i paint, go jogging, go out with some friends.
+C	00:12:19.440	00:12:23.110	unfortunately, i sometimes have to study.
+B	00:12:23.120	00:12:26.959	oh, i sometimes do a little work at the weekend.
+B	00:12:26.959	00:12:36.160	when i'm free i like going swimming, going to exhibitions or to concerts, if i have enough money.
+B	00:12:36.160	00:12:39.600	oh! and every sunday,
+B	00:12:39.600	00:12:44.069	i clean up the entire flat.
+B	00:12:44.079	00:12:46.720	and in the evening i watch tv.
+E	00:12:46.720	00:12:48.639	oh i never watch tv.
+E	00:12:48.639	00:12:50.269	it's boring.
+E	00:12:51.279	00:12:54.790	peter and i like going to the cinema at the weekend.
+D	00:12:54.800	00:12:58.720	yes, it's important not to watch too much tv.
+D	00:12:58.720	00:13:02.150	an hour a day or so, that's enough.
+C	00:13:02.160	00:13:05.639	come on guys! you talk like my grandfather!
+C	00:13:06.639	00:13:10.710	work, tv, housework on the weekends.
+C	00:13:10.720	00:13:12.399	life is more!
+A	00:13:12.399	00:13:18.160	i want you to take me to places where young people have fun!
+C	00:13:18.160	00:13:21.040	great! get ready, grandpa!
+A	00:13:21.040	00:13:24.240	work is so hard, guys.
+A	00:13:24.240	00:13:32.079	i wake up at six thirty every day, have breakfast and take the train to work.
+A	00:13:32.079	00:13:33.269	every day!
+B	00:13:33.279	00:13:34.959	i know!
+B	00:13:34.959	00:13:36.870	i get up at seven.
+B	00:13:36.880	00:13:40.720	but i have a friend at work who usually gets up at six.
+A	00:13:40.720	00:13:41.760	why?
+A	00:13:41.760	00:13:44.230	that's too early.
+B	00:13:44.240	00:13:46.870	it takes him an hour to drive to work.
+A	00:13:46.880	00:13:49.240	wow, that's a long drive.
+B	00:13:50.240	00:13:54.949	yes, but he lives in the country.
+B	00:13:54.959	00:13:57.440	i think he's lucky.
+B	00:13:57.440	00:14:01.030	every weekend he can go for walks in the woods.
+B	00:14:01.040	00:14:03.440	not in traffic jams.
+A	00:14:03.440	00:14:05.670	i guess that's pretty nice.
+A	00:14:05.680	00:14:10.150	he lives in the countryside but works in the city.
+A	00:14:10.160	00:14:14.150	a pretty nice combination.
+B	00:14:14.160	00:14:16.079	what about you, sharon?
+E	00:14:16.079	00:14:18.629	what time do you wake up?
+E	00:14:18.639	00:14:21.750	i usually get up at about nine o'clock.
+E	00:14:21.760	00:14:23.760	but i live in the city.
+E	00:14:23.760	00:14:25.590	it's easy to get to work.
+D	00:14:25.600	00:14:28.560	yes, but you get home very late.
+D	00:14:28.560	00:14:31.430	often six thirty or seven.
+E	00:14:31.440	00:14:36.310	you know i sometimes have five or six groups of tourists a day.
+D	00:14:36.320	00:14:39.030	you work too much, my dear.
+E	00:14:41.040	00:14:43.470	and you sing too much, peter.
+A	00:14:46.480	00:14:52.240	alice, i bet you don't wake up at six o'clock every day.
+A	00:14:52.240	00:14:56.320	tell us something about your typical day at university.
+C	00:14:56.320	00:15:02.320	well, i sometimes have classes in the morning, but i usually have classes in the afternoon.
+C	00:15:02.320	00:15:05.670	on mondays i always attend lectures in the morning.
+A	00:15:05.680	00:15:07.519	and where do you study?
+C	00:15:07.519	00:15:12.629	i usually study in the library, but i sometimes study at home, too.
+C	00:15:12.639	00:15:15.509	when i don't have classes in the morning.
+D	00:15:15.519	00:15:19.279	my friend david also studies at your university.
+D	00:15:19.279	00:15:20.959	do you remember him?
+C	00:15:20.959	00:15:22.949	david leary?
+C	00:15:22.959	00:15:28.230	yes, i occasionally see him in the library, and sometimes in the park.
+D	00:15:28.240	00:15:30.000	in the park?
+D	00:15:30.000	00:15:31.910	doing what?
+C	00:15:31.920	00:15:33.759	he likes studying there.
+C	00:15:33.759	00:15:38.310	he takes his books, finds a nice park bench and reads there.
+D	00:15:38.320	00:15:39.759	not a bad idea.
+D	00:15:39.759	00:15:43.990	you can study and enjoy nature at the same time.
+C	00:15:44.000	00:15:47.430	yes, i like the park, too.
+C	00:15:47.440	00:15:51.749	unfortunately, i often need books that are in the library.
+A	00:15:51.759	00:15:53.680	and what about lunch?
+A	00:15:53.680	00:15:57.759	do you usually make sandwiches and take them with you?
+C	00:15:57.759	00:16:01.519	oh no, i hate cooking.
+C	00:16:01.519	00:16:05.680	i usually have lunch in the cafeteria, with friends.
+E	00:16:05.680	00:16:07.839	oh. i do just the opposite.
+E	00:16:07.839	00:16:10.230	i usually cook lunch at home.
+E	00:16:10.240	00:16:13.839	i seldom have a quick lunch at coffee shops.
+A	00:16:13.839	00:16:18.880	okay guys. stop with this boring talk.
+A	00:16:18.880	00:16:21.040	what about fun?
+A	00:16:21.040	00:16:26.749	do any of you do anything besides working and studying?
+A	00:16:27.759	00:16:30.269	it's friday, remember!
+B	00:16:31.279	00:16:33.440	you're right, jack.
+B	00:16:33.440	00:16:35.839	i'm so happy it's friday.
+A	00:16:35.839	00:16:37.990	me too!
+A	00:16:38.000	00:16:40.720	it's weekend time!
+C	00:16:40.720	00:16:42.440	time for shopping!
+
+A	00:16:43.440	00:16:45.269	let me ask you a question, alice?
+C	00:16:45.279	00:16:48.079	sure, ask any question you like, i'm an open book.
+A	00:16:48.079	00:16:50.069	do you have a boyfriend?
+C	00:16:50.079	00:16:57.030	well, i go out with some boys, but that's nothing serious.
+C	00:16:57.040	00:16:59.920	according to my birth chart,
+C	00:16:59.920	00:17:07.110	i need some taurines, but that's not easy now that saturn is in leo.
+A	00:17:07.120	00:17:08.799	i see.
+A	00:17:08.799	00:17:11.909	anyway i think you have a strange relationship with boys.
+C	00:17:11.919	00:17:13.600	oh, no!
+C	00:17:13.600	00:17:16.959	i like boys very much!
+C	00:17:16.959	00:17:19.360	they're great at carrying packages.
+A	00:17:19.360	00:17:21.760	you're exceptional.
+C	00:17:21.760	00:17:23.520	thanks, jack.
+C	00:17:23.520	00:17:27.029	but now stop talking about me.
+C	00:17:27.039	00:17:29.440	let's talk about you.
+C	00:17:29.440	00:17:32.559	what do you think of me?
+C	00:17:32.559	00:17:38.070	no really, i'm curious, what do you do at work?
+A	00:17:38.080	00:17:40.240	oh, nothing special.
+A	00:17:40.240	00:17:42.320	um, you know speedmaster?
+A	00:17:42.320	00:17:43.840	the sported goods factory?
+C	00:17:43.840	00:17:44.559	yeah, sure!
+C	00:17:44.559	00:17:47.039	they produce wonderful running shoes!
+C	00:17:47.039	00:17:48.390	what department do you work in?
+A	00:17:48.400	00:17:50.080	i'm a sales manager.
+A	00:17:50.080	00:17:51.830	last month they gave me a promotion.
+A	00:17:51.840	00:17:53.919	and now i'm responsible for southern europe.
+A	00:17:53.919	00:17:55.510	that's why i moved here.
+C	00:17:55.520	00:17:57.600	wow! that's really interesting.
+C	00:17:57.600	00:17:59.840	you must be very good at work.
+C	00:17:59.840	00:18:01.520	what exactly do you do?
+A	00:18:01.520	00:18:04.400	oh, basically i look for new clients,
+A	00:18:04.400	00:18:08.789	and keep them informed about new product lines, and take care of their requests.
+C	00:18:08.799	00:18:10.400	what kind of requests do they have?
+C	00:18:10.400	00:18:14.400	oh, they often ask questions about new models and prices.
+C	00:18:14.400	00:18:16.110	what do you do if they want a discount?
+A	00:18:17.120	00:18:19.679	well, basically i don't get mad!
+A	00:18:19.679	00:18:23.510	i listen to them, and then i tell them no.
+A	00:18:23.520	00:18:28.310	well, seriously speaking, it depends, each client is different.
+A	00:18:28.320	00:18:29.679	if they're important.
+A	00:18:29.679	00:18:32.470	i try to make an agreement with them.
+A	00:18:32.480	00:18:34.720	hi anne. hi sharon.
+A	00:18:34.720	00:18:35.909	where's peter?
+E	00:18:35.919	00:18:38.880	oh, peter's preparing his audition.
+A	00:18:38.880	00:18:41.520	well tell peter i wish him good luck!
+E	00:18:41.520	00:18:42.549	do you really care?
+A	00:18:42.559	00:18:45.200	oh girls, we're talking about jobs!
+A	00:18:45.200	00:18:48.320	tell me about your job, sharon, what do you do at the moment?
+E	00:18:48.320	00:18:50.630	ah, that's an interesting question.
+A	00:18:50.640	00:18:52.480	really? why do you say that?
+E	00:18:52.480	00:18:57.840	well, you know i have a degree in archaeology but now i'm doing something quite different.
+A	00:18:57.840	00:18:59.750	do you have a part-time job?
+E	00:18:59.760	00:19:01.919	no, unfortunately it's a full-time job.
+E	00:19:01.919	00:19:03.430	i work for a travel agency.
+A	00:19:03.440	00:19:06.000	oh, what do you do?
+E	00:19:06.000	00:19:08.320	i give tours around the city.
+E	00:19:08.320	00:19:13.200	i bring tourists to monuments and museums and other interesting places.
+A	00:19:13.200	00:19:15.200	oh, that's nice!
+A	00:19:15.200	00:19:18.160	could i have you as a tour guide for one day?
+E	00:19:18.160	00:19:21.200	i'm sorry, i only work with groups.
+E	00:19:21.200	00:19:22.870	usually with japanese people.
+A	00:19:22.880	00:19:25.280	oh well, i'm a black belt in karate.
+E	00:19:25.280	00:19:28.480	very funny, but it's not enough.
+A	00:19:28.480	00:19:29.789	it's too bad.
+A	00:19:30.799	00:19:33.360	anne, stop cleaning for a moment!
+A	00:19:33.360	00:19:37.640	sit down and tell me about your job!
+B	00:19:38.640	00:19:40.799	okay okay okay okay.
+B	00:19:40.799	00:19:42.480	i work in a publishing company.
+A	00:19:42.480	00:19:44.950	oh,so you work with famous writers!
+B	00:19:44.960	00:19:52.470	not exactly, um i don't work with the writers i just read their proofs and correct them before printing.
+E	00:19:52.480	00:19:54.559	ah, by the way, do you know paul taylor?
+E	00:19:54.559	00:19:55.669	he works with you, right?
+B	00:19:55.679	00:19:58.240	yes yeah, but we don't work in the same department.
+B	00:19:58.240	00:20:00.480	he works in the advertising department.
+B	00:20:00.480	00:20:02.159	but we are good friends.
+B	00:20:02.159	00:20:04.549	every weekend we play tennis together.
+A	00:20:04.559	00:20:05.760	eh, play tennis?
+A	00:20:05.760	00:20:06.720	i'm jealous!
+B	00:20:06.720	00:20:08.549	do you play tennis, too?
+B	00:20:08.559	00:20:09.840	do you want to play with us?
+A	00:20:09.840	00:20:11.120	well, just joking.
+A	00:20:11.120	00:20:12.870	i don't play tennis that well.
+A	00:20:12.880	00:20:14.880	only karate.
+

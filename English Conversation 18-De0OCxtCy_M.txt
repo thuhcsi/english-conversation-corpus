@@ -1,0 +1,603 @@
+A	00:00:14.920	00:00:15.520	hey!
+A	00:00:17.677	00:00:19.932	do you come to the gym every day?
+B	00:00:20.816	00:00:21.878	no, i can't.
+B	00:00:22.044	00:00:22.806	i have to work.
+B	00:00:23.116	00:00:24.420	so i come on the weekends.
+B	00:00:26.421	00:00:27.372	do you come every day?
+A	00:00:30.003	00:00:33.032	yes, can you lift weight?
+B	00:00:35.840	00:00:37.476	yes, but not very well.
+B	00:00:37.600	00:00:38.327	can you help me?
+
+C	00:00:47.840	00:00:49.460	do you like working out?
+B	00:00:53.920	00:00:54.578	sure.
+C	00:00:56.026	00:00:57.530	can you do aerobics?
+B	00:00:59.553	00:01:00.636	i never tried.
+C	00:01:02.079	00:01:04.693	i can do gymnastics. can you?
+B	00:01:05.467	00:01:07.877	i can't. but my girlfriend can.
+C	00:01:08.720	00:01:10.736	do you do any sports with your girlfriend?
+B	00:01:11.520	00:01:13.902	yes, we both can do karate.
+B	00:01:14.880	00:01:17.710	we practice every weekend.
+
+D	00:01:20.720	00:01:21.884	where do you work out?
+B	00:01:24.080	00:01:27.749	i don't work out at a gym but i do a lot of track and field events.
+D	00:01:27.898	00:01:29.740	hmm, what can you do?
+B	00:01:30.640	00:01:32.080	i can jog a marathon.
+B	00:01:33.520	00:01:35.590	i can run a fifty meter dash, too.
+D	00:01:37.200	00:01:38.588	do you do any other events?
+B	00:01:39.052	00:01:40.640	i do the long jump.
+B	00:01:40.640	00:01:41.880	and i do the high jump.
+D	00:01:42.560	00:01:43.872	i can long jump, too.
+B	00:01:44.768	00:01:47.001	maybe we can practice the long jump together.
+
+C	00:01:48.399	00:01:50.384	can you go swimming with us today?
+E	00:01:50.960	00:01:52.000	no, i can't.
+E	00:01:52.000	00:01:53.833	i have to help my mother.
+C	00:01:54.240	00:01:56.320	can you go swimming with us tomorrow?
+E	00:01:56.640	00:01:59.150	sure. do you go swimming every day?
+C	00:01:59.520	00:02:02.842	no i go swimming on tuesdays and thursdays.
+
+F	00:02:05.064	00:02:06.560	do you like modern climbing?
+D	00:02:06.560	00:02:08.319	sure, i love it.
+D	00:02:08.319	00:02:10.338	i can climb a three hundred meter mountain.
+F	00:02:11.920	00:02:15.136	wow! do you go modern climbing every weekend?
+D	00:02:15.346	00:02:18.585	no, i don't go mountain climbing when it snows.
+D	00:02:18.720	00:02:19.944	do you mountain climb?
+F	00:02:20.879	00:02:22.177	no, i can't.
+F	00:02:22.222	00:02:23.460	but i want to learn.
+
+C	00:02:26.080	00:02:27.727	i did not know that you could dive.
+F	00:02:27.920	00:02:28.733	i can't.
+F	00:02:28.959	00:02:30.560	i am just learning to dive.
+F	00:02:30.668	00:02:31.419	can you dive?
+C	00:02:33.120	00:02:35.886	yes. i can but i'm not very good.
+F	00:02:36.640	00:02:38.716	so do you do any other sports?
+C	00:02:39.200	00:02:40.418	i can play tennis.
+F	00:02:40.879	00:02:41.955	do you play often?
+C	00:02:42.400	00:02:43.920	i can't play very often.
+C	00:02:44.033	00:02:45.526	i have to study every day.
+
+G	00:02:51.040	00:02:51.982	look at this.
+G	00:02:52.319	00:02:54.049	this guy's mountain climbing.
+G	00:02:54.640	00:02:55.939	i cannot do that.
+A	00:02:56.879	00:02:58.858	it's too dangerous.
+A	00:03:00.000	00:03:02.119	do you do any extreme sports?
+G	00:03:02.879	00:03:04.076	i can parasail.
+A	00:03:05.920	00:03:08.553	really? can you skydive?
+G	00:03:09.360	00:03:11.471	no, i cannot skydive.
+G	00:03:12.159	00:03:13.262	i want to learn.
+G	00:03:14.080	00:03:15.529	i cannot hang glide either.
+A	00:03:17.040	00:03:18.834	my boss is working hang glide.
+A	00:03:20.400	00:03:21.229	he loves it.
+
+H	00:03:24.239	00:03:25.743	my brother lives in hawaii.
+H	00:03:26.000	00:03:27.830	he lives on the beach.
+I	00:03:27.840	00:03:29.325	does he like water sports?
+H	00:03:29.519	00:03:31.949	sure. he can swim and surf.
+I	00:03:32.959	00:03:34.068	does he windsurf?
+H	00:03:34.720	00:03:35.715	i'm not sure.
+H	00:03:36.212	00:03:39.053	his wife also loves water sports, she might.
+I	00:03:39.519	00:03:40.959	what does she like?
+H	00:03:41.129	00:03:42.458	she likes water polo.
+H	00:03:43.200	00:03:44.669	she can dive also.
+H	00:03:45.519	00:03:48.390	they both can scuba dive and they do it all the time.
+
+G	00:03:50.400	00:03:51.689	what are you doing this sunday?
+I	00:03:52.480	00:03:53.910	i don't have any plans.
+I	00:03:53.920	00:03:55.840	can we go sailing?
+G	00:03:55.840	00:03:57.173	no, we can't.
+G	00:03:57.680	00:03:59.317	we can't use my sister's boat.
+G	00:03:59.760	00:04:01.373	she's using it on sunday.
+I	00:04:02.159	00:04:04.429	can we go biking or jogging?
+G	00:04:05.439	00:04:07.896	i can't, because my foot still hurts.
+I	00:04:08.720	00:04:10.799	you can go swimming, right?
+G	00:04:10.903	00:04:12.263	yeah, i can do that.
+
+D	00:04:16.000	00:04:17.425	do you have any hobbies?
+C	00:04:18.000	00:04:19.117	i like music.
+C	00:04:19.519	00:04:22.950	i have a large collection of cassette tapes and cds.
+D	00:04:23.152	00:04:23.479	hmm,
+D	00:04:24.479	00:04:25.694	do you go to concerts?
+C	00:04:26.400	00:04:27.839	no, i don't.
+C	00:04:28.080	00:04:30.216	i usually listen to music at home.
+C	00:04:31.040	00:04:32.371	do you have any hobbies?
+D	00:04:33.120	00:04:34.800	i hike in the mountains.
+D	00:04:34.800	00:04:37.103	i go hiking with my brothers every month.
+C	00:04:38.639	00:04:39.911	do you hunt too?
+D	00:04:40.309	00:04:43.205	no, but we go bird watching.
+
+D	00:04:49.919	00:04:51.840	you look tired.
+D	00:04:51.840	00:04:53.830	did you work out?
+A	00:04:54.840	00:04:55.639	yeah.
+D	00:04:56.639	00:04:58.909	do you work out every day?
+A	00:04:59.919	00:05:01.120	no, i don't.
+A	00:05:01.120	00:05:05.600	i work out only on mondays, tuesdays and thursdays.
+A	00:05:05.600	00:05:07.110	do you work out?
+D	00:05:07.120	00:05:09.120	no, i don't.
+D	00:05:09.120	00:05:10.710	i watch movies.
+D	00:05:10.720	00:05:12.479	do you like movies?
+A	00:05:12.479	00:05:14.960	no, i don't.
+A	00:05:14.960	00:05:16.870	but i like music.
+
+D	00:05:18.880	00:05:20.880	what do you do in your free time?
+F	00:05:20.880	00:05:22.870	well i usually do ballet.
+F	00:05:22.880	00:05:26.230	i go to ballet school every tuesday and thursday night.
+D	00:05:26.240	00:05:27.240	do you do anything else?
+F	00:05:28.240	00:05:29.919	i play the guitar.
+F	00:05:29.919	00:05:31.759	sometimes i play the piano.
+F	00:05:31.759	00:05:32.560	what about you?
+F	00:05:32.560	00:05:34.469	do you do anything special?
+D	00:05:34.479	00:05:35.600	i also like music.
+D	00:05:35.600	00:05:37.680	so i play the piano, too.
+D	00:05:37.680	00:05:40.320	on the weekends, i usually go hiking or fishing.
+D	00:05:40.320	00:05:42.230	but i don't go hunting.
+D	00:05:42.240	00:05:45.120	i don't like it.
+
+B	00:05:45.120	00:05:47.919	here, have some pizza.
+C	00:05:47.919	00:05:50.320	um no, thank you.
+C	00:05:50.320	00:05:52.749	i do not like pizza that much.
+B	00:05:55.759	00:05:58.790	well, have some french fries.
+C	00:05:58.800	00:05:59.919	i'm sorry.
+C	00:05:59.919	00:06:03.280	i do not like french fries, either.
+B	00:06:03.280	00:06:06.390	you do not like french fries.
+B	00:06:06.400	00:06:08.960	well, let's see.
+B	00:06:08.960	00:06:11.520	here is a hamburger, try it.
+C	00:06:11.520	00:06:13.990	i do not like hamburgers.
+C	00:06:14.000	00:06:16.870	it's fattening i'm on a diet.
+B	00:06:18.880	00:06:19.960	hmm.
+B	00:06:20.960	00:06:22.909	you do not like pizza.
+B	00:06:23.560	00:06:25.860	you do not like french fries.
+B	00:06:28.080	00:06:29.469	and you do not like hamburgers.
+B	00:06:32.479	00:06:35.440	what do you like?
+C	00:06:35.440	00:06:37.510	i like ice cream.
+
+C	00:06:39.520	00:06:43.120	does your boyfriend spend much time with you?
+C	00:06:43.120	00:06:44.880	mine doesn't.
+C	00:06:44.880	00:06:46.309	he's too busy.
+F	00:06:46.319	00:06:47.520	what does he do?
+C	00:06:47.520	00:06:49.629	he goes to college.
+F	00:06:50.639	00:06:54.070	does he play sports with his friends?
+C	00:06:54.080	00:06:58.629	well, he plays snooker but not very often.
+F	00:06:58.639	00:07:00.880	does he travel a lot?
+C	00:07:00.880	00:07:03.550	no, he doesn't leave town.
+F	00:07:06.560	00:07:09.039	does he study all the time?
+C	00:07:09.039	00:07:11.840	no. he doesn't study too much.
+F	00:07:11.840	00:07:13.350	what does he do then?
+C	00:07:13.360	00:07:15.350	he works two jobs.
+
+F	00:07:19.360	00:07:21.711	do you and your classmate have any hobbies?
+A	00:07:22.479	00:07:29.440	sure. i fish.and jim, my best friend hikes in the forest.
+F	00:07:29.440	00:07:31.240	do you hunt animals?
+A	00:07:32.240	00:07:33.430	no, i don't.
+A	00:07:33.440	00:07:35.120	i don't like to kill animals.
+F	00:07:35.120	00:07:36.039	does jim hunt?
+A	00:07:37.039	00:07:38.880	no, he doesn't.
+F	00:07:38.880	00:07:40.969	what about your other classmates?
+F	00:07:41.360	00:07:43.240	what do they do?
+A	00:07:44.240	00:07:46.710	the guys like to camp.
+A	00:07:46.720	00:07:48.800	they don't camp alone.
+A	00:07:48.800	00:07:50.520	they camp with friends.
+A	00:07:51.520	00:07:53.199	what do you do in your free time?
+F	00:07:53.199	00:07:54.070	i paint.
+F	00:07:54.080	00:07:55.749	i don't fish or hike.
+F	00:07:55.759	00:07:58.749	i don't like outdoors.
+
+A	00:08:05.759	00:08:07.520	where did you go?
+C	00:08:07.520	00:08:10.319	i just finished ballet practice.
+A	00:08:10.319	00:08:12.400	do you do ballet?
+C	00:08:12.400	00:08:16.160	yes. i practice every tuesday and thursday.
+C	00:08:16.160	00:08:17.919	do you do any sports?
+A	00:08:17.919	00:08:19.280	no, i don't.
+A	00:08:19.280	00:08:23.230	i sing karaoke and do magic in my free time.
+C	00:08:24.240	00:08:26.560	does your wife do magic, too?
+A	00:08:26.560	00:08:28.400	no, she doesn't.
+A	00:08:28.400	00:08:31.280	she plays chess and darts.
+A	00:08:31.280	00:08:33.839	what does your husband do in his free time?
+C	00:08:33.839	00:08:36.550	he doesn't practice ballet with me.
+C	00:08:36.560	00:08:38.159	he watches movies.
+C	00:08:38.159	00:08:42.949	in fact he and my children watch movies all the time.
+
+I	00:08:44.959	00:08:45.480	hello?
+G	00:08:46.480	00:08:48.230	hi martin.
+G	00:08:48.240	00:08:50.640	how are things in los angeles?
+I	00:08:50.640	00:08:51.430	just fine!
+I	00:08:51.440	00:08:53.839	i'm having a wonderful time.
+G	00:08:53.839	00:08:55.670	what do you do every day?
+G	00:08:55.680	00:08:59.269	do you shop and visit museums?
+I	00:08:59.279	00:09:02.120	sure. but at night i go out with my friends.
+G	00:09:03.120	00:09:05.440	do you dance at discos?
+I	00:09:05.440	00:09:06.190	sure.
+G	00:09:07.200	00:09:09.600	do you do anything else at night?
+I	00:09:09.600	00:09:13.120	i go to comedy clubs and watch movies.
+G	00:09:13.120	00:09:14.710	do your friends go with you?
+I	00:09:14.720	00:09:15.880	yes.
+G	00:09:16.880	00:09:19.190	do you go to expensive restaurants?
+I	00:09:19.200	00:09:20.560	no, we do not.
+I	00:09:20.560	00:09:22.150	we do not have enough money.
+
+C	00:09:24.160	00:09:27.829	did you know that my uncle is an athlete?
+F	00:09:27.839	00:09:30.160	really? does he train every day?
+C	00:09:30.160	00:09:31.279	not really.
+C	00:09:31.279	00:09:33.600	he trains monday to friday.
+C	00:09:33.600	00:09:36.630	but he does not train on saturdays or sundays.
+C	00:09:36.640	00:09:38.959	he rests on those days.
+F	00:09:38.959	00:09:41.269	what does he eat to stay thin?
+C	00:09:41.279	00:09:43.920	he eats vegetables and lots of fruit.
+C	00:09:43.920	00:09:48.269	but he does not eat hamburgers, candy, ice cream or pizza.
+F	00:09:49.279	00:09:50.800	does he drink beer?
+C	00:09:50.800	00:09:55.120	no, he does not drink beer, coke or anything sweet.
+C	00:09:55.120	00:09:58.670	he only drinks milk and fruit juice.
+
+A	00:10:05.680	00:10:07.200	i'm lost.
+A	00:10:07.200	00:10:09.640	do you know where the bank is?
+J	00:10:10.640	00:10:11.269	yeah.
+J	00:10:13.279	00:10:18.880	turn left here, follow that road about a mile.
+J	00:10:18.880	00:10:21.519	the bank is in the shopping center.
+J	00:10:21.519	00:10:23.269	you can't miss it.
+A	00:10:25.279	00:10:26.800	i don't get it.
+A	00:10:26.800	00:10:31.399	could you repeat it again please?
+J	00:10:32.399	00:10:37.680	turn left at this intersection.
+J	00:10:37.680	00:10:42.160	follow that road for about one mile.
+J	00:10:42.160	00:10:47.030	the bank is in the shopping center.
+A	00:10:51.040	00:10:56.640	so i turn left at this intersection, not the next one.
+J	00:10:56.640	00:10:59.509	that's right.
+A	00:10:59.519	00:11:01.069	thanks.
+
+J	00:11:10.079	00:11:14.069	do you know where the nearest police station is?
+K	00:11:14.079	00:11:19.360	yeah. walk down that street and take the third right.
+K	00:11:19.360	00:11:23.279	then walk past the bank and the supermarket.
+K	00:11:23.279	00:11:25.120	it will be on your right.
+K	00:11:25.120	00:11:27.550	it's next to the laundromat.
+J	00:11:28.560	00:11:40.710	so, i go down and make a right on the third street, then i pass the bank and supermarket.
+J	00:11:40.720	00:11:44.320	and the police station is next to the laundromat.
+K	00:11:44.320	00:11:45.430	that's correct.
+J	00:11:47.440	00:11:49.000	i could probably find it.
+J	00:11:50.000	00:11:51.269	thanks for your time.
+K	00:11:53.279	00:11:55.470	no problem.
+
+K	00:12:00.480	00:12:03.590	can you tell me where the bakery is?
+C	00:12:03.600	00:12:09.519	sure. um turn right here and go down about four blocks then turn left.
+C	00:12:09.519	00:12:10.949	that is warren road.
+C	00:12:10.959	00:12:14.829	go down there and you will see it on the left side of the street.
+K	00:12:15.839	00:12:19.030	i'm sorry, i'm lost.
+K	00:12:19.040	00:12:23.870	can you repeat that?
+C	00:12:24.880	00:12:33.839	turn right, go down this road four blocks then turn left at the intersection of warren road.
+C	00:12:33.839	00:12:39.470	walk down warren road and the bakery is on the left side of the street.
+K	00:12:40.480	00:12:41.920	oh, thanks.
+K	00:12:41.920	00:12:43.269	i got it now.
+C	00:12:45.279	00:12:48.710	if you can't find it, just ask someone.
+K	00:12:48.720	00:12:51.269	thanks, you've been a big help.
+
+K	00:12:53.279	00:12:56.030	excuse me. i'm lost.
+D	00:12:57.040	00:12:58.720	what are you looking for?
+K	00:12:58.720	00:13:00.079	my friend's house.
+K	00:13:00.079	00:13:03.750	he lives at thirty nine zero eight rancliffe road.
+D	00:13:03.760	00:13:05.639	randcliff, oh yes.
+D	00:13:06.639	00:13:11.160	go down this road until you come to the second intersection.
+D	00:13:12.160	00:13:14.320	make a right turn.
+D	00:13:14.320	00:13:19.750	then go down that road to the large intersection and make a left turn.
+D	00:13:19.760	00:13:22.639	randcliff is your first left.
+K	00:13:22.639	00:13:31.040	so if i got it, i go down this street and take a right on the second intersection.
+K	00:13:31.040	00:13:37.200	then keep going until i come to a large intersection and rand cliff is on the right.
+D	00:13:37.200	00:13:43.279	no, make a left turn at the intersection and randcliff will be on your left.
+K	00:13:43.279	00:13:47.949	okay, this has been very helpful. thank you.
+
+A	00:13:50.959	00:13:56.120	oh oh oh.
+A	00:13:57.120	00:13:59.670	i'm sorry to interrupt you.
+A	00:13:59.680	00:14:05.320	but i was wondering how do i get to saint paul's hospital from here?
+C	00:14:06.320	00:14:07.790	it's pretty far.
+C	00:14:08.800	00:14:12.790	drive down this road then make a left at the shopping center.
+C	00:14:12.800	00:14:14.440	that will be warren road.
+A	00:14:15.440	00:14:18.399	do you know the name of the shopping center?
+C	00:14:18.399	00:14:23.760	it is called city plaza.
+A	00:14:23.760	00:14:26.720	thanks, then what do i do?
+C	00:14:26.720	00:14:34.069	well, um, go down warren road for about four miles, then hang a right at rushmore avenue.
+C	00:14:34.079	00:14:39.519	the hospital will be down rushmore about a mile on your left side.
+A	00:14:39.519	00:14:43.150	okay. i think i got it now.
+C	00:14:44.160	00:14:46.470	well, good luck.
+
+D	00:14:50.480	00:14:51.920	oh, excuse me.
+D	00:14:51.920	00:14:52.959	i'm new here.
+D	00:14:52.959	00:14:55.829	is there a bank on the corner of bradley boulevard?
+C	00:14:55.839	00:14:57.199	um, yes.
+C	00:14:57.199	00:15:03.920	um, go along this road until you come to the intersection of bradley and wilson.
+C	00:15:03.920	00:15:05.920	it's at that intersection.
+D	00:15:05.920	00:15:07.680	is it far?
+C	00:15:07.680	00:15:12.310	no. it will take you about three or four minutes to get there.
+D	00:15:12.320	00:15:14.560	thanks, you've been very helpful.
+C	00:15:14.560	00:15:16.670	don't mention it. good luck.
+
+J	00:15:27.680	00:15:29.990	excuse me, but i think i might be lost.
+C	00:15:30.000	00:15:31.189	where are you trying to go?
+J	00:15:35.199	00:15:36.230	to the police station.
+C	00:15:46.240	00:15:49.829	oh! just go down the street and make the second left.
+C	00:15:49.839	00:15:56.040	you will have to walk down that street about a kilometer and the police station is across from robinsons.
+J	00:15:57.040	00:16:02.720	okay, so that's down here and then turn left on the second block.
+J	00:16:02.720	00:16:06.480	and then go down the road about a kilometer and it's opposite of robinsons?
+C	00:16:06.480	00:16:07.030	that's it.
+J	00:16:09.040	00:16:10.670	thanks.
+
+C	00:16:15.680	00:16:18.790	hello tourist office, can i help you?
+J	00:16:18.800	00:16:21.199	yeah what special events do you have today?
+C	00:16:21.199	00:16:24.949	well, we have the marine biology exhibit at the aquarium.
+J	00:16:24.959	00:16:25.920	where is that?
+C	00:16:25.920	00:16:27.470	it's on pasadena boulevard.
+J	00:16:28.480	00:16:30.000	when does the exhibit open?
+C	00:16:30.000	00:16:34.110	it is open from nine to five and the admission is seven dollars, but kids are free.
+J	00:16:35.120	00:16:37.790	good. yeah thanks for your help.
+
+C	00:16:40.800	00:16:41.399	hello!
+C	00:16:42.399	00:16:44.550	how can i help you, sir?
+A	00:16:44.560	00:16:46.279	where do you suggest i go?
+C	00:16:47.279	00:16:49.240	what do you like?
+A	00:16:50.240	00:16:53.990	i really like contemporary art.
+C	00:16:54.000	00:16:57.030	try the national art gallery.
+A	00:16:57.040	00:16:58.399	where is it?
+C	00:16:58.399	00:17:04.150	go down this road then turn left, it's on the right side of the street.
+A	00:17:04.160	00:17:05.429	where do i turn left?
+C	00:17:05.439	00:17:08.160	at los alamos boulevard.
+A	00:17:08.160	00:17:10.079	is it open every day?
+C	00:17:10.079	00:17:15.189	it is open every day except on mondays it closes at six p.m.
+A	00:17:15.199	00:17:17.520	is the admission free?
+C	00:17:17.520	00:17:20.429	it costs four dollars to get in.
+A	00:17:21.439	00:17:22.630	thanks.
+
+D	00:17:24.640	00:17:27.390	where is a good place to take my kids?
+C	00:17:28.400	00:17:31.590	i would suggest the science museum.
+D	00:17:31.600	00:17:32.960	that sounds good.
+D	00:17:32.960	00:17:35.029	how do i get to the science museum?
+C	00:17:35.039	00:17:40.320	take the underground to west end station then go right on bolton road and turn left.
+C	00:17:40.320	00:17:42.400	you can't miss it.
+D	00:17:42.400	00:17:43.990	when do i turn left?
+C	00:17:44.000	00:17:49.600	ah, turn left at the intersection with the national savings bank, at the corner.
+D	00:17:49.600	00:17:51.039	is it free?
+C	00:17:51.039	00:17:55.200	children under twelve are free but it is three ninety for adults.
+C	00:17:55.200	00:17:58.870	there is a good dinosaur collection on exhibit now.
+D	00:17:58.880	00:18:00.799	i'm sure my children will love it.
+D	00:18:00.799	00:18:02.630	thanks for your help.
+
+C	00:18:06.640	00:18:08.240	hello, tourist office.
+C	00:18:08.240	00:18:09.990	may i help you?
+K	00:18:10.000	00:18:18.870	yes. could you tell me some famous places or special events happening in san francisco this weekend?
+C	00:18:18.880	00:18:22.590	would you like something touristy or off the beaten path?
+K	00:18:23.600	00:18:26.630	this is my first trip to san francisco,
+K	00:18:26.640	00:18:30.150	so something touristy would be fine.
+C	00:18:30.160	00:18:36.280	well there is the fisherman's wharf handicraft festival on friday, saturday and sunday.
+K	00:18:37.280	00:18:39.190	that sounds good.
+K	00:18:39.200	00:18:42.310	what is the best way to get there?
+C	00:18:42.320	00:18:44.510	do you want to go by bus?
+K	00:18:45.520	00:18:50.160	sure. what bus takes me to fisherman's wharf?
+C	00:18:50.160	00:18:52.070	the one zero nine will take you there.
+K	00:18:54.080	00:18:56.880	what is there to see?
+C	00:18:56.880	00:19:03.590	well, there is the festival as well as many famous restaurants and shops.
+K	00:19:03.600	00:19:05.360	sounds exciting.
+K	00:19:05.360	00:19:06.400	thanks.
+C	00:19:06.400	00:19:07.350	you're welcome.
+C	00:19:07.360	00:19:09.270	enjoy your stay.
+
+A	00:19:11.280	00:19:12.880	hi, debbie.
+A	00:19:12.880	00:19:14.960	how are things at your new home?
+C	00:19:14.960	00:19:18.070	fine. i really like going to college in new york.
+A	00:19:18.080	00:19:19.840	has the semester begun yet?
+C	00:19:19.840	00:19:22.160	yeah, i'm busy though.
+A	00:19:22.160	00:19:24.400	do you still have time to practice singing?
+C	00:19:24.400	00:19:27.710	sure, i go to college on mondays, wednesdays and fridays.
+A	00:19:28.720	00:19:30.320	only three days?
+C	00:19:30.320	00:19:33.270	yeah, on tuesdays and thursdays i work at a restaurant.
+C	00:19:33.280	00:19:38.070	on saturdays i practice singing and on sundays i clean my apartment.
+A	00:19:38.080	00:19:39.600	when do you have time to study?
+C	00:19:39.600	00:19:41.150	i study every night.
+
+G	00:19:44.160	00:19:46.559	what do you study at school?
+E	00:19:46.559	00:19:51.280	i study math on mondays and i study science on tuesdays.
+G	00:19:51.280	00:19:53.039	do you study english?
+E	00:19:53.039	00:19:55.750	yes, i study english on wednesdays.
+E	00:19:55.760	00:20:00.960	on thursdays i study history and on fridays i study music.
+E	00:20:00.960	00:20:02.190	what do you study?
+G	00:20:03.200	00:20:05.520	my schedule is like yours.
+G	00:20:05.520	00:20:10.630	on mondays i study math and on thursdays i study history.
+G	00:20:10.640	00:20:15.520	but on tuesdays i study english and on wednesdays i study music.
+E	00:20:15.520	00:20:18.230	what do you study on fridays?
+G	00:20:18.240	00:20:20.320	i study science.
+E	00:20:20.320	00:20:22.799	hmm, that's interesting!
+E	00:20:22.799	00:20:25.280	on mondays we both study math.
+E	00:20:25.280	00:20:27.430	we study history on thursdays.
+
+L	00:20:31.440	00:20:34.470	what do you do on saturdays?
+C	00:20:34.480	00:20:37.200	i go to the movies with my sister.
+C	00:20:37.200	00:20:40.799	then i go to the shopping mall with my boyfriend.
+L	00:20:40.799	00:20:42.873	what do you do on sundays?
+C	00:20:43.039	00:20:45.919	i go to the park to exercise.
+C	00:20:45.919	00:20:49.120	later, i go to a disco with my friends.
+L	00:20:49.120	00:20:52.320	what do your friends do on the weekends?
+C	00:20:52.320	00:20:56.070	my friends go to the library and study on saturdays.
+C	00:20:56.080	00:20:58.400	on sundays they go shopping.
+C	00:20:58.400	00:21:01.679	on sunday nights we all go to a disco.
+L	00:21:01.679	00:21:03.840	do you go to parties?
+C	00:21:03.840	00:21:07.950	yes. we go to parties on friday nights.
+
+H	00:21:08.960	00:21:11.120	does your boyfriend like music?
+E	00:21:11.120	00:21:15.520	yes, he listens to rock, jazz and rap every day.
+E	00:21:15.520	00:21:18.789	he also listens to music on the internet.
+H	00:21:18.799	00:21:21.760	does he watch movies or tv?
+E	00:21:21.760	00:21:24.630	on sundays he watches movies with me.
+E	00:21:24.640	00:21:27.600	he watches tv after school.
+E	00:21:27.600	00:21:29.640	i watch tv on the weekends.
+H	00:21:30.640	00:21:32.870	do you listen to music on the internet?
+E	00:21:32.880	00:21:35.200	no, i listen to the radio.
+E	00:21:35.200	00:21:38.590	i listen to country and classical music.
+
+L	00:21:41.600	00:21:45.350	what do you and your friends do at summer camp?
+C	00:21:45.360	00:21:48.480	we get up in the mornings and have breakfast.
+C	00:21:48.480	00:21:49.760	then we jog.
+C	00:21:49.760	00:21:53.414	in the afternoons i swim but my friends dance.
+L	00:21:54.080	00:21:57.110	does your sister go to summer camp with you?
+C	00:21:57.120	00:22:03.029	yes. she jogs with us in the mornings and she swims with me in the afternoons.
+L	00:22:03.039	00:22:06.870	what does your sister do in the evening at summer camp?
+C	00:22:06.880	00:22:10.549	she sings songs and plays the guitar with her friends.
+C	00:22:10.559	00:22:14.870	they watch movies but she only watches comedies.
+
+E	00:22:16.880	00:22:18.640	where does your husband work?
+C	00:22:18.640	00:22:20.390	he works for an airline.
+E	00:22:20.400	00:22:23.039	does he travel to many places?
+C	00:22:23.039	00:22:26.799	sure, every monday morning he flies to los angeles.
+C	00:22:26.799	00:22:29.760	and he returns home on tuesday afternoon.
+E	00:22:29.760	00:22:32.240	does he travel on wednesday, too?
+C	00:22:32.240	00:22:37.280	on wednesday evenings he drives to washington dc and flies to florida.
+C	00:22:37.280	00:22:40.240	he returns home on friday afternoon.
+E	00:22:40.240	00:22:42.549	what does he do on the weekends?
+C	00:22:42.559	00:22:43.840	let's see.
+C	00:22:43.840	00:22:48.230	on saturday mornings, he takes the children to football practice.
+C	00:22:48.240	00:22:51.669	in the afternoons, he plays tennis with his friends.
+E	00:22:51.679	00:22:53.360	what about at night?
+C	00:22:53.360	00:22:57.270	on saturday nights, we all go to watch a basketball game.
+
+H	00:22:59.280	00:23:02.159	do you like living in india?
+E	00:23:02.159	00:23:04.799	yes, but it's very different here.
+E	00:23:04.799	00:23:08.789	i wake up very early every day and clean the house.
+E	00:23:08.799	00:23:11.520	i then cook breakfast for my children.
+E	00:23:11.520	00:23:15.520	my husband takes them to school then he goes to work.
+H	00:23:15.520	00:23:18.480	where does your husband work in india?
+E	00:23:18.480	00:23:20.720	he works for the world bank.
+E	00:23:20.720	00:23:25.029	during the day i shop and study hindi.
+H	00:23:25.039	00:23:26.880	what do you do at night?
+E	00:23:26.880	00:23:29.710	at night we have dinner and watch television.
+
+E	00:23:32.720	00:23:36.789	what are you studying this semester?
+G	00:23:36.799	00:23:39.120	on mondays, i study science.
+G	00:23:39.120	00:23:41.510	on tuesdays, i study history.
+G	00:23:41.520	00:23:46.230	i study english on wednesdays and i study math on thursdays.
+E	00:23:46.240	00:23:48.720	what do you study on fridays?
+G	00:23:48.720	00:23:51.390	i study music on fridays.
+
+A	00:23:58.400	00:24:00.590	what do you do every day?
+C	00:24:03.600	00:24:06.870	every day i wake up early in the morning.
+C	00:24:06.880	00:24:09.510	then i clean the house, i cook breakfast.
+A	00:24:11.520	00:24:15.070	what do you do in the afternoons?
+C	00:24:16.080	00:24:18.310	i jog and swim.
+A	00:24:20.320	00:24:22.960	do you dance?
+C	00:24:22.960	00:24:25.990	i dance in the evening.
+A	00:24:28.000	00:24:30.640	what else do you do in the evening?
+C	00:24:30.640	00:24:36.310	um. i watch tv and have dinner.
+
+A	00:24:46.320	00:24:48.720	do you go shopping on sundays?
+E	00:24:48.720	00:24:51.310	no, i go shopping on saturdays.
+A	00:24:54.320	00:24:56.960	what else do you do on the weekends?
+E	00:24:56.960	00:24:59.990	i go to the library and study on saturdays.
+E	00:25:00.000	00:25:03.430	in the evenings, i hang out with friends and go to the movies.
+A	00:25:05.440	00:25:07.240	what do you like to do on sundays?
+E	00:25:08.240	00:25:10.789	i go to the park.
+
+E	00:25:18.799	00:25:21.269	can you tell me about the house, please?
+G	00:25:21.279	00:25:24.400	sure. it's quite small.
+G	00:25:24.400	00:25:28.159	there's a small living room and kitchen next to it.
+G	00:25:28.159	00:25:31.190	there are two bedrooms and one bathroom.
+E	00:25:31.200	00:25:33.440	is the house furnished?
+G	00:25:33.440	00:25:34.470	a little.
+G	00:25:34.480	00:25:36.390	there's no furniture in the living room,
+G	00:25:36.400	00:25:39.750	but in the kitchen there's a refrigerator and a stove.
+E	00:25:39.760	00:25:41.820	are there any beds in the bedrooms?
+G	00:25:43.200	00:25:47.510	in one bedroom there's a large bed but none in the other.
+E	00:25:47.520	00:25:50.630	is the house one story or two stories?
+G	00:25:50.640	00:25:52.630	it's a one-story house.
+
+A	00:25:54.640	00:25:56.279	can you tell me about the house?
+G	00:25:57.279	00:25:58.630	sure.
+G	00:25:58.640	00:26:05.870	there are two bedrooms, a bathroom, a kitchen and a dining room.
+A	00:26:06.880	00:26:09.360	what are the bedrooms like?
+G	00:26:09.360	00:26:16.480	well, there's a bed, a lamp and a chest of drawers.
+G	00:26:16.480	00:26:19.120	hmm, sounds good.
+G	00:26:19.120	00:26:23.360	in the bathroom there's a toilet and a shower.
+G	00:26:23.360	00:26:24.470	great!
+G	00:26:24.480	00:26:26.269	would you like to see it?
+
+E	00:26:29.279	00:26:32.799	can you tell me a little bit about the room?
+G	00:26:32.799	00:26:35.039	i would love to.
+G	00:26:35.039	00:26:40.149	it is a large room and it is partially furnished.
+E	00:26:40.159	00:26:42.640	is there a bathroom too?
+G	00:26:42.640	00:26:44.070	sure.
+G	00:26:44.080	00:26:50.240	in the bathroom, there is a large bathtub and a toilet.
+E	00:26:50.240	00:26:53.350	are there any windows in the bedroom?
+G	00:26:53.360	00:26:56.789	yes, there are two windows.
+G	00:26:56.799	00:26:59.760	there are also drapes.
+E	00:26:59.760	00:27:02.549	is there any furniture in the bedroom?
+G	00:27:04.559	00:27:07.750	no, there's not any.
+E	00:27:07.760	00:27:10.750	fine. when can i come to see it?
+
+I	00:27:11.760	00:27:14.480	what is the apartment like?
+G	00:27:14.480	00:27:17.200	well, it is completely furnished.
+G	00:27:17.200	00:27:24.960	it has a living room, a large bathroom, a small kitchen and a bedroom.
+I	00:27:24.960	00:27:27.510	what is inside the kitchen?
+G	00:27:27.520	00:27:35.269	the kitchen has a sink, refrigerator, a cabinet for your dishes, and a stove.
+I	00:27:35.279	00:27:38.080	is there an oven inside the kitchen?
+G	00:27:38.080	00:27:40.720	no, it does not have an oven.
+G	00:27:40.720	00:27:43.190	but it does have a microwave.
+I	00:27:43.200	00:27:44.640	i see.
+I	00:27:44.640	00:27:46.350	tell me about the living room.
+G	00:27:47.360	00:27:56.110	the living room has a blue sofa, two large chairs, a coffee table and a tv.
+
+A	00:27:59.120	00:28:01.710	can you describe the place?
+G	00:28:02.720	00:28:11.110	there are two bedrooms, a computer room, a dining room and a kitchen.
+A	00:28:11.120	00:28:13.600	does the house have any bathrooms?
+G	00:28:13.600	00:28:15.919	oh yes, i forgot.
+G	00:28:15.919	00:28:18.470	it has a bathroom in each bedroom.
+A	00:28:20.480	00:28:24.710	wow, does this house have any furniture?
+G	00:28:24.720	00:28:28.510	there's some furniture in the computer room, and the dining room.
+A	00:28:29.520	00:28:32.000	does it have a computer?
+G	00:28:32.000	00:28:34.159	no, it doesn't.
+G	00:28:34.159	00:28:40.470	but it has tv, stereo, a desk and a table.
+
+H	00:28:42.480	00:28:44.000	tell me about it.
+C	00:28:44.000	00:28:45.909	it's a lovely old house.
+C	00:28:45.919	00:28:49.510	when you enter the house, you will see a living room.
+H	00:28:49.520	00:28:52.080	is there any furniture in the living room?
+C	00:28:52.080	00:28:54.720	no, the house is unfurnished.
+C	00:28:54.720	00:28:56.950	next to the living room is a kitchen,
+C	00:28:56.960	00:29:00.549	then between the kitchen and living room is a stairway.
+H	00:29:00.559	00:29:03.750	oh, so there are two floors.
+C	00:29:03.760	00:29:05.600	yes, that's right.
+C	00:29:05.600	00:29:08.399	on the second floor there is a bedroom.
+C	00:29:08.399	00:29:12.240	across from it are a bathroom and a study.
+H	00:29:12.240	00:29:15.200	is there a closet in the bedroom?
+C	00:29:15.200	00:29:17.549	yes, there is.
+
+I	00:29:18.559	00:29:20.320	what's it like?
+C	00:29:20.320	00:29:22.230	it is quite nice.
+C	00:29:22.240	00:29:25.440	near the door is the family room and kitchen.
+I	00:29:27.440	00:29:28.880	i see.
+I	00:29:28.880	00:29:31.110	upstairs are the bedrooms?
+C	00:29:31.120	00:29:35.470	in front of the master bedroom are the stairs and a small bathroom.
+I	00:29:36.480	00:29:38.720	does it have any windows?
+C	00:29:38.720	00:29:44.880	yes, there are two windows in the master bedroom and one in the other bedroom.
+I	00:29:44.880	00:29:45.679	great.
+I	00:29:45.679	00:29:47.990	is there a lamp or closet?
+C	00:29:48.000	00:29:53.919	yes, there is a closet in each bedroom and one near the door.
+
+H	00:29:53.919	00:29:56.070	tell me what the apartment is like.
+C	00:29:56.080	00:29:59.110	it is large and partially furnished.
+H	00:29:59.120	00:30:01.200	is there a kitchen in it?
+C	00:30:01.200	00:30:04.159	yes, but it is quite small.
+C	00:30:04.159	00:30:07.200	there is also a bathroom and a bedroom.
+H	00:30:07.200	00:30:10.470	are there any windows in the bedroom?
+C	00:30:10.480	00:30:13.360	sure, i think there are two.
+H	00:30:13.360	00:30:15.919	is there any furniture in the bedroom?
+C	00:30:15.919	00:30:19.190	there is a bed, but that is all.
+
+I	00:30:21.200	00:30:23.039	what is in the bedroom?
+G	00:30:23.039	00:30:26.039	um, let's see.
+G	00:30:27.039	00:30:33.269	ah yes, there's a bed, a desk, a wardrobe.
+I	00:30:33.279	00:30:37.440	does the rest of the house have any furniture?
+G	00:30:37.440	00:30:42.149	there isn't any in the bathroom but the living room is furnished.
+I	00:30:42.159	00:30:44.799	does the living room have a sofa?
+G	00:30:44.799	00:30:50.880	sure, it has a sofa, three chairs and a coffee table.
+I	00:30:50.880	00:30:54.549	is there a tv in the living room?
+G	00:30:54.559	00:31:00.509	um, sorry, there isn't any.
+
+E	00:31:01.519	00:31:03.840	what is the house like?
+C	00:31:03.840	00:31:06.909	on the first floor there was a kitchen.
+E	00:31:07.919	00:31:10.830	is there a refrigerator in the kitchen?
+C	00:31:11.840	00:31:15.919	yes. and next to the kitchen is a dining room.
+E	00:31:15.919	00:31:18.080	what is upstairs?
+C	00:31:18.080	00:31:21.200	we have two bedrooms and a bathroom.
+E	00:31:21.200	00:31:24.559	is the bathroom in the master bedroom?
+C	00:31:24.559	00:31:29.190	no, it is across the hall from the master bedroom.
+

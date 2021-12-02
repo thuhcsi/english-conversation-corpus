@@ -1,0 +1,540 @@
+A	00:00:01.360	00:00:02.399	good evening ma'am.
+B	00:00:02.399	00:00:04.150	good evening.
+A	00:00:04.160	00:00:05.520	where are you arriving from?
+B	00:00:05.520	00:00:06.710	from london.
+A	00:00:06.720	00:00:08.629	what's the purpose of your visit?
+B	00:00:08.639	00:00:11.280	business. i'm here for a conference.
+A	00:00:11.280	00:00:13.110	how long are you staying in the US?
+B	00:00:13.120	00:00:14.400	a week.
+A	00:00:14.400	00:00:15.920	where are you staying?
+B	00:00:15.920	00:00:19.029	in san francisco at the pacific view hotel.
+A	00:00:19.039	00:00:20.960	do you know anybody here?
+B	00:00:20.960	00:00:22.630	yes. mark ryder.
+A	00:00:22.640	00:00:24.880	is he family or a friend?
+B	00:00:24.880	00:00:28.240	he's a colleague and a friend.
+A	00:00:28.240	00:00:30.000	do you have his phone number?
+B	00:00:30.000	00:00:41.120	yes his... mobile is... four zero five six five five seven one eight two
+A	00:00:41.120	00:00:43.280	is this your first visit to the US?
+B	00:00:43.280	00:00:45.029	yes. it is.
+A	00:00:45.039	00:00:46.719	enjoy your stay in san francisco.
+B	00:00:46.719	00:00:49.670	thank you.
+
+C	00:00:49.680	00:00:50.640	allie! hi.
+B	00:00:50.640	00:00:51.600	hi. mark.
+C	00:00:51.600	00:00:52.709	you look great.
+B	00:00:52.719	00:00:55.199	you too, how are you?
+C	00:00:55.199	00:00:56.960	i'm fine. how was the flight?
+B	00:00:56.960	00:00:58.399	long. eleven hours.
+C	00:00:58.399	00:01:00.079	oh, you must be really tired.
+B	00:01:00.079	00:01:01.600	yes. i couldn't sleep at all.
+B	00:01:01.600	00:01:04.630	the people next to me had a baby with them.
+B	00:01:04.640	00:01:05.680	what's the time here?
+B	00:01:05.680	00:01:06.960	i need to change my watch.
+C	00:01:06.960	00:01:08.390	it's seven in the evening.
+B	00:01:08.400	00:01:10.560	it's three in the morning for me.
+C	00:01:10.560	00:01:14.479	ok. i'm gonna take you right to the hotel and you could rest.
+B	00:01:14.479	00:01:18.560	fine. Hmm. sorry.
+C	00:01:18.560	00:01:20.710	you are gonna love san francisco.
+C	00:01:20.720	00:01:22.149	i'm so pleased you came.
+B	00:01:22.159	00:01:22.799	me too.
+B	00:01:22.799	00:01:24.640	it's great to see you again.
+C	00:01:24.640	00:01:26.159	come on, my car's in the parking lot.
+C	00:01:26.159	00:01:29.109	let's go.
+
+D	00:01:29.119	00:01:30.240	good evening, ma'am.
+D	00:01:30.240	00:01:31.190	how can i help you?
+B	00:01:31.200	00:01:31.840	good evening.
+B	00:01:31.840	00:01:32.960	i have a reservation.
+B	00:01:32.960	00:01:34.390	my name's allison gray.
+B	00:01:34.400	00:01:36.400	i'm here for the mtc conference.
+D	00:01:36.400	00:01:39.040	just a moment.
+D	00:01:39.040	00:01:41.200	uh. here it is miss gray.
+D	00:01:41.200	00:01:42.230	for six nights?
+B	00:01:42.240	00:01:44.799	that's right.
+D	00:01:44.799	00:01:47.510	ok, miss gray.
+D	00:01:47.520	00:01:48.720	here's your key.
+D	00:01:48.720	00:01:51.429	you're in room four one nine on the fourth floor.
+B	00:01:51.439	00:01:52.079	thank you.
+B	00:01:52.079	00:01:53.520	what time is breakfast?
+D	00:01:53.520	00:01:57.200	from seven to nine in the pavilion restaurant on the sixth floor.
+B	00:01:57.200	00:01:58.310	thanks.
+B	00:01:58.320	00:02:00.560	where's the lift?
+D	00:02:00.560	00:02:03.280	the elevators are over there.
+B	00:02:03.280	00:02:03.759	thanks.
+D	00:02:03.759	00:02:05.439	do you need any help with your bag?
+B	00:02:05.439	00:02:10.469	yes, please.
+
+E	00:02:10.479	00:02:11.920	hello reception.
+B	00:02:11.920	00:02:14.150	hello, this is room four one nine.
+E	00:02:14.160	00:02:15.440	how can i help you?
+B	00:02:15.440	00:02:18.150	i have a problem with the air conditioning.
+B	00:02:18.160	00:02:20.879	it isn't working and it's very hot in my room.
+E	00:02:20.879	00:02:21.990	i'm sorry, ma'am.
+E	00:02:22.000	00:02:24.239	i'll send someone up to look at it right now.
+B	00:02:24.239	00:02:27.830	thank you.
+
+F	00:02:27.840	00:02:28.319	room server.
+F	00:02:28.319	00:02:29.040	can i help you?
+B	00:02:29.040	00:02:33.360	hello, this is room four one nine, can i have a tuna sandwich, please?
+E	00:02:33.360	00:02:35.270	whole wheat or white bread?
+B	00:02:35.280	00:02:36.879	whole wheat, please.
+E	00:02:36.879	00:02:38.309	with or without milk?
+B	00:02:38.319	00:02:39.760	without.
+E	00:02:39.760	00:02:41.830	french fries or salad?
+B	00:02:41.840	00:02:43.120	salad, please.
+E	00:02:43.120	00:02:44.480	anything drink?
+B	00:02:44.480	00:02:46.080	yes, a diet coke.
+E	00:02:46.080	00:02:48.070	with ice and lemon?
+B	00:02:48.080	00:02:49.440	just ice.
+E	00:02:49.440	00:02:51.120	Your's be there in five minutes, ma'am.
+B	00:02:51.120	00:02:54.000	thank you.
+C	00:02:54.000	00:02:57.200	here you go allie, a cappuccino see i remembered.
+B	00:02:57.200	00:02:59.350	well done. thanks.
+C	00:02:59.360	00:03:00.400	did you sleep well?
+B	00:03:00.400	00:03:02.000	yes, very well.
+B	00:03:02.000	00:03:04.080	how are things?
+C	00:03:04.080	00:03:05.440	they're fine.
+B	00:03:05.440	00:03:06.959	what are the plans for the week?
+C	00:03:06.959	00:03:08.640	well, today we don't have any free time.
+C	00:03:08.640	00:03:12.560	but tomorrow i'm going to take you to this great little restaurant i know.
+B	00:03:12.560	00:03:13.599	that sounds good.
+C	00:03:13.599	00:03:17.270	and then on wednesday night, there's a cocktail party here at the hotel.
+C	00:03:17.280	00:03:19.910	and then a conference dinner on thursday.
+C	00:03:19.920	00:03:22.239	is there anything special you want to do?
+B	00:03:22.239	00:03:29.920	well i'd like to see the bay and the golden gate bridge and i'd like to go shopping this time.
+F	00:03:29.920	00:03:32.070	hi mark, how are you doing?
+C	00:03:32.080	00:03:33.040	hi brad. i'm fine.
+F	00:03:33.040	00:03:34.799	just fine.
+F	00:03:34.799	00:03:36.949	aren't you going to introduce me?
+C	00:03:36.959	00:03:38.239	oh uh sure.
+C	00:03:38.239	00:03:39.920	allie, this is brad martin.
+C	00:03:39.920	00:03:42.390	brad works in the los angeles office.
+C	00:03:42.400	00:03:45.120	brad, this is allie gray from the london office.
+B	00:03:45.120	00:03:45.670	hello!
+F	00:03:45.680	00:03:46.480	hi allie.
+F	00:03:46.480	00:03:48.480	great to meet you.
+F	00:03:48.480	00:03:53.030	mark told me you were very nice, but he didn't tell me you were so beautiful.
+F	00:03:53.040	00:03:55.120	so, is this your first time in san francisco?
+B	00:03:55.120	00:03:56.789	yes.., yes, it is.
+F	00:03:56.799	00:03:58.640	has mark showing you the sights?
+B	00:03:58.640	00:04:00.000	well, not yet.
+F	00:04:00.000	00:04:02.720	then, maybe i can show you around i love this city.
+C	00:04:02.720	00:04:04.560	oh allie, it's time to go.
+C	00:04:04.560	00:04:06.229	excuse brad.
+F	00:04:06.239	00:04:08.000	well, great to meet you allie.
+F	00:04:08.000	00:04:09.439	see you around.
+B	00:04:09.439	00:04:13.030	yes, nice to meet you, too. goodbye.
+F	00:04:13.040	00:04:15.840	bye.
+
+G	00:04:15.840	00:04:17.590	are you ready to order?
+C	00:04:17.600	00:04:21.199	yes, to start a tomato and mozzarella salad.
+C	00:04:21.199	00:04:22.230	is that right now?
+B	00:04:22.240	00:04:23.199	yes.
+C	00:04:23.199	00:04:25.280	and the mushroom soup for me.
+G	00:04:25.280	00:04:27.040	and for your main course?
+B	00:04:27.040	00:04:28.629	i'll have the fried chicken.
+G	00:04:28.639	00:04:31.040	with french fries or a baked potato?
+B	00:04:31.040	00:04:33.510	a baked potato, please.
+G	00:04:33.520	00:04:34.800	and for you, sir?
+C	00:04:34.800	00:04:37.590	and i'd like the steak with french fries.
+G	00:04:37.600	00:04:40.950	how do you like your steak? rare, medium, well done?
+C	00:04:40.960	00:04:43.040	rare, please?
+G	00:04:43.040	00:04:44.150	and to drink?
+C	00:04:44.160	00:04:50.550	could you bring us the wine list, please?
+G	00:04:50.560	00:04:53.280	chicken for you, ma'am.
+G	00:04:53.280	00:04:55.510	and the steak for you, sir?
+B	00:04:55.520	00:04:58.400	i'm sorry, but i asked for a baked potato not fries.
+G	00:04:58.400	00:04:59.350	no problem.
+G	00:04:59.360	00:05:01.120	i'll change it.
+C	00:05:01.120	00:05:03.510	excuse me!
+G	00:05:03.520	00:05:04.240	yes, sir.
+C	00:05:04.240	00:05:07.189	i asked for my steak rare and this is well done.
+G	00:05:07.199	00:05:08.400	i'm very sorry.
+G	00:05:08.400	00:05:18.629	i'll send it back to the kitchen.
+C	00:05:18.639	00:05:19.759	could we have a check, please?
+G	00:05:19.759	00:05:27.510	yes, sir.
+G	00:05:27.520	00:05:28.160	your check.
+C	00:05:28.160	00:05:30.550	thanks excuse me.
+C	00:05:30.560	00:05:32.310	i think there's a mistake in the check.
+C	00:05:32.320	00:05:35.600	we only had two glasses of wine, not a bottle.
+G	00:05:35.600	00:05:37.430	yes, you're right.
+G	00:05:37.440	00:05:38.960	i'm very sorry.
+G	00:05:38.960	00:05:40.550	it's not my day today.
+G	00:05:40.560	00:05:42.160	i'll get you a new check.
+C	00:05:42.160	00:05:44.950	thank you.
+G	00:05:44.960	00:05:45.919	your check, sir.
+C	00:05:45.919	00:05:49.909	thanks.
+G	00:05:49.919	00:05:51.520	thank you.
+B	00:05:51.520	00:05:52.240	thank you, mark.
+B	00:05:52.240	00:05:53.590	that was a lovely dinner.
+C	00:05:53.600	00:05:56.160	i'm glad you enjoyed it.
+B	00:05:56.160	00:05:57.919	how's your daughter?
+B	00:05:57.919	00:05:59.360	jennifer. she's fine.
+B	00:05:59.360	00:06:01.510	she's with her mother in los angeles.
+B	00:06:01.520	00:06:03.039	mark!
+C	00:06:03.039	00:06:04.080	yeah.
+B	00:06:04.080	00:06:05.270	can i ask you something?
+B	00:06:05.280	00:06:07.199	something personal.
+C	00:06:07.199	00:06:08.469	sure, what?
+B	00:06:08.479	00:06:09.919	how long were you married?
+C	00:06:09.919	00:06:11.430	uh three years.
+B	00:06:11.440	00:06:13.670	why did you break up?
+C	00:06:13.680	00:06:15.680	there were a lot of reasons.
+C	00:06:15.680	00:06:17.749	we were very young when we had jennifer.
+C	00:06:17.759	00:06:19.600	we were both working very hard.
+C	00:06:19.600	00:06:21.270	we didn't spend much time together.
+C	00:06:21.280	00:06:24.240	the usual story.
+C	00:06:24.240	00:06:25.990	what about you, allie?
+B	00:06:26.000	00:06:28.000	well, there was someone.
+B	00:06:28.000	00:06:30.230	i met him when i was at university.
+B	00:06:30.240	00:06:32.560	we were together for two years.
+B	00:06:32.560	00:06:34.240	we broke up.
+C	00:06:34.240	00:06:35.199	why?
+B	00:06:35.199	00:06:46.870	i don't know. usual story.
+C	00:06:46.880	00:06:49.120	thank you.
+C	00:06:49.120	00:06:51.039	listen! oh, it's early.
+C	00:06:51.039	00:06:52.550	it's only nine o'clock.
+C	00:06:52.560	00:06:53.990	shall we go for a walk?
+B	00:06:54.000	00:06:54.720	good idea!
+B	00:06:54.720	00:06:56.160	where should we go?
+C	00:06:56.160	00:06:57.840	there's a place called fisherman's wharf.
+C	00:06:57.840	00:06:59.350	it's right on the bay.
+C	00:06:59.360	00:07:01.280	there are a lot of cafes and bars.
+C	00:07:01.352	00:07:02.863	we could have another cup of coffee.
+B	00:07:03.120	00:07:04.556	fine. let's go.
+
+D	00:07:08.160	00:07:10.160	good morning, ma'am. how can i help you?
+B	00:07:10.160	00:07:12.790	i want to go shopping where's the best place to go?
+D	00:07:12.800	00:07:16.230	well, all the big department stores are around union square.
+B	00:07:16.240	00:07:17.520	can you tell me how to get there?
+D	00:07:17.520	00:07:23.270	yes, of course.
+D	00:07:23.280	00:07:26.000	go out of the hotel and turn left.
+D	00:07:26.000	00:07:29.520	go straight ahead down sutter street, turn left at stockton.
+D	00:07:29.520	00:07:31.749	it's the third street on the left.
+D	00:07:31.759	00:07:33.520	union square will be right in front of you.
+D	00:07:33.520	00:07:34.479	you can't miss it.
+B	00:07:34.479	00:07:40.230	thanks.
+B	00:07:40.240	00:07:46.469	oh... where is it?
+B	00:07:46.479	00:07:47.360	excuse me.
+B	00:07:47.360	00:07:49.589	can you tell me the way to union square?
+F	00:07:49.599	00:07:52.400	hey! don't i know you?
+A	00:07:52.400	00:07:53.990	i don't think so.
+F	00:07:54.000	00:07:57.990	allie, i'm brad.
+F	00:07:58.000	00:08:00.710	brad martin from the los angeles office.
+F	00:08:00.720	00:08:01.759	i'm mark's friend.
+F	00:08:01.759	00:08:05.120	remember? we met yesterday at the hotel.
+B	00:08:05.120	00:08:07.029	oh. yes. that's right, brad.
+B	00:08:07.039	00:08:08.879	i'm so sorry.
+F	00:08:08.879	00:08:11.029	no problem.
+F	00:08:11.039	00:08:12.479	what are you doing here?
+B	00:08:12.479	00:08:13.840	i want to go shopping.
+B	00:08:13.840	00:08:15.430	i'm looking for union square.
+B	00:08:15.440	00:08:17.440	but i'm lost.
+F	00:08:17.440	00:08:18.550	where's mark?
+B	00:08:18.560	00:08:19.759	he's at the hotel.
+B	00:08:19.759	00:08:22.000	he had a meeting, i think.
+F	00:08:22.000	00:08:24.000	listen, allie.
+F	00:08:24.000	00:08:27.360	i'm going to take you for a cup of coffee at delmonico.
+F	00:08:27.360	00:08:31.840	they have the best coffee in san francisco and amazing cookies.
+F	00:08:31.840	00:08:33.990	and i'll walk with you to union square.
+B	00:08:34.000	00:08:35.440	oh, that's really kind of you. are
+B	00:08:35.440	00:08:36.640	you sure?
+F	00:08:36.640	00:08:39.680	absolutely! it's my pleasure.
+B	00:08:39.680	00:08:43.039	ok, great. i'm awful with new cities.
+B	00:08:43.039	00:08:44.880	i always get lost.
+F	00:08:44.880	00:08:56.150	i love your british accent.
+
+H	00:08:56.160	00:08:57.519	can i help you?
+B	00:08:57.519	00:08:59.040	yes, i really like this sweater.
+B	00:08:59.040	00:09:00.630	do you have it in a medium?
+H	00:09:00.640	00:09:06.320	let's see. we have it in red in a medium.
+B	00:09:06.320	00:09:07.910	no, i want it in black.
+H	00:09:07.920	00:09:08.640	just a minute.
+H	00:09:08.640	00:09:16.550	i'll go and check.
+H	00:09:16.560	00:09:18.800	here you are a black medium.
+H	00:09:18.800	00:09:19.829	do you want to try it on?
+B	00:09:19.839	00:09:20.320	no, thanks.
+B	00:09:20.320	00:09:21.360	i'm sure it'll be fine.
+B	00:09:21.360	00:09:22.839	how much is it?
+H	00:09:22.839	00:09:25.030	forty three point thirty eight.
+B	00:09:25.040	00:09:27.279	oh! it says thirty nine point ninty nine.
+H	00:09:27.279	00:09:29.910	yes, but that doesn't include sales tax.
+H	00:09:29.920	00:09:31.920	that's eight point five% extra.
+B	00:09:31.920	00:09:34.399	oh, ok. do you take master card?
+H	00:09:34.399	00:09:40.870	yes, of course.
+H	00:09:40.880	00:09:42.080	can i help you?
+B	00:09:42.080	00:09:45.360	yes, i bought this sweater about half an hour ago.
+H	00:09:45.360	00:09:46.710	yes. i remember.
+H	00:09:46.720	00:09:48.080	is there a problem?
+B	00:09:48.080	00:09:50.070	yes, i've decided it's too big for me.
+H	00:09:50.080	00:09:51.279	what size is it?
+B	00:09:51.279	00:09:52.080	medium.
+H	00:09:52.080	00:09:56.630	so you need a small.
+H	00:09:56.640	00:09:57.920	i don't see one here.
+H	00:09:57.920	00:09:59.519	do you have any more?
+H	00:09:59.519	00:10:06.870	i'll go and check just a minute.
+H	00:10:06.880	00:10:09.519	i'm sorry, but we don't have another one in black.
+B	00:10:09.519	00:10:10.630	oh, dear!
+H	00:10:10.640	00:10:12.000	we can order one for you.
+H	00:10:12.000	00:10:13.360	it'll only take a few days.
+B	00:10:13.360	00:10:15.590	no, i'm leaving on saturday.
+H	00:10:15.600	00:10:17.839	would you like to exchange it for something else?
+B	00:10:17.839	00:10:18.870	not really?
+B	00:10:18.880	00:10:20.079	could i have a refund?
+H	00:10:20.079	00:10:21.040	no problem.
+H	00:10:21.040	00:10:22.310	do you have the receipt?
+B	00:10:22.320	00:10:29.350	yes. here you are.
+C	00:10:29.360	00:10:32.550	allie, you look great as usual.
+C	00:10:32.560	00:10:33.600	how was your morning?
+B	00:10:33.600	00:10:34.560	really good.
+B	00:10:34.560	00:10:35.670	first, i went shopping.
+B	00:10:35.680	00:10:37.430	then i went to the museum of modern art.
+C	00:10:37.440	00:10:38.480	what did you think of it?
+B	00:10:38.480	00:10:39.440	it was wonderful.
+B	00:10:39.440	00:10:42.480	but i didn't have enough time to see it all, never mind.
+C	00:10:42.480	00:10:44.399	maybe next time.
+B	00:10:44.399	00:10:46.560	what a lovely evening.
+F	00:10:46.560	00:10:47.279	hi, allie.
+B	00:10:47.279	00:10:48.880	oh!
+F	00:10:48.880	00:10:50.150	how's the shopping?
+B	00:10:50.160	00:10:51.040	great? thanks.
+F	00:10:51.040	00:10:53.920	hi mark. and did you like the museum?
+F	00:10:53.920	00:10:56.640	i hope you didn't get lost again.
+C	00:10:56.640	00:10:59.040	hey, i didn't know you two were friends already.
+B	00:10:59.040	00:11:00.230	we met this morning.
+B	00:11:00.240	00:11:00.959	i got lost.
+B	00:11:00.959	00:11:04.470	i was trying to find union square and suddenly brad appeared.
+F	00:11:04.480	00:11:07.269	so i took her to my favorite coffee shop.
+C	00:11:07.279	00:11:09.360	allie, what would you like to drink?
+B	00:11:09.360	00:11:10.640	i'd like a cocktail, please.
+B	00:11:10.640	00:11:11.910	a margarita.
+C	00:11:11.920	00:11:12.959	what a good idea!
+C	00:11:12.959	00:11:14.079	i'll have one too.
+F	00:11:14.079	00:11:18.389	mark, could you get us a couple of margaritas?
+C	00:11:18.399	00:11:19.440	so now, i'm the waiter.
+C	00:11:19.440	00:11:21.990	am i?
+F	00:11:22.000	00:11:25.590	so... tell me about the museum, allie?
+F	00:11:25.600	00:11:29.990	what was your favorite painting?
+
+D	00:11:30.000	00:11:31.680	hi how can i help you?
+B	00:11:31.680	00:11:32.959	do you have any painkillers?
+B	00:11:32.959	00:11:33.990	i have a headache.
+D	00:11:34.000	00:11:36.160	i'm sorry. we can't give our guest medicine.
+D	00:11:36.160	00:11:38.230	but we can call a doctor for you if you like.
+B	00:11:38.240	00:11:38.800	no, it's ok.
+B	00:11:38.800	00:11:40.000	i don't need a doctor.
+B	00:11:40.000	00:11:43.200	it's just a cold, but is there a chemist's near the hotel?
+D	00:11:43.200	00:11:44.550	do you mean a pharmacy?
+B	00:11:44.560	00:11:46.480	sorry, that's right a pharmacy.
+D	00:11:46.480	00:11:48.710	sure. there's one right across the street.
+B	00:11:48.720	00:11:49.200	thank you.
+D	00:11:49.200	00:11:53.190	you're welcome.
+I	00:11:53.200	00:11:54.480	good morning, can i help you?
+B	00:11:54.480	00:11:55.440	i have a bad cold.
+B	00:11:55.440	00:11:57.190	do you have something i can take?
+I	00:11:57.200	00:11:58.639	what symptoms do you have?
+B	00:11:58.639	00:12:00.870	i have a headache and a cough.
+I	00:12:00.880	00:12:02.320	do you have a temperature?
+B	00:12:02.320	00:12:03.360	no, i don't think so.
+I	00:12:03.360	00:12:04.629	does your back hurt?
+B	00:12:04.639	00:12:05.360	no.
+I	00:12:05.360	00:12:07.120	are you allergic to any drugs?
+B	00:12:07.120	00:12:09.750	i'm allergic to penicillin.
+I	00:12:09.760	00:12:10.959	no problem.
+I	00:12:10.959	00:12:11.920	these are aspirin.
+I	00:12:11.920	00:12:13.350	these'll make you feel better.
+B	00:12:13.360	00:12:14.959	how many do i have to take?
+I	00:12:14.959	00:12:16.160	two every four hours?
+B	00:12:16.160	00:12:17.430	sorry. how often?
+I	00:12:17.440	00:12:20.470	every four hours if you don't feel better in twenty two hours.
+I	00:12:20.480	00:12:21.920	you should see a doctor.
+B	00:12:21.920	00:12:23.120	ok. thanks.
+B	00:12:23.120	00:12:24.150	how much are they?
+I	00:12:24.160	00:12:27.750	four point seven five please.
+B	00:12:27.760	00:12:28.480	thank you.
+U	00:12:28.480	00:12:33.350	you're welcome.
+
+C	00:12:33.360	00:12:35.360	bless you. are you ok?
+B	00:12:35.360	00:12:36.790	it's just a cold.
+B	00:12:36.800	00:12:40.470	i had a bad headache this morning, but i feel better now.
+C	00:12:40.480	00:12:43.350	listen, i'm really sorry about last night.
+B	00:12:43.360	00:12:44.710	what do you mean?
+C	00:12:44.720	00:12:47.430	at the party. i got kind of angry at brad.
+C	00:12:47.440	00:12:49.190	he was really annoying me.
+B	00:12:49.200	00:12:51.519	oh, i think he's very nice.
+C	00:12:51.519	00:12:55.670	yeah, women always think so.
+B	00:12:55.680	00:12:57.200	don't worry mark.
+B	00:12:57.200	00:13:00.470	brad's not my type.
+C	00:13:00.480	00:13:02.959	so, what is your type, allie?
+B	00:13:02.959	00:13:12.720	you know, what my type is... dark hair, 34$thirty four years old, lives in san francisco.
+C	00:13:12.720	00:13:14.959	listen, tomorrow's your last day.
+C	00:13:14.959	00:13:16.240	i want to do something special.
+C	00:13:16.240	00:13:17.279	what would you like to do?
+B	00:13:17.279	00:13:18.000	i don't mind.
+B	00:13:18.000	00:13:19.200	you choose.
+C	00:13:19.200	00:13:22.480	how about a boat trip around the bay?
+C	00:13:22.480	00:13:23.680	we could do that in the morning.
+C	00:13:23.680	00:13:25.670	and then have a nice dinner in the evening.
+B	00:13:25.680	00:13:28.000	that sounds fantastic!
+C	00:13:28.000	00:13:29.750	it's too bad. you can't stay longer.
+B	00:13:29.760	00:13:31.200	yes. it's a pity!
+B	00:13:31.200	00:13:33.279	this week has gone so quickly.
+B	00:13:33.279	00:13:36.870	i feel i've just arrived and now i'm going home.
+C	00:13:36.880	00:13:43.670	well, i'm gonna make sure tomorrow is a really special day.
+C	00:13:43.680	00:13:46.000	hi, allie.
+C	00:13:46.000	00:13:47.269	how are you feeling today?
+B	00:13:47.279	00:13:48.079	much better.
+C	00:13:48.079	00:13:50.000	oh, good.
+C	00:13:50.000	00:13:52.389	are you going to be warm enough for just that sweater?
+C	00:13:52.399	00:13:54.310	it might be a little cold on the boat.
+B	00:13:54.320	00:13:55.509	i'll be fine.
+B	00:13:55.519	00:13:57.199	are we going to walk to the bay?
+C	00:13:57.199	00:13:58.320	no, it's too far.
+C	00:13:58.320	00:13:59.750	it's better if we get a cab.
+B	00:13:59.760	00:14:01.440	how long does it take by cab?
+C	00:14:01.440	00:14:03.040	about ten minutes?
+B	00:14:03.040	00:14:05.040	and how long is the boat trip?
+C	00:14:05.040	00:14:06.079	i'm not sure.
+C	00:14:06.079	00:14:08.639	i think it's an hour. why?
+B	00:14:08.639	00:14:10.470	well, i have to be back here by one.
+B	00:14:10.480	00:14:12.949	i'm expecting an important phone call.
+C	00:14:12.959	00:14:14.470	not from brad, i hope.
+B	00:14:14.480	00:14:17.360	well... actually... no, of course not.
+B	00:14:17.360	00:14:18.870	from the new york office.
+C	00:14:18.880	00:14:23.750	ok, let's go.
+
+C	00:14:23.760	00:14:24.800	good morning.
+J	00:14:24.800	00:14:26.160	good morning, sir.
+C	00:14:26.160	00:14:27.910	what time does the next boat leave?
+J	00:14:27.920	00:14:29.120	at ten o'clock.
+B	00:14:29.120	00:14:30.230	how long does it take?
+J	00:14:30.240	00:14:31.509	about an hour?
+C	00:14:31.519	00:14:34.000	and where exactly does the boat go.
+J	00:14:34.000	00:14:40.550	it goes under the bridge around angel island and pass alcatraz and then back here.
+B	00:14:40.560	00:14:42.720	can we get anything to eat or drink on the boat?
+J	00:14:42.720	00:14:43.199	yes, ma'am.
+J	00:14:43.199	00:14:44.389	there's a snack bar.
+C	00:14:44.399	00:14:45.920	can i have two tickets, please?
+J	00:14:45.920	00:14:49.040	sure. two adults.
+C	00:14:49.040	00:14:50.560	how much is that?
+J	00:14:50.560	00:14:54.480	that's forty dollars.
+C	00:14:54.480	00:14:55.350	here you are.
+J	00:14:55.360	00:14:56.160	thank you, sir.
+C	00:14:56.160	00:15:03.350	thank you.
+C	00:15:03.360	00:15:05.910	so, what do you think of san francisco?
+B	00:15:05.920	00:15:07.910	it's beautiful, mark i love it.
+C	00:15:07.920	00:15:09.199	better than london?
+B	00:15:09.199	00:15:11.430	not better, different.
+C	00:15:11.440	00:15:13.519	do you think you could live here?
+B	00:15:13.519	00:15:14.790	no, i don't think so.
+C	00:15:14.790	00:15:16.320	why?
+B	00:15:16.320	00:15:18.150	well, it's a long way from london.
+B	00:15:18.160	00:15:20.560	i think i'd miss all my family and friends.
+C	00:15:20.560	00:15:21.670	could you live somewhere else?
+C	00:15:21.680	00:15:23.199	but in europe.
+B	00:15:23.199	00:15:25.839	maybe. why'd you ask?
+C	00:15:25.839	00:15:27.509	oh, no reason, i just wondered.
+K	00:15:27.519	00:15:30.560	on your left you can see the island of alcatraz.
+C	00:15:30.560	00:15:32.800	look! can you see that building.
+C	00:15:32.800	00:15:38.959	that used to be the prison but it was closed in nineteen sixty three it's a museum now.
+B	00:15:38.959	00:15:40.710	where are we going for dinner tonight?
+C	00:15:40.720	00:15:41.680	it's a surprise.
+B	00:15:41.680	00:15:43.670	oh, i'm really looking forward to it.
+C	00:15:43.680	00:15:44.480	me, too.
+B	00:15:44.480	00:15:45.759	i'm cold.
+C	00:15:45.759	00:15:46.870	do you want to borrow my coat?
+B	00:15:46.880	00:15:52.264	no, it's ok,i'm gonna miss you, mark.
+C	00:15:53.839	00:15:54.790	hey, excuse me.
+C	00:15:54.800	00:15:56.560	could you take a photo of us, please?
+K	00:15:56.560	00:16:06.000	sure. are you ready?
+B	00:16:06.000	00:16:06.800	ready.
+K	00:16:06.800	00:16:20.949	say "cheese"
+
+D	00:16:20.959	00:16:22.959	good afternoon, how can i help you?
+B	00:16:22.959	00:16:23.519	hi.
+B	00:16:23.519	00:16:25.749	i'm leaving tomorrow morning very early.
+B	00:16:25.759	00:16:28.399	could you prepare my bill so i can pay this evening?
+D	00:16:28.399	00:16:29.269	of course.
+B	00:16:29.279	00:16:30.880	and could you order me a cab?
+D	00:16:30.880	00:16:32.160	for what time?
+B	00:16:32.160	00:16:35.310	my flight's at nine fifteen. so i have to be at the airport at seven fifteen.
+D	00:16:36.320	00:16:38.150	then you'll need a cab at six o'clock.
+D	00:16:38.160	00:16:39.440	i'll order one for you.
+B	00:16:39.440	00:16:40.000	thanks.
+B	00:16:40.000	00:16:41.910	oh, and has there been a phone call for me?
+D	00:16:41.920	00:16:45.430	oh, yes. there's a message for you.
+D	00:16:45.440	00:16:47.749	can you call this number in new york?
+B	00:16:47.759	00:16:48.639	right. thanks.
+D	00:16:48.639	00:16:51.910	you're welcome.
+L	00:16:51.920	00:16:52.800	hello.
+B	00:16:52.800	00:16:55.350	hello, is that mtc?
+L	00:16:55.360	00:16:56.959	sorry. you've got the wrong number.
+B	00:16:56.959	00:17:01.990	oh, sorry.
+M	00:17:02.000	00:17:03.040	mtc new york.
+M	00:17:03.040	00:17:04.000	how can i help you?
+B	00:17:04.000	00:17:06.630	hello, can i speak to lisa formosa, please?
+M	00:17:06.640	00:17:10.390	just a moment. i'll put you through.
+N	00:17:10.400	00:17:11.280	hello
+B	00:17:11.280	00:17:12.400	hi, is that lisa?
+N	00:17:12.400	00:17:15.280	no, i'm sorry. she's not at a desk right now.
+B	00:17:15.280	00:17:17.029	can i leave a message, please?
+M	00:17:17.039	00:17:19.600	sure tell her allie gray called.
+M	00:17:19.600	00:17:22.710	i'll call back in five minutes.
+L	00:17:22.720	00:17:23.760	mtc new york.
+L	00:17:23.760	00:17:24.959	how can i help you?
+B	00:17:24.959	00:17:25.520	hello. can
+B	00:17:25.520	00:17:26.880	i speak to lisa formosa.
+B	00:17:26.880	00:17:27.750	please?
+B	00:17:27.760	00:17:30.080	just a moment.
+B	00:17:30.080	00:17:31.909	i'm sorry the line's busy.
+B	00:17:31.919	00:17:32.789	do you want to hold?
+B	00:17:32.799	00:17:38.789	ok, i'll hold.
+N	00:17:38.799	00:17:39.760	hello.
+B	00:17:39.760	00:17:41.909	hi lisa, it's allie gray.
+N	00:17:41.919	00:17:44.000	allie, hi how's california?
+B	00:17:44.000	00:17:45.510	great..., great!
+B	00:17:45.520	00:17:48.080	well, is it good news or bad news?
+N	00:17:48.080	00:17:48.799	it's good.
+N	00:17:48.799	00:17:50.320	you've got the job in paris.
+B	00:17:50.320	00:17:51.190	oh, wonderful.
+B	00:17:51.200	00:17:53.830	that's fantastic!
+B	00:17:53.840	00:17:54.880	thanks for everything.
+B	00:17:54.880	00:17:57.110	i've had a great time here.
+C	00:17:57.120	00:18:02.310	cheers... to us.
+C	00:18:02.320	00:18:08.160	allie! we need to talk about the future.
+C	00:18:08.160	00:18:11.120	i mean about our future.
+B	00:18:11.120	00:18:13.270	yes.
+C	00:18:13.280	00:18:16.559	allie, i really think we have a future together.
+C	00:18:16.559	00:18:17.840	i'm serious.
+B	00:18:17.840	00:18:22.710	so am i mark, but the problem is you live here and i live in london.
+C	00:18:22.720	00:18:25.600	we're six thousands miles apart
+C	00:18:25.600	00:18:28.710	maybe that's not going to be a problem.
+C	00:18:28.720	00:18:30.320	i have something to tell you.
+C	00:18:30.320	00:18:32.400	we're not gonna be six thousands miles apart.
+C	00:18:32.400	00:18:35.029	we're only gonna be three hundred miles apart.
+B	00:18:35.039	00:18:36.400	what do you mean?
+C	00:18:36.400	00:18:37.840	you know the new mtc office.
+C	00:18:37.840	00:18:39.760	it's opening in paris next month.
+B	00:18:39.760	00:18:40.559	yes.
+C	00:18:40.559	00:18:42.080	well, i'm going there.
+C	00:18:42.080	00:18:44.070	i'm gonna be the marketing manager.
+C	00:18:44.080	00:18:45.120	isn't that amazing?
+C	00:18:45.120	00:18:47.039	i'll only be an hour away from you.
+B	00:18:47.039	00:18:48.470	you're joking.
+C	00:18:48.480	00:18:51.440	no, i'm serious.
+C	00:18:51.440	00:18:52.310	what's the matter?
+C	00:18:52.320	00:18:53.360	are you pleased?
+C	00:18:53.360	00:18:54.960	you don't look very happy.
+B	00:18:54.960	00:18:56.070	yes, i am happy.
+B	00:18:56.080	00:18:57.600	it's amazing.
+B	00:18:57.600	00:19:00.549	but i have something to tell you, too.
+B	00:19:01.760	00:19:03.750	i'm going to the paris office, too.
+B	00:19:03.760	00:19:05.200	i've just heard.
+B	00:19:05.200	00:19:07.510	that was the phone call i was waiting for
+C	00:19:07.520	00:19:09.909	i don't believe it. that's wonderful.
+C	00:19:09.919	00:19:11.750	we'll be together.
+B	00:19:11.760	00:19:16.960	yes. but there's just one little thing, mark
+C	00:19:16.960	00:19:18.559	what's that?
+B	00:19:18.559	00:19:21.190	i'm going to be the director in paris.
+B	00:19:21.200	00:19:29.160	i'm going to be your boss.
+

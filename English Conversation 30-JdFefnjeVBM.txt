@@ -1,0 +1,256 @@
+A	00:00:02.159	00:00:03.909	where did you say it was?
+B	00:00:03.919	00:00:04.880	this is it. 
+B	00:00:04.880	00:00:06.000	barker street.
+B	00:00:06.000	00:00:08.270	we're looking for number fifty seven.
+B	00:00:15.280	00:00:16.880	what am i gonna to say to him?
+C	00:00:16.880	00:00:17.771	it'll be fine.
+C	00:00:17.780	00:00:18.780	he's your brother.
+A	00:00:19.680	00:00:22.080	so, who's get knock?
+B	00:00:22.080	00:00:23.670	i guess i will.
+B	00:00:23.680	00:00:24.800	i'm so nervous.
+C	00:00:24.800	00:00:25.800	don't worry. 
+C	00:00:25.840	00:00:26.840	we'll be here.
+
+D	00:00:41.280	00:00:41.840	hello.
+B	00:00:41.840	00:00:46.239	hello. i wonder... uh, i'm sorry to bother you.
+B	00:00:46.239	00:00:51.340	i'm looking for... oh, it's very hard to explain.
+D	00:00:51.440	00:00:53.830	perhaps my partner can help you.
+D	00:00:53.840	00:00:55.800	david!
+E	00:01:02.800	00:01:03.700	Anne!
+B	00:01:03.754	00:01:04.705	David!
+E	00:01:08.720	00:01:11.670	so good to see you.
+E	00:01:13.680	00:01:16.000	so ashamed.
+E	00:01:16.000	00:01:17.910	I have been so selfish.
+B	00:01:17.920	00:01:20.230	i'm so glad you're all right. 
+B	00:01:20.237	00:01:21.879	i've been so worried.
+E	00:01:26.799	00:01:29.759	rose,this is my sister, anne.
+D	00:01:29.759	00:01:31.109	your sister!
+E	00:01:31.119	00:01:34.990	Anne, this is my girlfriend, rose.
+D	00:01:38.000	00:01:39.920	you'd better come in.
+D	00:01:39.920	00:01:43.590	david hasn't told me very much about his family.
+E	00:01:43.600	00:01:45.600	i'm so sorry.
+E	00:01:45.600	00:01:48.469	and i feel very bad about not contacting you.
+B	00:01:48.479	00:01:50.000	i just can't believe it.
+B	00:01:50.000	00:01:55.360	i was looking for you, thinking that something terrible must have happened and here you are playing house!
+E	00:01:55.360	00:01:58.709	there's someone you should meet.
+E	00:02:06.719	00:02:09.360	this is our son, sam.
+E	00:02:09.360	00:02:12.239	sam, meet your aunt.
+B	00:02:12.239	00:02:17.030	david,my little brother are father!
+B	00:02:17.040	00:02:19.599	oh, he is beautiful.
+B	00:02:19.599	00:02:21.990	david, why didn't you tell me about rose?
+B	00:02:22.000	00:02:23.830	why didn't you tell me you were a father?
+D	00:02:23.840	00:02:26.309	i think i'd like to know that, too.
+B	00:02:26.319	00:02:28.120	i would have come and helped you.
+E	00:02:29.120	00:02:30.949	it's hard to explain.
+B	00:02:30.959	00:02:33.920	i have some friends outside who helped me find you.
+B	00:02:33.920	00:02:35.840	i think you need to tell us all what happened.
+D	00:02:35.840	00:02:37.750	i'll go and get them.
+B	00:02:41.760	00:02:45.649	i'm an aunt!
+B	00:02:45.649	00:02:47.099	sarah, steve.
+B	00:02:50.400	00:02:54.239	this is my brother, david and his partner, rose.
+B	00:02:54.239	00:02:56.400	and this is my nephew, sam.
+C	00:02:56.400	00:02:57.818	he's gorger!
+E	00:02:57.841	00:03:00.501	i know you,uh you...
+A	00:03:00.239	00:03:02.720	shop at your stall, yeah.
+E	00:03:02.720	00:03:03.760	green apples.
+E	00:03:03.760	00:03:05.349	he always wants green apples.
+A	00:03:05.120	00:03:09.280	that's right,too good memory, david.
+D	00:03:09.280	00:03:11.589	i think you'd better all sit down.
+
+B	00:03:25.599	00:03:26.720	what happened?
+B	00:03:26.720	00:03:28.480	why did you stop writing?
+E	00:03:28.480	00:03:30.309	i started my course in university.
+E	00:03:30.319	00:03:32.879	it was very difficult.
+E	00:03:32.879	00:03:34.949	computer science isn't for me.
+B	00:03:34.959	00:03:36.640	did you fail your exams?
+E	00:03:36.640	00:03:40.159	yes. i let everyone down.
+E	00:03:40.159	00:03:41.390	i just wanted to die.
+E	00:03:42.400	00:03:43.880	dad must be so angry.
+B	00:03:44.080	00:03:45.990	he's just worried about you, david.
+E	00:03:46.000	00:03:47.120	i didn't know what to do.
+E	00:03:47.120	00:03:48.200	i was so confused.
+E	00:03:49.200	00:03:50.799	i had to find a job.
+E	00:03:50.799	00:03:53.149	i couldn't use father's money anymore.
+E	00:03:54.159	00:03:57.218	so, i applied for a job at the markets.
+E	00:03:56.959	00:03:59.360	phil was very kind.
+E	00:03:59.360	00:04:02.949	he agreed to give me a job if i could get a working visa.
+B	00:04:02.959	00:04:04.599	how did you?
+E	00:04:05.599	00:04:07.519	i went home and applied for.
+B	00:04:07.519	00:04:09.840	you mean you went back to singapore?
+E	00:04:09.840	00:04:13.429	yes. i was too ashamed to see anyone.
+E	00:04:15.439	00:04:17.949	i'm such a failure.
+D	00:04:18.959	00:04:20.469	i don't think you're a failure.
+E	00:04:22.479	00:04:27.479	anyway, returned here, i started work.
+E	00:04:28.479	00:04:35.430	i met rose, we moved in together, well, then sam came along.
+A	00:04:37.440	00:04:39.520	it's an amazing story.
+C	00:04:39.520	00:04:42.240	i think it's wonderful.
+E	00:04:42.240	00:04:45.199	mum and dad won't think it's that wonderful.
+B	00:04:45.199	00:04:47.520	they'll be so relieved you're safe.
+B	00:04:47.520	00:04:49.320	we didn't know what to think, david.
+E	00:04:50.320	00:04:51.830	can't i just disappeared?
+E	00:04:51.840	00:04:53.680	you can pretend i don't exist.
+B	00:04:53.680	00:04:55.590	no you should have told me. 
+B	00:04:55.596	00:04:56.537	i could have helped.
+B	00:04:57.120	00:04:59.350	didn't you realize we'd come and look for you?
+E	00:04:59.360	00:05:01.240	i just couldn't face dad.
+B	00:05:02.240	00:05:04.270	you could have told your sister.
+E	00:05:05.280	00:05:07.080	i ought to have told you, anne.
+E	00:05:08.080	00:05:10.450	i should have trusted you.
+E	00:05:10.457	00:05:11.628	i'm so sorry.
+B	00:05:22.160	00:05:23.919	he's so beautiful, david.
+B	00:05:23.919	00:05:26.469	you can't keep him from mum and dad.
+D	00:05:26.479	00:05:28.479	they're flesh and blood, david.
+D	00:05:28.479	00:05:30.469	they're sam's grandparents.
+D	00:05:30.479	00:05:32.639	don't you think they'll want to see him?
+D	00:05:32.639	00:05:34.950	don't you think i want to meet your parents?
+B	00:05:34.960	00:05:36.400	rosie's right, david.
+B	00:05:36.400	00:05:38.629	mum and dad so much want to be grandparents.
+E	00:05:40.639	00:05:42.639	but not like this!
+A	00:05:42.639	00:05:44.550	your secret's out now.
+C	00:05:44.560	00:05:45.776	steve!
+B	00:05:45.929	00:05:47.494	so right, sarah,steve's right.
+B	00:05:48.723	00:05:50.384	i think david knows what he has to do.
+E	00:05:51.100	00:05:53.469	what do you suggest?
+E	00:06:02.479	00:06:04.102	hello mom, it's me, david.
+E	00:06:04.720	00:06:07.360	yeah, i'm okay, i'm all right.
+E	00:06:07.360	00:06:12.720	yep, anne found me,yeah, yeah i'm working.
+E	00:06:12.720	00:06:17.990	um look, i'm so sorry that i didn't call you.
+E	00:06:18.000	00:06:20.070	can you forgive me?
+E	00:06:22.080	00:06:26.550	yeah okay, all right,i love you, too.
+E	00:06:28.560	00:06:33.070	yeah, all right.
+E	00:06:34.246	00:06:36.464	mom's crying. 
+E	00:06:36.522	00:06:38.154	she's gone to get dad.
+E	00:06:38.639	00:06:40.430	he's gonna be so angry.
+E	00:06:43.440	00:06:47.110	hello, dad?
+F	00:06:47.120	00:06:48.319	it's me, david.
+F	00:06:48.319	00:06:50.710	do you realize how worried we've been?
+E	00:06:50.941	00:06:51.594	yes, i...
+F	00:06:51.642	00:06:52.544	you're our son! 
+F	00:06:52.928	00:06:54.474	how could you do this to us?
+E	00:06:54.560	00:06:57.599	i'm sorry for causing you so much worry, dad.
+E	00:06:57.599	00:06:59.360	i thought that you'd be angry.
+E	00:06:59.360	00:07:02.080	that's why i didn't tell you i couldn't study anymore.
+F	00:07:02.080	00:07:03.440	of course i'm angry.
+F	00:07:03.440	00:07:05.589	your mother's been sick with worry.
+F	00:07:05.599	00:07:07.680	but you didn't have to disappear.
+F	00:07:07.971	00:07:09.123	what have you been doing all this time?
+E	00:07:09.114	00:07:10.218	i've been working.
+E	00:07:10.371	00:07:11.514	i work at the market.
+E	00:07:12.720	00:07:15.660	i'm gonna be a partner in the business soon.
+E	00:07:16.160	00:07:18.880	and dad... there's something else.
+E	00:07:18.880	00:07:21.120	i'm with someone.
+E	00:07:21.120	00:07:23.230	and we have a baby boy.
+E	00:07:24.240	00:07:26.720	dad? dad! are you still there?
+F	00:07:26.720	00:07:29.270	did you say you were married?
+E	00:07:29.280	00:07:30.960	not exactly.
+E	00:07:30.960	00:07:32.950	i have a partner.
+E	00:07:32.960	00:07:34.639	her name is rose.
+E	00:07:34.639	00:07:38.440	and we have a son, your grandson.
+E	00:07:39.440	00:07:40.790	dad?
+F	00:07:40.800	00:07:42.160	i'm here, david.
+F	00:07:42.160	00:07:44.080	there's too much to think about.
+F	00:07:44.080	00:07:45.199	i want you to come home.
+E	00:07:45.199	00:07:45.680	but i...
+F	00:07:45.680	00:07:47.270	NO but.
+F	00:07:47.280	00:07:48.879	you need to come home.
+F	00:07:48.879	00:07:52.790	bring her, bring rose and our grandson.
+F	00:07:52.800	00:07:54.639	your mother and i love you.
+F	00:07:54.639	00:07:56.150	we want to see you.
+F	00:07:56.160	00:07:58.240	we want to meet your family.
+E	00:07:58.240	00:08:01.039	goodbye,i'll see you soon.
+E	00:08:01.039	00:08:03.430	yeah, i promise.
+E	00:08:03.440	00:08:04.670	i love you, too.
+
+C	00:08:09.680	00:08:11.759	well,what did they say?
+E	00:08:11.759	00:08:14.390	my mother said she was glad that i'm okay.
+E	00:08:14.400	00:08:17.270	she said she was happy to hear my voice.
+E	00:08:17.280	00:08:19.830	she told me that she's been very worried.
+B	00:08:19.840	00:08:20.960	what about dad?
+B	00:08:20.960	00:08:22.720	what did he say?
+E	00:08:22.720	00:08:28.390	he said he was very angry, but that he forgives me, he told me that he loves me.
+B	00:08:28.400	00:08:29.840	of course he loves you.
+B	00:08:29.840	00:08:31.510	he's your father.
+D	00:08:31.520	00:08:33.200	did he say anything else?
+E	00:08:33.200	00:08:35.990	yes, he asked me to go home.
+E	00:08:36.000	00:08:37.440	he said they want to see us.
+D	00:08:37.440	00:08:38.550	all of us?
+E	00:08:38.560	00:08:40.560	yes, they want to meet you.
+E	00:08:40.560	00:08:41.839	and sam.
+E	00:08:41.839	00:08:44.070	they asked us to go to singapore.
+D	00:08:44.080	00:08:45.200	we can't afford it.
+E	00:08:45.200	00:08:46.800	he's sending us tickets.
+B	00:08:46.800	00:08:47.990	he is.
+B	00:08:48.000	00:08:50.399	he loves you, david,we all do.
+B	00:08:50.399	00:08:52.800	and now there's rose and sam, too.
+D	00:08:52.800	00:08:54.870	i'd love to meet your parents, david.
+D	00:08:54.880	00:08:56.790	and sam wants to meet his grandparents.
+D	00:08:56.800	00:08:58.240	they're our family.
+E	00:08:58.240	00:09:00.310	look, i'm so sorry.
+D	00:09:00.320	00:09:02.399	it's okay,it's all out now.
+D	00:09:02.399	00:09:04.310	we'll go as soon as possible.
+B	00:09:04.320	00:09:05.480	you can come with me.
+A	00:09:06.480	00:09:07.590	what about me?
+A	00:09:07.600	00:09:09.279	i come,too?
+C	00:09:09.279	00:09:12.750	you're not family, steve.
+
+C	00:09:17.760	00:09:19.760	well, you found your brother.
+C	00:09:19.760	00:09:22.310	you've ordered your wine, and tomorrow you're going home.
+B	00:09:22.320	00:09:26.070	yes, sarah, thank you for everything.
+C	00:09:26.080	00:09:28.320	but you'll come back, won't you?
+B	00:09:28.320	00:09:31.350	yes, if the wine sells well, i'll be back soon.
+B	00:09:31.360	00:09:33.949	i feel as if i have a second family here.
+C	00:09:34.959	00:09:37.279	i'd love to come and see you in singapore.
+B	00:09:37.279	00:09:39.350	oh, yes! i'll show you around.
+B	00:09:39.360	00:09:41.120	and you must meet my parents.
+B	00:09:41.120	00:09:42.240	that be great.
+C	00:09:42.240	00:09:45.040	if our business goes well, i'll be able to afford it.
+B	00:09:45.040	00:09:46.949	there's no ifs about it.
+B	00:09:46.959	00:09:48.640	you're a very good agent.
+B	00:09:48.640	00:09:50.949	i'm so happy you're my buyer here.
+A	00:09:50.959	00:09:54.880	if you like, i'll come to singapore with sarah.
+B	00:09:54.880	00:09:56.880	i'd like that very much.
+B	00:09:56.880	00:09:58.949	you can meet my parents, too.
+A	00:09:58.959	00:10:00.640	do you think they'll like me?
+B	00:10:00.640	00:10:02.630	course they'll like you.
+B	00:10:02.640	00:10:05.040	if i like, they'll like.
+C	00:10:05.040	00:10:07.310	i think i'd better leave you two alone.
+C	00:10:08.320	00:10:11.030	ring me if you need help with packing.
+
+A	00:10:19.040	00:10:20.560	i've only just met you.
+A	00:10:20.560	00:10:22.800	and now you're leaving.
+B	00:10:22.800	00:10:26.470	but i'll come back if you want me to.
+B	00:10:34.480	00:10:36.310	well, i guess this is it.
+B	00:10:38.320	00:10:40.480	sarah, thank you so much for all your help.
+B	00:10:40.480	00:10:41.670	and for your kindness.
+C	00:10:41.680	00:10:43.680	please, don't mention it.
+C	00:10:43.680	00:10:46.240	and thank you for trusting me to be your business partner.
+B	00:10:46.240	00:10:49.670	and my friend i'll be thinking of you all the time.
+E	00:10:49.680	00:10:51.360	i wanted to thank you too, sarah.
+E	00:10:51.360	00:10:55.600	for being so kind to my sister, and looking after her so well.
+E	00:10:55.600	00:10:56.870	i'll be thinking of you, too.
+C	00:10:56.880	00:10:58.160	thank you.
+C	00:10:58.160	00:11:00.389	it was great to meet you.
+C	00:11:00.399	00:11:02.160	you too, rose.
+C	00:11:02.160	00:11:04.790	and i hope everything goes well in singapore.
+D	00:11:04.800	00:11:07.120	i'm looking forward to meeting david's parents.
+D	00:11:07.120	00:11:08.150	i hope they like me.
+C	00:11:08.160	00:11:09.920	i'm sure they will.
+C	00:11:09.920	00:11:12.630	i'll be expecting a postcard from you, anne.
+C	00:11:12.640	00:11:14.480	so you better send me one.
+A	00:11:14.480	00:11:16.870	and i'll be waiting for a postcard, too.
+B	00:11:16.880	00:11:19.120	i'll be counting the days until you come to singapore.
+G	00:11:19.282	00:11:20.242	attention please!
+G	00:11:20.000	00:11:25.350	this is the final call for singapore airlines flight four five two direct to singapore.
+G	00:11:25.360	00:11:29.120	could all passengers for this flight go immediately to get lounge three.
+B	00:11:29.120	00:11:30.959	goodbye. see you soon.
+C	00:11:30.959	00:11:32.190	goodbye.
+A	00:11:33.481	00:11:34.326	see you soon.
+C	00:11:37.360	00:11:39.440	oh goodbye, rose. good luck.
+C	00:11:39.440	00:11:41.030	you too, david.
+C	00:11:41.040	00:11:41.839	bye.
+E	00:11:41.839	00:11:42.720	see ya!
+C	00:11:42.720	00:11:44.079	bye.
+H	00:11:44.079	00:11:45.750	wait! i found him.
+H	00:11:45.760	00:11:47.509	i've found the brother!
+A	00:11:49.519	00:11:51.970	another one?
+

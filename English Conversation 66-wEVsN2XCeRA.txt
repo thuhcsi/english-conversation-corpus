@@ -1,0 +1,343 @@
+A	00:00:03.439	00:00:04.789	hi, sharon.
+A	00:00:04.799	00:00:06.240	have a seat.
+B	00:00:06.240	00:00:07.279	thanks, anne.
+A	00:00:07.279	00:00:09.190	it's almost ready.
+B	00:00:09.200	00:00:10.960	what's for brunch?
+B	00:00:10.960	00:00:12.390	oh, no, pasta!
+B	00:00:12.221	00:00:13.582	you can't pasta!
+B	00:00:13.440	00:00:14.880	i'm trying to lose weight!
+A	00:00:14.880	00:00:16.160	relax, dear.
+A	00:00:16.160	00:00:17.920	it's sunday.
+A	00:00:17.920	00:00:20.960	here, try some.
+A	00:00:20.960	00:00:22.390	what about salt?
+B	00:00:22.400	00:00:25.039	good, i guess i can eat it this time.
+B	00:00:25.039	00:00:26.870	the salt is okay.
+A	00:00:26.880	00:00:28.199	do you like cooking?
+A	00:00:29.199	00:00:31.509	why don't you cook lunch for us sometime?
+B	00:00:31.519	00:00:36.640	i love cooking, but it takes time and i can't cook every day.
+A	00:00:36.640	00:00:44.310	well, cooking's not my favorite hobby, but i'm the only one who knows how to cook in this flat.
+B	00:00:44.320	00:00:46.000	i can imagine.
+B	00:00:46.000	00:00:48.150	i really love baking cakes.
+A	00:00:48.160	00:00:50.160	hmm, that's true!
+A	00:00:50.160	00:00:53.520	i remember now, and i love your cakes!
+B	00:00:53.520	00:00:54.719	thanks, anne.
+B	00:00:54.719	00:00:56.979	but cooking isn't my only hobby.
+B	00:00:56.979	00:01:00.470	i love going to the cinema and reading as well.
+B	00:01:00.480	00:01:05.830	i love being busy, so i don't have time to think too much.
+A	00:01:05.840	00:01:07.799	think about what?
+B	00:01:08.799	00:01:10.429	about what's missing in my life.
+B	00:01:11.439	00:01:13.240	but let's talk about something else.
+A	00:01:14.240	00:01:18.630	so, if you like movies, there's a good film on at the cinema tonight.
+A	00:01:18.640	00:01:19.759	how about going together?
+B	00:01:19.759	00:01:23.240	that's a good idea, let's ask jack, too.
+
+C	00:01:24.240	00:01:26.560	hi, jack. good morning.
+C	00:01:26.560	00:01:29.749	look at this picture of beck nicholson windsurfing.
+D	00:01:29.759	00:01:31.119	i know him.
+D	00:01:31.119	00:01:32.320	can you windsurf?
+C	00:01:32.320	00:01:34.159	yes, i'm not great.
+C	00:01:34.159	00:01:35.920	but i can windsurf a little.
+C	00:01:35.920	00:01:38.710	i like windsurfing on summer holidays.
+C	00:01:38.720	00:01:39.510	and what about you?
+D	00:01:39.520	00:01:41.119	no, i'm afraid i can't.
+D	00:01:41.119	00:01:42.789	but i can swim pretty well.
+C	00:01:42.799	00:01:44.560	it's a great sport!
+C	00:01:44.560	00:01:46.389	what sports do you like doing?
+D	00:01:46.399	00:01:49.510	well, i can play tennis but i'm not very good at it.
+D	00:01:49.520	00:01:51.439	oh i can play chess very well.
+C	00:01:51.439	00:01:53.429	chess? that's not a sport!
+C	00:01:53.439	00:01:54.240	that's a hobby!
+D	00:01:54.240	00:01:56.240	oh, it's a sport.
+D	00:01:56.240	00:01:57.270	can you play chess?
+C	00:01:57.280	00:02:01.429	no, i don't like playing cards, chess or other table games.
+D	00:02:01.439	00:02:03.200	so what do you do during the winter?
+C	00:02:03.200	00:02:04.399	well, i go to the gym.
+D	00:02:04.399	00:02:04.799	oh.
+C	00:02:04.799	00:02:07.270	i can play basketball pretty well.
+C	00:02:07.280	00:02:09.039	i can also do a little karate.
+D	00:02:09.039	00:02:10.720	that's interesting.
+D	00:02:10.720	00:02:13.869	i can do a little karate as well!
+D	00:02:14.879	00:02:16.000	where do you go?
+C	00:02:16.000	00:02:18.710	i like going to the karate gym on forteen street.
+D	00:02:18.720	00:02:20.319	oh, interesting.
+D	00:02:20.319	00:02:22.070	i'm looking for a gym.
+D	00:02:22.080	00:02:23.920	why don't we go there together?
+D	00:02:23.920	00:02:25.670	i'm usually free on saturdays.
+C	00:02:25.680	00:02:29.830	sure, but i never go on saturday.
+C	00:02:29.840	00:02:33.509	it's the only day i have to spend time with sharon.
+C	00:02:33.519	00:02:35.519	i usually go on friday afternoons.
+C	00:02:35.519	00:02:37.120	but now i'm so nervous about my audition.
+C	00:02:37.120	00:02:41.200	i don't have time for the gym, and for sharon, too.
+C	00:02:41.200	00:02:43.760	she's getting pretty angry.
+D	00:02:43.760	00:02:47.519	well, if you want i could take her out sometimes.
+C	00:02:47.519	00:02:49.920	ah, jack, you're such a good friend!
+C	00:02:49.920	00:02:51.750	maybe you can help me with my audition, too!
+D	00:02:51.760	00:02:52.400	all right.
+
+D	00:02:54.400	00:02:58.990	hi, sharon, how are you?
+D	00:03:00.000	00:03:02.239	i'm fine, too.
+D	00:03:02.239	00:03:03.470	well, i'm alone.
+D	00:03:04.480	00:03:07.509	anne is out for a business meeting.
+D	00:03:07.519	00:03:10.000	oh, peter is too?
+D	00:03:10.000	00:03:12.149	oh, he's at an audition?
+D	00:03:12.159	00:03:13.920	today?
+D	00:03:13.920	00:03:17.430	well, why don't we have lunch together?
+D	00:03:19.440	00:03:22.550	now! yes!
+D	00:03:22.560	00:03:25.030	yes! no, something simple.
+D	00:03:27.040	00:03:31.149	okay! great!
+E	00:03:38.159	00:03:38.720	hi, jack.
+E	00:03:38.720	00:03:39.440	what's up?
+D	00:03:39.440	00:03:42.789	oh, you're here.
+D	00:03:42.799	00:03:45.840	um, i'm preparing lunch.
+D	00:03:45.840	00:03:48.080	anne is out and sharon is coming.
+E	00:03:48.080	00:03:50.110	great, i'm hungry.
+B	00:03:59.120	00:04:00.480	hi, jack.
+D	00:04:00.480	00:04:01.949	hi.
+D	00:04:02.959	00:04:04.720	alice is here.
+B	00:04:04.720	00:04:06.630	yeah, she's in her room.
+D	00:04:06.640	00:04:09.750	i'm sorry about that.
+D	00:04:09.760	00:04:16.000	i would like to be alone with you, but you know.
+B	00:04:16.000	00:04:18.320	yeah, i know.
+D	00:04:18.320	00:04:21.280	okay, sharon. i'm the cook.
+D	00:04:21.280	00:04:22.870	what would you like?
+E	00:04:22.880	00:04:24.680	why don't you cook some pasta?
+B	00:04:25.280	00:04:26.080	sounds good.
+B	00:04:26.080	00:04:27.520	what kind of pasta do you have?
+D	00:04:27.520	00:04:31.120	well, we have macaroni, uh spaghetti.
+E	00:04:31.120	00:04:33.030	let's have lasagna!
+B	00:04:33.040	00:04:35.040	that's too much work.
+B	00:04:35.040	00:04:36.199	shall we have spaghetti?
+D	00:04:37.199	00:04:38.639	great, excellent.
+D	00:04:38.639	00:04:41.280	with... spaghetti with meat sauce?
+E	00:04:41.280	00:04:45.350	great! and how about having some wine with lunch?
+D	00:04:45.360	00:04:51.280	oh, it's the middle of the day, i have to work later, let's just have some mineral water.
+B	00:04:51.280	00:04:53.590	fine, mineral water it is.
+B	00:04:53.600	00:04:55.840	and what about a salad, too?
+B	00:04:55.840	00:04:58.639	a nice green salad with tomatoes and onions?
+D	00:04:58.639	00:05:00.880	your wish is my command!
+E	00:05:00.880	00:05:02.960	and about my wish?
+E	00:05:02.960	00:05:04.870	i want wine!
+D	00:05:04.880	00:05:09.029	well, here's some red wine for you.
+E	00:05:09.039	00:05:12.550	thanks, and do we have any rolls?
+D	00:05:12.560	00:05:15.360	no, but there's a loaf of bread.
+E	00:05:15.360	00:05:17.909	great, we're set!
+
+E	00:05:21.919	00:05:23.160	what's on tonight?
+A	00:05:24.160	00:05:26.680	um, just a moment.
+A	00:05:27.680	00:05:30.320	can you hand me the tv guide?
+D	00:05:30.320	00:05:31.909	here you are.
+D	00:05:33.919	00:05:36.000	what would you like to watch?
+A	00:05:36.000	00:05:38.400	let's watch a documentary.
+E	00:05:38.400	00:05:41.120	ah, documentaries are boring.
+E	00:05:41.120	00:05:43.440	why don't we watch l.a kids?
+D	00:05:43.440	00:05:48.550	please, more soap operas, i can't stand soap operas.
+A	00:05:50.560	00:05:54.880	how about watching the news?
+D	00:05:54.880	00:05:59.749	fine, let's watch the news and then maybe a film.
+A	00:05:59.759	00:06:02.870	right! that's a good compromise.
+E	00:06:02.880	00:06:05.360	shall we make something to eat?
+A	00:06:05.360	00:06:07.029	what would you like?
+E	00:06:07.039	00:06:09.919	how about some sandwiches?
+E	00:06:09.919	00:06:13.039	tuna fish sandwiches?
+A	00:06:13.039	00:06:15.840	okay, tuna fish sandwiches.
+D	00:06:15.840	00:06:18.790	why don't you go and prepare them for all of us?
+E	00:06:18.800	00:06:21.830	all right, it's my turn now.
+A	00:06:21.840	00:06:22.000	why?
+A	00:06:24.000	00:06:25.350	what do you mean?
+E	00:06:25.360	00:06:30.629	we had lunch with sharon today and jack was the cook.
+A	00:06:30.639	00:06:31.670	oh.
+A	00:06:33.680	00:06:35.600	what a piece of news.
+E	00:06:35.600	00:06:37.110	and what would you like to drink?
+D	00:06:37.120	00:06:39.600	let's have a beer.
+A	00:06:39.600	00:06:45.189	great. we've got some good lager in the fridge.
+D	00:06:45.199	00:06:48.350	tv, sandwiches and a beer. paradise!
+C	00:06:51.360	00:06:52.639	hello everybody!
+D	00:06:52.639	00:06:54.319	hi, peter.
+D	00:06:54.319	00:06:56.160	enjoy paradise.
+C	00:06:56.160	00:06:58.629	guys, great news today!
+A	00:06:58.639	00:07:02.550	oh right! the audition!
+A	00:07:02.560	00:07:05.120	so? have you got the part?
+C	00:07:05.120	00:07:06.800	well, yes and no.
+C	00:07:06.800	00:07:09.350	i mean, they want to see me for a second call!
+E	00:07:09.360	00:07:10.639	oh, great!
+E	00:07:10.639	00:07:11.840	let's celebrate it!
+A	00:07:11.840	00:07:15.599	oh, wait, wait! don't move!
+A	00:07:15.599	00:07:16.870	napkins!
+C	00:07:16.880	00:07:19.440	oh guys, what about my celebration?
+A	00:07:19.440	00:07:21.440	oh, shut up! peter!
+D	00:07:21.440	00:07:24.160	okay, okay, fast! we're losing it.
+A	00:07:24.160	00:07:29.919	oh, please, don't be stupid, this is a serious problem!
+E	00:07:29.919	00:07:33.759	how about having some pizza?
+D	00:07:33.759	00:07:34.790	great idea!
+C	00:07:34.800	00:07:36.140	let's go!
+A	00:07:39.919	00:07:42.080	food! food! food!
+A	00:07:42.080	00:07:44.950	all they think about is food!
+
+A	00:07:54.960	00:07:57.199	hi, alice.
+A	00:07:57.199	00:07:58.589	what are you doing?
+E	00:07:59.599	00:08:04.469	i'm just relaxing a bit, watching some tv.
+A	00:08:04.479	00:08:05.919	what's on?
+E	00:08:05.919	00:08:08.550	i'm watching the news.
+A	00:08:08.560	00:08:11.990	so, what's happening in the world?
+E	00:08:12.000	00:08:17.589	the usual: politicians are trying to pretend they know what they are doing!
+A	00:08:17.599	00:08:21.270	alice, you are such a skeptic!
+E	00:08:21.280	00:08:23.869	that's the way i am.
+A	00:08:26.879	00:08:28.960	what's that?
+E	00:08:28.960	00:08:31.189	it's a book i'm reading.
+A	00:08:31.199	00:08:33.519	what's it about?
+E	00:08:33.519	00:08:41.110	it's a story about a woman, a young woman, who can't stand her father.
+A	00:08:41.120	00:08:43.200	that sounds interesting.
+E	00:08:43.200	00:08:46.910	yes, it's not that bad.
+A	00:08:49.040	00:08:52.790	alice, what's wrong?
+A	00:08:52.800	00:08:54.640	do you want to talk about it?
+E	00:08:54.640	00:08:57.030	no, i'm so tired now.
+E	00:08:57.040	00:08:58.959	i'm going to bed.
+E	00:08:58.959	00:09:01.829	good night.
+A	00:09:03.839	00:09:05.470	night.
+
+A	00:09:20.480	00:09:22.560	what are you doing?
+D	00:09:22.560	00:09:28.269	i'm connecting to the internet because i need to send an email.
+A	00:09:31.279	00:09:34.240	who are you sending an email to?
+D	00:09:34.240	00:09:37.040	to my boss in america.
+D	00:09:37.040	00:09:40.070	he needs the weekly report immediately.
+A	00:09:42.080	00:09:44.160	why?
+D	00:09:44.160	00:09:50.509	because he has a meeting with the shareholders tomorrow morning.
+A	00:09:53.519	00:09:56.710	what's happening with the laptop?
+D	00:09:56.720	00:10:01.030	the internet connection isn't working very well.
+A	00:10:01.040	00:10:04.279	sometimes it happens with my computer, too.
+D	00:10:05.279	00:10:06.440	do you have a suggestion?
+A	00:10:08.800	00:10:11.550	usually peter lends me his computer.
+D	00:10:16.560	00:10:18.640	is peter at home?
+A	00:10:18.640	00:10:20.550	no, i think there's only sharon.
+D	00:10:24.560	00:10:28.269	okay, i'm going anyway.
+
+E	00:10:31.279	00:10:34.240	yes, i am listening to you!
+E	00:10:34.240	00:10:36.560	yes, i'm listening.
+D	00:10:36.560	00:10:38.470	who is she talking to?
+A	00:10:38.480	00:10:40.640	um, i don't know.
+A	00:10:40.640	00:10:42.069	i guess it's her father.
+E	00:10:42.079	00:10:43.360	just a moment.
+E	00:10:43.360	00:10:44.399	what do you want?
+D	00:10:44.399	00:10:47.360	nothing. it's four o'clock in the morning.
+A	00:10:48.160	00:10:50.150	is everything all right, alice?
+E	00:10:50.160	00:10:52.959	it's none of your business!
+D	00:10:52.959	00:10:54.470	excuse us!
+D	00:10:54.480	00:10:56.320	sorry to interrupt.
+E	00:10:56.320	00:11:01.030	listen, i know it's late, i'm sorry, but i'm talking to my father.
+E	00:11:01.040	00:11:05.750	he's in boston now. it's nine o'clock there!
+D	00:11:07.760	00:11:08.320	what?
+A	00:11:10.320	00:11:13.110	what do you want?
+D	00:11:15.120	00:11:18.269	i'm not tired anymore.
+A	00:11:19.279	00:11:20.790	neither am i.
+A	00:11:22.800	00:11:25.440	what about eating something?
+D	00:11:25.440	00:11:27.750	i don't know.
+D	00:11:29.760	00:11:32.150	i'm not really hungry.
+D	00:11:34.160	00:11:38.150	i'm going on the internet to chat with a friend in italy.
+D	00:11:38.160	00:11:41.670	would you like to join me?
+A	00:11:41.680	00:11:44.590	now that i'm not sleeping anymore.
+D	00:11:45.600	00:11:48.240	would you like to see him?
+A	00:11:48.240	00:11:49.509	how?
+D	00:11:49.519	00:11:52.910	i have pictures of him on my computer.
+D	00:11:53.920	00:11:55.680	and you know what?
+D	00:11:55.680	00:11:58.880	he can see you too, with the webcam.
+A	00:11:58.880	00:11:59.760	what?
+A	00:11:59.760	00:12:01.509	oh my gosh!
+A	00:12:01.519	00:12:02.959	no, please!
+A	00:12:02.959	00:12:05.110	i'm horrible now.
+D	00:12:05.360	00:12:07.120	no, you're not.
+D	00:12:07.120	00:12:10.920	and besides, he might be interested...
+A	00:12:11.920	00:12:13.990	why?
+A	00:12:14.000	00:12:15.150	do you think i need a boyfriend?
+
+A	00:12:24.160	00:12:25.839	fine.
+A	00:12:25.839	00:12:28.949	i'm looking forward to seeing you.
+A	00:12:28.959	00:12:29.389	bye-bye.
+A	00:12:32.399	00:12:34.639	oh my god!
+A	00:12:34.639	00:12:38.160	okay guys, don't panic!
+E	00:12:38.160	00:12:39.190	what?
+A	00:12:39.200	00:12:42.800	we have to be strong, and try to keep calm!
+D	00:12:42.800	00:12:44.160	what are you talking about?
+A	00:12:44.160	00:12:47.430	she's coming, tomorrow morning!
+D	00:12:47.440	00:12:47.760	who?
+D	00:12:47.760	00:12:49.040	for god's sake?
+A	00:12:49.040	00:12:50.399	aunt mary!
+A	00:12:50.399	00:12:52.150	the owner of the flat!
+E	00:12:52.160	00:12:52.959	so what?
+D	00:12:52.959	00:12:53.920	you're auntie!
+E	00:12:53.920	00:12:55.829	what's so terrible about her?
+A	00:12:55.839	00:13:02.079	let me explain: imagine me in fifty years.
+E	00:13:02.079	00:13:08.160	you mean, you old, with your manias, your cleaning obsessions?
+E	00:13:08.160	00:13:10.160	oh my god!
+E	00:13:10.160	00:13:12.870	okay, okay, don't panic.
+D	00:13:12.880	00:13:15.839	so what do we have to do?
+A	00:13:15.839	00:13:17.990	let me see.
+A	00:13:18.000	00:13:20.230	what do you have scheduled for today?
+E	00:13:20.240	00:13:21.990	well, today is a busy day!
+E	00:13:22.000	00:13:24.240	i have to finish my painting!
+A	00:13:24.240	00:13:25.910	no way!
+A	00:13:25.920	00:13:32.160	painting means brushes, colors, dirt and mess everywhere!
+D	00:13:32.160	00:13:35.680	as for me, let's check my date book.
+E	00:13:35.680	00:13:36.870	date book?
+E	00:13:36.880	00:13:38.320	i don't believe it.
+E	00:13:38.320	00:13:40.949	you mean you don't have a pda?
+D	00:13:40.959	00:13:42.480	please, alice.
+D	00:13:42.480	00:13:47.040	i have a program on my laptop, i don't need a pda as well.
+E	00:13:47.040	00:13:49.199	i'm just surprised, that's all.
+E	00:13:49.199	00:13:52.079	you're usually highly technological.
+D	00:13:52.079	00:13:54.160	that's not entirely true.
+D	00:13:54.160	00:13:56.710	i like to use paper and pen as well.
+A	00:13:56.720	00:13:58.720	okay, leave it, guys!
+A	00:13:58.720	00:14:01.680	let's go straight to the point.
+A	00:14:01.680	00:14:04.639	what's on your schedule today?
+D	00:14:04.639	00:14:09.519	i'm meeting a client from four to five and then i'm going to the mall.
+A	00:14:09.519	00:14:11.430	why are you going to the mall?
+D	00:14:11.440	00:14:13.920	i want to buy a new modem for my pc.
+A	00:14:13.920	00:14:15.920	a new modem?
+A	00:14:15.920	00:14:18.389	that's not exactly business.
+D	00:14:18.399	00:14:23.110	yes, well, there's something wrong with mine.
+D	00:14:23.120	00:14:29.189	okay, maybe it's not that important, i can go tomorrow morning.
+A	00:14:29.199	00:14:32.470	that's very kind of you, jack.
+A	00:14:32.480	00:14:34.800	well, let me see.
+A	00:14:34.800	00:14:38.949	i've got a list with all your duties here.
+E	00:14:38.959	00:14:41.440	but, what is it?
+A	00:14:41.440	00:14:45.590	it's always with me, for emergencies, you know.
+A	00:14:45.600	00:14:49.030	just like this one. jack!
+D	00:14:49.040	00:14:51.199	at your orders, general.
+A	00:14:51.199	00:14:54.240	you have to clean up the kitchen.
+A	00:14:54.240	00:15:03.269	you're washing the dishes, cleaning the oven and the fridge, the burners and the basin.
+A	00:15:03.279	00:15:07.670	oh, and finally, you have to sweep and mop the floor.
+D	00:15:07.680	00:15:09.040	i'm ready!
+A	00:15:09.040	00:15:12.639	oh, and obviously, you have to clean your bedroom too.
+D	00:15:12.639	00:15:15.030	oh, sounds exciting.
+A	00:15:15.040	00:15:19.269	alice, you have to clean the living room.
+A	00:15:19.279	00:15:23.519	you have to throw all these magazines out.
+A	00:15:23.519	00:15:32.560	put all the cds in order, clean up the carpet and dust the furniture.
+E	00:15:32.560	00:15:34.720	do i have to mop the floor as well?
+A	00:15:34.720	00:15:37.040	of course!
+A	00:15:37.040	00:15:44.629	as for me, i'm cleaning the bathroom and all the windows.
+A	00:15:48.639	00:15:58.639	well, i want you both in the living room, at half past six, for a detailed report. okay?
+D	00:15:58.639	00:16:00.230	yes, sir!
+
+A	00:16:04.240	00:16:09.350	well done! guys, i'm proud of you!
+A	00:16:13.360	00:16:16.350	neat and clean!
+A	00:16:19.360	00:16:21.600	rather stressful, i know.
+A	00:16:21.600	00:16:28.150	but at last the flat is perfectly clean.
+E	00:16:28.160	00:16:31.279	yes, but now it's us that needs to be clean.
+A	00:16:31.279	00:16:34.829	excuse me.
+A	00:16:34.839	00:16:38.710	hello! aunt mary.
+A	00:16:38.720	00:16:41.279	everything is ready for your arrival.
+A	00:16:41.279	00:16:48.829	i'm picking you up at the airport tomorrow...
+A	00:16:48.839	00:16:52.389	what? really?
+A	00:16:52.399	00:16:55.360	oh, i understand.
+A	00:16:55.360	00:16:57.990	what a shame!
+A	00:16:58.000	00:17:03.269	oh, no, no. not a problem, at all.
+A	00:17:03.279	00:17:06.549	i i hope you get well soon.
+A	00:17:06.559	00:17:09.510	right, bye-bye.
+D	00:17:13.520	00:17:14.720	so?
+E	00:17:14.720	00:17:16.480	what?
+A	00:17:16.480	00:17:20.309	aunt mary isn't coming anymore.
+A	00:17:20.319	00:17:22.300	she's got a cold.
+C	00:17:26.480	00:17:30.710	hey, guys, i've got the part!
+C	00:17:32.720	00:17:34.960	but what's happening here?
+D	00:17:34.960	00:17:37.080	nothing special.
+E	00:17:37.080	00:17:40.110	congratulations, peter.
+

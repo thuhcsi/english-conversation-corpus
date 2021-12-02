@@ -1,0 +1,632 @@
+B	00:00:09.208	00:00:10.530	good morning, ms Bnderson.
+B	00:00:10.762	00:00:11.586	how are you today?
+C	00:00:11.806	00:00:12.641	fine thanks.
+C	00:00:12.641	00:00:13.209	and you?
+B	00:00:13.291	00:00:14.230	I'm fine, thank you.
+B	00:00:14.868	00:00:15.703	please follow me.
+B	00:00:16.086	00:00:17.326	we'll meet in the conference room.
+C	00:00:17.460	00:00:18.036	ok.
+
+B	00:00:21.571	00:00:22.626	are you mr. Thomas?
+D	00:00:22.858	00:00:23.763	yes. I am.
+B	00:00:23.914	00:00:24.760	thank you for coming!
+D	00:00:25.027	00:00:25.619	of course.
+B	00:00:25.870	00:00:29.550	would you like a glass of water or a cup of coffee before we begin?
+D	00:00:30.072	00:00:30.953	no, thanks.
+D	00:00:30.953	00:00:31.498	I'm fine.
+B	00:00:31.754	00:00:32.032	all right.
+B	00:00:32.264	00:00:33.574	then please come with me.
+D	00:00:33.864	00:00:34.678	sure.
+
+B	00:00:36.810	00:00:37.813	hello, mrs. Louis?
+E	00:00:37.854	00:00:38.159	yes.
+B	00:00:38.958	00:00:40.599	could you give me one minute?
+B	00:00:40.860	00:00:41.760	I'll be right with you.
+E	00:00:41.840	00:00:42.310	sure.
+B	00:00:42.630	00:00:42.990	Thanks.
+B	00:00:46.600	00:00:47.170	ok.
+B	00:00:47.410	00:00:48.400	thanks for waiting.
+B	00:00:48.840	00:00:49.560	please follow me.
+B	00:00:52.030	00:00:53.240	please sit down.
+B	00:00:56.480	00:00:57.700	how are you doing this morning?
+E	00:00:57.820	00:00:58.430	I'm doing fine.
+E	00:00:58.450	00:00:58.850	thank you.
+B	00:00:59.550	00:01:00.760	thanks for being patient.
+B	00:01:01.240	00:01:03.549	things are quite busy here right now.
+E	00:01:03.549	00:01:04.390	it's no problem.
+
+C	00:01:06.410	00:01:07.800	hello.
+B	00:01:07.590	00:01:08.429	yes, hello.
+B	00:01:08.389	00:01:09.190	may I help you?
+C	00:01:09.340	00:01:12.059	yes. I'm here to see mr. Eavid about the accounting position.
+B	00:01:12.179	00:01:14.310	right. I'm mr. Eavid.
+B	00:01:14.440	00:01:15.100	glad to meet you.
+C	00:01:15.170	00:01:15.930	glad to meet you.
+B	00:01:15.980	00:01:16.655	sit down.
+B	00:01:18.509	00:01:21.050	could I have you fill out this application form?
+C	00:01:21.210	00:01:21.010	sure.
+B	00:01:23.690	00:01:24.670	take your time.
+B	00:01:24.930	00:01:26.439	just let me know when you're finished.
+C	00:01:26.729	00:01:27.260	ok.
+
+B	00:01:36.079	00:01:39.179	so, tell me a little bit about yourself.
+C	00:01:39.509	00:01:41.640	well, my name is joy Crown.
+C	00:01:41.710	00:01:44.150	I'm twenty-seven years old and I'm single.
+B	00:01:45.410	00:01:47.840	how would you describe your personality?
+C	00:01:49.570	00:01:52.299	I'm hard-working, eager to learn.
+C	00:01:52.799	00:01:56.210	I enjoy working with other people and I love challenges.
+
+B	00:01:58.990	00:02:00.299	could you tell me something about yourself?
+E	00:02:00.759	00:02:02.500	yes. my name is Julie Thomson.
+E	00:02:02.620	00:02:03.480	I'm married.
+E	00:02:03.980	00:02:06.210	I have three kids: one son and two daughters.
+B	00:02:06.810	00:02:08.749	how would you describe yourself?
+E	00:02:09.219	00:02:11.260	I like being with people and helping people.
+E	00:02:11.620	00:02:13.889	I enjoy problem solving and challenging work.
+E	00:02:14.409	00:02:16.919	and I'm serious about my work but I also like to have fun.
+
+B	00:02:19.549	00:02:21.119	tell me a little about yourself.
+C	00:02:22.079	00:02:25.490	my name is Bnnette Johnson but most people call me Bnn.
+C	00:02:25.920	00:02:29.970	I'm originally from Coston but I've lived in Seattle for eight years now.
+B	00:02:30.600	00:02:32.439	may I ask how old you are?
+C	00:02:32.639	00:02:33.660	I'm twenty-four
+B	00:02:35.210	00:02:36.820	have you finished your studies?
+C	00:02:37.240	00:02:40.850	I graduated from the University of Washington in June.
+C	00:02:42.110	00:02:43.260	and I hope to find a full-time job now.
+B	00:02:43.500	00:02:44.210	OK.
+
+B	00:02:46.320	00:02:48.400	could you describe yourself briefly?
+D	00:02:49.300	00:02:51.940	sure. my name is Bndrew Wilson.
+D	00:02:52.160	00:02:54.560	I'm thirty years old and I'm single.
+B	00:02:55.380	00:02:58.221	are you originally from Los Bngeles?
+D	00:02:58.660	00:02:59.610	no.
+D	00:02:59.620	00:03:01.990	I'm originally from San Francisco.
+D	00:03:02.110	00:03:05.399	I moved to Los Bngeles over ten years ago as a student.
+B	00:03:05.769	00:03:07.840	describe your personality to me.
+D	00:03:07.050	00:03:11.450	well, I'm a dedicated worker and a people person.
+D	00:03:12.270	00:03:13.880	I enjoy working as a team.
+D	00:03:13.890	00:03:16.290	I also like to be in contact with the public.
+B	00:03:17.690	00:03:19.850	can you tell me something about yourself?
+E	00:03:20.040	00:03:20.470	yes.
+E	00:03:20.810	00:03:24.800	I graduated from Stanford University with a BA in management.
+E	00:03:25.320	00:03:29.930	after I graduated, I worked in hotel management for six years in New York Dity.
+E	00:03:30.960	00:03:34.169	and I also enjoy working with PR and customer service.
+B	00:03:34.529	00:03:36.740	do you have any family obligations?
+E	00:03:37.020	00:03:37.370	yes.
+E	00:03:37.390	00:03:41.120	I'm married, with a two-year-old daughter and I also help support my parents.
+
+B	00:03:48.619	00:03:51.060	please tell me about your educational background.
+D	00:03:51.770	00:03:59.189	I graduated from Dornell University in nineteen ninety-four with a BA in computer science.
+B	00:04:00.329	00:04:02.379	why did you choose computer science?
+D	00:04:03.259	00:04:06.760	well, ever since I've been young, I've been interested in computers.
+D	00:04:07.230	00:04:12.610	so when I entered University, I thought that a career in computers would be a good choice.
+B	00:04:13.510	00:04:16.129	have you ever studied outside of the university?
+D	00:04:16.769	00:04:22.080	yes, I've studied on my own and I took an evening course in a small computer school.
+
+B	00:04:24.090	00:04:26.760	tell me a little about your educational background.
+E	00:04:26.830	00:04:32.849	sure, I received a bachelor's degree in history from Houston University in nineteen ninty
+E	00:04:33.429	00:04:39.050	after that, I studied at the University of Texas and received my MBA in nineteen ninety-three
+B	00:04:40.080	00:04:43.930	why did you choose the University of Texas for your master's degree?
+E	00:04:44.590	00:04:48.079	I visited the campus and I met some of the professors and I really liked it.
+B	00:04:48.839	00:04:52.010	how will your education help you with this position?
+E	00:04:53.040	00:05:00.709	my education has taught me how to work hard and how to succeed it also taught me a lot about society and the business environment.
+
+B	00:05:02.129	00:05:04.050	please tell me about your formal education.
+D	00:05:05.450	00:05:12.839	well, I just graduated from Kansas State University two months ago with a bachelor's degree in business administration.
+B	00:05:13.439	00:05:14.560	how was your experience there?
+D	00:05:15.860	00:05:17.900	it was a very good experience for me.
+D	00:05:17.900	00:05:18.800	I learned a lot.
+D	00:05:18.800	00:05:20.580	it was challenging and rewarding.
+
+B	00:05:22.580	00:05:23.189	can you tell me about your education?
+E	00:05:24.689	00:05:31.049	yes, I studied political science at Michigan State University in Lansing for four years.
+E	00:05:31.249	00:05:34.200	I got my bachelor's degree in nineteen ninety
+E	00:05:35.600	00:05:40.990	for the past two years, I've been attending Union law school on the weekends but I haven't finished yet.
+B	00:05:41.090	00:05:43.939	do you plan to finish your law degree?
+E	00:05:44.939	00:05:45.320	I hope to finish this year.
+
+B	00:05:46.330	00:05:49.090	tell me about your educational background.
+C	00:05:49.610	00:05:54.320	I graduated from Texas Dhristian University with a bachelor's in accounting.
+C	00:05:54.970	00:05:57.309	I also minored in business technology.
+B	00:05:57.409	00:06:00.049	how is your education helped with your work?
+C	00:06:05.970	00:06:09.180	it taught me how to solve problems and how to work hard.
+
+F	00:06:16.779	00:06:19.769	can you tell me about your previous job experience, please?
+B	00:06:20.929	00:06:21.479	sure.
+B	00:06:22.089	00:06:27.589	while I studied at University, I worked as an intern at Bvery publishing.
+B	00:06:27.989	00:06:29.349	I worked in the main office.
+B	00:06:30.649	00:06:34.650	after I graduated I worked in the same place full-time.
+B	00:06:35.550	00:06:37.950	I worked in administration at the main office.
+B	00:06:38.950	00:06:40.749	I was there for four years.
+F	00:06:42.749	00:06:43.069	tell me about your experience there.
+B	00:06:44.559	00:06:48.390	as an office intern, I just helped with office support.
+B	00:06:49.110	00:06:53.330	when I became full-time, I was an administration assistant.
+B	00:06:53.940	00:06:55.729	I helped my boss with her projects.
+F	00:06:57.629	00:06:58.439	how did you like the company?
+B	00:06:59.439	00:06:59.170	Oh!
+B	00:06:58.439	00:07:01.230	I liked the company very much.
+B	00:07:01.230	00:07:02.999	the people were very nice.
+B	00:07:03.999	00:07:05.520	and we all worked together very well.
+
+F	00:07:07.520	00:07:10.369	please tell me about your previous job experience.
+G	00:07:10.369	00:07:11.450	yes!
+G	00:07:11.450	00:07:14.600	well, I've been a secretary for ten years now.
+G	00:07:14.610	00:07:19.289	I first started in nineteen ninety-one with Johnson and Johnson.
+G	00:07:19.289	00:07:21.770	I worked with them for six years.
+G	00:07:21.780	00:07:25.789	I left when I got married and we moved to Eenver.
+G	00:07:25.789	00:07:29.260	then I worked with United Parcel services for four years.
+F	00:07:30.260	00:07:32.340	has your experience been good?
+G	00:07:32.340	00:07:37.499	yes, yes... I've learned a lot about management and develop my job skills.
+
+F	00:07:39.499	00:07:43.540	could you please describe your previous job experience?
+H	00:07:43.550	00:07:44.550	yes.
+H	00:07:44.550	00:07:50.039	I graduated from University in nineteen ninety and started working for Sanwa Cank.
+H	00:07:49.879	00:07:52.730	I've been with saw my bank up until now.
+F	00:07:52.730	00:07:54.300	why are you leaving?
+H	00:07:54.300	00:07:58.210	I'm looking for a job as more responsibility and flexibility.
+F	00:07:59.220	00:08:00.350	I see.
+F	00:08:00.350	00:08:02.070	were you ever promoted?
+H	00:08:02.070	00:08:04.150	yes, twice.
+F	00:08:03.950	00:08:09.260	and how would you describe your experience there?
+H	00:08:09.260	00:08:11.360	it was a good experience.
+H	00:08:11.360	00:08:14.350	the people were great, the benefits were good.
+H	00:08:14.360	00:08:17.140	but I'm still looking for better prospects.
+
+F	00:08:18.650	00:08:21.280	please tell me about your previous work experience.
+B	00:08:22.940	00:08:27.830	well, I've been working in sales and marketing for three years now.
+B	00:08:27.830	00:08:35.270	the first company that I worked for media ware, went out of business after I was there just one year.
+B	00:08:35.280	00:08:41.830	I then went to work for Universal systems for two years and have just been laid off.
+
+F	00:08:42.830	00:08:46.070	can you tell me about your past work history, please?
+G	00:08:46.070	00:08:51.680	yes, while I was studying at university I volunteered at my local hospital.
+G	00:08:51.680	00:08:57.180	after I graduated, I worked at saint Bndrew's Hospital, for about three years as a nurse.
+G	00:08:58.580	00:09:03.030	after that, I worked in hospital administration with the Red Dross.
+G	00:09:02.940	00:09:05.110	and I've been there until now.
+
+F	00:09:12.390	00:09:15.960	do you have any special skills that would help you do this job?
+H	00:09:15.960	00:09:18.299	yes, I'm pretty good with computers.
+H	00:09:18.299	00:09:23.050	I've used Microsoft Office a lot, and I know how to troubleshoot problems.
+F	00:09:22.650	00:09:24.160	how fast can you type?
+H	00:09:24.760	00:09:26.979	I can type about sixty words a minute.
+F	00:09:26.979	00:09:29.009	any other skills that would help you?
+H	00:09:29.109	00:09:35.292	well, I speak fluent Mandarin Chinese and I can read and write it fairly well.
+
+F	00:09:35.520	00:09:39.210	do you have any other skills that might help you on this job?
+G	00:09:39.210	00:09:40.210	yes.
+G	00:09:40.210	00:09:41.440	I have a secretarial experience.
+G	00:09:41.440	00:09:43.579	I can answer phone calls, here's a computer.
+G	00:09:44.979	00:09:48.489	type sixty words a minute and speak French and Japanese.
+G	00:09:48.489	00:09:51.690	I also have good organizational skills.
+F	00:09:51.690	00:09:53.620	how about doing PR?
+G	00:09:53.620	00:09:56.409	I also have experience with PR.
+G	00:09:56.793	00:09:59.249	when I worked in admissions at Darleton Dollege.
+G	00:09:59.109	00:10:01.240	I dealt with the public daily.
+
+F	00:10:04.140	00:10:07.419	what skills do you have that would help you on this job?
+B	00:10:07.419	00:10:10.050	I have computer experience.
+B	00:10:10.150	00:10:15.719	I can use Microsoft NT, Word and Axcel.
+B	00:10:15.729	00:10:18.010	I speak some Japanese.
+B	00:10:17.710	00:10:21.120	and I'm good at sales and networking as well.
+
+F	00:10:22.620	00:10:25.039	what special skills do you have for this job?
+H	00:10:26.049	00:10:28.009	I have good organizational skills.
+H	00:10:27.909	00:10:31.239	I worked as head office administrator for a while.
+H	00:10:31.239	00:10:34.020	I had to organize the staff in the office layout.
+F	00:10:34.020	00:10:36.219	do you have any computer skills?
+H	00:10:36.219	00:10:40.320	I'm familiar with Microsoft Office, and I've worked with Windows NT.
+F	00:10:41.440	00:10:42.060	do you speak any other languages?
+H	00:10:43.060	00:10:45.650	I can speak German and some Russian.
+
+F	00:10:46.650	00:10:50.710	do you have any special job skills that would help you do your job?
+B	00:10:50.710	00:10:56.580	well, I have many contacts in the communication sector from my previous job.
+B	00:10:56.580	00:11:01.030	I also have knowledge of Japanese culture and language.
+B	00:11:01.030	00:11:02.789	I used to live in Tokyo.
+F	00:11:02.789	00:11:04.549	how are you research skills?
+B	00:11:05.549	00:11:06.789	pretty good!
+B	00:11:06.789	00:11:10.120	I did a lot of research when I was at the University.
+B	00:11:10.120	00:11:14.929	and I also did a lot of research on the Internet at my previous job.
+
+F	00:11:21.890	00:11:25.820	could you describe your ideal job?
+G	00:11:25.820	00:11:30.310	yes, my ideal job would be challenging but secure.
+F	00:11:31.310	00:11:34.770	tell me more... why challenging?
+G	00:11:34.770	00:11:38.690	well, I'd like to improve my secretarial skills.
+G	00:11:38.690	00:11:41.750	and I'd like to be interested in my work.
+F	00:11:41.750	00:11:42.890	hmm.
+F	00:11:42.900	00:11:45.140	what kind of hours are you looking for?
+G	00:11:45.150	00:11:46.620	I'm looking for full-time work.
+G	00:11:46.620	00:11:50.210	I can work weekend, but I'd like to have evenings off.
+
+F	00:11:52.010	00:11:54.179	what's your ideal job?
+H	00:11:54.179	00:11:58.910	I would like to be a full-time computer programmer.
+H	00:11:58.910	00:12:03.720	I prefer working with a team but I also enjoy working individually.
+F	00:12:03.720	00:12:05.049	what kind of hours would you prefer?
+H	00:12:06.049	00:12:09.160	I'm flexible, but I prefer to have the weekends off.
+F	00:12:10.160	00:12:13.150	would you be willing to work one day during the weekend?
+H	00:12:14.150	00:12:16.800	yes, that would be fine.
+
+F	00:12:17.810	00:12:21.169	could you describe your ideal job?
+B	00:12:21.169	00:12:24.729	yeah, that's a good question.
+B	00:12:24.739	00:12:29.230	I'd like to work in a challenging job in marketing.
+B	00:12:28.830	00:12:34.549	I would like to work for an international financial company.
+B	00:12:34.549	00:12:38.010	I enjoy doing some travel and meeting new people.
+F	00:12:38.010	00:12:41.630	and what kind of hours would you like?
+B	00:12:41.630	00:12:49.010	I'd like regular daytime hours on weekdays and Saturday hours once in a while.
+
+F	00:12:51.320	00:12:54.820	what kind of job is ideal for you?
+G	00:12:54.830	00:13:00.239	my ideal job would be working as an office manager at an international school.
+G	00:13:00.239	00:13:05.460	I prefer to market a place where I can use my French and Anglish skills.
+G	00:13:05.460	00:13:10.370	I would like to work steady hours without having to travel too much!
+
+F	00:13:11.900	00:13:14.640	what would be your ideal job?
+H	00:13:14.640	00:13:20.700	I would be a PR representative for major international airline.
+H	00:13:20.700	00:13:24.230	I'd love to travel around the world and meet all kinds of people.
+
+E	00:13:32.359	00:13:34.399	what is your greatest strength?
+C	00:13:34.399	00:13:38.039	my greatest strength is persistence.
+C	00:13:38.039	00:13:41.359	I work really hard and I don't give up easily.
+E	00:13:41.359	00:13:43.879	can you give me an example?
+C	00:13:43.879	00:13:48.509	yes. when I was a student I had problems with a physics class.
+C	00:13:48.509	00:13:50.189	I didn't get that though.
+C	00:13:50.189	00:13:55.269	I got up tutor and studied really hard. finally, I passed the class with an A.
+E	00:13:56.269	00:13:58.209	do you have any examples at work?
+C	00:13:59.209	00:14:00.239	yes.
+C	00:14:00.239	00:14:03.349	when I was manager at charter insurance.
+C	00:14:03.359	00:14:05.879	we had a very important coded deadline.
+C	00:14:05.879	00:14:08.159	I wouldn't stop working till we met the quota.
+C	00:14:08.159	00:14:12.969	I talked to the staff and we all worked really hard to meet the deadline.
+E	00:14:12.979	00:14:15.250	what about your greatest weakness?
+C	00:14:16.250	00:14:20.849	my greatest weakness would be that I'm not trained in accounting.
+C	00:14:20.849	00:14:22.419	I can still learn though.
+
+E	00:14:23.419	00:14:26.250	how would you describe your greatest strength?
+D	00:14:26.250	00:14:30.769	I think my greatest strength is my dependability.
+D	00:14:30.769	00:14:33.919	you can depend on me to be on time.
+D	00:14:33.929	00:14:37.620	you can depend on me to get my work finished on time.
+D	00:14:37.620	00:14:40.829	and you can depend on me to be professional.
+E	00:14:40.829	00:14:43.029	and what about your greatest weakness?
+D	00:14:44.029	00:14:45.309	hmm.
+D	00:14:45.319	00:14:47.789	this could be my experience.
+D	00:14:47.789	00:14:50.789	I've only worked full-time for two years now.
+D	00:14:50.789	00:14:53.539	I think I need more experience.
+
+E	00:14:53.539	00:14:55.380	what's your greatest strength?
+B	00:14:55.380	00:15:00.589	I think my greatest strength is my creativity.
+B	00:15:00.589	00:15:06.409	sometimes my boss would ask my advice on a project because of my creativity.
+E	00:15:06.409	00:15:08.359	can you give me an example?
+B	00:15:08.359	00:15:09.139	yes.
+B	00:15:10.039	00:15:16.069	once my boss was quite upset because we weren't filling our monthly quotas.
+B	00:15:16.069	00:15:21.179	he asked my advice and I told him some advertising ideas.
+B	00:15:21.179	00:15:26.159	we tried them and soon our monthly quota was filled.
+E	00:15:26.159	00:15:27.179	very good!
+E	00:15:27.179	00:15:28.169	now!
+E	00:15:28.169	00:15:30.209	can you please tell me about your greatest weakness?
+B	00:15:30.209	00:15:35.549	my greatest weakness would probably be my educational background.
+B	00:15:35.549	00:15:40.189	I studied music, but I'm working in business now.
+
+E	00:15:40.189	00:15:42.570	can you tell me what your greatest strengths is?
+C	00:15:43.580	00:15:47.120	I think it's my quick thinking and decision-making.
+C	00:15:47.120	00:15:51.950	there have been many times when I've been under pressure and made the right decisions.
+E	00:15:51.950	00:15:54.400	how about your greatest weakness?
+C	00:15:54.410	00:15:56.610	probably, my computer skills.
+C	00:15:56.610	00:16:00.030	I know a little bit but I need to learn a lot more.
+
+E	00:16:00.440	00:16:03.220	what's your greatest strengths as a manager?
+D	00:16:04.220	00:16:08.340	Ah! it's my ability to understand and encourage people.
+D	00:16:08.340	00:16:13.910	I enjoy working with different kinds of people from all kinds of backgrounds.
+E	00:16:13.910	00:16:16.150	what about your greatest weakness?
+D	00:16:16.460	00:16:19.200	now I think this is my experience.
+D	00:16:19.200	00:16:23.620	I'm still young and gaining experience and management.
+
+E	00:16:30.380	00:16:33.390	what are some of your personal interests outside of work?
+D	00:16:34.400	00:16:37.500	well, I've really enjoyed gardening.
+D	00:16:37.500	00:16:39.420	it helps me relax.
+D	00:16:39.600	00:16:42.328	I also enjoy learning foreign languages.
+E	00:16:42.390	00:16:44.560	what foreign languages have you studied?
+D	00:16:45.260	00:16:48.160	currently, I'm studying Chinese and Japanese.
+D	00:16:48.060	00:16:51.130	in the past I've studied German as well.
+
+E	00:16:52.130	00:16:55.980	can you tell me about some of your hobbies or personal interests?
+C	00:16:55.980	00:17:01.490	well, I'm usually very busy taking care of my children and doing housework.
+C	00:17:01.490	00:17:06.739	but when I do have free time I like to read and listen to music.
+
+E	00:17:06.739	00:17:10.070	please tell me about your interests outside of work?
+B	00:17:09.870	00:17:12.270	I love learning about computers.
+B	00:17:13.280	00:17:18.060	sometimes, I do programming work for my friends but I have free time.
+E	00:17:18.060	00:17:21.030	what do you do to relax or to have fun?
+B	00:17:21.030	00:17:26.109	I like listening to music and I enjoy playing basketball.
+
+E	00:17:27.109	00:17:30.790	what are some things that you do in your free time?
+C	00:17:30.800	00:17:35.310	well, I love cooking I've taken several classes on cooking.
+C	00:17:36.320	00:17:38.300	I also like to play tennis.
+C	00:17:38.300	00:17:40.350	whenever I can, I play tennis with my friends.
+
+E	00:17:41.350	00:17:44.010	what are some of your hobbies or personal interests?
+D	00:17:45.010	00:17:46.010	Yeah.
+D	00:17:45.010	00:17:48.560	I enjoy reading and playing the guitar.
+D	00:17:48.560	00:17:52.350	I also enjoy surfing the internet and swimming.
+
+E	00:17:59.170	00:18:01.670	why did you leave your previous job?
+B	00:18:01.670	00:18:05.450	my company was downsizing because of the economy.
+B	00:18:05.450	00:18:07.070	so I was laid- off.
+B	00:18:07.450	00:18:10.790	other people had been there for over ten years.
+B	00:18:10.790	00:18:15.140	and I had only been there for two so I was laid off first.
+
+E	00:18:16.150	00:18:19.540	what are the reasons for leaving your last job?
+D	00:18:19.540	00:18:21.290	they cut my hours.
+D	00:18:20.990	00:18:26.860	I wanted to work full-time but they only wanted part time worker.
+
+E	00:18:26.860	00:18:29.790	why are you looking for another job?
+C	00:18:29.800	00:18:33.440	there is no growth potential at my current job.
+C	00:18:33.440	00:18:37.380	I would like to work for a company that has more room to grow.
+
+E	00:18:38.380	00:18:42.670	could you tell me why you've decided to leave your current job?
+D	00:18:42.670	00:18:46.790	well, there are problems inside the company.
+D	00:18:47.720	00:18:51.000	some of the managers do not agree with the company policies.
+E	00:18:52.000	00:18:53.510	can you be more specific?
+D	00:18:54.520	00:19:02.130	yes, the company does not want to allow foreign investment and management, but some of us disagree.
+
+E	00:19:03.130	00:19:06.820	why did you resign from your previous position?
+B	00:19:06.820	00:19:11.320	my company was opening branches in other parts of the country.
+B	00:19:11.320	00:19:14.000	my boss told me I had to transfer.
+B	00:19:14.000	00:19:16.330	I couldn't move.
+B	00:19:16.340	00:19:18.660	so I had to resign.
+
+H	00:19:25.700	00:19:27.720	how do you handle pressure?
+B	00:19:27.720	00:19:29.880	I work very well with pressure.
+B	00:19:29.880	00:19:33.620	I prepare for it before it comes.
+H	00:19:33.620	00:19:35.750	can you give me an example?
+B	00:19:35.750	00:19:40.050	when I worked at Diti bank, we had many deadlines to meet.
+B	00:19:40.050	00:19:44.740	I never waited until the last minute to do my work.
+B	00:19:44.750	00:19:47.930	always finished it ahead of time.
+H	00:19:47.930	00:19:50.970	how do you deal with the public?
+B	00:19:50.970	00:19:55.500	I try to treat my customers with respect and patience.
+
+H	00:19:56.510	00:19:59.280	how do you handle stressful situations?
+G	00:20:00.000	00:20:02.710	well, I try to stay as calm as possible.
+G	00:20:02.720	00:20:07.030	when I'm with the customer, I like to be respectful and responsible.
+H	00:20:08.030	00:20:11.900	can you give me an example from your personal experience?
+G	00:20:11.900	00:20:16.140	yes, when I was working with Universal systems as a secretary.
+G	00:20:16.140	00:20:19.850	a customer came in and he was very angry about his bill.
+G	00:20:20.150	00:20:23.350	so i spoke calmly and told him to relax.
+G	00:20:24.350	00:20:25.980	once he's calmed down.
+G	00:20:25.980	00:20:28.960	we talked about the problem and solved it.
+G	00:20:28.970	00:20:32.660	he walked away happy and so was I.
+
+H	00:20:32.660	00:20:36.060	how do you deal with stressful situations and work?
+B	00:20:36.060	00:20:39.210	I've had many stressful situations at work.
+B	00:20:39.210	00:20:42.030	I always try to stay patient.
+B	00:20:43.040	00:20:49.020	whenever I'm feeling stress, I breathe deeply to calm down.
+H	00:20:48.720	00:20:52.320	is there anything else that you do?
+B	00:20:52.320	00:20:59.520	I try to talk to people to tell them how I feel if I'm having a problem of the customer.
+B	00:20:59.520	00:21:01.910	I try to talk politely.
+B	00:21:01.910	00:21:10.430	if I have some other kind of stress at work, I talked to my co-workers or my boss to tell them how I feel.
+B	00:21:10.430	00:21:12.920	that usually helps.
+
+H	00:21:12.920	00:21:15.180	how do you work under pressure?
+G	00:21:15.180	00:21:16.080	oh!
+G	00:21:16.080	00:21:17.280	I'm pretty good with pressure.
+H	00:21:17.280	00:21:19.160	can you give me an example?
+G	00:21:19.160	00:21:21.660	yes, as an accountant.
+G	00:21:21.660	00:21:23.250	I have to meet monthly deadlines.
+G	00:21:23.250	00:21:26.480	this can make my work very stressful.
+G	00:21:26.480	00:21:33.700	but I've learned that working hard and staying calm, always allows me to meet these deadlines.
+
+H	00:21:34.700	00:21:38.539	how do you handle stressful situations?
+F	00:21:38.539	00:21:42.140	I handle them professionally and patiently.
+F	00:21:42.140	00:21:46.610	I have had experience with stressful situations at work.
+F	00:21:46.610	00:21:56.559	I always tried to prepare myself before the stressful situations happen then if they happen I can handle them without any trouble.
+H	00:21:56.559	00:21:59.230	can you give me an example?
+F	00:21:59.230	00:22:00.230	sure.
+F	00:22:00.230	00:22:04.760	if there are two phones ringing and a customer waiting to be helped.
+F	00:22:04.760	00:22:07.779	I'II ask the customer if they can wait for a minute.
+F	00:22:07.779	00:22:11.559	then I answer the phones and put them on hold.
+F	00:22:11.559	00:22:15.059	next, I tried to help the customer quickly and politely.
+F	00:22:16.059	00:22:18.720	lastly, I'll take the phone calls.
+
+H	00:22:24.970	00:22:27.039	are you able to travel?
+G	00:22:26.949	00:22:29.179	yes. I am very traveling.
+H	00:22:29.179	00:22:31.170	are you willing to relocate?
+G	00:22:31.170	00:22:32.220	yes, I am.
+
+H	00:22:33.220	00:22:35.470	would you be able to travel?
+F	00:22:35.470	00:22:38.019	sure, I don't mind traveling.
+H	00:22:38.029	00:22:39.980	what about relocating?
+H	00:22:39.980	00:22:41.470	would you be able to relocate?
+F	00:22:41.470	00:22:43.470	um.
+F	00:22:43.480	00:22:45.529	relocating would be difficult.
+F	00:22:45.529	00:22:49.559	you see, I have a family with three children.
+F	00:22:48.559	00:22:53.100	I guess I could relocate but it would not be easy.
+
+H	00:22:54.100	00:22:56.850	are you able to work weekends?
+G	00:22:56.860	00:23:00.240	Well, I can work Saturdays but not Sundays.
+H	00:23:00.250	00:23:02.630	are you able to work added hours?
+G	00:23:02.630	00:23:07.829	I prefer to work in the daytime but I don't mind doing some added hours.
+
+H	00:23:08.829	00:23:11.799	are you considering any other jobs?
+B	00:23:11.799	00:23:15.980	yes, I have applied to several other positions.
+B	00:23:15.980	00:23:17.890	and I'm considering them as well.
+H	00:23:17.890	00:23:23.970	we may not be able to let you know about this position until next week.
+H	00:23:22.970	00:23:24.720	are you still interested?
+B	00:23:24.730	00:23:27.669	yes, I'm still very interested.
+H	00:23:27.669	00:23:30.500	ok, we'll be in touch by next week then.
+B	00:23:30.500	00:23:30.850	oh!
+B	00:23:30.850	00:23:31.840	ok.
+B	00:23:31.850	00:23:32.750	thank you very much.
+H	00:23:32.750	00:23:33.140	thank you for coming.
+
+H	00:23:34.150	00:23:36.890	what are your salary requirements?
+F	00:23:36.890	00:23:39.760	I'm looking for at least thirty thousand.
+H	00:23:39.770	00:23:43.000	this position starts at thirty five thousand.
+H	00:23:44.000	00:23:45.319	is this ok?
+F	00:23:45.319	00:23:45.980	yes.
+F	00:23:45.980	00:23:46.870	that would be fine.
+F	00:23:46.870	00:23:49.210	are there opportunities for advancements?
+H	00:23:49.620	00:23:50.620	yes.
+H	00:23:50.620	00:23:53.200	you are evaluated for raises and bonuses every year.
+
+H	00:24:01.260	00:24:03.110	why do you want to work for us?
+F	00:24:04.110	00:24:08.530	when I saw the job advertisement, I became very interested.
+F	00:24:08.530	00:24:11.370	I have fun with customers here.
+F	00:24:11.370	00:24:14.290	they said that they like doing business here as well.
+F	00:24:14.290	00:24:17.150	I also feel I'm qualified for the job.
+H	00:24:18.150	00:24:20.660	why should we hire you?
+F	00:24:20.670	00:24:24.070	because I have experience and a strong desire to succeed.
+
+H	00:24:26.070	00:24:28.010	why do you want to work here?
+B	00:24:29.010	00:24:32.130	because this company has a good reputation.
+H	00:24:32.130	00:24:34.300	and why should we hire you?
+B	00:24:35.230	00:24:37.200	I think I have the right personality and skills.
+B	00:24:38.200	00:24:42.960	and I also have experience and motivation.
+
+H	00:24:42.960	00:24:45.240	why do you want this job?
+G	00:24:45.240	00:24:47.150	because I know I can do this job well.
+H	00:24:48.150	00:24:50.660	why should we hire you?
+G	00:24:50.670	00:24:53.450	because of my drive and commitment.
+
+H	00:24:54.450	00:24:57.330	can you tell me why you want this job?
+B	00:24:57.330	00:25:01.340	well, the description sounded very interesting.
+B	00:25:01.350	00:25:04.140	and I think I can succeed at it.
+H	00:25:04.140	00:25:07.980	why should we choose you for this job?
+B	00:25:07.980	00:25:08.980	hmm.
+B	00:25:07.980	00:25:13.920	I'm a very committed worker and I love challenges like this!
+
+H	00:25:13.920	00:25:15.940	why do you want to work here?
+F	00:25:15.940	00:25:20.780	I want the challenge of working in a large international firm.
+H	00:25:20.790	00:25:23.090	why should we hire you over another person?
+F	00:25:24.090	00:25:28.940	because I'm qualified and because I have the will to succeed!
+
+B	00:25:35.790	00:25:38.280	do you have any questions for me?
+F	00:25:38.280	00:25:39.280	yes.
+F	00:25:39.280	00:25:40.100	what is the starting salary?
+B	00:25:41.100	00:25:46.150	the starting salary is thirty five thousand a year, plus benefits.
+F	00:25:46.150	00:25:49.440	and what are the hours of the job?
+B	00:25:49.440	00:25:58.630	well, the office opens at seven a.m. most people usually take a one-hour lunch break around noon.
+B	00:25:58.630	00:26:01.539	and then leave about four p.m.
+B	00:26:01.539	00:26:08.329	but the office doesn't close until six p.m, so you can stay later if you'd like.
+
+B	00:26:09.329	00:26:11.459	do you have any questions?
+G	00:26:11.459	00:26:16.839	may I ask what the specific responsibilities for this position are?
+B	00:26:15.899	00:26:17.839	sure.
+B	00:26:17.849	00:26:28.429	you'll be expected to be in the office during office hours which is from eight a.m. until five thirty p.m. Monday to Friday.
+B	00:26:28.439	00:26:35.729	you'll also be expected to answer incoming telephone calls and to help walk-in customers.
+B	00:26:35.729	00:26:42.409	you'll also be expected to work with typing, filing and some data entry.
+G	00:26:43.409	00:26:46.229	can you tell me about the history of the company?
+B	00:26:46.229	00:26:47.699	the history?
+B	00:26:47.709	00:26:48.629	sure.
+B	00:26:48.629	00:26:57.869	we started our company in nineteen eighty and we began in New York but we moved here in nineteen ninety
+B	00:26:57.869	00:27:03.219	since then we've opened in ten states across the eastern US.
+
+B	00:27:05.219	00:27:07.009	would you like to ask me any questions?
+H	00:27:08.009	00:27:10.399	what kind of person are you looking for?
+B	00:27:11.399	00:27:17.879	well, we're looking for a responsible person who can handle pressure.
+B	00:27:17.879	00:27:23.449	someone with experience and training is good but not necessary.
+H	00:27:23.459	00:27:28.929	do you offer any kind of educational or training programs for employees?
+B	00:27:27.929	00:27:28.959	yes.
+B	00:27:28.959	00:27:33.729	we offer free computer training for full-time employees.
+B	00:27:33.729	00:27:37.789	and there's also some on-the-job training at the beginning.
+
+B	00:27:38.789	00:27:40.209	so do you have any questions?
+G	00:27:41.219	00:27:44.959	yes, what is the focus of this company?
+B	00:27:44.969	00:27:52.499	the focus of our company is to provide the best service to our customers in this industry.
+G	00:27:52.499	00:27:54.459	and what's the starting salary?
+B	00:27:56.459	00:28:00.929	the starting annual salary is twenty-six thousand dollars.
+B	00:28:00.929	00:28:04.859	we also provide health insurance for our employees.
+G	00:28:04.859	00:28:07.079	ok. and do you have a dress code?
+B	00:28:07.079	00:28:14.329	yes, only business attire slacks, or long dresses for women.
+B	00:28:14.329	00:28:16.880	no t-shirts are shorts.
+B	00:28:16.880	00:28:21.190	sandals are alright but they must have a strap on the heel.
+
+B	00:28:22.190	00:28:24.920	do you have any questions to ask me?
+F	00:28:24.920	00:28:25.410	yes.
+F	00:28:26.420	00:28:28.880	is this a new position?
+B	00:28:28.880	00:28:29.880	no.
+B	00:28:29.880	00:28:31.050	actually, it's not.
+B	00:28:30.750	00:28:34.920	the last person was transferred to a branch in Danada.
+B	00:28:34.920	00:28:38.120	we needed to fill this position immediately.
+F	00:28:38.120	00:28:41.480	in which countries does this company operate?
+B	00:28:41.480	00:28:44.880	we have operations in the US and Canada.
+B	00:28:44.880	00:28:50.110	but we also have partners in Aurope who do business in Germany and the UK.
+F	00:28:51.110	00:28:55.490	might I be asked to travel or relocate?
+B	00:28:55.490	00:28:58.610	it's possible but not likely.
+F	00:28:58.610	00:29:04.350	and can you describe the corporate culture in this company?
+B	00:29:04.350	00:29:05.420	sure.
+B	00:29:05.420	00:29:09.930	most of our employees are from the United States.
+B	00:29:08.930	00:29:15.190	but we do have some people working here from Australia, Canada and the UK.
+B	00:29:16.190	00:29:22.020	most of us are young but we have people working here who have been here for over ten years.
+B	00:29:23.030	00:29:27.140	we're very hardworking people but we like to have fun.
+B	00:29:27.140	00:29:30.579	sometimes we get together on the weekends informally.
+
+B	00:29:37.760	00:29:39.810	I'd like to offer you the job.
+B	00:29:39.810	00:29:41.660	are you still interested?
+F	00:29:41.660	00:29:43.140	yes, I am.
+F	00:29:43.140	00:29:44.860	when can I start?
+B	00:29:44.870	00:29:46.150	how is Monday?
+F	00:29:47.150	00:29:48.680	it would be good.
+B	00:29:48.680	00:29:49.670	ok.
+B	00:29:49.680	00:29:51.829	then I'll see you Monday at eight a.m.
+F	00:29:51.829	00:29:53.490	ok. I'll see you then.
+B	00:29:53.490	00:29:54.390	ok bye.
+F	00:29:54.390	00:29:55.290	bye bye.
+
+B	00:29:56.300	00:29:58.829	are you still interested in the job?
+G	00:29:58.829	00:30:00.290	yes, I am.
+B	00:30:00.290	00:30:01.290	good!
+B	00:30:01.290	00:30:02.750	when can you start?
+G	00:30:02.760	00:30:05.850	well, I have to give notice of my present job first.
+G	00:30:05.850	00:30:08.370	I'll be able to start in two weeks time.
+B	00:30:08.370	00:30:09.260	Oh!
+B	00:30:09.260	00:30:10.640	sounds good!
+B	00:30:10.640	00:30:15.930	so you can start on Monday the twentyth then?
+G	00:30:15.930	00:30:16.709	sure.
+G	00:30:16.709	00:30:17.579	see you then.
+B	00:30:17.579	00:30:19.430	ok. oh, yeah.
+B	00:30:19.430	00:30:23.730	please remember to bring your ID card and passport.
+B	00:30:23.730	00:30:26.080	we need them to make copies for our records.
+G	00:30:27.027	00:30:28.120	sure, no problem.
+G	00:30:28.360	00:30:29.650	I'll see you on the twentyth.
+B	00:30:29.830	00:30:31.067	ok, then. bye-bye.
+G	00:30:31.107	00:30:31.842	goodbye.
+
+B	00:30:33.030	00:30:36.070	mr. Smith, I'd like to offer you the job.
+B	00:30:36.070	00:30:37.890	are you still interested?
+H	00:30:37.890	00:30:39.480	yes, I am.
+B	00:30:39.480	00:30:40.480	great!
+B	00:30:40.480	00:30:42.490	could you start tomorrow?
+H	00:30:42.490	00:30:43.360	tomorrow.
+H	00:30:43.360	00:30:44.700	it is fine.
+B	00:30:44.710	00:30:45.640	ok.
+B	00:30:45.640	00:30:47.540	why don't you come at nine o'clock.
+B	00:30:47.550	00:30:51.510	we'll give you a tour and have you fill out some paperwork.
+H	00:30:51.510	00:30:52.980	sure.
+B	00:30:52.980	00:30:57.960	please bring a list of references and to passport photos.
+H	00:30:57.960	00:30:59.770	ok, I'll see you then.
+B	00:30:59.770	00:31:00.170	ok.
+
+B	00:31:04.680	00:31:10.080	well, I've talked with the others and we've decided to offer you the job.
+B	00:31:10.080	00:31:11.980	would you like to work for us?
+F	00:31:11.980	00:31:12.960	yes.
+F	00:31:12.760	00:31:14.210	I'm ready to start as soon as possible.
+B	00:31:15.220	00:31:15.880	great.
+B	00:31:15.880	00:31:21.550	we'd like you to be here at seven o'clock on the morning of the third of next month.
+F	00:31:21.550	00:31:22.020	ok.
+F	00:31:22.020	00:31:23.470	I'll see you then.
+B	00:31:23.470	00:31:25.210	is there anything else you'd like to know?
+F	00:31:26.220	00:31:27.310	Mmm.
+F	00:31:27.310	00:31:27.940	oh, yes.
+F	00:31:27.940	00:31:29.440	where can I park my car?
+B	00:31:29.440	00:31:30.020	oh!
+B	00:31:30.030	00:31:31.380	that's a good question.
+B	00:31:31.380	00:31:36.450	you can park your car downstairs in the parking lot for free.
+F	00:31:36.450	00:31:39.210	ok, I'll see you on the third
+B	00:31:39.210	00:31:40.810	ok, see you then.
+F	00:31:40.810	00:31:42.670	ok. thank you. bye-bye.
+
+B	00:31:44.850	00:31:47.100	I'd like to offer you the position.
+B	00:31:47.100	00:31:48.930	do you still want it?
+H	00:31:48.930	00:31:51.880	thank you but I've accepted another job already.
+B	00:31:51.880	00:31:54.000	oh!
+B	00:31:54.000	00:31:55.010	well, that's ok.
+B	00:31:56.010	00:31:57.520	good luck to you.
+H	00:31:57.520	00:31:58.640	thank you.
+B	00:31:58.650	00:32:00.520	you're welcome!
+

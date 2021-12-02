@@ -1,0 +1,303 @@
+A	00:00:05.120	00:00:06.640	hello!
+B	00:00:06.640	00:00:07.919	hi.
+A	00:00:07.919	00:00:09.360	what can i get you?
+A	00:00:09.360	00:00:10.679	coffee? tea?
+B	00:00:11.679	00:00:12.950	tea, please.
+A	00:00:16.960	00:00:18.680	milk and sugar?
+B	00:00:19.680	00:00:20.790	no milk, please.
+B	00:00:20.800	00:00:22.630	but sugar.
+A	00:00:24.640	00:00:27.119	would you like anything to eat?
+A	00:00:27.119	00:00:31.079	a slice of chocolate cake, some pastries?
+B	00:00:32.079	00:00:33.830	tempting, but no, thanks.
+B	00:00:33.840	00:00:35.470	just tea.
+A	00:00:39.480	00:00:41.520	amazing!
+B	00:00:41.520	00:00:42.549	who?
+B	00:00:42.559	00:00:44.039	oh, i mean, what?
+A	00:00:45.039	00:00:46.709	egypt!
+A	00:00:46.719	00:00:49.680	what an incredible place!
+B	00:00:49.680	00:00:51.910	yes, it's fascinating!
+B	00:00:53.920	00:00:56.399	are you interested in traveling?
+A	00:00:56.399	00:00:57.920	oh, yes!
+A	00:00:57.920	00:01:00.790	i love traveling.
+A	00:01:00.800	00:01:04.159	i haven't got much time, with the bar and everything.
+A	00:01:04.159	00:01:08.240	but there are so many places i'd like to visit.
+A	00:01:12.240	00:01:14.960	do you travel a lot?
+B	00:01:14.960	00:01:16.950	yes, i do.
+A	00:01:16.960	00:01:18.640	lucky you!
+A	00:01:18.640	00:01:22.240	have you got a lot of free time?
+B	00:01:22.240	00:01:26.080	not really, i travel for my job.
+A	00:01:26.080	00:01:28.870	oh, wonderful!
+A	00:01:28.880	00:01:30.469	what do you do?
+B	00:01:32.479	00:01:34.479	i'm a photographer.
+A	00:01:34.479	00:01:35.149	are you?
+A	00:01:36.159	00:01:37.859	how interesting!
+A	00:01:39.040	00:01:41.439	is this one of your pictures then?
+B	00:01:41.439	00:01:42.560	no, it isn't.
+B	00:01:42.560	00:01:45.789	but i know the photographer who took it.
+A	00:01:46.799	00:01:49.119	do you work for a magazine?
+B	00:01:49.119	00:01:55.360	sometimes, i work freelance. so, i work for different magazines and newspapers.
+B	00:01:55.360	00:01:58.230	but i also work for a publishing company.
+B	00:01:58.240	00:02:01.200	i take pictures for their travel books and guides.
+A	00:02:01.200	00:02:05.429	wow! that sounds really interesting!
+A	00:02:07.439	00:02:10.080	you probably like traveling too, then?
+B	00:02:10.080	00:02:11.680	yes, very much.
+B	00:02:11.680	00:02:14.319	in fact, i'm not often in london.
+B	00:02:14.319	00:02:16.470	i spend most of my time traveling.
+B	00:02:20.480	00:02:23.280	i've got a job to do in chile.
+B	00:02:23.280	00:02:25.670	some pictures for a magazine.
+B	00:02:25.680	00:02:29.120	i'm going to be there for a few months, actually.
+A	00:02:29.120	00:02:33.509	gosh! how i envy you!
+B	00:02:33.519	00:02:36.710	do you want to come with me?
+A	00:02:36.720	00:02:38.720	i wish!
+B	00:02:38.720	00:02:41.360	so why do you like traveling so much?
+A	00:02:41.360	00:02:44.319	oh, for a million reasons!
+A	00:02:44.319	00:02:52.080	first, of all because it's fun and interesting to see the way people live in other countries.
+A	00:02:52.080	00:02:59.430	and i think it's important to have new experiences, to expose yourself to other cultures.
+B	00:02:59.440	00:03:01.790	absolutely, i agree.
+B	00:03:04.800	00:03:07.680	um, how much do i owe you for the tea?
+A	00:03:07.680	00:03:09.519	oh, nothing.
+A	00:03:09.519	00:03:11.350	it's on the house.
+B	00:03:11.360	00:03:14.630	well, thanks. uh...um?
+A	00:03:14.640	00:03:15.720	emily.
+B	00:03:16.720	00:03:17.990	thanks, emily.
+B	00:03:18.000	00:03:19.840	my name is archie.
+B	00:03:19.840	00:03:21.630	pleased to meet you.
+A	00:03:22.640	00:03:25.880	please to me you, archie.
+
+C	00:03:31.200	00:03:32.720	i'm so hungry!
+A	00:03:32.720	00:03:34.720	well, you're in the right place.
+A	00:03:34.720	00:03:37.360	do you want something sweet or savory?
+C	00:03:37.360	00:03:39.360	um, i'm not sure.
+C	00:03:39.360	00:03:41.589	oh actually, no.
+C	00:03:41.599	00:03:42.480	i don't know.
+C	00:03:42.480	00:03:44.840	something savory, just a sandwich.
+A	00:03:44.840	00:03:48.309	okay, ham and cheese or tuna?
+C	00:03:48.319	00:03:53.360	um... not tuna, ham and cheese sounds good or maybe something sweet.
+C	00:03:53.360	00:03:54.710	i don't know.
+A	00:03:54.720	00:03:56.149	are you okay?
+C	00:03:56.159	00:03:59.270	yes, well, i'm a little nervous.
+C	00:03:59.280	00:04:00.480	i have a date.
+A	00:04:00.480	00:04:02.949	oh, i see!
+A	00:04:02.959	00:04:04.400	anyone i know?
+C	00:04:04.400	00:04:05.280	i don't think so.
+C	00:04:05.280	00:04:07.350	his name's rick, he's from ireland.
+A	00:04:07.360	00:04:09.599	i love ireland!
+A	00:04:09.599	00:04:13.519	irish people are so friendly and fun!
+C	00:04:13.519	00:04:14.799	well, i like him!
+A	00:04:14.799	00:04:16.320	i'm sure.
+A	00:04:16.320	00:04:19.759	so do you want something sweet to pep you up?
+C	00:04:19.759	00:04:20.479	oh, no.
+C	00:04:20.479	00:04:22.479	i haven't got time Em.
+C	00:04:22.479	00:04:24.320	i have to meet him in twenty minutes.
+C	00:04:24.320	00:04:25.520	oh, god help.
+A	00:04:25.520	00:04:26.720	calm down.
+A	00:04:26.720	00:04:29.520	you can't go on an empty stomach.
+A	00:04:29.520	00:04:34.240	let me make you a quick snack to take away and you can eat it on your way there.
+C	00:04:34.240	00:04:36.240	okay, yes, you're right.
+A	00:04:36.240	00:04:40.000	so, tell me, what's he like?
+A	00:04:40.000	00:04:41.189	handsome?
+C	00:04:41.199	00:04:46.639	very. he's tall, average build, he's got dark hair and green eyes.
+C	00:04:46.639	00:04:49.189	he's very shy and extremely creative.
+C	00:04:49.199	00:04:51.199	he's an artist.
+A	00:04:51.199	00:04:53.030	sounds perfect.
+C	00:04:53.040	00:04:54.960	he is.
+C	00:04:54.960	00:04:56.350	going away?
+A	00:04:57.360	00:05:00.240	oh, i wish.
+A	00:05:00.240	00:05:04.080	i need a holiday just to get away from it all.
+A	00:05:04.080	00:05:06.550	i'm tired of london.
+A	00:05:06.560	00:05:09.990	i'd like to go on a trip somewhere.
+C	00:05:10.000	00:05:11.280	to the seaside?
+A	00:05:11.280	00:05:18.320	yes, a seaside holiday on a beautiful deserted beach.
+A	00:05:18.320	00:05:20.950	and sleep under the stars.
+A	00:05:20.960	00:05:26.479	or even to the mountains and spend a week camping, out in the wild.
+C	00:05:26.479	00:05:28.000	a trekking holiday?
+C	00:05:28.000	00:05:29.440	that's not very relaxing.
+A	00:05:29.440	00:05:31.120	but it's different.
+A	00:05:31.120	00:05:35.790	you don't have to take the bus and the tube and walk through busy streets.
+A	00:05:36.800	00:05:40.710	even a sightseeing holiday sounds wonderful right now.
+A	00:05:40.720	00:05:43.110	anything, just not here!
+A	00:05:45.120	00:05:48.310	your sandwich is nearly ready.
+A	00:05:48.320	00:05:50.960	would you like a quick glass of wine?
+C	00:05:50.960	00:05:53.309	a glass of wine, just what i need.
+A	00:06:00.319	00:06:03.990	a toast to your date.
+C	00:06:04.000	00:06:05.759	and to your holiday!
+AC	00:06:05.883	00:06:07.214	cheers.
+
+D	00:06:11.360	00:06:12.960	is that for me?
+A	00:06:12.960	00:06:14.469	no, it's for mom.
+A	00:06:14.479	00:06:16.639	she's on her way here.
+A	00:06:16.639	00:06:20.800	she usually comes in for a drink after work on fridays.
+D	00:06:20.800	00:06:24.240	oh, what day is it today?
+A	00:06:24.240	00:06:25.230	friday?
+D	00:06:26.240	00:06:27.120	no, it isn't.
+D	00:06:27.120	00:06:28.720	it's thursday.
+A	00:06:28.720	00:06:30.390	oh, yeah.
+A	00:06:30.400	00:06:33.990	well, she sometimes comes in on thursdays, too.
+D	00:06:36.000	00:06:37.840	really?
+D	00:06:37.840	00:06:41.360	so today isn't a special occasion?
+A	00:06:41.360	00:06:42.909	i don't think so.
+D	00:06:45.919	00:06:48.479	what month is it?
+A	00:06:48.511	00:06:49.716	november.
+A	00:06:52.768	00:06:53.935	and voila!
+A	00:06:55.120	00:07:00.390	you know lucy, the martini is more than just a cocktail.
+A	00:07:00.400	00:07:03.039	it's an american icon.
+A	00:07:03.039	00:07:12.639	and the preferred drink of such luminaries as franklin d roosevelt, jack london and ernest hemingway.
+A	00:07:12.639	00:07:14.710	it celebrates the american dream.
+D	00:07:14.720	00:07:17.909	yes, and winston churchill liked it, too.
+D	00:07:17.919	00:07:21.830	but we are in the twenty first century.
+E	00:07:21.840	00:07:28.400	happy birthday to you, happy birthday to you, happy birthday...
+A	00:07:28.400	00:07:30.790	oh my god.
+A	00:07:30.800	00:07:33.120	i am so sorry, lucy!
+A	00:07:33.120	00:07:34.469	i completely...
+D	00:07:34.479	00:07:35.759	uh, forgot?
+A	00:07:35.759	00:07:36.880	yes!
+E	00:07:36.880	00:07:38.629	oh, emily!
+E	00:07:38.639	00:07:39.680	happy birthday, lucy.
+D	00:07:39.680	00:07:42.800	thanks, presents!
+D	00:07:42.800	00:07:44.909	thanks, mom!
+E	00:07:47.919	00:07:48.879	is this for me?
+A	00:07:48.879	00:07:49.479	yes!
+A	00:07:50.479	00:07:52.960	i really am so sorry.
+A	00:07:52.960	00:07:55.589	is it already the twenty of november?
+D	00:07:55.599	00:07:56.879	yes, dear!
+D	00:07:56.879	00:08:02.270	and, as punishment, you have to wear this hat.
+D	00:08:05.280	00:08:10.070	and make me a james bond martini.
+D	00:08:10.080	00:08:15.762	three-part gin, one part vodka and a touch of dry kina-lillet.
+A	00:08:16.160	00:08:18.479	shaken, not stirred.
+E	00:08:18.479	00:08:20.830	with a twist of lemon.
+
+F	00:12:52.800	00:12:55.360	excuse me, emily, can you make me some chamomile tea?
+F	00:12:55.360	00:12:57.110	i'm not feeling well.
+A	00:12:57.120	00:12:58.399	i'm sorry.
+A	00:12:58.399	00:13:01.600	but, i have to go right now.
+A	00:13:01.600	00:13:04.150	can you take my place for a while?
+F	00:13:04.160	00:13:08.550	sure, but the travel agency called me a few minutes ago.
+A	00:13:08.560	00:13:12.959	i have an amazing deal for a package tour.
+A	00:13:12.959	00:13:14.720	listen to this.
+A	00:13:14.720	00:13:17.760	business class flight to sydney.
+A	00:13:17.760	00:13:23.190	plus twenty days car rental for a very low price.
+A	00:13:23.200	00:13:25.920	this offer expires today.
+A	00:13:25.920	00:13:29.269	so i have to pay a deposit to assure the reservation.
+F	00:13:29.279	00:13:31.920	okay, but you know i'm not a great barmaid.
+A	00:13:31.920	00:13:34.639	wait, there's more!
+A	00:13:34.639	00:13:39.990	this offer also includes four nights in a luxury hotel.
+A	00:13:40.000	00:13:44.790	and continental breakfast is included.
+F	00:13:44.800	00:13:46.880	well, if breakfast is included.
+A	00:13:46.880	00:13:48.240	okay, i'm going.
+A	00:13:48.240	00:13:50.480	you know what to do, right?
+A	00:13:50.480	00:13:51.440	you're so sweet!
+A	00:13:51.440	00:14:01.390	thank you, bye.
+F	00:14:10.160	00:14:11.040	hello?
+A	00:14:11.040	00:14:12.720	i forgot to tell you.
+A	00:14:12.720	00:14:15.030	the coffee machine is out of order.
+A	00:14:15.040	00:14:17.199	and the blender isn't working.
+A	00:14:17.199	00:14:21.519	no, well it works but only if you know how to use it.
+A	00:14:21.519	00:14:24.189	but there's no fruit anyway, sorry.
+F	00:14:25.199	00:14:27.040	i see.
+A	00:14:27.040	00:14:34.079	i couldn't find the bottle opener. and what's more, our cook is sick and there's nothing to eat.
+A	00:14:34.079	00:14:37.829	but don't worry, you'll be fine.
+F	00:14:37.839	00:14:43.069	great, thanks, bye.
+
+G	00:14:48.079	00:14:54.399	emily, it says here that tonight there is the opening of the new cocktail bar honey lounge in holburn.
+A	00:14:54.399	00:14:55.910	yes, i know!
+A	00:14:55.920	00:14:59.590	it's the very same bar as in greenwich village on bleecker street.
+A	00:14:59.600	00:15:01.040	terrific!
+G	00:15:01.040	00:15:06.310	here it says that the cocktail menu will change every day.
+G	00:15:06.320	00:15:10.150	oh, but the famous mr cool is served every night.
+A	00:15:10.160	00:15:12.240	pity i can't come with you.
+G	00:15:12.240	00:15:14.320	it's on chancery lane.
+G	00:15:14.320	00:15:16.550	could you tell me how to reach it?
+A	00:15:16.560	00:15:18.720	sure, it's not far.
+A	00:15:18.720	00:15:21.269	but let me show you on the map.
+A	00:15:21.279	00:15:23.519	okay, we are here.
+G	00:15:23.519	00:15:24.389	okay.
+A	00:15:24.399	00:15:30.560	turn left out of the bar then you go straight on, at the crossroads, turn right.
+G	00:15:30.560	00:15:31.670	okay.
+A	00:15:31.680	00:15:35.030	you walk along the road until you reach the traffic lights.
+A	00:15:35.040	00:15:39.279	go past the park and then take the second left.
+G	00:15:39.279	00:15:40.959	okay, walk along the road.
+G	00:15:40.959	00:15:43.680	go past the park, second left.
+G	00:15:43.680	00:15:45.199	oh, that's milton road, isn't it?
+A	00:15:45.199	00:15:47.279	no, it's chancery lane.
+A	00:15:47.279	00:15:51.440	the cocktail lounge is in front of a bank near the supermarket.
+G	00:15:51.440	00:15:53.509	okay. good.
+A	00:15:53.519	00:15:59.519	now, what about tasting this cocktail before leaving?
+G	00:15:59.519	00:16:01.269	why not?
+A	00:16:01.279	00:16:03.600	it's very simple.
+A	00:16:03.600	00:16:15.150	you mix the vodka with blueberry syrup and a spray of lime and you shake everything with ice cubes.
+G	00:16:20.160	00:16:23.269	i think i know this recipe.
+A	00:16:23.279	00:16:27.990	yes! you garnish it with basil leaves.
+A	00:16:28.000	00:16:35.069	and here's your mr cool, the coolest cocktail in town.
+
+H	00:16:40.079	00:16:41.440	hi, mom!
+H	00:16:41.440	00:16:44.470	no no no no no, let's talk in english today.
+H	00:16:44.480	00:16:45.670	how are you?
+H	00:16:47.680	00:16:50.399	ah, you're sitting in the backyard.
+H	00:16:50.399	00:16:53.990	what's the weather like?
+H	00:16:54.000	00:16:58.480	yes, i can see it's hot and sunny as usual.
+H	00:16:58.480	00:17:02.150	no, here is raining.
+H	00:17:02.160	00:17:05.679	yes, they have bad weather here all year long.
+H	00:17:05.679	00:17:12.079	yesterday it was windy, the day before foggy and last week we even had some snow, too.
+H	00:17:12.079	00:17:19.760	yes, yes, great britain is a wonderful place but the weather is awful and above all so unpredictable.
+H	00:17:19.760	00:17:22.710	and most of the time it's cold.
+H	00:17:22.720	00:17:27.199	they're heavily clad even in summer, well, almost.
+H	00:17:27.199	00:17:31.350	yes, i really miss our sunny climate.
+H	00:17:31.360	00:17:37.750	oh, no, you can't imagine how i'd like to wear a nice summer dress, sandals and no stockings!
+H	00:17:39.760	00:17:43.110	ah yes, i i am happy here, very happy.
+H	00:17:43.120	00:17:45.280	the Frases are really nice people.
+H	00:17:45.280	00:17:49.039	and last week i helped miranda to prepare a thanksgiving dinner.
+H	00:17:49.039	00:17:50.480	but to tell you the truth,
+H	00:17:50.480	00:17:53.270	i did most of the cooking.
+H	00:17:53.280	00:17:58.630	miranda is not the world's best cook.
+I	00:17:58.640	00:17:59.600	hi, adriana.
+H	00:17:59.600	00:18:00.720	hi, Al.
+I	00:18:00.720	00:18:02.150	it's still raining.
+H	00:18:02.160	00:18:03.360	oh, no!
+I	00:18:03.360	00:18:04.880	sorry, i see that you're busy.
+H	00:18:04.880	00:18:08.789	oh sorry, i had to say hello to albert.
+H	00:18:08.799	00:18:12.150	yes, he's one of the fraser's friends.
+H	00:18:12.160	00:18:16.880	oh! he's... uh, he's handsome.
+H	00:18:16.880	00:18:21.190	he has a nice personality but he's a bit eccentric.
+H	00:18:21.200	00:18:24.230	yeah, sometimes he gets hysterical for no reason, right?
+I	00:18:26.240	00:18:27.600	is it your mother?
+H	00:18:27.600	00:18:28.790	uh-huh.
+H	00:18:42.600	00:18:44.790	well done.
+
+J	00:18:49.360	00:18:51.919	queen victoria hotel, how can i help?
+A	00:18:51.919	00:18:54.320	this is miss fraser from london.
+A	00:18:54.320	00:19:00.390	i want to reserve a twin room from the four to the six of may, please.
+J	00:19:00.400	00:19:03.669	let me check if we have a room available.
+J	00:19:03.679	00:19:04.960	i'm very sorry, madam.
+J	00:19:04.960	00:19:07.510	i'm afraid we are fully booked.
+A	00:19:07.520	00:19:10.799	have you another hotel to recommend to me?
+J	00:19:10.799	00:19:13.360	yes, i suggest the royal yacht.
+J	00:19:13.360	00:19:15.750	do you want the phone number?
+A	00:19:15.760	00:19:17.110	yes, please.
+J	00:19:19.120	00:19:24.810	it's zero one nine eight three two zero three one seven five.
+A	00:19:26.320	00:19:27.760	thank you so much.
+J	00:19:27.760	00:19:29.039	not at all, madam.
+J	00:19:29.039	00:19:37.830	i'm sorry i can't help you.
+K	00:19:45.840	00:19:48.320	royal yacht hotel, can i help you?
+A	00:19:48.320	00:19:56.029	yes, i would like to know if you have a twin room available from the fourth to the sixth of may, please.
+K	00:19:57.039	00:19:58.950	let me check.
+K	00:20:00.960	00:20:02.159	yes, we do.
+A	00:20:02.159	00:20:03.990	how much is it per night?
+K	00:20:04.000	00:20:07.430	it's a hundred fifty eight pounds per night.
+A	00:20:07.440	00:20:10.470	has the room an ensuite bathroom?
+K	00:20:10.480	00:20:14.470	all rooms in the hotel are ensuite.
+A	00:20:14.480	00:20:18.230	is it possible to make a reservation right now?
+K	00:20:18.240	00:20:19.360	sure, madam.
+K	00:20:19.360	00:20:22.880	we need your credit card number and expiry date.
+A	00:20:22.880	00:20:26.159	fine, just one last question.
+A	00:20:26.159	00:20:32.950	we would like to bring hazel, lucille, my friend's pet rabbit with us.
+A	00:20:32.960	00:20:34.720	is that a problem?
+K	00:20:34.720	00:20:36.630	a rabbit?
+K	00:20:36.640	00:20:40.070	madam, i'm afraid it is.
+A	00:20:40.080	00:20:43.190	we promise he is very well behaved.
+A	00:20:43.200	00:20:49.190	it is more or less like having a couple with a small baby.
+K	00:20:49.200	00:20:50.320	i'm sorry.
+K	00:20:50.320	00:20:53.669	but pets are not allowed in the hotel.
+A	00:20:53.679	00:20:56.789	well, that's very unfair.
+A	00:20:56.799	00:21:02.549	how is hazel going to feel when lucille has to tell him that he has to stay home?
+K	00:21:04.559	00:21:06.270	i don't know, madam.
+

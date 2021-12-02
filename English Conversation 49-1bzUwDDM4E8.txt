@@ -1,0 +1,486 @@
+A	00:00:00.030	00:00:00.898	hi, Becca.
+B	00:00:00.928	00:00:01.806	hey, Claire!
+B	00:00:02.191	00:00:03.335	good to see you!
+B	00:00:04.154	00:00:05.664	where were you this weekend?
+A	00:00:06.019	00:00:06.434	what?
+B	00:00:07.105	00:00:10.963	we talked about taking in a movie on Saturday, remember?
+B	00:00:11.358	00:00:12.946	but you never came over.
+A	00:00:13.440	00:00:17.545	oh, right. sorry about that.
+B	00:00:18.433	00:00:20.870	Claire,is something bothering you?
+B	00:00:23.278	00:00:24.126	it's ok.
+B	00:00:24.274	00:00:26.721	you don't have to share if you don't want to.
+A	00:00:26.810	00:00:27.550	well...
+A	00:00:28.488	00:00:31.665	you know we just found out Aaron's going to college?
+B	00:00:31.754	00:00:32.454	yes.
+A	00:00:33.461	00:00:35.533	I was sad all weekend!
+A	00:00:35.869	00:00:37.704	I'm really going to miss Aaron.
+B	00:00:37.704	00:00:38.493	really?
+A	00:00:38.730	00:00:39.450	yes.
+A	00:00:39.589	00:00:41.246	he's such a good friend!
+B	00:00:42.075	00:00:44.730	but you have a boyfriend.
+A	00:00:46.170	00:00:48.400	I know,Graham is great!
+A	00:00:48.874	00:00:49.644	but...
+B	00:00:50.650	00:00:51.538	but what?
+B	00:00:51.992	00:00:54.380	do you like Aaron better than Graham?
+B	00:00:54.597	00:00:56.610	would you rather date Aaron?
+A	00:00:57.557	00:00:59.866	oh!I didn't mean that.
+B	00:00:59.955	00:01:02.343	Claire, can I ask you something?
+A	00:01:02.462	00:01:03.192	sure.
+B	00:01:03.873	00:01:05.974	what don't you like about Aaron?
+A	00:01:06.349	00:01:06.941	what?
+A	00:01:07.721	00:01:08.994	Aaron's a great guy!
+A	00:01:09.073	00:01:10.326	I like him a lot.
+B	00:01:10.839	00:01:15.003	then why don't you want to date him?
+A	00:01:15.733	00:01:17.075	I don't know.
+A	00:01:17.302	00:01:19.671	I never thought about that before.
+B	00:01:20.134	00:01:19.790	oh!
+A	00:01:21.644	00:01:24.387	I prefer older guys.
+A	00:01:25.818	00:01:29.301	anyway, I don't think Aaron is interested in me.
+C	00:01:29.864	00:01:30.949	hi, Becca.
+C	00:01:32.222	00:01:33.012	hi, Claire.
+A	00:01:33.179	00:01:34.531	oh. hi, Aaron!
+A	00:01:34.590	00:01:36.495	we were just talking about you!
+C	00:01:37.097	00:01:37.945	oh, really?
+A	00:01:39.031	00:01:39.643	yes.
+A	00:01:39.870	00:01:41.281	I'm excited for you.
+C	00:01:41.952	00:01:43.451	about going to college?
+A	00:01:43.590	00:01:44.261	yes.
+A	00:01:44.705	00:01:50.398	we'll miss you but I know this is the best thing for you.
+C	00:01:51.119	00:01:52.293	I guess so.
+C	00:01:52.776	00:01:54.434	will you miss Becca, too?
+A	00:01:54.592	00:01:55.598	miss Becca?
+A	00:01:55.894	00:01:56.644	why?
+A	00:01:57.157	00:01:59.072	Becca, are you going somewhere?
+B	00:01:59.733	00:02:00.562	maybe.
+B	00:02:00.897	00:02:04.805	I might move to Atlanta to work at net cafe headquarters.
+A	00:02:05.052	00:02:05.861	really?
+A	00:02:06.028	00:02:06.966	Wow!
+A	00:02:07.913	00:02:09.482	don't you like working here?
+B	00:02:09.966	00:02:10.824	I do.
+B	00:02:11.465	00:02:14.889	of course, I dislike something about it, too.
+A	00:02:15.274	00:02:17.662	well, that will be true of any job.
+B	00:02:18.126	00:02:18.886	right.
+B	00:02:19.330	00:02:22.310	but I don't want to work here forever.
+A	00:02:22.941	00:02:24.106	I understand.
+A	00:02:24.382	00:02:27.342	and you could probably learn a lot at headquarters.
+B	00:02:27.658	00:02:28.625	true.
+B	00:02:29.049	00:02:30.520	but will I like it?
+B	00:02:30.816	00:02:31.802	I'm not sure.
+A	00:02:32.148	00:02:35.700	you prefer working with customers or in an office?
+B	00:02:35.996	00:02:37.200	I don't know.
+B	00:02:37.427	00:02:39.233	I never worked in an office.
+A	00:02:39.430	00:02:40.071	oh.
+C	00:02:40.881	00:02:42.973	I'd rather work with customers.
+C	00:02:43.199	00:02:46.170	I don't like sitting at a desk all day!
+B	00:02:47.324	00:02:49.890	that's one difference between you and me!
+A	00:02:50.748	00:02:54.409	you'll spend lots of time at a desk in college, Aaron!
+C	00:02:55.406	00:02:56.304	true.
+C	00:02:57.083	00:03:01.968	hey Becca, if you leave, can I manage the net cafe?
+
+D	00:03:05.155	00:03:06.595	hi, guys.
+E	00:03:06.822	00:03:07.582	hi, Rita.
+E	00:03:08.026	00:03:09.289	can I help you?
+D	00:03:09.516	00:03:10.256	no.
+D	00:03:10.513	00:03:13.878	I just needed five minutes away from work.
+D	00:03:14.697	00:03:17.953	just can be really serious sometimes.
+F	00:03:18.042	00:03:19.946	I know what you mean.
+F	00:03:20.706	00:03:22.877	maybe Brazil would be nice.
+E	00:03:23.903	00:03:28.038	Greg, I thought we weren't telling people yet.
+D	00:03:28.334	00:03:30.139	telling people what?
+F	00:03:31.008	00:03:32.725	oh,nothing.
+D	00:03:34.402	00:03:38.033	why do you two look so nervous?
+E	00:03:38.300	00:03:39.642	nervous?
+F	00:03:39.760	00:03:41.931	we're not nervous.
+D	00:03:42.020	00:03:43.964	what is going on?!
+E	00:03:44.418	00:03:46.895	do you want to tell her or should I tell her?
+F	00:03:47.092	00:03:47.960	you tell her.
+E	00:03:48.582	00:03:49.884	I think you should.
+F	00:03:50.052	00:03:51.759	then why did you ask if I should.
+D	00:03:51.779	00:03:52.637	guys!
+D	00:03:53.091	00:03:59.426	one of you had better tell me, or I will be very disappointed.
+F	00:03:59.693	00:04:00.689	ok.
+F	00:04:00.906	00:04:02.150	will tell you.
+E	00:04:03.186	00:04:08.327	Wildlife magazine offered Greg a job in Brazil.
+D	00:04:08.712	00:04:09.689	what?
+F	00:04:10.231	00:04:12.432	I sent them pictures from our trip.
+F	00:04:12.718	00:04:14.534	I just hoped they'd like them.
+E	00:04:14.987	00:04:16.310	and they did!
+D	00:04:16.438	00:04:18.007	that's great, Greg!
+D	00:04:18.194	00:04:22.329	but do you two really want to live in Brazil?
+F	00:04:23.099	00:04:25.052	it would be a big change.
+E	00:04:25.891	00:04:29.236	I've never thought of leaving the U.S.
+F	00:04:29.453	00:04:31.595	but it would be an adventure.
+E	00:04:32.058	00:04:35.147	and you know I like a good adventure.
+F	00:04:35.403	00:04:39.153	we're not sure if we're going or not.
+
+C	00:04:43.317	00:04:46.307	I don't want to play anymore.
+C	00:04:46.475	00:04:48.024	I hate this game!
+G	00:04:48.320	00:04:49.682	what's wrong, Aaron?
+C	00:04:50.629	00:04:53.155	don't worry about it, Nick.
+C	00:04:53.313	00:04:54.665	it's not important.
+G	00:04:54.783	00:04:55.721	are you sure?
+C	00:04:57.388	00:04:59.816	I want to go to college.
+C	00:05:00.388	00:05:03.832	but I still have so many questions to answer.
+G	00:05:04.236	00:05:05.480	like what?
+C	00:05:05.697	00:05:08.351	like how will I pay for college?
+G	00:05:08.687	00:05:10.492	yes, that will be hard.
+C	00:05:10.966	00:05:13.137	and there are other questions, too.
+G	00:05:13.620	00:05:14.953	what are you going to do?
+C	00:05:15.801	00:05:16.857	I don't know.
+C	00:05:17.262	00:05:19.590	sometimes I want to give up.
+G	00:05:19.876	00:05:22.649	that's how I felt when the band broke up.
+G	00:05:23.024	00:05:25.767	but then Becca told us not to give up.
+C	00:05:26.764	00:05:29.606	and now we have a great band.
+G	00:05:29.685	00:05:30.563	right.
+C	00:05:31.461	00:05:34.658	well, then I guess I shouldn't give up.
+G	00:05:34.974	00:05:36.030	right!
+
+E	00:05:37.904	00:05:38.645	scontt.
+E	00:05:38.832	00:05:41.763	hey, Rita. Is something wrong?
+D	00:05:42.088	00:05:43.184	yes.
+D	00:05:43.539	00:05:46.312	we just got fired!
+F	00:05:46.785	00:05:47.940	what?
+F	00:05:48.137	00:05:49.380	are you kidding?
+H	00:05:49.844	00:05:50.870	no.
+H	00:05:51.946	00:05:56.307	well, we didn't really get fired, Rita.
+H	00:05:56.594	00:05:58.626	we were let go.
+D	00:05:59.179	00:06:00.600	yeah.
+D	00:06:01.133	00:06:04.843	that's just a nice way to say, "you're fired!"
+E	00:06:05.879	00:06:07.566	I can't believe it.
+E	00:06:07.991	00:06:09.658	both of you were fired.
+E	00:06:12.382	00:06:15.845	I mean let go, on the same day?
+F	00:06:16.260	00:06:18.786	yeah, what's going on?
+H	00:06:18.894	00:06:22.910	there isn't enough money in our school districts budget.
+D	00:06:23.384	00:06:32.590	so they had to fire many of the music,P.E. and art teachers.
+F	00:06:33.429	00:06:35.501	that's terrible!
+F	00:06:35.876	00:06:38.550	they can't treat you like that!
+E	00:06:38.906	00:06:42.044	I'm so sorry this happened to you two.
+E	00:06:42.813	00:06:44.718	what are you going to do now?
+D	00:06:45.231	00:06:47.944	I have no idea.
+F	00:06:48.892	00:06:49.938	I do.
+H	00:06:50.559	00:06:51.580	you do?
+H	00:06:52.197	00:06:52.908	what?
+F	00:06:53.322	00:06:54.289	pray.
+D	00:06:55.108	00:06:56.302	pray?
+F	00:06:56.648	00:06:57.506	yes.
+F	00:06:57.832	00:06:59.687	this God for help.
+
+H	00:07:00.575	00:07:01.621	hello, Greg.
+F	00:07:01.946	00:07:02.943	hi, Scott.
+F	00:07:03.318	00:07:06.407	hey, I'm sorry you lost your job at the school.
+H	00:07:06.634	00:07:09.771	well, it's not fun being laid off.
+H	00:07:09.811	00:07:11.400	but it's ok.
+F	00:07:11.853	00:07:13.353	it's great you can say that.
+F	00:07:13.511	00:07:15.810	I know I'd be upset if I were you.
+H	00:07:16.264	00:07:17.656	I was yesterday.
+H	00:07:17.961	00:07:19.244	but not today!
+H	00:07:19.540	00:07:20.892	is Liz here?
+H	00:07:21.040	00:07:23.991	I want to tell you both my good news.
+F	00:07:24.069	00:07:25.717	sure,she's in the back.
+F	00:07:26.260	00:07:27.375	hey, Liz!
+E	00:07:28.352	00:07:29.033	yes?
+E	00:07:29.309	00:07:30.444	hi, Scott.
+E	00:07:31.441	00:07:32.802	how are you doing?
+H	00:07:33.039	00:07:34.203	wonderful!
+E	00:07:34.766	00:07:35.664	really?
+E	00:07:36.256	00:07:38.150	come on, Scott, be honest.
+E	00:07:38.328	00:07:40.193	how are you really doing?
+H	00:07:40.331	00:07:41.259	great!
+F	00:07:41.782	00:07:44.673	Scott said he has some good news to tell us.
+H	00:07:45.008	00:07:49.696	last night I went home and prayed, like Jeff said I should.
+H	00:07:49.962	00:07:51.866	I felt better after that.
+E	00:07:52.439	00:07:53.149	that's good.
+H	00:07:53.781	00:07:59.484	then this morning, I got a call from my University basketball coach.
+H	00:08:00.007	00:08:03.283	he asked me if I needed a job!
+F	00:08:03.628	00:08:05.928	how did he know you needed a job?
+H	00:08:06.372	00:08:07.654	he didn't know.
+H	00:08:07.990	00:08:14.522	his assistant coach just quit and he needs a new one ASAP.
+E	00:08:15.282	00:08:16.407	Wow!
+E	00:08:16.782	00:08:17.936	what did you say?
+H	00:08:18.213	00:08:19.614	I said yes!
+H	00:08:20.127	00:08:26.383	I need a job and I love being a coach,so it's perfect!
+F	00:08:27.054	00:08:28.475	when do you start?
+H	00:08:28.899	00:08:32.827	well, I can't move before January.
+H	00:08:33.350	00:08:36.211	I have to sell the health nut and.
+E	00:08:36.853	00:08:38.204	you're moving?
+H	00:08:39.033	00:08:39.645	yes.
+E	00:08:40.059	00:08:41.658	why do you have to move?
+H	00:08:42.092	00:08:45.122	because my university is in Canada!
+E	00:08:45.802	00:08:46.750	Canada!
+E	00:08:47.401	00:08:48.437	Oh.
+F	00:08:48.792	00:08:51.674	Scott, you have so many friends here.
+F	00:08:51.881	00:08:54.052	are you sure you want to move?
+E	00:08:54.663	00:08:55.068	yeah.
+E	00:08:55.177	00:08:57.604	you could work full- time as a health nut.
+E	00:08:57.643	00:09:00.209	and maybe get a coaching job in Tampa.
+H	00:09:00.910	00:09:06.031	thanks, but this coaching job is a great opportunity for me.
+H	00:09:06.426	00:09:07.965	I think I should take it.
+F	00:09:11.162	00:09:12.198	we'll miss you, man!
+
+I	00:09:14.892	00:09:15.829	hi, Nick.
+I	00:09:16.639	00:09:19.352	oh, are you here for your art lesson?
+G	00:09:19.480	00:09:20.043	yes.
+G	00:09:20.102	00:09:21.010	isn't it today?
+I	00:09:22.214	00:09:23.437	I think so.
+I	00:09:23.704	00:09:25.746	mom probably forgot, though.
+G	00:09:25.934	00:09:26.723	again?
+I	00:09:27.631	00:09:31.420	well, she has a good excuse this time.
+G	00:09:31.864	00:09:34.272	she got fired yesterday!
+G	00:09:34.390	00:09:36.522	fired? no way!
+I	00:09:36.897	00:09:37.558	yeah.
+I	00:09:37.765	00:09:39.196	I'm worried about her.
+I	00:09:39.847	00:09:43.281	she's been in her room I since she found out.
+G	00:09:43.695	00:09:47.040	is she thinking about what she's gonna do for a living now?
+I	00:09:47.711	00:09:48.886	I guess so.
+I	00:09:49.063	00:09:51.619	she doesn't need to work for a living.
+I	00:09:51.866	00:09:53.602	dad makes enough money.
+G	00:09:53.908	00:09:57.579	hey, maybe she could be a full-time artist.
+G	00:09:58.220	00:10:00.500	you know, sell her paintings and stuff.
+I	00:10:01.092	00:10:03.115	that's not a bad idea.
+G	00:10:03.578	00:10:05.661	what would you do if you were her?
+I	00:10:06.785	00:10:11.394	I'd say, I'm glad I don't have to work anymore.
+I	00:10:11.492	00:10:15.637	now I have more time to spend with my wonderful daughter!
+G	00:10:15.735	00:10:17.067	you would!
+
+I	00:10:17.679	00:10:20.087	mom, are you ok?
+D	00:10:20.620	00:10:21.557	I am.
+D	00:10:22.139	00:10:28.514	actually, I think losing my job could be a good opportunity for me.
+G	00:10:28.790	00:10:30.665	what do you mean, mrs. Gibson?
+D	00:10:31.277	00:10:35.924	now that I've lost my job, I can do whatever I want!
+D	00:10:36.102	00:10:39.506	now I'm thinking about the future!
+I	00:10:39.842	00:10:41.430	that's great, mom!
+D	00:10:41.539	00:10:42.901	Thanks! and...
+D	00:10:44.608	00:10:50.745	when I think of the future, it makes me think of dreams I've had in the past.
+I	00:10:51.554	00:10:53.469	what's so funny, mom?
+D	00:10:53.982	00:10:57.830	well,you know how people sometimes ask you.
+D	00:10:58.176	00:11:00.958	"what do you want to be when you grow up?"
+I	00:11:01.521	00:11:02.261	yeah...
+D	00:11:02.794	00:11:09.237	well, when I was your age, I had some interesting answers to that question.
+I	00:11:09.829	00:11:10.984	like what?
+G	00:11:11.290	00:11:13.243	yeah, mrs. Gibson, tell us!
+D	00:11:13.391	00:11:20.496	well,I thought it would be fun to be a famous art teacher- on TV!
+I	00:11:21.483	00:11:22.361	really?
+I	00:11:22.667	00:11:24.492	that would be cool!
+G	00:11:24.779	00:11:27.354	you do a great job, mrs. Gibson.
+G	00:11:27.680	00:11:29.041	I'd watch your show!
+D	00:11:29.446	00:11:35.031	well,thanks, you too, but that was just a dream!
+I	00:11:35.653	00:11:39.037	what other dreams did you have when you were our age?
+D	00:11:39.235	00:11:43.991	well actually, I wanted to be a supermodel.
+G	00:11:44.504	00:11:46.497	a supermodel?!
+D	00:11:46.921	00:11:49.280	sure! why not?
+I	00:11:49.586	00:11:52.704	that really was just a dream!
+G	00:11:52.753	00:11:55.842	so what are you really going to do?
+D	00:11:56.187	00:11:57.253	well.
+D	00:11:58.259	00:12:02.068	did you see the "for sale" sign at Beauty and the Beast?
+G	00:12:02.344	00:12:03.410	yeah...
+D	00:12:03.884	00:12:06.923	I'm thinking about buying the store!
+D	00:12:15.429	00:12:18.044	Jeff just told me you lost your job!
+D	00:12:18.201	00:12:19.928	I'm so sorry!
+D	00:12:20.451	00:12:22.139	Thank You, Mia, but I'm...
+J	00:12:22.163	00:12:23.846	It'll be ok, Rita.
+G	00:12:24.033	00:12:25.617	we'll love you.
+D	00:12:28.049	00:12:30.758	Thank You, Mia, Jeff.
+I	00:12:35.021	00:12:36.609	Mia just.
+I	00:12:36.856	00:12:38.198	mom's not sad.
+I	00:12:38.484	00:12:39.461	she's ok!
+G	00:12:39.945	00:12:40.561	yeah.
+G	00:12:40.976	00:12:45.318	she's thinking about becoming the new owner of Beauty and the Beast!
+K	00:12:45.663	00:12:46.684	you are?
+D	00:12:46.877	00:12:47.553	no.
+D	00:12:48.046	00:12:52.827	I am thinking about buying the store and turning it into something different.
+G	00:12:53.068	00:12:53.735	cool.
+G	00:12:54.174	00:12:56.053	an art store?
+K	00:12:56.547	00:12:58.145	that would be fine!
+D	00:12:58.792	00:13:04.308	well, I would want my art to be in the store, but...
+J	00:13:05.127	00:13:09.330	if not an art store, then what would you turn it into?
+I	00:13:10.070	00:13:10.751	I know!
+I	00:13:11.373	00:13:12.651	an ice cream shop!
+I	00:13:13.228	00:13:16.820	that way we could have ice cream whenever we want!
+D	00:13:19.242	00:13:20.135	I don't think so.
+J	00:13:22.360	00:13:22.898	hey!
+J	00:13:22.957	00:13:25.424	you could open a hobby shop!
+K	00:13:26.258	00:13:27.190	yeah!
+K	00:13:27.314	00:13:29.465	you enjoy collecting things.
+K	00:13:29.736	00:13:32.045	a hobby shop would be perfect!
+D	00:13:32.470	00:13:37.063	well, it looks like I have some good ideas to think about.
+D	00:13:37.517	00:13:39.372	thanks, everyone!
+B	00:13:41.405	00:13:43.536	thanks for helping me clear the table.
+B	00:13:44.118	00:13:45.480	I'll do the dishes later.
+I	00:13:45.889	00:13:46.388	sure.
+E	00:13:47.922	00:13:49.412	how is your foot, Aaron?
+C	00:13:50.216	00:13:51.262	it still hurts.
+F	00:13:51.864	00:13:54.450	I hurt my foot when we were in the Amazon.
+I	00:13:54.755	00:13:55.318	really?
+F	00:13:55.871	00:13:57.854	I couldn't walk for an afternoon.
+B	00:13:58.451	00:13:59.857	only an afternoon?
+B	00:14:00.400	00:14:01.998	Aaron hasn't walked all day!
+B	00:14:02.620	00:14:04.860	he just sits there and watches TV!
+C	00:14:05.649	00:14:06.893	you want me to walk?
+C	00:14:07.559	00:14:08.304	fine!
+B	00:14:10.030	00:14:10.701	Aaron!
+B	00:14:11.353	00:14:12.626	here's another ice pack.
+B	00:14:13.099	00:14:15.359	I'm sorry I didn't believe you hurt your foot.
+C	00:14:16.750	00:14:18.221	that's ok, Becca.
+C	00:14:18.625	00:14:21.250	sometimes we don't treat each other very well.
+C	00:14:21.719	00:14:23.850	but you're still my big sister.
+B	00:14:24.462	00:14:26.169	and you're still my little brother.
+B	00:14:26.613	00:14:27.925	you're not a bad kid.
+C	00:14:28.655	00:14:29.534	thanks, sis.
+C	00:14:30.940	00:14:31.700	you know what?
+B	00:14:32.213	00:14:32.844	what?
+C	00:14:33.515	00:14:35.380	a lot of my friends think you're pretty.
+B	00:14:35.425	00:14:37.270	I don't want your friends to like me.
+C	00:14:39.391	00:14:40.260	don't worry.
+C	00:14:40.768	00:14:42.944	I tell them about all of our fights.
+C	00:14:43.398	00:14:46.496	they know you can be both nice and...
+B	00:14:47.369	00:14:48.075	and what?
+C	00:14:49.091	00:14:50.260	well...
+B	00:14:51.173	00:14:52.273	I understand.
+B	00:14:52.673	00:14:55.485	I guess we both need to work on our relationship.
+C	00:14:56.640	00:14:57.429	you're right.
+B	00:14:58.712	00:15:02.067	so how can we have a better relationship?
+C	00:15:03.527	00:15:05.846	we should try to understand each other.
+B	00:15:06.798	00:15:07.627	you're right.
+C	00:15:09.320	00:15:12.946	and we shouldn't tell each other what to do.
+B	00:15:14.308	00:15:15.043	ok.
+C	00:15:16.523	00:15:20.810	so now that we've talked, I want to be honest.
+B	00:15:21.126	00:15:22.083	about what?
+C	00:15:23.179	00:15:25.369	I didn't really hurt my foot.
+B	00:15:25.527	00:15:26.208	what?
+C	00:15:27.027	00:15:28.675	but now I feel really sorry.
+C	00:15:29.321	00:15:32.346	I just don't like it when you tell me what to do.
+B	00:15:32.829	00:15:35.266	so you lied about your foot?
+C	00:15:35.735	00:15:36.470	yes.
+C	00:15:36.717	00:15:37.457	sorry.
+B	00:15:39.204	00:15:40.363	I'm sorry, too.
+C	00:15:42.332	00:15:44.290	I think I'll go wash the dishes now.
+B	00:15:45.825	00:15:46.446	thank you.
+
+C	00:15:48.380	00:15:52.579	Wow, are you two going to eat all that food?
+B	00:15:52.914	00:15:53.526	Aaron!
+J	00:15:54.839	00:15:58.623	no. some of me as friends from work are coming over.
+J	00:15:58.978	00:16:00.601	their families live far away.
+C	00:16:01.608	00:16:04.578	that's nice of you to invite them for Thanksgiving.
+J	00:16:05.219	00:16:09.265	well, Thanksgiving is a time to think about our blessings.
+J	00:16:09.734	00:16:12.536	and we should share those blessings with others!
+B	00:16:13.587	00:16:15.309	mia, you're really quiet.
+B	00:16:15.713	00:16:17.277	are you feeling ok?
+K	00:16:17.682	00:16:18.343	yes.
+K	00:16:18.304	00:16:20.771	but Jeff won't let me do anything!
+J	00:16:22.705	00:16:25.349	well, honey, you're pregnant.
+J	00:16:25.433	00:16:26.770	you need to rest.
+K	00:16:26.943	00:16:28.364	I'm not tired!
+J	00:16:28.862	00:16:30.544	I know but.
+K	00:16:31.640	00:16:33.593	I'm going to get ready for dinner.
+C	00:16:37.121	00:16:38.552	what's wrong with Mia?
+B	00:16:38.838	00:16:41.586	yeah, she's usually pretty happy.
+J	00:16:42.080	00:16:44.537	well, she's pregnant.
+J	00:16:44.680	00:16:47.048	her mood changes a lot.
+B	00:16:47.245	00:16:49.559	oh, ok.
+B	00:16:50.418	00:16:51.676	well, we better go.
+B	00:16:52.105	00:16:53.018	see you later!
+C	00:16:53.753	00:16:54.646	happy "turkey day"!
+J	00:16:55.001	00:16:55.593	bye!
+K	00:17:01.252	00:17:01.839	bye!
+K	00:17:01.869	00:17:03.201	thanks for coming!
+J	00:17:09.788	00:17:11.949	how are you feeling? tired?
+K	00:17:12.087	00:17:13.754	yes, but I'm happy.
+J	00:17:14.327	00:17:14.825	good.
+K	00:17:16.458	00:17:18.816	I know I was really moody earlier.
+K	00:17:18.915	00:17:19.808	I'm sorry.
+J	00:17:20.321	00:17:21.338	it's ok.
+K	00:17:22.418	00:17:25.531	I'm glad we talked about our blessings during dinner.
+K	00:17:25.872	00:17:28.640	it helped me remember everything I'm grateful for.
+J	00:17:28.975	00:17:29.819	me too.
+J	00:17:30.391	00:17:32.074	I'm thankful for you, Mia!
+K	00:17:33.193	00:17:36.780	I can't thank you enough for making that wonderful dinner!
+K	00:17:36.988	00:17:38.774	everyone really enjoyed it.
+J	00:17:38.922	00:17:40.027	no problem.
+J	00:17:40.545	00:17:43.944	thank you for being good and letting me do everything.
+J	00:17:44.739	00:17:46.184	it wasn't easy.
+K	00:17:46.421	00:17:49.741	but I know you're just taking care of baby and me.
+J	00:17:50.378	00:17:51.340	that's right.
+J	00:17:51.399	00:17:57.152	remember you need to let other people help you.
+J	00:17:57.981	00:17:59.643	I say that a lot, don't I?
+K	00:18:00.911	00:18:05.140	I really appreciate you being so patient with me lately.
+J	00:18:05.613	00:18:07.059	it's ok.
+J	00:18:07.202	00:18:09.348	I know being pregnant isn't easy.
+J	00:18:10.143	00:18:13.068	how can I ever thank you for carrying our baby?
+K	00:18:13.320	00:18:14.460	I'm glad to.
+J	00:18:16.255	00:18:19.823	you're really getting excited about this baby, too, aren't you?
+K	00:18:20.390	00:18:23.691	I am... when I'm not in a bad mood!
+K	00:18:24.164	00:18:26.424	but I won't be moody forever.
+J	00:18:27.258	00:18:29.966	now that's what I'm most thankful for!
+
+D	00:18:38.531	00:18:41.709	what are you three cheering about?
+D	00:18:41.896	00:18:43.455	you're very loud!
+D	00:18:43.761	00:18:45.962	I can hear you in my office!
+G	00:18:46.046	00:18:47.388	sorry, Rita.
+C	00:18:47.733	00:18:49.835	we're playing a game on the computer.
+D	00:18:51.182	00:18:54.236	Jeff, shouldn't you be working?
+J	00:18:54.625	00:18:57.758	oh,right,well.
+J	00:18:58.775	00:19:01.074	it's almost five o'clock.
+J	00:19:01.404	00:19:03.506	let's all just have some fun!
+D	00:19:04.064	00:19:07.187	ok,what game are you playing?
+G	00:19:08.297	00:19:10.280	we're having a dunk contest.
+D	00:19:10.330	00:19:11.869	on the computer?
+C	00:19:12.367	00:19:13.063	yeah!
+C	00:19:13.246	00:19:14.583	it's a lot of fun.
+G	00:19:14.760	00:19:16.744	I want our first contest.
+G	00:19:16.793	00:19:18.456	but Jeff is winning this one.
+D	00:19:20.089	00:19:21.070	let me try.
+D	00:19:22.373	00:19:23.518	what do I do?
+J	00:19:24.277	00:19:27.578	Rita,our contest isn't over yet.
+C	00:19:28.210	00:19:31.106	maybe you should watch Jeff first.
+G	00:19:31.274	00:19:33.168	then we'll teach you,ok?
+D	00:19:33.375	00:19:35.265	well,alright.
+D	00:19:35.497	00:19:37.253	I'll watch you play.
+J	00:19:37.757	00:19:40.786	I'm always Josh Smith for our dunk contest.
+J	00:19:41.111	00:19:42.883	he plays for the Atlanta Hawks.
+G	00:19:43.588	00:19:46.386	he won the NBA dunk contest this year!
+C	00:19:47.284	00:19:49.134	he dunks really well.
+C	00:19:49.627	00:19:51.887	but his team is bad!
+J	00:19:52.553	00:19:53.698	that's true.
+J	00:19:54.073	00:19:55.952	the Hawks aren't very good.
+D	00:19:56.041	00:19:58.321	show me how to dunk!
+J	00:19:58.814	00:20:00.481	ok,watch me.
+J	00:20:04.325	00:20:05.090	I win!
+D	00:20:05.608	00:20:06.960	that looks easy.
+D	00:20:07.014	00:20:08.232	let me try.
+C	00:20:13.679	00:20:14.513	wow!
+C	00:20:15.209	00:20:16.852	you're good, rita!
+D	00:20:17.750	00:20:18.445	Thanks!
+J	00:20:19.235	00:20:22.822	Oh Rita, you beat us again!
+G	00:20:22.876	00:20:25.293	you learned how to dunk really quickly.
+D	00:20:25.545	00:20:29.023	I guess I'm just a great dunker.
+C	00:20:29.601	00:20:33.252	well, you're good at dunking on the computer.
+J	00:20:33.597	00:20:35.773	anyone can dunk on the computer.
+J	00:20:36.508	00:20:39.823	let's have a real dunk contest.
+C	00:20:40.756	00:20:42.621	count us in!
+D	00:20:43.262	00:20:45.315	a dunk contest?
+D	00:20:45.458	00:20:48.171	with a real basketball?
+D	00:20:48.438	00:20:50.150	I don't know...
+
+G	00:21:00.669	00:21:03.604	Rita, I can't believe you're winning!
+J	00:21:03.910	00:21:06.032	you two keep giving her points!
+J	00:21:06.387	00:21:07.916	that's why she's winning!
+C	00:21:08.336	00:21:11.306	she's winning because she's good.
+J	00:21:11.350	00:21:13.541	how can she be so good?
+G	00:21:13.620	00:21:15.381	she's miss Michael Jordan!
+D	00:21:15.485	00:21:19.392	Jeff, do you remember what happened last year!
+J	00:21:19.787	00:21:23.320	what are you talking about?
+D	00:21:23.586	00:21:26.902	you and Scott lost a game last year.
+G	00:21:27.346	00:21:29.487	don't you remember?
+C	00:21:29.941	00:21:30.839	what happened?
+G	00:21:30.888	00:21:34.554	Jeff and Scott loss to live and Mandy.
+C	00:21:35.846	00:21:37.085	who is Mandy?
+D	00:21:38.511	00:21:40.701	Amber's best friend.
+J	00:21:41.081	00:21:43.800	she shoots the ball really well.
+C	00:21:43.918	00:21:47.766	Jeff, you lost to two girls?
+J	00:21:48.344	00:21:52.498	well, you're using to a girl right now!
+C	00:21:52.898	00:21:54.511	I can still win.
+C	00:21:54.693	00:21:56.499	I have one more dunk.
+J	00:21:57.708	00:21:59.973	I just need to make this.
+C	00:22:03.446	00:22:05.883	NO!
+G	00:22:05.918	00:22:07.176	I WIN!
+

@@ -1,0 +1,447 @@
+A	00:00:03.120	00:00:04.070	what time is it?
+B	00:00:04.080	00:00:05.680	it's just after eight.
+A	00:00:05.680	00:00:06.560	oh, no!
+B	00:00:06.560	00:00:07.749	don't worry!
+A	00:00:07.759	00:00:09.440	oh, do i look good?
+B	00:00:09.440	00:00:11.350	you look terrific!
+B	00:00:11.360	00:00:13.519	now, tell me about this date.
+B	00:00:13.519	00:00:17.039	will you have a nice little table for two?
+A	00:00:17.039	00:00:19.830	i think Chan is also asking two of his friends.
+B	00:00:19.840	00:00:21.830	oh, the more the merrier!
+B	00:00:21.840	00:00:23.519	what will you eat?
+A	00:00:23.519	00:00:25.439	it's an Indian restaurant.
+A	00:00:25.439	00:00:27.400	I'll probably order a curry.
+B	00:00:27.400	00:00:28.950	delicious!
+B	00:00:28.960	00:00:31.359	I adore Indian cooking.
+A	00:00:31.359	00:00:32.310	do you?
+A	00:00:32.320	00:00:35.430	do you recommend i try anything special?
+B	00:00:35.440	00:00:38.320	why don't you try a biryani?
+A	00:00:38.320	00:00:40.310	what is a biryani exactly?
+B	00:00:40.320	00:00:43.430	it's a fabulous rice dish.
+B	00:00:43.440	00:00:46.800	it's a bit similar to your spanish paella.
+A	00:00:46.800	00:00:49.520	that sounds good!
+B	00:00:49.520	00:00:52.559	and will you have something to drink?
+A	00:00:52.559	00:00:54.709	i'd like some wine tonight.
+B	00:00:54.719	00:00:56.960	do you like white or red wine?
+A	00:00:56.960	00:00:58.389	it depends on the curry.
+B	00:00:58.399	00:01:01.510	very sensible!
+B	00:01:01.520	00:01:03.199	now don't drink too much.
+A	00:01:03.199	00:01:04.213	no, no, i won't.
+A	00:01:04.213	00:01:07.990	i'll only have one or two glasses.
+A	00:01:08.000	00:01:10.400	oh, i'm nervous for the time!
+B	00:01:10.400	00:01:12.960	don't be nervous about the time.
+B	00:01:12.960	00:01:15.270	you have loads of time.
+B	00:01:15.280	00:01:16.560	let's see...
+B	00:01:16.560	00:01:18.390	oh, my heavens!
+B	00:01:18.400	00:01:19.439	eight ten
+A	00:01:19.439	00:01:20.659	i'm going to be late!
+B	00:01:20.659	00:01:21.749	no, you're not.
+B	00:01:21.759	00:01:27.990	i will call the very nice mini-cab and he will be here in no time.
+B	00:01:28.000	00:01:29.119	hello?
+B	00:01:29.119	00:01:32.630	yes, good evening.
+B	00:01:32.640	00:01:36.390	yes, this is agatha johnson here.
+B	00:01:36.400	00:01:39.670	fine, thank you.
+B	00:01:39.680	00:01:42.399	how are you?
+B	00:01:42.399	00:01:45.109	glad to hear it.
+B	00:01:45.119	00:01:46.159	yes.
+B	00:01:46.159	00:01:48.880	can you send one of your best drivers?
+B	00:01:48.880	00:01:49.920	that's right.
+B	00:01:49.920	00:01:52.799	Chesworth gardens, number seven.
+B	00:01:52.799	00:01:55.520	ask him to ring the bell.
+B	00:01:55.520	00:01:59.030	how long will it be?
+B	00:01:59.040	00:02:00.719	okay, thanks.
+B	00:02:00.719	00:02:02.230	good evening.
+A	00:02:02.240	00:02:03.360	how long will it be?
+B	00:02:03.360	00:02:08.229	she says the cab will be here in five minutes.
+B	00:02:08.239	00:02:10.319	you look like a model.
+A	00:02:10.319	00:02:11.910	thanks.
+A	00:02:11.920	00:02:15.030	uh, how much do you think the cab fare will be?
+B	00:02:15.040	00:02:18.150	probably around ten quid.
+A	00:02:18.160	00:02:18.800	quid?
+B	00:02:18.800	00:02:20.160	oh, pounds.
+B	00:02:20.160	00:02:21.430	do you have enough money with you?
+A	00:02:21.440	00:02:22.319	yes, thanks.
+B	00:02:23.200	00:02:24.869	oh, there he is now.
+A	00:02:24.879	00:02:26.080	okay!
+A	00:02:26.080	00:02:26.640	bye!
+A	00:02:26.640	00:02:27.200	see you!
+B	00:02:27.200	00:02:27.840	night, night!
+B	00:02:27.840	00:02:38.150	have a good time!
+B	00:02:38.160	00:02:46.869	Harold? oh, i miss you...
+
+B	00:02:46.879	00:02:48.640	at last!
+B	00:02:48.640	00:02:50.070	you had a long sleep!
+A	00:02:50.080	00:02:51.360	yes.
+A	00:02:51.360	00:02:52.800	what's the time?
+B	00:02:52.800	00:02:57.110	it's almost twelve thirty
+A	00:02:57.120	00:02:59.519	it is so nice to sleep!
+B	00:02:59.519	00:03:01.910	yes!
+B	00:03:01.920	00:03:04.159	and what about last night?
+B	00:03:04.159	00:03:06.959	tell me everything.
+A	00:03:06.959	00:03:14.390	there were four of us: Chang, his friend jerry and jerry's girlfriend, Kate.
+B	00:03:14.400	00:03:15.360	oh!
+B	00:03:15.360	00:03:16.959	is Kate nice?
+A	00:03:16.959	00:03:20.080	yes, she's very nice, very funny.
+A	00:03:20.080	00:03:22.800	she's at nursing school.
+B	00:03:22.800	00:03:26.390	oh, how old is she?
+A	00:03:26.400	00:03:29.360	she is twenty
+B	00:03:29.360	00:03:32.799	and what about your dinner?
+A	00:03:32.799	00:03:34.720	i like Indian food!
+A	00:03:34.720	00:03:35.780	it is very...
+A	00:03:38.400	00:03:39.760	how do you say this?
+A	00:03:40.640	00:03:41.082	yes.
+B	00:03:41.082	00:03:42.710	spicy!
+B	00:03:42.720	00:03:47.840	yes, Indian food can be hot and spicy.
+A	00:03:47.840	00:03:51.519	and we had some white wine from Kent!
+A	00:03:51.519	00:03:54.159	white wine with... gas?
+B	00:03:54.159	00:03:55.750	sparkling wine!
+A	00:03:55.760	00:03:56.799	oh.
+B	00:03:56.799	00:04:02.959	yes, England does have some very good sparkling wines.
+A	00:04:02.959	00:04:06.000	jerry and Kate only speak English.
+B	00:04:06.000	00:04:08.309	that's good practice for you!
+A	00:04:08.319	00:04:12.560	yes, but it's very difficult and very tiring.
+B	00:04:12.560	00:04:17.430	well, you see we have coffee! huh...
+B	00:04:17.440	00:04:20.079	i need to ask your opinion about something.
+A	00:04:20.079	00:04:22.629	yes.
+B	00:04:22.639	00:04:25.670	Harold says i should get a job, too.
+A	00:04:25.680	00:04:27.120	you want a job?
+B	00:04:27.120	00:04:30.880	well, it gets lonely here during the day.
+B	00:04:30.880	00:04:34.790	victor and you are both at school.
+B	00:04:34.800	00:04:37.759	you have a fun job at the video store.
+A	00:04:37.759	00:04:40.469	oh, you want to work at the video store, too?
+B	00:04:40.479	00:04:48.240	no, i want to work as a salesperson, selling accessories and... and clothes.
+A	00:04:48.240	00:04:48.880	oh!
+A	00:04:48.880	00:04:49.967	you're good at that!
+B	00:04:49.967	00:04:51.040	you think so?
+A	00:04:51.040	00:04:51.830	yes!
+A	00:04:51.840	00:04:53.520	will you work in a boutique?
+B	00:04:53.520	00:04:57.520	no, i'd like to work in a big store, a department store.
+A	00:04:57.520	00:04:58.720	oh!
+B	00:04:58.720	00:05:00.665	see, i'm a good shopper.
+B	00:05:00.665	00:05:03.680	i think i'll be a good seller, too.
+A	00:05:03.680	00:05:05.039	you will be excellent!
+B	00:05:05.039	00:05:10.230	help me practice my sales pitch before you leave for work and before victor gets home.
+A	00:05:10.240	00:05:12.960	what time does victor get home?
+B	00:05:12.960	00:05:16.240	he should be back around six.
+A	00:05:16.240	00:05:16.960	okay.
+B	00:05:16.960	00:05:21.280	this is the company i'm going to apply to: churchills.
+B	00:05:21.280	00:05:24.400	they sell very nice women's clothing.
+B	00:05:24.400	00:05:31.909	and i should get a big discount myself!
+B	00:05:31.919	00:05:36.830	can i help you madam?
+A	00:05:36.840	00:05:41.590	um... no thanks, i'm just looking.
+B	00:05:41.600	00:05:44.629	why don't you try on this dress?
+B	00:05:44.639	00:05:46.880	it suits you!
+A	00:05:46.880	00:05:50.639	it is a pretty dress but it's too big.
+B	00:05:50.639	00:05:55.909	oh, madam, we have it in smaller sizes!
+A	00:05:55.919	00:05:58.560	do you have it in another color?
+B	00:05:58.560	00:06:04.000	it comes in blue, green and pink.
+A	00:06:04.000	00:06:05.350	how much is it?
+B	00:06:05.360	00:06:07.840	madam, it's on sale.
+B	00:06:07.840	00:06:11.590	it's only fourty-two pounds!
+A	00:06:11.600	00:06:13.360	okay, i'll take it.
+B	00:06:13.360	00:06:15.430	very good choice, madam!
+A	00:06:15.440	00:06:16.000	see?
+A	00:06:16.000	00:06:18.400	you're a natural sales person!
+B	00:06:18.400	00:06:21.590	i'm going to apply at churchill's tomorrow.
+A	00:06:21.600	00:06:22.639	oh, okay.
+B	00:06:22.639	00:06:24.240	don't say anything to victor.
+A	00:06:24.240	00:06:25.110	no, i won't.
+B	00:06:25.120	00:06:26.560	i wanna to surprise him.
+A	00:06:26.560	00:06:31.189	okay!
+
+C	00:06:31.199	00:06:32.259	hello.
+A	00:06:32.259	00:06:34.390	hello.
+C	00:06:34.400	00:06:36.080	how are your classes?
+A	00:06:36.080	00:06:37.360	good, thank you.
+A	00:06:37.360	00:06:39.670	how is your art school?
+C	00:06:39.680	00:06:40.925	oh, it's okay.
+C	00:06:40.925	00:06:42.240	i had a test today.
+A	00:06:42.240	00:06:43.830	a test?
+C	00:06:43.840	00:06:46.319	a test in art history.
+C	00:06:46.319	00:06:50.070	that's interesting!
+B	00:06:50.080	00:06:51.599	what about me?
+B	00:06:51.599	00:06:53.589	what about my day?
+C	00:06:53.599	00:06:56.080	oh, aggie, dear!
+C	00:06:56.080	00:06:57.830	how was your day?
+C	00:06:57.840	00:06:59.440	betty take you shopping?
+B	00:06:59.440	00:07:01.110	no, actually.
+B	00:07:01.120	00:07:02.560	no shopping.
+C	00:07:02.560	00:07:04.790	no shopping!
+C	00:07:04.800	00:07:07.599	what on earth happened?
+B	00:07:07.599	00:07:10.230	i got a job.
+C	00:07:10.240	00:07:11.840	where?
+C	00:07:11.840	00:07:13.039	when?
+C	00:07:13.039	00:07:14.870	doing what?
+C	00:07:14.880	00:07:17.280	how?
+C	00:07:17.280	00:07:19.029	when do you start?
+B	00:07:19.039	00:07:20.960	i start the day after tomorrow.
+B	00:07:20.960	00:07:24.840	i'm working ten till five Monday to Friday.
+A	00:07:24.840	00:07:26.230	congratulations!
+B	00:07:26.240	00:07:30.550	Mr James is my supervisor, very nice man, a real gentleman.
+C	00:07:30.560	00:07:31.919	where are you working?
+B	00:07:31.919	00:07:34.870	Churchill's, off St James park.
+B	00:07:34.880	00:07:38.639	i'm a sales assistant in the ladies department.
+C	00:07:38.639	00:07:39.919	well, that's handy.
+C	00:07:39.919	00:07:41.909	you can take the circle line.
+C	00:07:41.919	00:07:43.280	does Harold know?
+B	00:07:43.280	00:07:45.589	it was his idea.
+C	00:07:45.599	00:07:47.520	is this a permanent job?
+B	00:07:47.520	00:07:50.230	i'm working over the christmas period.
+B	00:07:50.240	00:07:52.080	they need more staff.
+B	00:07:52.080	00:07:57.270	Mr James says perhaps i can stay on after the holidays.
+A	00:07:57.280	00:07:59.360	good!
+B	00:07:59.360	00:08:02.070	what are your plans for the holidays, Elena?
+B	00:08:02.080	00:08:04.000	will you spend Christmas with us?
+C	00:08:04.000	00:08:06.390	yes, please elena.
+A	00:08:06.400	00:08:10.960	i'd love to but my classes finish on the twenty-first 
+B	00:08:11.199	00:08:14.000	i have christmas day and boxing day off.
+B	00:08:14.000	00:08:16.000	i'll cook a turkey.
+A	00:08:16.000	00:08:21.990	that is very kind but my return ticket is for the twenty-third
+B	00:08:22.000	00:08:24.720	it just seems so soon.
+B	00:08:24.720	00:08:28.160	oh dear!
+B	00:08:28.160	00:08:30.469	perhaps the weather will be bad.
+B	00:08:30.479	00:08:33.279	london is famous for its fog.
+B	00:08:33.279	00:08:38.080	maybe your flight home will be delayed or... or cancelled!
+B	00:08:38.080	00:08:40.399	they could close the airport!
+B	00:08:40.399	00:08:42.070	you simply can't go.
+C	00:08:42.080	00:08:45.509	Agatha, Elena's here for eight weeks.
+A	00:08:45.519	00:08:47.279	i'm not going yet!
+B	00:08:47.279	00:08:48.949	well, we'll see.
+B	00:08:48.959	00:08:50.959	victor, what about your classes?
+C	00:08:50.959	00:08:56.470	uh, we finish up this year on December twenty-first after my final exams.
+B	00:08:56.480	00:08:59.350	what day of the week is new year's eve?
+C	00:08:59.360	00:09:03.670	it's monday this year.
+B	00:09:03.680	00:09:11.240	oh, it's so sad! everything ends...
+B	00:09:12.959	00:09:15.680	let's take a photo of Elena.
+B	00:09:15.680	00:09:18.320	oh, elena and victor together...
+C	00:09:18.320	00:09:19.405	oh, Agatha!
+B	00:09:19.405	00:09:20.819	smiles!
+C	00:09:20.819	00:09:21.460	Please no!
+B	00:09:21.460	00:09:22.303	Smile!
+B	00:09:23.092	00:09:23.537	There!
+A	00:09:24.160	00:09:25.920	can i take a photo of you, agatha?
+B	00:09:25.920	00:09:27.034	oh, dear, no!
+A	00:09:27.034	00:09:28.710	oh, please!
+B	00:09:28.720	00:09:29.680	okay.
+A	00:09:29.680	00:09:30.245	thank you.
+B	00:09:38.240	00:09:40.880	what are your plans for today, Elena?
+A	00:09:40.880	00:09:43.519	uh, i only have two classes before lunch.
+A	00:09:43.519	00:09:45.110	then i'm free all afternoon.
+B	00:09:45.120	00:09:47.839	oh, you are lucky!
+A	00:09:47.839	00:09:49.990	don't you like your job?
+B	00:09:50.000	00:09:54.389	like it? i adore it!
+B	00:09:54.399	00:09:58.800	mr james says i'm his best sales assistant!
+B	00:09:58.800	00:10:02.230	and what will you do with your afternoon?
+C	00:10:02.240	00:10:05.910	there's a fantastic Kubrick festival on.
+C	00:10:05.920	00:10:09.990	two thousand and one a space odyssey is playing at the Odeon multiplex.
+A	00:10:10.000	00:10:11.519	where is the odeon?
+C	00:10:11.519	00:10:14.069	it's on tottenham court road.
+B	00:10:14.079	00:10:16.399	that's a brilliant film!
+B	00:10:16.399	00:10:19.440	i adore roddy mcdowell!
+C	00:10:19.440	00:10:21.839	you mean malcolm mcdowell!
+C	00:10:21.839	00:10:23.910	and he's not in two thousand and one
+C	00:10:23.920	00:10:25.760	the star is kier Dullea.
+B	00:10:25.760	00:10:26.800	exactly!
+B	00:10:26.800	00:10:28.959	he's such a doll!
+A	00:10:28.959	00:10:30.870	what kind of movie is it?
+C	00:10:30.880	00:10:32.560	it's a science fiction.
+C	00:10:32.560	00:10:34.550	now you must see it.
+A	00:10:34.560	00:10:37.829	do you know what time the shows are?
+C	00:10:37.839	00:10:44.470	no, but we can look in the paper.
+C	00:10:44.480	00:10:51.750	there are shows at one thirty-five three fourty-five and five fifty-five
+A	00:10:51.760	00:10:53.440	is it a long film?
+C	00:10:53.440	00:10:57.190	it runs one hundred and sixty minutes...
+C	00:10:57.200	00:10:58.897	yes, nearly three hours.
+C	00:10:58.897	00:11:01.030	what time do you finish class?
+A	00:11:01.040	00:11:03.120	at twelve thirty
+C	00:11:03.120	00:11:05.910	well you could make the show at one thirty-five
+A	00:11:05.920	00:11:08.240	yes, but i need to go to the bank today, too.
+A	00:11:08.240	00:11:10.470	i have my first pay cheque.
+C	00:11:10.480	00:11:13.750	ah, you need to cash your cheque.
+A	00:11:13.760	00:11:16.880	yes, and i want to send some money home, too.
+A	00:11:16.880	00:11:19.920	it's my little brother's birthday next week.
+C	00:11:19.920	00:11:23.829	well, you should be able to make the banks before they close at five.
+C	00:11:23.839	00:11:27.120	just go to the nearest bank to the cinema.
+A	00:11:27.120	00:11:27.760	okay.
+C	00:11:27.760	00:11:32.320	and don't forget to bring your passport, you'll need it for identification.
+C	00:11:32.320	00:11:35.190	you'll need to fill in a money transfer.
+B	00:11:35.200	00:11:37.750	are you taking elena to the movies?
+C	00:11:37.760	00:11:38.640	no, Agatha.
+C	00:11:38.640	00:11:41.910	i'm studying for my final exam.
+C	00:11:41.920	00:11:43.190	enjoy yourself!
+A	00:11:43.200	00:11:43.735	thank you.
+A	00:11:43.735	00:11:44.880	i will.
+B	00:11:44.880	00:11:47.030	yes, enjoy your movie.
+A	00:11:47.040	00:11:49.440	i'm also going to send some money home.
+A	00:11:49.440	00:11:51.839	i got my first pay cheque yesterday.
+B	00:11:51.839	00:11:53.910	oh, wonderful!
+B	00:11:53.920	00:11:59.440	what's the exchange rate for pounds to... pesos?
+A	00:12:00.000	00:12:02.389	spain has euro currency...
+B	00:12:02.399	00:12:03.839	of course you do!
+B	00:12:03.839	00:12:05.360	how silly of me!
+B	00:12:05.360	00:12:06.515	have a good day!
+A	00:12:06.515	00:12:07.455	thanks.
+A	00:12:22.959	00:12:25.600	yes, mr charles?
+A	00:12:25.600	00:12:28.550	this is Elena fuentes.
+A	00:12:28.560	00:12:31.670	yes, the teacup.
+A	00:12:31.680	00:12:34.160	is it ready?
+A	00:12:34.160	00:12:39.110	okay, i'll pick it up in the afternoon.
+A	00:12:39.120	00:12:40.480	thanks.
+A	00:12:40.480	00:12:41.107	bye.
+A	00:12:41.110	00:12:41.931	bye bye.
+
+B	00:12:52.560	00:12:53.440	elena!
+B	00:12:53.440	00:12:54.240	help!
+B	00:12:54.240	00:12:55.935	there is a big problem!
+A	00:12:55.935	00:12:57.760	what's wrong?
+B	00:12:57.760	00:12:59.839	that teacup...
+A	00:12:59.839	00:13:00.949	yes?
+B	00:13:00.959	00:13:04.870	that horrible, ugly tea set!
+A	00:13:04.880	00:13:05.519	but i...
+B	00:13:05.920	00:13:09.430	betty gave it to me as a birthday present.
+B	00:13:09.440	00:13:11.120	i hate that tea set!
+B	00:13:11.120	00:13:11.839	you do?
+B	00:13:11.839	00:13:13.910	i had hoped it was disappearing.
+B	00:13:13.920	00:13:16.230	yesterday, one of the cups was missing...
+A	00:13:16.240	00:13:16.880	yes?
+B	00:13:16.880	00:13:22.870	and now today the teacup is back!
+B	00:13:22.880	00:13:26.069	Elena, sweetie, are you okay?
+B	00:13:26.079	00:13:27.760	oh, the bathroom!
+A	00:13:27.760	00:13:28.976	what about the bathroom?
+B	00:13:28.976	00:13:31.432	there's a lot of water on the floor!
+C	00:13:40.560	00:13:41.360	hi!
+A	00:13:41.360	00:13:42.720	hi.
+C	00:13:42.720	00:13:44.389	are you all right?
+A	00:13:44.399	00:13:47.509	i have a headache and a stomachache.
+C	00:13:47.519	00:13:49.600	oh, you poor girl!
+C	00:13:49.600	00:13:51.430	maybe you have the flu.
+B	00:13:51.440	00:13:55.030	victor, what did you ask Elena?
+B	00:13:55.040	00:13:57.279	did she say no?
+C	00:13:57.279	00:13:58.266	stop it, aggie!
+C	00:13:58.266	00:13:59.920	elena isn't well.
+B	00:13:59.920	00:14:04.310	what's wrong?
+B	00:14:04.320	00:14:06.000	oh, my poor darling.
+B	00:14:06.000	00:14:07.750	you feel hot.
+B	00:14:07.760	00:14:09.440	she has a slight temperature.
+C	00:14:09.440	00:14:11.670	she says she has stomachache, too.
+B	00:14:11.680	00:14:13.145	she needs to lie down.
+C	00:14:21.120	00:14:25.110	maybe i'll go to the chemists and get something for her headache.
+B	00:14:25.120	00:14:26.418	yes, good idea.
+C	00:14:26.418	00:14:26.626	okay...
+B	00:14:26.626	00:14:30.310	and when you get back you can fix the bathroom?
+C	00:14:30.320	00:14:31.590	what's the matter with the bathroom?
+B	00:14:31.600	00:14:33.430	there's a leak under the sink...
+B	00:14:33.440	00:14:34.560	a big leak!
+C	00:14:34.560	00:14:35.440	oh, no!
+B	00:14:35.440	00:14:37.189	i turned off the water.
+C	00:14:37.199	00:14:40.949	okay i'll be back soon.
+B	00:14:40.959	00:14:42.382	i'll make some tea.
+C	00:14:46.079	00:14:46.880	agatha?
+B	00:14:46.880	00:14:48.079	yes?
+C	00:14:48.079	00:14:50.560	betty's ugly teacup is back.
+B	00:14:50.560	00:14:52.160	i know.
+B	00:14:52.160	00:15:07.829	it's strange, isn't it?
+A	00:15:09.199	00:15:13.910	victor and elena...
+A	00:15:13.920	00:15:17.670	victor and lala...
+A	00:15:17.680	00:15:19.279	malika.
+A	00:15:19.279	00:15:21.509	amira.
+A	00:15:21.519	00:15:22.628	falinca.
+A	00:15:22.628	00:15:24.129	michau.
+A	00:15:26.630	00:15:27.665	katiushka.
+B	00:15:28.639	00:15:30.800	how are you feeling today?
+A	00:15:30.800	00:15:32.710	oh, much better, thank you.
+B	00:15:32.720	00:15:34.959	i'm so glad.
+A	00:15:35.600	00:15:37.030	who are these girls?
+B	00:15:37.040	00:15:38.800	which girls, elena?
+B	00:15:38.800	00:15:40.629	the girls in the book.
+B	00:15:40.639	00:15:42.880	oh, them!
+B	00:15:42.880	00:15:45.430	girls we know.
+B	00:15:45.440	00:15:47.360	she's a good friend of mine.
+B	00:15:47.360	00:15:49.440	her name is lala.
+A	00:15:49.440	00:15:50.240	lala?
+B	00:15:50.240	00:15:52.790	yes, you didn't hear about lala?
+B	00:15:52.800	00:15:54.240	she's turkish.
+A	00:15:54.240	00:15:55.910	no, i don't think so.
+B	00:15:55.920	00:15:59.590	lala stayed with us last year for a couple of months.
+A	00:15:59.600	00:16:01.600	and where is lala now?
+B	00:16:01.600	00:16:03.759	lala's back in turkey.
+B	00:16:03.759	00:16:08.310	she has a nice little flat in the center of ankara.
+A	00:16:08.320	00:16:10.800	oh, and she's malika.
+A	00:16:10.800	00:16:12.310	she's swedish.
+A	00:16:12.320	00:16:14.959	oh, and what does malika do?
+B	00:16:14.959	00:16:19.670	malika is an airline hostess now. lovely girl!
+B	00:16:19.680	00:16:27.509	she has gorgeous, blonde hair and the bluest eyes.
+C	00:16:27.519	00:16:34.870	the bathroom sink is okay for now but we really should call a plumber.
+C	00:16:34.880	00:16:35.346	oh.
+C	00:16:38.399	00:16:41.590	that's agatha's almost' album.
+A	00:16:41.600	00:16:42.480	sorry?
+C	00:16:42.480	00:16:48.629	agatha invites foreign students to stay here and then tries to marry them off to me.
+C	00:16:48.639	00:16:51.279	it's her biggest project.
+C	00:16:51.279	00:16:52.550	right, Aggie?
+B	00:16:52.560	00:16:56.389	well, it would be nice!
+C	00:16:56.399	00:17:00.389	don't worry elena, i promise you they're all still living!
+A	00:17:00.399	00:17:01.199	of course!
+B	00:17:01.199	00:17:05.750	of course they are!
+
+C	00:17:05.760	00:17:06.959	good morning!
+B	00:17:06.959	00:17:07.686	morning!
+A	00:17:07.686	00:17:08.664	good morning
+A	00:17:10.079	00:17:14.319	so, is it okay to visit you at work that would be lovely!
+B	00:17:14.319	00:17:17.120	i can show you the new scarf collection!
+C	00:17:17.120	00:17:18.720	oh, are there any left?
+C	00:17:18.720	00:17:19.760	you didn't buy them all?
+B	00:17:19.760	00:17:21.350	oh, don't be silly!
+B	00:17:21.360	00:17:23.679	i only have three or four.
+A	00:17:23.679	00:17:26.309	is churchill's a very big store?
+C	00:17:26.319	00:17:28.000	yes it's a huge.
+C	00:17:28.000	00:17:30.390	it's one of the oldest in london.
+B	00:17:30.400	00:17:32.640	it's got five floors.
+B	00:17:32.640	00:17:36.960	and anyway, i'd be crazy not to use my staff discount.
+C	00:17:36.960	00:17:39.679	of course, you would.
+A	00:17:39.679	00:17:41.590	do you have a break in the afternoon?
+B	00:17:41.600	00:17:43.760	i have a tea break at three.
+B	00:17:43.760	00:17:45.840	why don't you come a half hour before?
+A	00:17:45.840	00:17:46.950	two thirty?
+B	00:17:46.960	00:17:50.400	yes, and i can show you around my department.
+A	00:17:50.400	00:17:52.080	where is the ladies department?
+B	00:17:52.080	00:17:54.230	on the fourth floor.
+B	00:17:54.240	00:17:57.669	just take the lift and walk through children's wear.
+A	00:17:57.679	00:17:58.320	okay.
+A	00:17:58.320	00:18:00.080	can i buy you a cup of tea?
+B	00:18:00.080	00:18:01.510	oh, yes!
+B	00:18:01.520	00:18:05.120	let's go to churchill's tea room in the basement.
+B	00:18:05.120	00:18:08.950	we have the yummiest cream cakes!
+A	00:18:08.960	00:18:12.470	what else do they sell in churchills?
+B	00:18:12.480	00:18:15.990	perfume, jewelry men'swear...
+B	00:18:16.000	00:18:23.039	we've got household goods and electronical appliances, books and toys.
+B	00:18:23.039	00:18:31.669	there's a large furniture selection on the top floor and we also carry electronic equipment.
+C	00:18:31.679	00:18:34.320	well, ladies, have a nice day.
+B	00:18:34.320	00:18:35.590	thanks, you too.
+B	00:18:35.600	00:18:35.919	wait!
+B	00:18:35.919	00:18:37.120	it's today Tuesday?
+A	00:18:37.120	00:18:37.919	yes, it is.
+B	00:18:37.919	00:18:38.799	oh, dear!
+B	00:18:38.799	00:18:41.200	i have to be at work early today.
+B	00:18:41.200	00:18:46.070	mr james asked me to help out in the children's shoe department.
+A	00:18:46.080	00:18:46.525	good!
+A	00:18:46.525	00:18:48.230	i need to buy some children's shoes.
+B	00:18:48.240	00:18:48.960	who for?
+A	00:18:48.960	00:18:50.230	my niece, mercedes.
+B	00:18:50.240	00:18:51.280	how old is she?
+A	00:18:51.280	00:18:52.400	she's twelve
+B	00:18:52.960	00:18:54.720	and what size shoe does she take?
+A	00:18:55.360	00:18:57.190	she's a spanish thirty-six
+B	00:18:57.200	00:18:58.720	i think that's a three here.
+A	00:18:58.720	00:18:59.600	okay.
+B	00:18:59.600	00:19:02.789	oh, that will be fun to choose shoes for her!
+B	00:19:02.799	00:19:05.360	what colors does maria like?
+A	00:19:05.360	00:19:08.480	mercedes wears a lot of pink.
+B	00:19:08.480	00:19:09.590	pink!
+B	00:19:09.600	00:19:12.400	oh, she's still a little girl!
+A	00:19:12.400	00:19:13.190	agatha!
+A	00:19:13.200	00:19:15.520	you need to be at work early today, don't you?
+B	00:19:15.520	00:19:15.919	yes!
+B	00:19:15.919	00:19:17.990	i must go.
+A	00:19:18.000	00:19:18.480	okay.
+A	00:19:18.480	00:19:19.053	bye.
+B	00:19:19.053	00:19:20.573	i'll see you later!

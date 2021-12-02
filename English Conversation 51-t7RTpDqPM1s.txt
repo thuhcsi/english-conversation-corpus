@@ -1,0 +1,373 @@
+A	00:00:00.030	00:00:02.541	is dinner ready, mom?
+B	00:00:02.612	00:00:03.560	yes.
+B	00:00:03.560	00:00:05.597	go get Paul.
+B	00:00:05.828	00:00:08.150	he's eating dinner with us.
+A	00:00:08.150	00:00:09.830	why?
+B	00:00:09.830	00:00:12.296	his parents on home tonight.
+A	00:00:13.095	00:00:14.089	okay.
+B	00:00:14.089	00:00:17.609	John, dear, can you get the chopsticks?
+C	00:00:17.698	00:00:18.497	sure.
+C	00:00:18.710	00:00:21.220	dinner smells good.
+D	00:00:21.230	00:00:22.920	can I help?
+B	00:00:23.081	00:00:25.338	no, no,Patty sit here.
+A	00:00:27.680	00:00:30.590	I'm back with Paul.
+E	00:00:30.590	00:00:33.743	hi, uncle john, susie a yi.
+C	00:00:33.974	00:00:34.844	hi!
+B	00:00:34.906	00:00:35.990	hello!
+A	00:00:36.150	00:00:37.954	Patty, this is Paul.
+A	00:00:38.010	00:00:39.559	he is our neighbor.
+D	00:00:39.559	00:00:41.300	hi, Paul.
+E	00:00:41.300	00:00:43.430	hey!
+B	00:00:43.430	00:00:45.488	let's eat, everyone.
+B	00:00:45.710	00:00:47.993	Patty, try some  three cup chicken.
+D	00:00:47.960	00:00:51.920	three cups of chicken?
+E	00:00:51.920	00:00:55.340	no, not three cups of chicken.
+E	00:00:55.998	00:00:57.109	three cup chicken.
+B	00:00:57.109	00:01:00.149	you need three cups of ingredients.
+D	00:01:00.149	00:01:04.369	Oh!
+D	00:01:04.369	00:01:07.850	three cup chicken is really good!
+A	00:01:07.850	00:01:10.369	mom is the best cook!
+B	00:01:10.369	00:01:11.670	Thanks!
+B	00:01:12.070	00:01:14.451	and here's some fried rice.
+E	00:01:14.833	00:01:15.890	no, thanks.
+D	00:01:16.965	00:01:18.422	I love fried rice!
+D	00:01:18.590	00:01:21.409	mom makes it sometimes.
+B	00:01:21.409	00:01:24.170	does your mom cook much Chinese food?
+D	00:01:24.721	00:01:28.488	no,mom cooks more American food.
+D	00:01:28.400	00:01:31.100	dad likes American food.
+B	00:01:31.855	00:01:33.605	yes,I remember.
+D	00:01:36.404	00:01:37.985	what's that dish?
+E	00:01:38.110	00:01:39.487	oy ster omelet. 
+A	00:01:43.490	00:01:45.883	it's really good.
+A	00:01:46.328	00:01:47.438	try it, Patty.
+D	00:01:47.758	00:01:49.446	uh, okay.
+D	00:01:54.079	00:01:57.273	this is interesting.
+E	00:01:57.842	00:02:00.258	hey, Patty,do you want the fish head?!
+D	00:02:00.765	00:02:01.431	Fish Head?
+B	00:02:01.850	00:02:04.640	Patty, eat some vegetables.
+D	00:02:04.640	00:02:08.820	thanks, Susie A yi.
+A	00:02:08.830	00:02:11.985	this vegetable is kong xin cai.
+A	00:02:12.758	00:02:16.099	in English people call it water spinach.
+D	00:02:16.110	00:02:18.586	Kong xin cai.
+D	00:02:19.626	00:02:20.248	I like it!
+D	00:02:21.000	00:02:24.710	Susie ayi, thanks for cooking dinner.
+B	00:02:24.720	00:02:27.120	eat more!
+D	00:02:27.120	00:02:28.710	no thank you.
+D	00:02:28.720	00:02:30.030	i'm full!
+B	00:02:30.030	00:02:31.630	eat more!
+E	00:02:32.562	00:02:33.334	I can't.
+E	00:02:33.637	00:02:35.173	the food is not that good.
+F	00:02:36.053	00:02:37.297	excuse me?
+A	00:02:37.599	00:02:40.069	Paul, what did you say?
+E	00:02:41.748	00:02:42.494	nothing.
+B	00:02:42.610	00:02:45.060	eat more, everyone.
+D	00:02:45.060	00:02:48.660	Susie ayi, how did you cook the eggplant?
+B	00:02:49.557	00:02:50.543	do you like it?
+D	00:02:50.659	00:02:51.201	yes.
+D	00:02:51.672	00:02:55.385	when my mom cooks eggplants, they're usually brown.
+D	00:02:55.536	00:02:57.304	but these are purple.
+B	00:02:58.077	00:03:01.391	i fry the eggplants in a wok with some vinegar.
+B	00:03:02.066	00:03:04.243	then the eggplants stay purple.
+C	00:03:05.007	00:03:08.037	my wife cooks the best Chinese food.
+D	00:03:08.623	00:03:09.760	I know.
+D	00:03:09.964	00:03:13.563	Susie Ayi, you really cooked a lot of dishes.
+A	00:03:14.815	00:03:15.917	she did.
+A	00:03:16.486	00:03:23.078	but you know, at a wedding banquet, there are often eight courses of food.
+D	00:03:23.486	00:03:24.357	really?
+D	00:03:24.668	00:03:28.248	if I went to one, I'd probably be stuffed!
+D	00:03:28.657	00:03:30.292	why courses of food?
+B	00:03:31.251	00:03:35.614	the number eight in Chinese sounds like good luck.
+C	00:03:36.013	00:03:39.043	each dish has a special meaning, too.
+D	00:03:39.292	00:03:41.273	that's very interesting.
+A	00:03:41.566	00:03:44.302	ma, what's for dessert tonight?
+B	00:03:44.622	00:03:48.718	I almost forgot,I made something special.
+
+A	00:04:10.629	00:04:13.176	that's my coin, Paul!
+E	00:04:13.625	00:04:14.687	no, it's not.
+A	00:04:14.793	00:04:16.104	yes, it is.
+E	00:04:16.264	00:04:17.734	the coin is cool.
+E	00:04:18.054	00:04:18.867	it's gold.
+A	00:04:19.524	00:04:20.768	give it back, Paul.
+E	00:04:21.261	00:04:22.692	I can share with you.
+A	00:04:23.527	00:04:25.881	but it's not yours to share.
+A	00:04:26.108	00:04:27.209	it's mine.
+B	00:04:27.351	00:04:29.044	Brian, it's okay.
+B	00:04:29.000	00:04:31.490	if Paul wants to share, let him.
+A	00:04:31.490	00:04:33.677	but it's not his!
+C	00:04:34.223	00:04:36.360	both of you can have it.
+E	00:04:37.430	00:04:40.090	Brian, we can play with it together.
+A	00:04:40.090	00:04:44.711	Paul, my teacher gave the coin to me.
+A	00:04:45.107	00:04:45.995	you were there.
+C	00:04:46.786	00:04:48.212	is that true, Paul?
+E	00:04:48.558	00:04:51.530	no,mr. Lee gave it to me.
+A	00:04:52.454	00:04:55.035	when did you take it from me, Paul?
+E	00:04:55.408	00:04:57.092	what are you talking about?
+C	00:04:57.718	00:05:00.925	when did mr. Lee give the coin to you, Paul?
+E	00:05:01.476	00:05:02.262	let me think...
+E	00:05:04.532	00:05:07.255	he gave it to me on April thirty first.
+D	00:05:08.050	00:05:14.600	then Paul is not the real owner.
+D	00:05:14.610	00:05:17.240	the real owner is Brian.
+B	00:05:17.240	00:05:19.490	how do you know, Patty?
+D	00:05:19.490	00:05:27.560	because there is no April  thirty first. the month of April only has thirty days.
+C	00:05:28.418	00:05:29.280	that's right.
+E	00:05:30.035	00:05:30.452	fine.
+E	00:05:30.563	00:05:31.887	take your coin.
+B	00:05:31.971	00:05:32.966	oh my!
+A	00:05:33.304	00:05:33.979	paul.
+E	00:05:34.899	00:05:36.103	I'm sorry,okay?
+E	00:05:36.254	00:05:37.071	sorry!
+A	00:05:41.287	00:05:43.979	I really don't like Paul.
+C	00:05:44.316	00:05:46.235	does he pick on you a lot?
+A	00:05:47.164	00:05:50.193	yes,well, no.
+A	00:05:50.362	00:05:51.148	not really.
+A	00:05:51.926	00:05:53.365	he gets picked on, too.
+C	00:05:54.937	00:05:56.910	Paul just needs help sometimes.
+C	00:05:57.203	00:05:58.202	we all do.
+D	00:05:59.024	00:06:00.614	he wasn't very polite.
+C	00:06:01.201	00:06:04.910	no.I think Paul is angry and sad.
+C	00:06:05.261	00:06:07.553	his parents aren't home very much.
+B	00:06:07.895	00:06:11.356	so we often invite him to eat dinner with us.
+A	00:06:12.066	00:06:13.905	I try to be nice.
+A	00:06:14.407	00:06:17.837	but sometimes, it's hard.
+C	00:06:18.290	00:06:20.435	I'm glad you try, Brian.
+C	00:06:20.893	00:06:22.616	Paul is a good kid.
+D	00:06:24.162	00:06:25.526	Paul was rude.
+B	00:06:25.713	00:06:26.401	yes.
+B	00:06:26.717	00:06:29.049	but we need to be kind anyway.
+B	00:06:29.995	00:06:33.340	we are nice to everyone all the time, either.
+D	00:06:33.704	00:06:36.947	no,you're right, Susie ayi.
+B	00:06:37.911	00:06:40.572	well, I'll call Paul's mother later.
+D	00:06:41.531	00:06:42.660	Susie ayi
+D	00:06:43.397	00:06:44.476	I can clean up.
+B	00:06:44.614	00:06:45.400	no, no.
+A	00:06:46.009	00:06:48.519	mom, you've had a long day.
+A	00:06:49.323	00:06:50.007	we'll clean.
+B	00:06:50.993	00:06:51.628	okay.
+B	00:06:54.742	00:06:55.555	thank you.
+D	00:06:56.355	00:06:58.314	thank you, Susie ayi.
+D	00:06:58.656	00:07:00.428	dinner was so good!
+
+F	00:07:07.282	00:07:10.547	I'm sorry,I can't take you to Taipei.
+D	00:07:11.462	00:07:15.189	I know, grandma,don't worry,I understand.
+G	00:07:15.962	00:07:17.211	your cars in the shop.
+F	00:07:17.659	00:07:18.170	we know.
+F	00:07:18.881	00:07:22.741	yes, and can they fix my baby?
+F	00:07:23.074	00:07:24.469	I hope so!
+D	00:07:24.682	00:07:25.686	your baby?
+G	00:07:26.162	00:07:27.485	it's just a car.
+F	00:07:28.027	00:07:31.128	I know,but I love my car.
+F	00:07:31.381	00:07:33.549	it's my baby!
+D	00:07:34.428	00:07:36.410	what's wrong with your baby?
+F	00:07:36.641	00:07:38.768	the brakes aren't very good.
+F	00:07:39.057	00:07:42.495	I can't drive a car without good brakes.
+D	00:07:42.926	00:07:45.156	that's right,it's not safe.
+F	00:07:45.916	00:07:50.882	you are going to tai pei and safety is important.
+G	00:07:51.864	00:07:53.210	don't worry, grandma.
+G	00:07:53.530	00:07:54.800	the Train is safe.
+D	00:07:55.466	00:07:58.176	the Train? I'm so excited!
+
+F	00:08:03.804	00:08:05.826	I can't go with you.
+F	00:08:06.225	00:08:07.936	I'm sad about that.
+F	00:08:08.442	00:08:11.720	but I have my English class this week.
+D	00:08:12.906	00:08:15.123	grandma, you are a good teacher.
+F	00:08:16.087	00:08:19.752	today Roger can teach you about the train.
+F	00:08:20.094	00:08:22.457	you can take it to Taipei.
+D	00:08:22.755	00:08:23.994	I can't wait!
+F	00:08:24.572	00:08:26.837	patty, get a window seat.
+F	00:08:27.215	00:08:29.929	the scenery is beautiful.
+F	00:08:30.337	00:08:32.283	when are you coming back?
+G	00:08:32.843	00:08:33.918	tomorrow evening.
+G	00:08:34.322	00:08:38.147	our train arrives back at hua Lian's station around  five thirty p.m.
+
+D	00:08:43.180	00:08:45.254	this is a nice train station.
+D	00:08:45.663	00:08:47.311	where is everyone traveling?
+A	00:08:47.853	00:08:49.448	all over Taiwan.
+A	00:08:49.927	00:08:52.730	taking the train is very convenient.
+A	00:08:53.188	00:08:55.791	we even have high-speed rail.
+D	00:08:56.240	00:08:57.301	high-speed rail?
+D	00:08:57.763	00:08:59.029	that sounds fun.
+D	00:09:02.912	00:09:04.884	what are those two people yelling about?
+A	00:09:05.937	00:09:07.034	let me find out.
+
+D	00:09:09.828	00:09:12.120	is there a problem between the man and the woman?
+A	00:09:12.818	00:09:13.786	it's interesting.
+A	00:09:14.213	00:09:15.883	here's the man's story.
+A	00:09:16.682	00:09:19.663	the woman sat beside him on the train.
+A	00:09:20.005	00:09:22.995	then the man went to sleep, and she took his wallet.
+D	00:09:23.483	00:09:24.132	did she?
+A	00:09:24.945	00:09:26.082	she said no.
+A	00:09:26.997	00:09:29.689	and she doesn't even remember this man.
+A	00:09:30.578	00:09:35.508	the man was in seat fourty eight but she was in seat forty nine
+G	00:09:37.263	00:09:38.596	is everything okay?
+G	00:09:39.955	00:09:42.589	patty, you have a window seat beside me.
+G	00:09:43.340	00:09:46.276	you have seat thirty eight and I have seat  forty.
+D	00:09:46.814	00:09:48.888	but then we aren't beside each other.
+G	00:09:49.297	00:09:50.279	sure we are.
+G	00:09:50.629	00:09:53.113	all this seats with even numbers are together.
+G	00:09:53.255	00:09:55.925	and all the seats with odd numbers are together.
+D	00:09:56.133	00:09:56.857	wait a minute.
+D	00:09:57.168	00:09:59.243	then the man is lying, Brian!
+
+D	00:10:01.290	00:10:04.684	dear journal, I'm on the train!
+D	00:10:04.938	00:10:08.389	Roger is sleeping, and Brian is listening to music.
+D	00:10:08.944	00:10:10.384	I like my window seat.
+D	00:10:10.521	00:10:13.351	something interesting happened at the train station.
+D	00:10:14.053	00:10:18.668	a man lied about his missing wallet and blamed a woman for it.
+D	00:10:19.179	00:10:23.697	but she didn't take his wallet because she did not sit beside him.
+D	00:10:24.297	00:10:25.918	the women is okay now.
+D	00:10:43.829	00:10:46.268	it's interesting to watch people.
+D	00:10:46.721	00:10:49.541	many people are talking on their cell phones.
+D	00:10:49.715	00:10:51.309	others are reading.
+D	00:10:51.665	00:10:54.756	and many are sleeping just like Roger.
+D	00:10:55.454	00:10:57.257	I'm too excited to sleep!
+D	00:10:57.830	00:11:00.123	I'm on my way to Taipei!
+D	00:11:00.651	00:11:06.595	I can't wait to see Taipei one zero one and to meet Daisy, Rogers friend.
+D	00:11:06.755	00:11:08.669	what a fun trip!
+D	00:11:08.887	00:11:11.210	from the Train, Patty.
+D	00:11:13.773	00:11:15.492	so this is Taipei?
+D	00:11:15.879	00:11:16.803	I like it!
+A	00:11:17.354	00:11:21.738	patty, this is only Taipei main station.
+A	00:11:22.142	00:11:25.039	just wait until we get out into the city.
+G	00:11:26.034	00:11:27.038	do you have your ticket?
+D	00:11:27.415	00:11:30.258	no, I gave it to the train conductor.
+A	00:11:30.662	00:11:33.430	but he gave it back to you, right?
+A	00:11:34.007	00:11:34.949	look in your pocket.
+D	00:11:37.841	00:11:38.627	I found it!
+G	00:11:39.582	00:11:40.138	good.
+G	00:11:40.662	00:11:42.674	you have to give it to the man at the gate.
+G	00:11:42.949	00:11:44.349	will also meet Daisy there.
+D	00:11:49.728	00:11:51.221	where's Daisy?
+G	00:11:51.381	00:11:52.718	she'll be here soon.
+G	00:11:53.291	00:11:54.570	let's just go through the gate.
+D	00:11:59.772	00:12:01.735	can I keep my ticket?
+D	00:12:02.095	00:12:04.512	it would be a nice memory of my train trip.
+A	00:12:04.845	00:12:07.892	yes, just get a stamp on your ticket.
+A	00:12:10.975	00:12:11.992	here you go, Patty.
+D	00:12:12.237	00:12:12.707	Thanks.
+D	00:12:13.165	00:12:14.826	I'll put it in my journal.
+G	00:12:15.688	00:12:17.194	Hey, there's Daisy!
+H	00:12:18.331	00:12:20.286	hi, everyone!
+H	00:12:21.383	00:12:23.204	welcome to taipei.
+G	00:12:25.572	00:12:28.020	Daisy, it's great to see you again.
+G	00:12:28.259	00:12:29.805	meet my cousin Patty.
+H	00:12:29.996	00:12:30.960	hi, Patty.
+H	00:12:31.156	00:12:32.302	it's nice to meet you.
+G	00:12:33.048	00:12:34.847	Daisy and I went to school together.
+D	00:12:35.496	00:12:37.268	it's nice to meet you, too.
+D	00:12:37.317	00:12:39.578	I'm so excited!
+H	00:12:39.885	00:12:40.800	me, too.
+H	00:12:41.377	00:12:46.690	let's first go to my house, and then we can go to taibei one zero one for lunch.
+A	00:12:46.850	00:12:48.387	are we taking the bus?
+H	00:12:48.640	00:12:52.514	yes, let's go to the bus stop together.
+D	00:12:56.871	00:13:00.292	this is my first time to take the bus in Taipei.
+D	00:13:00.776	00:13:03.148	you'll have to show me what to do.
+H	00:13:03.273	00:13:03.921	sure.
+H	00:13:04.685	00:13:06.427	do you see this sign?
+H	00:13:07.106	00:13:09.438	it shows the bus number.
+H	00:13:09.807	00:13:12.970	the bus stops at all these places.
+D	00:13:13.570	00:13:15.675	so which bus do we take?
+H	00:13:16.270	00:13:18.132	this is our bus number.
+D	00:13:19.140	00:13:21.117	does our bus stop at your home?
+H	00:13:23.906	00:13:25.754	it stops close to my home.
+H	00:13:26.034	00:13:27.909	we'll have to walk about a block.
+D	00:13:29.623	00:13:30.987	when there's our bus come?
+G	00:13:31.627	00:13:32.107	soon.
+G	00:13:32.711	00:13:35.216	we have to wait here for the bus with our number on it.
+D	00:13:36.447	00:13:37.815	how much is the bus ride?
+A	00:13:38.645	00:13:40.978	it's only fifteen mg.
+D	00:13:41.622	00:13:43.723	that's cheaper than in America.
+D	00:13:44.012	00:13:45.300	when do we pay?
+A	00:13:46.277	00:13:49.662	sometimes you pay when you get on the bus.
+A	00:13:50.071	00:13:52.532	sometimes you pay when you get off.
+H	00:13:53.180	00:13:55.659	we'll show you a sign on the bus.
+H	00:13:56.139	00:13:58.920	the first character on it is Shang.
+H	00:13:59.657	00:14:05.738	if the light behind that character is on, you pay when you get on the bus.
+G	00:14:06.596	00:14:08.781	the second character is ga.
+G	00:14:09.776	00:14:14.161	if the light behind that character is on, you pay when you get off the bus.
+D	00:14:14.174	00:14:14.840	thanks
+H	00:14:14.925	00:14:15.795	good!
+H	00:14:16.186	00:14:18.736	riding the bus isn't a mystery.
+H	00:14:19.251	00:14:22.116	but maybe you'll find another one to solve!
+H	00:14:22.854	00:14:24.258	you're a detective.
+H	00:14:24.577	00:14:26.732	Rogers told me about you!
+D	00:14:28.442	00:14:30.339	oh, here comes our bus!
+D	00:14:38.908	00:14:43.319	so why do people call this building Taipei  one hundred and one.
+A	00:14:43.763	00:14:46.611	well, the building is in Taipei.
+A	00:14:47.343	00:14:50.480	and it has a hundred and one floors.
+D	00:14:50.799	00:14:52.559	Wow, that's tall.
+D	00:14:53.016	00:14:56.845	we have tall buildings at home but none of this tall!
+G	00:14:57.387	00:14:59.089	well, let's go in.
+D	00:14:59.853	00:15:01.070	which way is the entrance?
+H	00:15:01.629	00:15:03.859	it's over there,come on.
+D	00:15:11.558	00:15:13.512	so what can we do here?
+H	00:15:14.641	00:15:15.773	we can shop.
+D	00:15:16.742	00:15:17.994	I can see that.
+D	00:15:18.221	00:15:19.913	there are a lot of stores.
+D	00:15:20.211	00:15:21.477	what else can we do?
+A	00:15:21.837	00:15:25.608	we can go up to the observatory on the  eighty nine floor.
+A	00:15:26.332	00:15:29.082	we can see all of Taipei from up there.
+D	00:15:29.491	00:15:33.231	fun! but can we eat first,I'm hungry.
+G	00:15:34.919	00:15:37.389	the food court is downstairs.
+G	00:15:37.735	00:15:38.455	follow me.
+D	00:15:48.201	00:15:48.974	okay.
+D	00:15:49.183	00:15:50.120	I'm full.
+D	00:15:50.333	00:15:51.542	let's have some fun!
+A	00:15:52.195	00:15:54.616	let's go up to the observatory.
+H	00:15:54.873	00:15:55.722	alright.
+H	00:15:56.059	00:15:59.875	hey, there's a nice bookstore on the fourth floor.
+H	00:16:00.119	00:16:01.812	can we stop there on the way?
+A	00:16:02.025	00:16:02.571	sure.
+D	00:16:03.598	00:16:05.663	does this book starts out English books?
+G	00:16:06.192	00:16:06.943	yes.
+G	00:16:07.178	00:16:11.847	this bookstore has a hundred and sixty thousand different English books.
+D	00:16:12.002	00:16:13.655	wow that's a lot.
+D	00:16:14.028	00:16:14.818	let's go!
+G	00:16:15.538	00:16:18.066	Uh Patty, where are you going?
+G	00:16:19.127	00:16:20.615	the bookstore is this way.
+D	00:16:20.913	00:16:22.290	right,let's go!
+D	00:16:29.251	00:16:31.539	Wow this store is big!
+D	00:16:31.907	00:16:34.426	hey, are there any travel books here?
+G	00:16:34.897	00:16:37.140	why do you want to look at travel books?
+D	00:16:37.433	00:16:39.592	I want to find one about Taiwan.
+G	00:16:40.050	00:16:41.596	didn't you bring one with you?
+D	00:16:42.058	00:16:42.489	no.
+D	00:16:42.844	00:16:43.546	I forgot.
+A	00:16:44.146	00:16:47.433	well, the travel books are straight ahead.
+H	00:16:48.628	00:16:49.632	I'll show you.
+G	00:17:02.732	00:17:05.348	I'm going to walk around and look at other books.
+A	00:17:06.134	00:17:07.329	don't get lost.
+G	00:17:08.076	00:17:08.697	I won't.
+A	00:17:12.118	00:17:12.784	hey, patty.
+A	00:17:13.344	00:17:14.872	did you find anything good?
+D	00:17:15.387	00:17:16.382	yes, I did.
+D	00:17:16.867	00:17:18.448	this book is really good.
+D	00:17:19.132	00:17:20.962	it is all about Taiwan.
+D	00:17:21.478	00:17:23.872	it even has a section on hua Lian.
+A	00:17:24.245	00:17:25.120	that's great!
+A	00:17:25.653	00:17:26.679	how much is the book?
+D	00:17:27.350	00:17:29.118	five hundred eighty nine ninety.
+A	00:17:29.518	00:17:30.064	okay.
+A	00:17:30.677	00:17:32.872	do you want to buy anything else?
+D	00:17:33.023	00:17:33.454	yes.
+D	00:17:33.991	00:17:35.466	does this store sell CDs?
+A	00:17:35.652	00:17:36.203	sure.
+A	00:17:36.736	00:17:38.389	they are around the corner.
+A	00:17:38.624	00:17:39.104	follow me.
+A	00:17:47.158	00:17:47.926	hey, Roger.
+A	00:17:48.544	00:17:49.121	where are you?
+G	00:17:49.925	00:17:51.200	I'm by the coffee shop.
+G	00:17:51.693	00:17:52.906	are you guys ready to go?
+A	00:17:53.865	00:17:55.216	let me ask the girls.
+A	00:17:55.767	00:17:56.504	hey, girls.
+A	00:17:57.081	00:17:58.179	are you ready to go?
+H	00:17:58.880	00:17:59.698	I'm ready,
+D	00:18:00.386	00:18:02.097	I just need to find my things.
+A	00:18:02.785	00:18:03.745	okay, Roger.
+A	00:18:04.184	00:18:05.584	we'll meet you at the entrance.
+G	00:18:06.166	00:18:06.805	okay.
+G	00:18:07.245	00:18:08.373	but I have a question.
+A	00:18:09.146	00:18:09.715	what is it?
+G	00:18:10.537	00:18:12.416	where is the entrance?
+G	00:18:12.971	00:18:14.321	I'm a little lost.
+A	00:18:16.845	00:18:19.465	just stay there and we'll come find you.
+

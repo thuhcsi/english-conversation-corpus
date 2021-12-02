@@ -1,0 +1,553 @@
+A	00:00:04.080	00:00:05.440	john!
+A	00:00:05.440	00:00:07.200	wake up!
+A	00:00:07.200	00:00:09.830	I thought I hear a sound.
+A	00:00:09.840	00:00:14.549	Did you bring the cat in the house last night?
+B	00:00:14.559	00:00:17.279	Oh, I didn't.
+B	00:00:17.279	00:00:21.349	I told you I put the cat outside.
+A	00:00:21.359	00:00:25.029	Did you put the dog out too?
+B	00:00:25.039	00:00:28.830	yes, I did.
+B	00:00:28.840	00:00:32.960	Honey, I didn't sleep very much last night.
+B	00:00:32.960	00:00:36.310	i'm very tired.
+A	00:00:36.320	00:00:39.830	did we lock all the doors?
+B	00:00:39.840	00:00:42.480	yes. we did.
+B	00:00:42.480	00:00:48.389	they were all locked before i came upstairs to bed.
+A	00:00:48.399	00:00:52.150	maybe the wind blew a window open.
+B	00:00:52.160	00:00:56.389	maybe, it did.
+A	00:00:56.399	00:00:59.670	i will go and check.
+B	00:00:59.770	00:01:01.520	good idea.
+B	00:01:01.596	00:01:02.415	good luck!
+B	00:01:03.102	00:01:03.926	good night!
+
+C	00:01:16.799	00:01:17.759	police department!
+C	00:01:17.759	00:01:19.030	how can i help you?
+A	00:01:19.040	00:01:20.159	hello.
+A	00:01:20.159	00:01:24.789	a thief broke into my house.
+C	00:01:24.799	00:01:26.880	did he take anything?
+A	00:01:26.880	00:01:28.310	yes, he did.
+A	00:01:28.320	00:01:31.749	he took my jewelry.
+C	00:01:31.759	00:01:34.479	did he steal anything else?
+A	00:01:34.479	00:01:36.079	yes, he did.
+A	00:01:36.079	00:01:40.230	he stole many things.
+C	00:01:40.240	00:01:42.640	did you see the thief?
+A	00:01:42.640	00:01:44.230	yes, i did.
+A	00:01:44.240	00:01:47.510	i saw him as he jumped out the window.
+C	00:01:47.520	00:01:49.280	what did he look like?
+A	00:01:49.280	00:01:53.360	he looked tall and older.
+C	00:01:53.360	00:01:56.079	oh! what did you say your name and address was?
+A	00:01:56.079	00:01:59.190	oh, sorry, i didn't tell you my name.
+A	00:01:59.200	00:02:01.040	it's kathy baker.
+A	00:02:01.040	00:02:04.782	my address is seven seven seven waterford street.
+
+A	00:02:08.640	00:02:10.080	look at my house.
+A	00:02:10.080	00:02:13.750	he took so many things.
+C	00:02:13.760	00:02:16.400	did your husband see the thief?
+A	00:02:16.400	00:02:17.840	no, he didn't.
+A	00:02:17.840	00:02:19.760	he slept the whole time.
+A	00:02:19.760	00:02:22.309	he didn't wake up.
+C	00:02:22.319	00:02:28.309	were these here when you went to bed?
+A	00:02:28.319	00:02:30.000	no they weren't.
+A	00:02:30.000	00:02:32.309	i didn't put them there.
+A	00:02:32.319	00:02:36.239	he ate cookies and drank a glass of milk too!
+C	00:02:36.239	00:02:38.560	but it's a good thing he did
+A	00:02:38.560	00:02:42.949	why?
+C	00:02:42.959	00:02:46.546	because he gave us a great set of fingerprints.
+
+C	00:03:15.361	00:03:18.005	sorry i ring your doorbell.
+C	00:03:18.159	00:03:20.720	did you hear me?
+B	00:03:20.720	00:03:22.239	no, i didn't.
+B	00:03:22.239	00:03:25.920	i was in the back of the house.
+C	00:03:25.920	00:03:31.190	i came to tell you that one of your neighbors saw the thief.
+B	00:03:31.360	00:03:32.400	that's great.
+B	00:03:32.400	00:03:34.309	did you catch him?
+C	00:03:34.319	00:03:40.480	we're not sure but we did bring a man to the jail.
+B	00:03:40.480	00:03:43.430	my wife kathy just got home from shopping.
+B	00:03:43.440	00:03:46.480	she can go with you to see if that's the man.
+B	00:03:46.502	00:03:48.288	Kathy, Kathy!
+
+C	00:03:55.200	00:03:58.229	i hope we caught the correct man.
+A	00:03:58.239	00:04:00.080	where did you find him?
+C	00:04:00.080	00:04:03.760	we found him near your neighborhood on elm street.
+A	00:04:03.760	00:04:07.190	did he tell you that he was the thief?
+C	00:04:07.200	00:04:09.040	no, he did not.
+C	00:04:09.040	00:04:13.573	but when you see him you can tell us if he is the thief or not?
+A	00:04:19.440	00:04:24.390	yes. that's him.
+A	00:04:24.400	00:04:26.320	did you find our things?
+C	00:04:26.320	00:04:27.919	yes, we did.
+C	00:04:27.637	00:04:30.360	we found them under his house.
+
+D	00:04:45.877	00:04:48.257	did you go to work today?
+B	00:04:49.919	00:04:53.189	no, i didn't.
+B	00:04:53.199	00:04:57.990	i had the day off.
+D	00:04:58.000	00:05:02.870	did you cut the grass and water the plants?
+B	00:05:02.880	00:05:05.600	no, i didn't.
+B	00:05:05.600	00:05:07.502	it rained too much today.
+D	00:05:15.680	00:05:20.310	did you wash the dishes?
+B	00:05:20.320	00:05:23.749	no, i didn't.
+B	00:05:23.759	00:05:28.870	i thought you wanted to do that.
+D	00:05:28.880	00:05:35.749	you were wrong go wash the dishes now.
+B	00:05:35.676	00:05:38.264	i only wanted to be a good husband.
+
+E	00:05:46.000	00:05:50.950	timmy, did you finish your homework?
+C	00:05:51.440	00:05:52.240	no, i didn't.
+C	00:05:52.240	00:05:55.590	i i just started it a few minutes ago.
+E	00:05:55.600	00:05:56.639	what?
+E	00:05:56.639	00:06:02.790	it's after midnight did you set your alarm clock for tomorrow morning?
+C	00:06:03.280	00:06:04.960	no, i didn't.
+C	00:06:04.960	00:06:08.070	tomorrow, i want to sleep late.
+E	00:06:08.119	00:06:09.943	you didn't do your homework.
+E	00:06:10.128	00:06:12.164	you didn't set your alarm clock.
+E	00:06:12.639	00:06:16.070	what's wrong with you, timmy?
+C	00:06:16.080	00:06:21.590	did you forget that tomorrow's a holiday?
+E	00:06:21.600	00:06:26.230	oh, yes, i did!
+E	00:06:26.240	00:06:28.319	i forgot.
+E	00:06:28.319	00:06:29.281	sorry timmy.
+
+D	00:06:38.639	00:06:40.319	oh! hi honey.
+D	00:06:40.319	00:06:42.720	you finished work early today.
+B	00:06:42.720	00:06:45.309	yeah, my secretary helped me a lot.
+D	00:06:45.319	00:06:49.430	well, i'm sure you were very busy.
+B	00:06:49.440	00:06:55.510	no. i wasn't very busy my secretary was much busier than i was.
+D	00:06:55.520	00:06:59.270	i hope she wasn't too busy.
+B	00:06:59.280	00:07:06.150	she typed all the letters, phoned all the clients, and she completed all of the reports.
+D	00:07:06.160	00:07:07.520	and what about you?
+D	00:07:07.520	00:07:10.469	i'm sure you worked at something.
+B	00:07:10.479	00:07:14.685	no, mostly i just watched my secretary work all day.
+
+E	00:07:29.120	00:07:32.870	john, where were you? it's so late!
+F	00:07:32.880	00:07:34.160	i'm sorry.
+F	00:07:34.160	00:07:37.029	i missed the bus.
+E	00:07:37.039	00:07:40.639	i cooked all your favorite foods for dinner.
+E	00:07:40.639	00:07:44.309	and i waited for two hours.
+F	00:07:44.319	00:07:44.800	i know.
+F	00:07:44.800	00:07:46.080	i'm sorry.
+F	00:07:46.080	00:07:49.440	i walked from my office all the way here.
+E	00:07:49.440	00:07:52.639	i was so worried about you.
+F	00:07:52.639	00:07:56.830	i tried to call here but nobody answered the phone.
+E	00:07:56.840	00:07:58.960	oh, sorry.
+E	00:07:59.061	00:08:00.412	i was in the shower.
+
+A	00:08:08.800	00:08:09.759	hi tom!
+A	00:08:09.759	00:08:10.720	hi susan!
+A	00:08:10.720	00:08:13.830	come in!
+A	00:08:13.840	00:08:15.680	was there a lot of traffic
+G	00:08:15.680	00:08:16.560	no, there wasn't.
+G	00:08:16.560	00:08:19.430	but it started to rain about 10 minutes ago.
+A	00:08:19.440	00:08:21.440	well, i'm happy you're here.
+A	00:08:21.440	00:08:23.830	i fixed lots of delicious food.
+F	00:08:23.840	00:08:25.840	we're happy you invited us for dinner.
+A	00:08:25.840	00:08:26.960	my pleasure.
+A	00:08:26.960	00:08:29.990	but i burned the chicken.
+F	00:08:30.000	00:08:31.759	i smelled it when we walked in.
+G	00:08:31.759	00:08:33.039	tom don't complain.
+G	00:08:33.146	00:08:35.712	it was very nice of her to invite us for dinner.
+
+B	00:08:43.919	00:08:46.560	hey i remember you.
+B	00:08:46.560	00:08:48.720	we were in the same school.
+F	00:08:48.720	00:08:50.080	no, we weren't.
+F	00:08:50.080	00:08:52.310	i didn't go to school here.
+B	00:08:52.320	00:08:56.550	no. i meant in japan, my parents sent me there when i was young.
+F	00:08:56.560	00:08:59.360	i'm sorry i forgot.
+F	00:08:59.360	00:09:01.750	how long did you stay in japan?
+B	00:09:01.882	00:09:02.279	oh!
+B	00:09:02.080	00:09:04.320	about ten years.
+B	00:09:04.320	00:09:07.190	after i finished school there i taught english.
+F	00:09:07.600	00:09:08.800	that's great!
+F	00:09:08.800	00:09:13.750	every time i spoke english to the japanese people they didn't understand me.
+B	00:09:13.760	00:09:17.190	did you come back to america after you finished school?
+F	00:09:17.200	00:09:18.240	yes, i did.
+F	00:09:18.240	00:09:20.880	i came back here as soon as i graduated.
+F	00:09:20.490	00:09:21.192	set down!
+
+B	00:09:29.200	00:09:30.320	great game.
+B	00:09:30.320	00:09:32.949	you played really well today.
+C	00:09:32.959	00:09:34.320	thanks.
+C	00:09:34.320	00:09:37.920	i'm surprised i scored that many points.
+B	00:09:37.920	00:09:41.829	were you on the tennis team at your university?
+C	00:09:41.839	00:09:42.160	no.
+C	00:09:42.160	00:09:43.760	i wasn't.
+C	00:09:43.760	00:09:48.240	i wanted to play, but i was too busy with my studies.
+B	00:09:48.240	00:09:53.350	well, you moved really fast on the court today.
+C	00:09:53.490	00:09:54.936	you weren't so bad yourself.
+
+F	00:09:58.399	00:09:59.000	ok.
+F	00:09:59.200	00:10:02.870	bye!
+A	00:10:02.880	00:10:05.040	congratulations, tom!
+A	00:10:05.040	00:10:07.269	i hear you opened your own business.
+A	00:10:07.279	00:10:08.959	was it difficult?
+F	00:10:08.959	00:10:10.310	yes, it was.
+F	00:10:10.320	00:10:14.630	i saved my money for five years and invested it all.
+A	00:10:14.640	00:10:16.560	it looks like you succeeded.
+A	00:10:16.560	00:10:19.279	i always believed you could do it.
+F	00:10:19.279	00:10:21.509	that's so nice of you to say.
+F	00:10:21.519	00:10:24.630	hey, i hear you move to this part of town.
+A	00:10:24.640	00:10:30.079	yes, and the last time we talked, i asked you for a job.
+F	00:10:30.079	00:10:31.680	are you still interested?
+A	00:10:31.680	00:10:33.200	i sure am.
+F	00:10:33.215	00:10:35.490	well, welcome to the company.
+
+B	00:10:48.079	00:10:54.389	mark, why were you so quiet in the meeting?
+C	00:10:54.399	00:10:58.640	i wasn't in a very good mood this morning.
+B	00:10:58.640	00:10:59.120	why?
+B	00:10:59.120	00:11:01.279	what happened?
+C	00:11:01.279	00:11:06.470	the bank called me this morning and told me they blocked my credit cards.
+B	00:11:06.480	00:11:08.160	what?
+B	00:11:08.160	00:11:11.910	were you deep in debt with them?
+C	00:11:11.920	00:11:13.360	no, i wasn't.
+C	00:11:13.360	00:11:21.750	the manager said they accidentally billed me twice for the same month.
+B	00:11:21.760	00:11:24.790	was he impolite to you?
+C	00:11:24.800	00:11:25.920	no, he wasn't.
+C	00:11:25.920	00:11:29.190	he was very nice.
+B	00:11:29.200	00:11:32.389	but they corrected the problem right.
+C	00:11:32.399	00:11:33.200	yes.
+C	00:11:33.232	00:11:37.781	finally, they blamed it on a computer error.
+
+E	00:11:45.600	00:11:46.880	hurry up!
+E	00:11:46.880	00:11:50.389	all of the other passengers have boarded the plane already.
+F	00:11:50.399	00:11:52.959	i can't find the tickets.
+F	00:11:52.959	00:11:56.959	or i think maybe i packed them in the blue suitcase.
+E	00:11:56.959	00:12:03.040	you mean the suitcase that we checked in at the counter.
+E	00:12:03.040	00:12:06.320	i'm sure they weren't in that one.
+F	00:12:06.320	00:12:07.990	wait a minute.
+F	00:12:08.000	00:12:10.800	were they in this carry-on?
+E	00:12:10.800	00:12:13.120	yes, they were.
+E	00:12:13.120	00:12:16.389	i hope you still have them.
+F	00:12:16.399	00:12:17.360	here they are.
+F	00:12:17.360	00:12:20.389	they were pushed down to the bottom.
+E	00:12:20.399	00:12:21.120	great!
+E	00:12:21.120	00:12:21.519	come on.
+E	00:12:21.662	00:12:22.401	let's go!
+
+A	00:12:25.040	00:12:28.230	juile i loved the cookies you baked.
+G	00:12:28.240	00:12:29.200	thanks.
+A	00:12:29.200	00:12:31.920	i wasn't sure if anybody liked them.
+A	00:12:31.920	00:12:33.279	what do you mean?
+A	00:12:33.279	00:12:35.350	they were delicious.
+G	00:12:35.360	00:12:38.629	i added extra chocolate chips.
+A	00:12:38.639	00:12:40.240	everybody liked them.
+A	00:12:40.240	00:12:42.069	were they difficult to make?
+G	00:12:42.079	00:12:43.839	no, they weren't.
+G	00:12:43.983	00:12:46.535	it was an old recipe from my grandmother.
+
+B	00:12:54.880	00:12:57.360	hey!
+B	00:12:57.360	00:12:59.990	what was wrong with bill yesterday?
+B	00:13:00.000	00:13:02.800	he acted so strangely all day.
+F	00:13:02.800	00:13:03.269	oh!
+F	00:13:03.279	00:13:06.790	his boss was angry at him.
+B	00:13:06.800	00:13:08.000	why?
+F	00:13:08.000	00:13:12.959	a customer contacted bill's boss and complained about bill?
+B	00:13:12.959	00:13:14.550	really?
+B	00:13:14.560	00:13:16.800	was it about something important?
+F	00:13:16.800	00:13:17.120	no.
+F	00:13:17.120	00:13:20.240	it wasn't important.
+B	00:13:20.240	00:13:21.829	was the problem cleared up?
+F	00:13:21.835	00:13:26.093	yes,it was bill apologized and the customer calmed down.
+
+G	00:13:31.440	00:13:34.000	what happened to you?
+C	00:13:34.000	00:13:38.240	i crashed my car into a tree.
+G	00:13:38.240	00:13:39.350	oh!
+G	00:13:39.360	00:13:41.440	were you hurt badly?
+C	00:13:41.440	00:13:43.750	no, i wasn't.
+G	00:13:43.760	00:13:45.839	was it your fault?
+C	00:13:45.839	00:13:48.069	no, it wasn't.
+C	00:13:48.079	00:13:52.480	there was a problem with the tires on my car.
+G	00:13:52.480	00:13:57.829	well, i hope you claimed it with your insurance company.
+C	00:13:57.839	00:13:59.760	yes, i did.
+C	00:13:59.730	00:14:03.256	they accepted all of the responsibility.
+
+C	00:14:11.040	00:14:13.680	did i tell you what i did yesterday?
+B	00:14:13.680	00:14:13.829	no.
+B	00:14:13.839	00:14:14.160	you didn't.
+B	00:14:14.160	00:14:15.189	what'd you do yesterday?
+C	00:14:15.199	00:14:18.629	i had lunch at a new restaurant.
+B	00:14:18.639	00:14:20.720	how was it?
+C	00:14:20.720	00:14:22.470	i never found out.
+B	00:14:22.480	00:14:24.550	what do you mean you never found out?
+C	00:14:24.560	00:14:27.680	well, i ordered my food?
+B	00:14:27.680	00:14:30.470	and then?
+C	00:14:30.480	00:14:33.750	and then i remembered i forgot my money.
+B	00:14:33.760	00:14:36.720	no way, so what'd you do?
+C	00:14:36.720	00:14:39.590	i told the waitress to cancel my order.
+B	00:14:39.600	00:14:41.199	was she angry?
+C	00:14:41.199	00:14:45.920	not at all in fact she offered to buy me lunch.
+B	00:14:45.920	00:14:47.430	that's nice.
+B	00:14:47.440	00:14:49.440	you accepted her offer?
+C	00:14:49.440	00:14:52.150	no, i felt embarrassed so.
+C	00:14:52.248	00:14:53.008	i left.
+
+D	00:15:02.079	00:15:04.399	honey!
+D	00:15:04.399	00:15:07.829	i want you to go to the supermarket and get some things.
+B	00:15:07.839	00:15:08.880	what?
+B	00:15:08.880	00:15:09.839	right now?
+D	00:15:09.839	00:15:12.240	yes... now.
+D	00:15:12.240	00:15:15.440	write it down so you don't forget anything.
+B	00:15:15.440	00:15:18.629	okay.
+B	00:15:18.639	00:15:20.399	what do you want?
+D	00:15:20.399	00:15:31.430	get a couple of carrots, some tomatoes and a kill of potatoes.
+B	00:15:31.440	00:15:32.639	fine.
+B	00:15:32.639	00:15:35.430	is there anything else you want.
+D	00:15:35.440	00:15:39.990	yes, get a quarter kilo of cheese.
+B	00:15:40.000	00:15:42.160	okay.
+B	00:15:42.160	00:15:45.749	i'll get those things for you.
+B	00:15:45.759	00:15:47.519	do you have money
+D	00:15:47.519	00:15:47.920	yes.
+D	00:15:47.920	00:15:49.829	here you are.
+D	00:15:49.839	00:15:50.399	oh!
+D	00:15:50.399	00:15:51.600	before i forget.
+D	00:15:51.600	00:15:53.189	do we have any milk?
+B	00:15:53.199	00:15:57.829	yeah! there's a little bit in the fridge.
+D	00:15:57.839	00:15:58.639	okay.
+D	00:15:58.698	00:15:59.814	you may go now.
+
+B	00:16:15.040	00:16:17.590	excuse me!
+B	00:16:17.600	00:16:20.560	where can i find the tomatoes?
+C	00:16:20.560	00:16:24.870	oh! they're over there.
+B	00:16:24.880	00:16:26.560	oh, thanks.
+B	00:16:26.560	00:16:35.749	by the way i also need carrots, green beans, peas and an onion.
+C	00:16:35.759	00:16:48.829	they're all next to the tomatoes.
+B	00:16:48.839	00:16:52.550	thanks.
+C	00:16:52.560	00:16:54.959	hello!
+C	00:16:54.959	00:16:57.350	is there anything i can do for you?
+D	00:16:57.360	00:16:58.240	yes.
+D	00:16:58.240	00:17:12.230	i need a carrot, an onion and a tomato.
+C	00:17:12.240	00:17:13.439	here you are.
+C	00:17:13.439	00:17:15.039	anything else?
+D	00:17:15.039	00:17:15.590	yes.
+D	00:17:15.600	00:17:19.839	i also need a cucumber and a head of lettuce.
+C	00:17:19.926	00:17:20.964	i'll get those.
+
+F	00:17:28.000	00:17:30.640	so what else do we need?
+E	00:17:30.640	00:17:40.710	we need a kingdom of green beans, two kilos of peas, several onions and many chilies.
+F	00:17:40.720	00:17:46.640	i know where we can get the peas beans and onions but i'm not sure about the chilies.
+E	00:17:46.640	00:17:47.679	that's okay.
+E	00:17:47.679	00:17:50.160	i'll get the chilies later.
+F	00:17:50.160	00:17:53.110	how many chilies do you need exactly?
+E	00:17:53.120	00:17:56.549	Ah, about twenty to thirty.
+F	00:17:56.559	00:17:57.360	wow!
+F	00:17:57.360	00:17:59.200	that's going to be hot.
+E	00:17:59.200	00:17:59.990	no.
+E	00:18:00.000	00:18:02.023	i'm not going to use them all.
+
+C	00:18:09.200	00:18:11.360	what can i get you today?
+B	00:18:11.360	00:18:13.280	i need some milk.
+C	00:18:13.280	00:18:15.679	how much milk do you need?
+B	00:18:15.679	00:18:18.960	um! i need about two liters.
+C	00:18:18.960	00:18:20.630	anything else?
+B	00:18:20.640	00:18:21.600	yes.
+B	00:18:21.600	00:18:25.440	i also want a half kilo of cheese.
+C	00:18:25.440	00:18:27.110	okay.
+C	00:18:27.120	00:18:28.880	anything else?
+B	00:18:28.880	00:18:29.600	yes.
+B	00:18:29.600	00:18:34.070	i also need a carton of yogurt.
+B	00:18:34.080	00:18:39.200	and a kilo of strawberry ice-cream.
+C	00:18:39.200	00:18:40.423	i'll get those for you.
+
+C	00:18:45.280	00:18:47.120	hello mr.bradbury!
+C	00:18:47.120	00:18:48.470	what will it be today?
+F	00:18:48.480	00:18:49.520	hi, neil.
+F	00:18:49.520	00:18:50.880	um! let's see.
+F	00:18:50.880	00:18:56.230	i need a loaf of french bread and a slice of pizza to go.
+C	00:18:56.240	00:18:58.320	do you need anything else?
+F	00:18:58.320	00:19:04.480	um! my wife wants some roast beef and some cheese.
+C	00:19:04.480	00:19:06.950	we have many different kinds of cheese.
+C	00:19:06.960	00:19:08.960	what kind of cheese does she want?
+F	00:19:08.960	00:19:12.320	she likes swiss cheese.
+C	00:19:12.320	00:19:13.270	fine.
+C	00:19:13.280	00:19:14.640	how much do you want?
+F	00:19:14.640	00:19:15.600	a lot.
+F	00:19:15.600	00:19:19.110	she said get about four kilograms.
+C	00:19:19.120	00:19:20.240	no problem.
+C	00:19:20.240	00:19:22.000	does she want anything else?
+F	00:19:22.000	00:19:30.630	a kilo of coleslaw, a half kilo of potato salad and a third kilo of macaroni salad.
+C	00:19:30.779	00:19:32.570	wait a minute,i'll get those for you.
+
+D	00:19:38.000	00:19:41.590	i'm going to the supermarket to get some fruit for our picnic.
+D	00:19:41.600	00:19:44.320	what should i get?
+B	00:19:44.320	00:19:47.110	well, let's see.
+B	00:19:47.120	00:19:55.590	get some apples, some oranges, pears and bananas.
+D	00:19:55.600	00:19:56.160	okay.
+D	00:19:56.160	00:19:57.280	i'll do that.
+D	00:19:57.280	00:19:59.190	anything else?
+B	00:19:59.200	00:20:08.230	um, yeah, you might want to get a watermelon or some cantaloupes if they have any.
+D	00:20:08.240	00:20:10.960	do we need some grapes?
+B	00:20:10.960	00:20:13.440	yeah, that's an excellent idea.
+B	00:20:13.440	00:20:18.950	please get some grapes, maybe about a kilo?
+D	00:20:19.109	00:20:19.806	see you soon.
+D	00:20:20.000	00:20:20.520	bye!
+B	00:20:21.520	00:20:22.088	bye!
+
+A	00:20:26.960	00:20:30.310	let's make some seafood soup.
+A	00:20:30.320	00:20:34.870	do we have any clams or shrimp?
+B	00:20:34.880	00:20:37.440	clams or shrimp?
+B	00:20:37.440	00:20:39.520	no, we don't have any.
+B	00:20:39.520	00:20:42.630	we used it for seafood pizza yesterday.
+A	00:20:42.640	00:20:44.880	oh! that's right.
+A	00:20:44.880	00:20:47.440	what about lobster or fish?
+A	00:20:47.440	00:20:50.789	do we have any?
+B	00:20:50.799	00:20:53.120	how much do you need?
+A	00:20:53.120	00:20:55.270	well, let's see.
+A	00:20:55.280	00:21:00.799	i need about one kilo of lobster and two kilos of snapper.
+B	00:21:00.799	00:21:06.789	oh! we don't have any lobster or snapper.
+A	00:21:06.799	00:21:10.630	let's have a barbecue instead.
+B	00:21:10.640	00:21:15.430	nope, we don't have any steaks.
+A	00:21:15.440	00:21:18.159	what about hot dogs?
+B	00:21:18.159	00:21:18.870	sure.
+B	00:21:18.880	00:21:21.039	we have lots of hot dogs.
+A	00:21:21.095	00:21:22.098	oh, good.
+A	00:21:22.080	00:21:24.038	i love hot dogs.
+
+D	00:21:27.280	00:21:29.679	hey, this is cool.
+D	00:21:29.679	00:21:34.000	now we can order food from the supermarket over the internet.
+F	00:21:34.000	00:21:34.880	really?
+F	00:21:34.880	00:21:36.240	wow!
+D	00:21:36.240	00:21:37.750	let's try this.
+D	00:21:37.760	00:21:40.000	what do you want?
+F	00:21:40.000	00:21:42.840	how about a loaf of bread?
+D	00:21:42.840	00:21:47.029	okay. do we have any milk or cheese here?
+F	00:21:47.039	00:21:48.640	no, we don't have any.
+D	00:21:48.640	00:21:53.750	okay. i'll order a liter of milk and half kilo of cheese.
+F	00:21:53.760	00:21:56.950	i also want a container of coleslaw.
+D	00:21:56.960	00:21:59.919	okay. let's see.
+D	00:21:59.922	00:22:01.521	press enter to send.
+
+C	00:22:34.753	00:22:36.431	what can i get for you today, george?
+F	00:22:36.900	00:22:39.303	um. i would like some fruit.
+F	00:22:39.280	00:22:41.110	i'm making a fruit salad.
+C	00:22:41.120	00:22:43.919	what kind of fruit would you like?
+F	00:22:43.919	00:22:48.870	uh. can you give me a kilo of grapes and two kilos of oranges?
+C	00:22:48.880	00:22:49.600	sure.
+C	00:22:49.600	00:22:51.280	can i get you anything else?
+B	00:22:51.280	00:22:53.510	we have some apples on sale today.
+F	00:22:53.520	00:22:55.520	no, i don't want any apples.
+F	00:22:55.520	00:22:56.320	thank you.
+F	00:22:56.320	00:22:58.310	i think this will be all for today.
+C	00:22:58.320	00:22:58.936	okay.
+
+E	00:23:05.520	00:23:09.270	can i have some carrots and green beans, please?
+C	00:23:09.280	00:23:11.840	sure. how much of these?
+E	00:23:11.840	00:23:17.350	a half a kilo of each.
+C	00:23:17.360	00:23:21.919	okay. do you want any peas?
+E	00:23:21.919	00:23:25.360	um. no, thanks.
+C	00:23:25.360	00:23:29.039	we have onions they're on sale for half price.
+E	00:23:29.039	00:23:32.240	hmm. that sounds good.
+E	00:23:32.240	00:23:46.789	i'll take a kilo of onions.
+C	00:23:46.799	00:23:47.520	there you are.
+C	00:23:47.520	00:23:48.880	have a great day!
+E	00:23:48.880	00:23:50.390	how much is that?
+C	00:23:50.480	00:23:53.209	oh, five twelve.
+C	00:23:54.752	00:23:55.996	let's call five dollars.
+E	00:23:58.733	00:23:59.699	thanks.
+
+H	00:24:07.039	00:24:08.080	how are you?
+F	00:24:08.080	00:24:09.360	i'm fine.
+F	00:24:09.360	00:24:10.720	what's on sale today?
+H	00:24:10.846	00:24:14.400	today we have men's pants on sale for only twenty-four ninty nine.
+E	00:24:15.821	00:24:16.454	wow. 
+E	00:24:17.257	00:24:19.127	that's a great bargainer,are these them?
+H	00:24:19.177	00:24:19.703	yes.
+E	00:24:24.487	00:24:27.273	do you have anything in a smaller size this is too big?
+H	00:24:27.792	00:24:29.583	yeah, we have some here.
+E	00:24:32.559	00:24:33.279	right.
+E	00:24:33.279	00:24:36.310	and do you have anything more casual than these?
+H	00:24:36.320	00:24:37.360	i'm sure we do.
+H	00:24:37.360	00:24:38.640	let me go check in the back.
+E	00:24:38.640	00:24:39.109	okay.
+
+H	00:24:43.440	00:24:45.200	may i help you, sir?
+B	00:24:45.200	00:24:45.840	yes.
+B	00:24:45.840	00:24:50.159	i was wondering do you have any long-sleeve shirts?
+H	00:24:50.159	00:24:51.029	yes, we do.
+H	00:24:51.039	00:24:57.269	right here.
+B	00:24:57.279	00:25:01.990	how much does this cost?
+H	00:25:02.000	00:25:06.230	it's fourteen point ninety-nine.
+B	00:25:06.240	00:25:09.510	what about this one it's a smaller size?
+H	00:25:09.520	00:25:20.470	the bigger ones and the smaller ones are the same price.
+B	00:25:20.480	00:25:22.159	what about these pants?
+B	00:25:22.159	00:25:25.510	how much are they?
+H	00:25:25.520	00:25:27.870	they're thirty-three point fifty.
+B	00:25:27.870	00:25:30.880	thirty-three point fifty.
+B	00:25:30.880	00:25:33.600	what about these darker ones?
+H	00:25:33.600	00:25:34.799	they are cheaper.
+H	00:25:34.799	00:25:38.310	they're all sale this week at only twenty point ninety-nine
+H	00:25:38.320	00:25:40.817	we also have suits for sale this week.
+
+E	00:25:44.960	00:25:47.440	what's the price of this dress?
+H	00:25:47.440	00:25:49.120	it's forty-two fifty.
+E	00:25:50.320	00:25:54.390	do you have any that are more colorful?
+H	00:25:54.400	00:26:01.039	take a look at these but they are more expensive they're fifty-five.
+E	00:26:01.039	00:26:07.430	that's not too much more expensive.
+E	00:26:07.440	00:26:10.159	i like this one.
+E	00:26:10.159	00:26:16.870	do you have something a little less formal?
+H	00:26:16.880	00:26:19.520	how about this one?
+E	00:26:19.520	00:26:22.720	yes.. that is lovely!
+E	00:26:22.720	00:26:23.966	i'll try this.
+
+E	00:26:28.880	00:26:31.039	do you want anything from the shop?
+F	00:26:31.039	00:26:32.799	yes. toothpaste.
+F	00:26:32.799	00:26:35.760	get me some old gate toothpaste.
+E	00:26:35.760	00:26:39.269	but old gate is more expensive than oral see.
+F	00:26:39.279	00:26:40.559	how much more?
+E	00:26:40.559	00:26:43.590	it's fifty. cents more than oral see.
+F	00:26:43.600	00:26:45.600	how much is Lrby white?
+E	00:26:45.600	00:26:48.640	it's a dollar One point forty-five.
+F	00:26:48.640	00:26:51.360	that's cheaper than oral see.
+E	00:26:51.360	00:26:54.880	oral see is heavier than lrby white.
+F	00:26:54.880	00:26:59.764	okay. just get some toothpaste whatever kind you like up to you.
+
+E	00:27:03.760	00:27:05.600	hey look at these shirts.
+E	00:27:05.600	00:27:08.640	they are on sale.
+C	00:27:08.640	00:27:12.240	yeah, what are they going for?
+E	00:27:12.240	00:27:14.640	let's see.
+E	00:27:14.640	00:27:17.520	oh, yeah, Nineteen point ninety-nine.
+C	00:27:17.520	00:27:22.720	each that is much cheaper than the normal price.
+E	00:27:22.720	00:27:25.600	what is the normal price?
+C	00:27:25.600	00:27:30.070	normally, they're about thirty dollars.
+C	00:27:30.080	00:27:35.350	excuse me.
+C	00:27:35.360	00:27:37.750	do you have any a bit larger than these?
+C	00:27:37.760	00:27:40.720	i'm looking for something in an extra large.
+H	00:27:40.720	00:27:42.877	sure. come over and take a look.
+C	00:27:45.440	00:27:45.840	oh!
+C	00:27:45.840	00:27:48.950	these are nice.
+C	00:27:48.960	00:27:51.360	do you have some that are darker than these?
+C	00:27:51.360	00:27:55.279	i'm looking for something in a dark blue or brown.
+H	00:27:55.279	00:27:58.679	yes. i think we have some in the back,let me take a look.
+
+E	00:28:02.720	00:28:04.240	excuse me.
+E	00:28:04.240	00:28:07.269	what's the price of this suit?
+H	00:28:07.279	00:28:10.789	it's one hundred and forty five dollars.
+E	00:28:10.799	00:28:13.830	do you have some that are more formal?
+H	00:28:13.840	00:28:16.799	yes, but they are more expensive.
+E	00:28:16.799	00:28:21.990	that's okay.
+H	00:28:22.000	00:28:24.480	these are more formal.
+E	00:28:24.480	00:28:26.720	yes, they are perfect!
+H	00:28:26.720	00:28:30.480	they're on sale for one hundred and ninety nine dollars.
+E	00:28:30.480	00:28:31.590	fine.
+E	00:28:31.669	00:28:36.219	i like this one but i need a bigger size.
+H	00:28:36.510	00:28:38.160	i'll get a bigger size for you.
+
+D	00:28:42.240	00:28:45.440	what do we need to get when we go to the store?
+C	00:28:50.559	00:28:54.149	we need some shampoo and conditioner.
+D	00:28:54.159	00:28:57.120	which brand do you want?
+C	00:28:57.120	00:28:58.470	i don't care.
+C	00:28:58.480	00:29:02.070	but get something in a bigger container than the last one.
+C	00:29:02.080	00:29:03.366	we use it too quickly.
+D	00:29:04.240	00:29:05.510	fine.
+D	00:29:05.520	00:29:08.789	we also need to get some soap.
+C	00:29:08.799	00:29:11.015	can we get one that smells better this time?
+D	00:29:14.114	00:29:14.789	sure.
+D	00:29:14.799	00:29:16.744	we can try a different brand.
+C	00:29:18.320	00:29:22.470	anything else?
+D	00:29:22.480	00:29:25.630	yeah, you need some mouthwash too.
+
+C	00:29:40.799	00:29:42.799	i really like your new tv
+E	00:29:42.799	00:29:44.070	yeah, thanks.
+E	00:29:44.080	00:29:46.789	it has more features than the last one.
+C	00:29:46.799	00:29:47.360	really?
+C	00:29:47.360	00:29:49.440	like what?
+E	00:29:49.440	00:29:54.554	it can get up to one hundred channels and it has five languages.
+C	00:29:55.520	00:29:57.200	great!
+E	00:29:57.200	00:29:59.990	it's also bigger than the last one.
+C	00:30:00.000	00:30:01.360	what size is it?
+E	00:30:01.360	00:30:06.830	it's a twenty-one inch model.
+C	00:30:06.840	00:30:07.279	awesome.
+E	00:30:07.279	00:30:09.279	big!
+

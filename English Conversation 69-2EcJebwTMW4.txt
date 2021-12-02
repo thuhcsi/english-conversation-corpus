@@ -1,0 +1,486 @@
+A	00:00:02.159	00:00:05.190	what are you doing anne?
+B	00:00:05.200	00:00:12.709	my boss asked me to booked rooms for two of our most demanding clients.
+B	00:00:12.719	00:00:25.750	they would like a quiet hotel near our publishing house and of course with all the creature comforts.
+B	00:00:25.760	00:00:33.110	so i'm making a few telephone calls.
+A	00:00:33.120	00:00:35.190	and listen to this song for a moment.
+A	00:00:35.200	00:00:38.000	it's ray charles's last recording.
+A	00:00:38.000	00:00:42.630	it's fantastic.
+B	00:00:42.640	00:00:44.840	i've got a lot to do sharon.
+A	00:00:50.960	00:00:52.719	just for one minute anne.
+A	00:00:52.719	00:00:54.869	come on!
+B	00:00:54.879	00:00:58.709	i'm afraid i can't now.
+B	00:00:58.719	00:01:05.270	but just why don't you go over to alice's?
+A	00:01:05.280	00:01:08.550	she's having a shower.
+A	00:01:08.560	00:01:10.880	you know.
+A	00:01:10.880	00:01:16.469	when alice gets in the bathroom she takes at least two hours.
+B	00:01:16.479	00:01:20.950	well do whatever you want.
+B	00:01:20.960	00:01:27.030	just please get out of this room.
+A	00:01:27.040	00:01:31.030	anne what's the matter today?
+A	00:01:31.040	00:01:33.200	why are you treating me so badly?
+B	00:01:33.200	00:01:35.030	that's enough sharon!
+B	00:01:35.040	00:01:37.200	i know everything about it!
+A	00:01:37.200	00:01:39.270	everything about what?
+B	00:01:39.280	00:01:41.229	that you've got a lover
+A	00:01:41.591	00:01:43.228	a lover?
+A	00:01:44.000	00:01:46.079	are you going crazy anne?
+B	00:01:46.079	00:01:49.439	don't try and pretend with me sharon.
+B	00:01:49.439	00:01:52.069	and i call you a friend.
+A	00:01:52.079	00:01:55.670	but it's the truth
+A	00:01:55.680	00:01:58.709	and who is my romantic lover, by the way?
+B	00:01:58.719	00:02:03.190	you know i'm talking about jack!
+A	00:02:03.200	00:02:05.600	jack?
+A	00:02:05.600	00:02:07.109	what are you talking about?
+B	00:02:07.119	00:02:08.879	the photograph.
+B	00:02:08.879	00:02:12.560	the one where you and jack are kissing!
+A	00:02:12.560	00:02:15.040	it's not what you think anne.
+B	00:02:15.040	00:02:22.229	so you tell me you know a picture says more than a thousand words!
+A	00:02:22.239	00:02:26.229	that photo is from three years ago.
+A	00:02:26.239	00:02:27.642	we were engaged
+B	00:02:27.642	00:02:28.720	oh what?
+B	00:02:28.720	00:02:31.830	but you and jack were engaged?
+A	00:02:31.840	00:02:33.280	i know.
+A	00:02:33.280	00:02:34.480	i know.
+A	00:02:34.480	00:02:38.080	i i wanted to avoid stupid gossip.
+A	00:02:38.080	00:02:41.270	and also because of peter.
+B	00:02:41.280	00:02:44.630	so now you're telling me.
+B	00:02:44.640	00:02:47.280	well i can't believe it.
+A	00:02:47.280	00:02:48.879	i know i.
+A	00:02:48.879	00:02:53.670	didn't want to hurt your feelings.
+A	00:02:53.680	00:02:56.869	see now you're angry with me.
+A	00:02:56.879	00:02:58.159	that's why.
+B	00:02:58.159	00:02:59.120	well you're right.
+B	00:02:59.120	00:02:59.760	sharon!
+B	00:02:59.760	00:03:02.080	i am mad at you!
+B	00:03:02.080	00:03:05.599	and now i look like a fool
+A	00:03:05.599	00:03:08.461	i'm sorry anne really.
+C	00:03:08.461	00:03:11.190	oh my hair!
+A	00:03:11.200	00:03:12.800	what's going on?
+C	00:03:11.200	00:03:13.953	oh my god
+A	00:03:12.800	00:03:14.000	it's alice.
+A	00:03:14.000	00:03:16.470	come on let's go see what's happening.
+
+A	00:03:16.480	00:03:18.239	what's happening?
+B	00:03:18.239	00:03:21.040	alice. why are you screaming?
+C	00:03:21.040	00:03:23.200	my hair...
+C	00:03:23.200	00:03:27.830	look!
+A	00:03:27.840	00:03:34.319	it it looks, your hair is green!
+C	00:03:34.319	00:03:36.949	i know!!!
+B	00:03:36.959	00:03:39.599	but how?
+C	00:03:39.599	00:03:43.040	okay imagine this.
+C	00:03:43.040	00:03:44.630	i'm washing my hair.
+C	00:03:44.640	00:03:51.440	well coloring my hair actually i want to change my look.
+C	00:03:51.440	00:03:54.720	my mobile rings. it's tom.
+C	00:03:54.720	00:03:58.640	he's telling me all about this great party yesterday evening.
+C	00:03:58.640	00:04:03.589	i'm listening to his story and i don't realize that time flies.
+C	00:04:03.599	00:04:07.509	more than an hour.
+A	00:04:07.519	00:04:10.846	it's always the same old story alice.
+A	00:04:13.439	00:04:17.430	anyways green suits you.
+A	00:04:17.440	00:04:23.440	you look it looks very original, very unique...
+A	00:04:23.440	00:04:26.150	just like you.
+B	00:04:26.160	00:04:31.199	well alice don't be offended but..
+B	00:04:31.199	00:04:36.390	um you look like a frog.
+C	00:04:36.400	00:04:42.230	thanks anne that's the nicest compliment.
+C	00:04:42.240	00:04:46.790	what shall i do?
+B	00:04:46.800	00:04:57.189	well why don't you call a hairdresser and make an appointment?
+B	00:04:57.199	00:05:02.617	and in future try to avoid changing your look.
+
+D	00:05:11.520	00:05:16.629	good morning everybody.
+D	00:05:16.639	00:05:19.039	can i ask you a question?
+D	00:05:19.039	00:05:20.903	yesterday evening i got..
+B	00:05:20.903	00:05:23.350	sorry jack i can't listen now.
+B	00:05:23.360	00:05:25.120	i've got to get to work.
+B	00:05:25.120	00:05:30.960	i have a meeting at nine thirty with my editor and i'm late.
+D	00:05:30.960	00:05:34.080	but i only need a minute it's important.
+B	00:05:34.080	00:05:36.350	nothing is more important than this meeting.
+B	00:05:36.350	00:05:43.039	if i arrive late my boss will kill me. ring me later if you want.
+B	00:05:43.039	00:05:46.550	bye-bye.
+D	00:05:46.560	00:05:52.560	great. alice alice.
+D	00:05:52.560	00:05:54.629	can i ask you a question?
+D	00:05:54.639	00:05:55.561	yesterday evening...
+C	00:05:55.458	00:05:56.970	no jack i can't.
+C	00:05:56.970	00:06:00.639	i'm really sorry but i have to get going too.
+D	00:06:00.639	00:06:05.990	but you never leave before eleven in the morning and why are you in such a hurry today?
+C	00:06:06.000	00:06:08.880	i'm starting a new yoga course this morning.
+C	00:06:08.880	00:06:12.960	my horoscope says i have to do some exercise.
+D	00:06:12.960	00:06:18.218	well if your horoscope says so anyway i only need a second.
+C	00:06:18.218	00:06:21.919	no jack my teacher told me not to be late.
+C	00:06:21.919	00:06:23.909	you can give me a call later.
+D	00:06:23.919	00:06:30.309	but alice wait! it's important!
+D	00:06:30.319	00:06:33.039	what a bunch of nuts.
+D	00:06:33.039	00:06:36.790	i wonder what my aunt will think.
+B	00:06:36.800	00:06:40.870	what a day i'm exhausted.
+C	00:06:40.880	00:06:42.160	me too.
+C	00:06:42.160	00:06:45.189	all of my muscles are killing me.
+C	00:06:45.199	00:06:48.080	what is there to eat Anne?
+B	00:06:48.080	00:06:52.870	well we can make a sandwich that's about it.
+B	00:06:52.880	00:06:57.189	the fridge is practically empty.
+B	00:06:57.199	00:07:01.430	jack is that you?
+B	00:07:01.440	00:07:03.680	who's that with him?
+D	00:07:03.680	00:07:07.840	hi everybody this is my aunt carolina.
+D	00:07:07.840	00:07:11.189	she came all the way from bologna to see me.
+D	00:07:11.199	00:07:14.629	she'd like to see how i'm getting along.
+B	00:07:14.639	00:07:20.319	good evening. jack, why didn't you say anything?
+B	00:07:20.319	00:07:22.560	i should clean up!
+B	00:07:22.560	00:07:26.230	look at the mess!
+D	00:07:26.240	00:07:29.199	everybody was in such a hurry this morning.
+D	00:07:29.199	00:07:32.710	i tried to telephone you but your mobile was off.
+D	00:07:32.720	00:07:36.150	and alice's mobile just rang and rang.
+D	00:07:36.160	00:07:39.990	i imagine you left it at home again as usual alice.
+C	00:07:40.000	00:07:42.240	well i guess so.
+C	00:07:42.240	00:07:43.110	good evening.
+E	00:07:43.120	00:07:45.840	it's a pleasure to meet you.
+E	00:07:45.840	00:07:49.440	well well only girls huh?
+E	00:07:49.440	00:07:55.990	so you are alice, alice the interesting one of the house.
+E	00:07:56.000	00:07:59.430	and you are anne, the housekeeper.
+D	00:07:59.440	00:08:02.160	please and carolina.
+B	00:08:02.160	00:08:04.720	so that's how you describe us.
+D	00:08:04.720	00:08:05.599	come on.
+D	00:08:05.599	00:08:09.280	aunt carolina is only joking right?
+E	00:08:09.280	00:08:12.469	and this is the wonderful house!
+B	00:08:12.479	00:08:15.360	hmmm well yes!
+B	00:08:15.360	00:08:18.469	but it's usually tidy.
+E	00:08:18.479	00:08:21.360	it's still very charming.
+B	00:08:21.360	00:08:23.510	thank you!
+B	00:08:23.520	00:08:25.440	may i offer you something?
+B	00:08:25.440	00:08:28.790	um would you like to have a glass of wine maybe?
+E	00:08:28.800	00:08:30.109	yes. thank you.
+E	00:08:30.109	00:08:31.039	i would.
+B	00:08:31.039	00:08:34.399	alice could you get a bottle of wine please?
+C	00:08:34.399	00:08:38.800	there isn't any wine and there isn't any wine.
+C	00:08:38.800	00:08:40.640	there isn't any beer.
+B	00:08:40.640	00:08:42.320	we have to do the shopping.
+B	00:08:42.320	00:08:43.279	oh!
+B	00:08:43.279	00:08:45.750	i'm terribly sorry.
+B	00:08:45.760	00:08:47.519	it's not usually like this.
+B	00:08:47.519	00:08:50.880	but today was very busy.
+D	00:08:50.880	00:08:52.870	do you know what?
+D	00:08:52.880	00:08:54.880	let's go out for dinner.
+D	00:08:54.880	00:08:56.790	what do you say aunt carolina?
+E	00:08:56.800	00:08:59.760	that sounds good to me.
+E	00:08:59.760	00:09:01.350	excuse me.
+E	00:09:01.360	00:09:03.440	do you go out dressed like that?
+E	00:09:03.440	00:09:06.550	maybe you should get cleaned up a bit.
+B	00:09:06.560	00:09:07.120	yeah!
+B	00:09:07.120	00:09:08.959	you're absolutely right!
+C	00:09:08.959	00:09:12.550	let's get ready to go out on the town.
+E	00:09:12.560	00:09:15.040	may i ask you a question jack?
+D	00:09:15.040	00:09:16.630	of course aunt carolina.
+D	00:09:16.640	00:09:18.000	shoot!
+F	00:09:18.000	00:09:25.990	do you really think it's such a good idea to live together with all these women?
+
+B	00:09:26.000	00:09:29.110	alice, what are you going to do today?
+C	00:09:29.120	00:09:30.720	i don't know.
+B	00:09:30.720	00:09:33.110	why?
+B	00:09:33.120	00:09:37.120	i'm going to do some shopping for this evening.
+B	00:09:37.120	00:09:39.200	would you like to come along?
+B	00:09:39.200	00:09:42.320	i'd like to make dinner for jack's aunt.
+B	00:09:42.320	00:09:46.480	i also want to invite sharon and peter.
+C	00:09:46.480	00:09:49.200	my lesson is at three.
+C	00:09:49.200	00:09:51.030	i don't know what time i'll finish.
+B	00:09:51.040	00:09:52.240	don't worry.
+B	00:09:52.240	00:09:55.430	i'm going to do some work before that.
+B	00:09:55.440	00:09:58.470	i don't think i'll finish before five.
+B	00:09:58.480	00:10:00.080	so what do you say?
+C	00:10:00.080	00:10:01.750	okay.
+C	00:10:01.760	00:10:04.710	but only if you loan me your red hat.
+B	00:10:04.720	00:10:05.695	okay.
+B	00:10:05.695	00:10:08.240	i'll lend you the hat.
+B	00:10:08.240	00:10:12.606	but be careful if you lose it.
+B	00:10:12.606	00:10:18.949	i'll get very angry.
+E	00:10:18.959	00:10:20.720	good morning everyone.
+B	00:10:20.720	00:10:22.640	good morning mrs andreini.
+E	00:10:22.640	00:10:24.880	what are you talking about?
+B	00:10:24.880	00:10:28.560	we're deciding what we're going to do today.
+B	00:10:28.560	00:10:31.990	how are you going to spend your day?
+E	00:10:32.000	00:10:36.399	i think i'll go for a walk in the city center.
+E	00:10:36.399	00:10:40.870	maybe do a little shopping.
+E	00:10:40.880	00:10:47.350	oh i think it's going to rain just look at those clouds.
+D	00:10:47.360	00:10:49.279	hi guys.
+D	00:10:49.279	00:10:52.310	hi auntie.
+D	00:10:52.320	00:10:54.399	i'm on my way out.
+E	00:10:54.399	00:10:54.959	jack.
+E	00:10:54.959	00:10:57.110	aren't you going to have breakfast?
+D	00:10:57.120	00:10:59.832	oh i can't auntie.
+D	00:10:59.832	00:11:01.680	i'm meeting a japanese client.
+D	00:11:01.680	00:11:04.880	if i get there late my boss will have a fit.
+E	00:11:04.880	00:11:07.990	you can't go on an empty stomach.
+D	00:11:08.000	00:11:10.240	oh don't worry.
+D	00:11:10.240	00:11:12.710	i'll have something to eat at lunch.
+B	00:11:12.720	00:11:14.640	oh wait jack.
+B	00:11:14.640	00:11:18.470	i'll come with you.
+B	00:11:18.480	00:11:21.509	so we'll see each other at five.
+B	00:11:21.519	00:11:23.151	don't forget.
+E	00:11:35.360	00:11:37.040	i'm worried about jack.
+E	00:11:37.040	00:11:39.110	he's so thin.
+E	00:11:39.120	00:11:41.920	maybe he isn't eating enough.
+C	00:11:41.920	00:11:46.069	oh he won't starve if he misses breakfast.
+E	00:11:46.079	00:11:51.030	he seems so run down and so distracted.
+E	00:11:51.040	00:11:54.560	he's always thinking about something else.
+C	00:11:54.560	00:11:57.750	maybe he's in love.
+C	00:11:57.760	00:12:02.389	excuse me a moment. i'll get back.
+C	00:12:02.399	00:12:06.710	sharon, this is jack's aunt carolina.
+A	00:12:06.720	00:12:08.079	it's a pleasure to meet you.
+A	00:12:08.079	00:12:09.377	i'm sharon evans.
+A	00:12:09.377	00:12:11.829	i live next door.
+E	00:12:11.839	00:12:13.680	another woman.
+E	00:12:13.680	00:12:14.880	and very pretty.
+E	00:12:14.880	00:12:16.959	i might add.
+E	00:12:16.959	00:12:18.720	let me guess.
+E	00:12:18.720	00:12:22.880	you're jack's friend too?
+E	00:12:22.880	00:12:26.560	who knows why my nephew prefers female friends.
+C	00:12:26.560	00:12:29.040	excuse me i have to go.
+C	00:12:29.040	00:12:31.910	sharon why don't you stay?
+C	00:12:31.920	00:12:36.949	you can get to know each other better.
+E	00:12:36.959	00:12:40.470	sharon i'm a little worried about jack.
+E	00:12:40.480	00:12:43.910	he's so distracted these days.
+E	00:12:43.920	00:12:47.990	maybe there's something you know i don't.
+A	00:12:48.000	00:12:50.160	me?
+A	00:12:50.160	00:12:52.150	i don't know anything.
+E	00:12:52.160	00:12:53.360	really?
+E	00:12:53.360	00:12:55.509	it's strange.
+E	00:12:55.519	00:12:58.949	i know his work is going very well.
+E	00:12:58.959	00:13:03.509	maybe there's a woman in the picture?
+A	00:13:03.519	00:13:04.880	listen.
+A	00:13:04.880	00:13:06.629	i'm very sorry.
+A	00:13:06.639	00:13:08.480	as i told you.
+A	00:13:08.480	00:13:11.590	i don't know anything about it.
+A	00:13:11.600	00:13:16.069	now i really must get going.
+E	00:13:16.079	00:13:16.510	okay.
+E	00:13:16.510	00:13:18.240	okay.
+E	00:13:18.240	00:13:20.389	what's the matter sharon?
+E	00:13:20.399	00:13:22.480	you look a little upset.
+A	00:13:22.480	00:13:23.430	i'm fine.
+A	00:13:23.440	00:13:26.133	just just a little tired.
+A	00:13:26.133	00:13:29.430	that's all.
+E	00:13:29.440	00:13:31.040	listen sharon.
+E	00:13:31.040	00:13:34.480	you seem like such a nice girl.
+E	00:13:34.480	00:13:36.800	may i ask you a favor?
+A	00:13:36.800	00:13:37.590	certainly.
+A	00:13:37.600	00:13:39.360	go right ahead.
+E	00:13:39.360	00:13:42.550	you know i'm going to leave in a few days.
+E	00:13:42.560	00:13:46.710	when i leave, will you take care of jack?
+E	00:13:46.720	00:13:50.550	it would make me feel so much better.
+A	00:13:50.560	00:13:54.389	oh well i don't know.
+A	00:13:54.399	00:13:58.470	i don't know if i can do that.
+E	00:13:58.480	00:14:02.069	but do i not?
+A	00:14:02.079	00:14:12.069	i'm not really the right person and i'm also engaged to peter.
+A	00:14:12.079	00:14:14.800	we live together.
+E	00:14:15.160	00:14:18.230	engaged.
+E	00:14:18.240	00:14:21.509	that's strange.
+A	00:14:21.519	00:14:23.920	why do you say that?
+E	00:14:23.920	00:14:28.710	because love is joyful, my girl.
+E	00:14:28.720	00:14:36.870	and you seem... well you seem so unhappy.
+
+F	00:14:36.880	00:14:38.800	hello anne.
+F	00:14:38.800	00:14:41.760	you're very beautiful this evening.
+F	00:14:41.760	00:14:42.880	come on.
+F	00:14:42.880	00:14:48.230	would you like a nice big kiss?
+B	00:14:48.240	00:14:51.829	but peter, are you crazy?
+B	00:14:51.839	00:14:54.000	what's the special occasion?
+F	00:14:54.000	00:14:55.430	i'm so happy.
+F	00:14:55.440	00:14:56.720	i'm elated.
+B	00:14:56.720	00:14:59.189	but you'll never like this.
+B	00:14:59.199	00:15:01.199	what's happened?
+F	00:15:01.199	00:15:05.040	do you remember that famous director who was at my performance?
+F	00:15:05.040	00:15:06.880	what did he look like?
+F	00:15:06.880	00:15:12.310	you know that tall well-dressed man about fifty years old.
+F	00:15:12.320	00:15:14.399	he looked like clark gable.
+B	00:15:14.399	00:15:16.320	oh yes!
+B	00:15:16.320	00:15:17.920	now i remember.
+F	00:15:17.920	00:15:23.189	well he said he wanted to direct a musical in japan.
+B	00:15:23.199	00:15:28.560	yes and but so what?
+F	00:15:28.560	00:15:32.790	and he said he wanted me to do an audition.
+B	00:15:32.800	00:15:38.230	yes i can't stand the suspense.
+B	00:15:38.240	00:15:39.199	what about him.?
+F	00:15:39.199	00:15:42.629	well, today i auditioned.
+F	00:15:42.639	00:15:46.310	and listened to this anne he wants me to go with him to japan.
+B	00:15:46.320	00:15:50.240	oh congratulations peter that's fantastic.
+B	00:15:50.240	00:15:52.720	i'm i'm so happy for you.
+B	00:15:52.720	00:15:54.310	now tell me everything.
+B	00:15:54.320	00:15:56.079	what was the audition like?
+F	00:15:56.079	00:15:57.759	i was very nervous.
+F	00:15:57.759	00:16:02.870	at first he asked me to sing and then he asked me to act like a snob.
+F	00:16:02.880	00:16:09.509	you know they're putting on my fair lady and they're looking for an actor to play the professor of pronunciation.
+F	00:16:09.519	00:16:15.199	remember this professor transforms a simple flower girl into a high society star.
+B	00:16:15.199	00:16:16.710	oh wow!
+B	00:16:16.720	00:16:22.000	a leading role! you are perfect for the part.
+B	00:16:22.000	00:16:25.199	but you like wearing fancy scarves.
+B	00:16:25.199	00:16:29.093	you enjoy using a superior tone of voice.
+B	00:16:29.093	00:16:34.079	and are you going to move to japan?
+F	00:16:34.079	00:16:38.240	of course. i'm so excited about the idea of living there.
+F	00:16:38.240	00:16:40.639	i wonder what it will be like.
+B	00:16:40.639	00:16:44.079	what does sharon think about all this?
+F	00:16:44.079	00:16:46.720	well she doesn't know yet.
+F	00:16:46.720	00:16:49.040	you know she's so moody.
+F	00:16:49.040	00:16:52.230	i need to find the right words.
+F	00:16:52.240	00:16:56.639	anyways all i can think about now is celebrating.
+F	00:16:56.639	00:16:58.880	do you want to go dancing?
+B	00:16:58.880	00:17:01.670	but you hate dancing peter.
+F	00:17:01.680	00:17:02.639	i know.
+F	00:17:02.639	00:17:04.870	but i want to be crazy tonight.
+F	00:17:04.880	00:17:06.559	put on your best dress.
+F	00:17:06.559	00:17:09.446	i want you to look like sophia right.
+C	00:17:12.000	00:17:13.120	hey.
+C	00:17:13.120	00:17:14.799	what's happening here?
+C	00:17:14.799	00:17:16.640	you're kissing each other.
+F	00:17:16.640	00:17:19.189	alice, now hold on.
+F	00:17:19.199	00:17:20.959	i'm leaving for japan.
+C	00:17:20.959	00:17:22.390	for japan?
+C	00:17:22.400	00:17:25.120	what are you going to do in japan?
+F	00:17:25.120	00:17:27.350	i'm going to act in a great musical.
+F	00:17:27.360	00:17:28.640	my fair lady.
+C	00:17:28.640	00:17:30.470	that's amazing!
+C	00:17:30.480	00:17:32.880	and when are you going to leave?
+F	00:17:32.880	00:17:35.110	i don't really know yet.
+F	00:17:35.120	00:17:39.440	i think we're going to leave in two or three weeks at the most.
+C	00:17:39.440	00:17:42.390	and what does sharon think about this?
+F	00:17:42.400	00:17:43.520	sharon?
+F	00:17:43.520	00:17:44.799	sharon?
+F	00:17:44.799	00:17:46.549	all you want to know about is sharon.
+F	00:17:46.559	00:17:51.039	i imagine she'll be very pleased to come with me at any rate.
+F	00:17:51.039	00:17:52.640	it's time to party.
+F	00:17:52.640	00:17:53.830	we're going dancing.
+F	00:17:53.840	00:17:54.960	would you like to join us?
+C	00:17:54.960	00:17:56.640	dancing?
+C	00:17:56.640	00:17:59.440	why aren't you always like this?
+C	00:17:59.440	00:18:03.110	going to japan is making you much more fun.
+
+D	00:18:03.120	00:18:05.039	hi everybody.
+D	00:18:05.039	00:18:06.470	wow.
+D	00:18:06.480	00:18:12.559	i'm really pleased to see everyone dressing up like this for me.
+B	00:18:12.559	00:18:16.720	haha you'd like to be the center of attention wouldn't you?
+D	00:18:16.720	00:18:19.600	well of course.
+D	00:18:19.600	00:18:24.150	anne, that color really suits you.
+D	00:18:24.160	00:18:32.870	and alice made up like that you look much older.
+D	00:18:32.880	00:18:34.480	what's happening anyway?
+D	00:18:34.480	00:18:36.950	why are you all so elegant?
+D	00:18:36.960	00:18:38.960	did i forget something?
+C	00:18:38.960	00:18:40.150	no jack.
+C	00:18:40.160	00:18:42.870	we're going out to celebrate with peter.
+C	00:18:42.880	00:18:45.830	he's going to play a role in a musical.
+C	00:18:45.840	00:18:48.320	and he's moving to japan.
+D	00:18:48.320	00:18:51.190	to japan?
+D	00:18:51.200	00:18:54.470	what does sharon think about all this?
+B	00:18:54.480	00:18:56.640	she doesn't know.
+B	00:18:56.640	00:19:01.909	anyway, according to peter she'll be ecstatic about the idea of moving to japan.
+D	00:19:01.919	00:19:06.710	moving to japan.
+D	00:19:06.720	00:19:10.400	what does sharon have to do with peter's musical anyway?
+C	00:19:10.400	00:19:12.240	we know how it is jack.
+C	00:19:12.240	00:19:16.640	when two people are together they make changes together.
+C	00:19:16.640	00:19:22.630	and anyway why do you care if peter and sharon move to japan?
+D	00:19:22.640	00:19:24.720	i don't care.
+D	00:19:24.720	00:19:31.110	but i really don't think that sharon is going to be happy about moving to japan.
+B	00:19:31.120	00:19:33.440	that's what you think.
+D	00:19:33.440	00:19:34.988	well of course.
+D	00:19:34.988	00:19:37.669	i could be wrong.
+C	00:19:37.679	00:19:41.510	in any case, it's useless to make guesses.
+C	00:19:41.520	00:19:42.640	hey jack.
+C	00:19:42.640	00:19:44.950	do you want to come with us?
+D	00:19:44.960	00:19:46.960	not really.
+D	00:19:46.960	00:19:54.160	tell peter i'm sorry but i don't really feel like celebrating tonight.
+B	00:19:54.160	00:19:58.549	well you don't know what you're missing.
+C	00:19:58.559	00:20:03.029	sayonara jack.
+
+A	00:20:03.039	00:20:07.669	yes sure okay four o'clock is fine.
+A	00:20:07.679	00:20:12.310	i'll see you later bye.
+F	00:20:12.320	00:20:14.240	who are you speaking to sharon?
+A	00:20:14.240	00:20:16.870	to the museum i sent my cv to.
+A	00:20:16.880	00:20:18.880	i'm going to have an interview this afternoon.
+F	00:20:18.880	00:20:21.029	oh great.
+F	00:20:21.039	00:20:25.669	but i really don't understand why you're in such a rush to find a job.
+A	00:20:25.679	00:20:26.880	you know very well.
+A	00:20:26.880	00:20:29.909	i don't enjoy being a tour guide.
+A	00:20:29.919	00:20:34.390	now let's get back to us.
+A	00:20:34.400	00:20:37.120	where were you last night?
+A	00:20:37.120	00:20:41.350	you didn't get home until three in the morning.
+F	00:20:41.360	00:20:44.789	i was out with ann and alice.
+F	00:20:44.799	00:20:46.400	listen sharon.
+F	00:20:46.400	00:20:51.590	i have to tell you something very important.
+A	00:20:51.600	00:20:54.159	what's the matter peter?
+A	00:20:54.159	00:20:56.240	is something wrong?
+F	00:20:56.240	00:21:00.390	well not really wrong but.
+F	00:21:00.400	00:21:05.669	yesterday remember when i was waiting for you outside the gym?
+F	00:21:05.679	00:21:08.000	you saw that director didn't you?
+A	00:21:08.000	00:21:10.630	the one who wants to put on a musical in japan.
+F	00:21:10.640	00:21:12.559	yes that's the one.
+F	00:21:12.559	00:21:15.200	well he asked me to audition.
+A	00:21:15.200	00:21:16.720	and?
+F	00:21:16.720	00:21:23.190	well we had a meeting and the audition went very well.
+F	00:21:23.200	00:21:24.452	it's a shame you weren't there.
+F	00:21:24.452	00:21:26.159	i was fantastic.
+F	00:21:26.159	00:21:28.149	let me tell you what happened.
+F	00:21:28.159	00:21:38.950	firstly when i arrived they were rehearsing the first scene of my fair lady: a girl was selling flowers on the street and people were passing by without noticing her.
+F	00:21:38.960	00:21:42.630	two men were watching the scene laughing all the while.
+F	00:21:42.640	00:21:46.310	then i sat down because i didn't want to interrupt anything!
+F	00:21:46.320	00:21:49.222	after that all of a sudden the director noticed me.
+F	00:21:49.222	00:21:55.110	he called out to me and asked me to play one of the roles.
+F	00:21:55.120	00:21:57.280	and here comes the best part.
+F	00:21:57.280	00:22:04.159	finally while i was singing he interrupted me and he shouted great my boy.
+F	00:22:04.159	00:22:05.520	the part is yours!
+F	00:22:05.520	00:22:06.720	can you believe it sharon?
+F	00:22:06.720	00:22:09.590	i got the leading part.
+A	00:22:09.600	00:22:12.559	i'm really happy for you peter.
+F	00:22:12.559	00:22:16.070	you should be happy for both of us.
+A	00:22:16.080	00:22:17.760	why is that?
+F	00:22:17.760	00:22:23.270	because we're gonna leave for japan in two or three weeks at the most.
+F	00:22:23.280	00:22:28.070	you'll come with me, won't you sharon?
+A	00:22:28.080	00:22:30.159	japan!
+A	00:22:30.159	00:22:35.120	but but how?
+A	00:22:35.120	00:22:36.592	this is such a surprise.
+A	00:22:36.592	00:22:40.425	i i don't know peter.
+A	00:22:40.425	00:22:42.390	i certainly wasn't expecting this.
+F	00:22:42.400	00:22:44.159	what's the problem?
+F	00:22:44.159	00:22:46.789	a change will do us both good.
+F	00:22:46.799	00:22:49.679	what's keeping you here?
+F	00:22:49.679	00:22:52.470	you don't seem happy with your work.
+A	00:22:52.480	00:22:55.830	that's true i wanted to change.
+A	00:22:55.840	00:22:59.909	but i certainly wasn't expecting this.
+A	00:22:59.919	00:23:03.669	this is so sudden.
+A	00:23:03.679	00:23:06.339	i'm completely confused.
+
+D	00:23:11.037	00:23:14.960	hi anne.
+D	00:23:14.960	00:23:16.960	what's that smell?
+D	00:23:16.960	00:23:19.270	what are you cooking?
+B	00:23:19.280	00:23:20.640	i'm cooking roast beef.
+D	00:23:20.640	00:23:21.679	wow!
+D	00:23:21.679	00:23:24.310	i'm starving.
+D	00:23:24.320	00:23:26.559	you know my sweet anne.
+D	00:23:26.559	00:23:32.950	i was thinking about you today about how you take care of alice and me.
+D	00:23:32.960	00:23:36.950	you were fantastic.
+D	00:23:36.960	00:23:40.549	it's something i've been wanting to tell you for a long time.
+B	00:23:40.559	00:23:41.679	come on jack.
+B	00:23:41.679	00:23:43.830	stop it.
+B	00:23:43.840	00:23:46.000	stop making fun of me.
+D	00:23:46.000	00:23:52.870	but it's true anne.
+D	00:23:52.880	00:23:55.360	what's the matter?
+D	00:23:55.360	00:24:00.549	why are you so nervous today?
+B	00:24:00.559	00:24:04.950	i know everything jack.
+B	00:24:04.960	00:24:12.070	i know all about you and sharon.
+D	00:24:12.080	00:24:19.190	and what is it exactly that you know?
+B	00:24:19.200	00:24:23.919	that you had a relationship many years ago.
+B	00:24:23.919	00:24:32.789	and that maybe you are still in love with her.
+D	00:24:32.799	00:24:41.110	and how did you find this out?
+B	00:24:41.120	00:24:51.269	i was tidying up in the living room the night of peter's performance when i saw your jacket.
+B	00:24:51.279	00:24:58.950	and i was taking it to your room when something fell out.
+B	00:24:58.960	00:25:02.230	it was a photo.
+B	00:25:02.240	00:25:06.950	a very meaningful photo.
+B	00:25:06.960	00:25:11.510	you were kissing her.
+B	00:25:11.520	00:25:14.870	so i spoke to sharon.
+D	00:25:14.880	00:25:20.789	and what did she say?
+B	00:25:20.799	00:25:25.190	she told me everything.
+B	00:25:25.200	00:25:29.190	tell me the truth jack.
+B	00:25:29.200	00:25:32.640	are you still in love with her?
+D	00:25:40.840	00:25:52.950	well i have to admit that seeing her makes me feel..
+B	00:25:50.128	00:25:57.430	but what about me jack?
+B	00:25:57.440	00:26:00.549	i thought,
+B	00:26:00.559	00:26:03.174	i thought there was something special between us.
+D	00:26:03.174	00:26:05.840	and there is anne.
+D	00:26:05.840	00:26:09.190	i care very much about you.
+D	00:26:09.200	00:26:10.000	but.
+B	00:26:10.000	00:26:11.120	but?
+D	00:26:14.159	00:26:19.919	well i thought we were just friends!
+B	00:26:19.919	00:26:24.159	oh okay jack.
+B	00:26:24.159	00:26:25.760	i understand now.
+D	00:26:25.760	00:26:30.470	wait and i didn't mean to hurt your feelings.
+B	00:26:30.480	00:26:35.430	but it doesn't matter jack.
+B	00:26:35.440	00:26:44.470	just remember sharon is going to japan.

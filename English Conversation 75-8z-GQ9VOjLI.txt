@@ -1,0 +1,440 @@
+A	00:00:03.280	00:00:08.760	so, ann. how did your meeting with mr. stevens and the montex representative go?
+B	00:00:09.280	00:00:13.380	quite... quite well, actually it was very interesting!
+A	00:00:13.360	00:00:15.179	did they come to any agreement?
+B	00:00:15.759	00:00:22.680	for the moment, montrax is going to print three thousand copies of our next series of cookbooks.
+B	00:00:22.880	00:00:27.800	mr. stevens wants to give them a a trial- run and see how they work.
+B	00:00:28.160	00:00:36.339	if they meet their deadlines and price competitively, he'll sign on for for larger deals in the future.
+A	00:00:36.719	00:00:42.140	we're hoping to optimize our work and drive down costs a little.
+A	00:00:42.800	00:00:47.200	anne, the publishing market is in a deep crisis.
+A	00:00:47.360	00:00:52.389	readership is dropping rapidly which is driving down sales.
+A	00:00:53.039	00:01:01.563	at the same time, production costs are increasing because of foreign rights acquisition as well as distribution costs.
+B	00:01:01.520	00:01:06.540	as a matter of fact, i i haven't bought many books recently.
+B	00:01:07.360	00:01:12.280	tell me rachel, does this crisis also affect us here at pilgrim?
+A	00:01:13.280	00:01:14.261	certainly!
+A	00:01:14.799	00:01:20.919	the negative trends of the market are felt throughout the sector, beginning with those who work in it!
+A	00:01:22.159	00:01:31.270	in any case, i'm optimistic, and i'm sure this is just a passing crisis and that the publishing sector will soon recover.
+B	00:01:31.280	00:01:35.269	that's probably what what gary wanted to talk to me about this morning.
+B	00:01:36.479	00:01:41.420	i saw him and he said that he had something very important to tell me.
+A	00:01:41.439	00:01:42.449	a-ha!
+B	00:01:43.759	00:01:44.549	what?
+B	00:01:46.479	00:01:48.670	why are you making that face?
+A	00:01:48.560	00:01:51.256	no, it's... it's nothing, anne!
+A	00:01:51.840	00:01:54.100	it's just that...
+A	00:02:05.600	00:02:08.859	it's just that i don't trust gary.
+A	00:02:08.879	00:02:12.065	he's a latin- lover and full of himself!
+A	00:02:13.680	00:02:20.140	he chases all of the pretty girls around here and you are just his latest victim.
+B	00:02:22.400	00:02:26.720	look rachel, i'm perfectly capable of looking after myself.
+B	00:02:27.280	00:02:30.090	i only have a working relationship with gary and that's how it's going to stay!
+A	00:02:32.560	00:02:33.970	sorry, anne.
+A	00:02:33.440	00:02:36.269	I... i certainly didn't mean to offend you.
+A	00:02:36.879	00:02:43.660	i'm quite aware that you are an intelligent young woman who can keep men like gary at a distance.
+A	00:02:44.480	00:02:48.060	in any case, i just wanted to warn you.
+A	00:02:48.400	00:02:52.810	i'm sure you'll agree with me once you get to know him...
+
+C	00:02:54.560	00:02:56.370	uh, right.
+C	00:02:57.200	00:03:00.480	anne, are you ready for your next telephone call?
+B	00:03:00.480	00:03:01.539	oh, yes.
+C	00:03:02.319	00:03:06.000	okay, uh you need to get in touch with mr. bradford.
+C	00:03:06.000	00:03:09.436	he's a great author who has worked with us for years.
+C	00:03:09.440	00:03:13.450	he's... um he's quite friendly and he's quite a wizard at the stove.
+C	00:03:13.680	00:03:18.709	he opened a restaurant a few years ago, but he sold it to move on to writing cookbooks.
+C	00:03:18.959	00:03:24.294	he knows a thousand tricks in the kitchen and he can make anything taste great... even tomato soup!
+B	00:03:25.280	00:03:26.769	come on, stop it, gary!
+B	00:03:26.879	00:03:33.660	i've only had half a sandwich today and hearing about tasty treats is is driving me crazy...
+C	00:03:33.675	00:03:35.099	i know, i know...
+C	00:03:34.879	00:03:36.958	speaking of cating...
+C	00:03:36.080	00:03:38.130	when are we going to have dinner together?
+B	00:03:39.840	00:03:42.129	you don't know when to quit, do you?
+B	00:03:42.959	00:03:44.999	enough joking around.
+B	00:03:45.440	00:03:48.560	let me give the kitchen superman a call.
+C	00:03:48.560	00:03:51.553	okay, okay, but don't forget to pay him compliments...
+C	00:03:51.440	00:03:52.910	this guy just eats them up!
+B	00:03:59.040	00:04:00.280	hello, good morning.
+B	00:04:00.640	00:04:03.620	this is anne baxter from pilgrim publishing.
+B	00:04:03.680	00:04:06.410	please, may i speak to mr. bradford?
+B	00:04:06.720	00:04:09.280	oh, mrs. bradford, hello!
+B	00:04:09.280	00:04:11.880	i've heard a lot about your husband.
+B	00:04:12.080	00:04:14.780	he's quite the chef, isn't he yes?
+B	00:04:17.680	00:04:23.280	yes, i also enjoy cooking, but i'm not in the same league, of course.
+B	00:04:24.720	00:04:29.800	well, i'm calling to propose a new cookbook series to mr. bradford.
+B	00:04:30.160	00:04:32.880	we're going to be taking it to press soon.
+B	00:04:33.425	00:04:34.182	okay, yes.
+B	00:04:34.000	00:04:34.769	thank you.
+B	00:04:35.199	00:04:36.190	yes, i'll hold.
+B	00:04:42.320	00:04:43.979	good morning, mr. bradford?
+B	00:04:43.919	00:04:47.260	hello, this is anne baxter from pilgrim publishing.
+B	00:04:47.360	00:04:50.590	first of all, congratulations!
+B	00:04:50.880	00:04:53.468	you're a legend around here!
+B	00:04:55.600	00:05:02.829	but as i was telling your wife, i'm calling to see if you're interested in participating in a new cookbook series that we...
+B	00:05:05.199	00:05:09.050	yes, yes, i know that you've always spoken to gary reynolds but...
+B	00:05:09.120	00:05:12.269	but i'm the new colleague who's been assigned to this project.
+B	00:05:14.479	00:05:15.820	i beg your pardon?
+B	00:05:16.800	00:05:25.700	well, excuse me, mr. bradford, but i don't understand why you consider mr. reynolds to be more competent than myself.
+B	00:05:26.240	00:05:30.720	in any case, if you'd like to speak to him, hold on a moment.
+B	00:05:30.960	00:05:32.340	i'll put you through.
+C	00:05:36.960	00:05:39.279	hey, mark, how are you?
+C	00:05:39.919	00:05:43.120	yeah, i think you upset anne, our new intern.
+C	00:05:43.520	00:05:47.760	oh, she's a fantastic colleague- diligent and uh hard- working.
+C	00:05:48.080	00:05:50.620	yeah, let's set up a meeting so you can meet her.
+C	00:05:50.960	00:05:52.650	you'll be very impressed.
+C	00:05:53.840	00:05:55.289	she's also a great cook.
+C	00:05:57.759	00:06:01.839	in the meantime, i'll send you a detailed outline of the project.
+C	00:06:02.319	00:06:02.950	okay.
+C	00:06:02.880	00:06:06.629	and we'll see each other tuesday at ten
+C	00:06:07.199	00:06:08.500	okay, right.
+C	00:06:08.800	00:06:08.520	bye mark.
+B	00:06:11.680	00:06:15.500	well, what a pleasant person he is!
+B	00:06:15.840	00:06:18.475	oh, come on anne, don't let him get to you!
+C	00:06:18.560	00:06:21.979	mr. bradford is just a little shy with those he doesn't know.
+C	00:06:21.919	00:06:26.119	but, you'll see, he's quite a lot of fun once you've met him!
+C	00:06:27.039	00:06:28.880	why don't we take a short break?
+B	00:06:29.840	00:06:34.500	how about a little fun on the telephone?
+B	00:06:34.800	00:06:37.450	i need to relax and have a good laugh.
+C	00:06:37.680	00:06:38.180	okay!
+C	00:06:38.880	00:06:40.620	but uh who should we call?
+B	00:06:40.800	00:06:41.439	i know!
+B	00:06:42.479	00:06:44.960	let's call my flatmate alice!
+B	00:06:45.680	00:06:48.240	she's always looking for new boyfriends and...
+B	00:06:48.240	00:06:57.050	you could pretend to be a friend of jack's, the other flatmate, saying that you saw a picture of her and that you'd love to meet her...
+C	00:06:56.960	00:06:57.620	okay, but...
+C	00:06:57.520	00:06:59.440	but she isn't going to get angry with me, is she?
+B	00:06:59.440	00:06:59.909	no!
+B	00:06:59.919	00:07:01.880	we'll tell her it was just a joke.
+C	00:07:12.560	00:07:15.849	hello, is that alice?
+C	00:07:17.039	00:07:21.319	this is gary and i'm calling because...
+C	00:07:21.759	00:07:23.840	well, i'm a little shy...
+C	00:07:23.840	00:07:29.020	and uh i'm a friend of jack's, and yesterday he he showed me a picture of you.
+C	00:07:29.280	00:07:32.260	and well, i think you're pretty cute...
+D	00:07:33.680	00:07:36.040	hello, could you speak up?
+D	00:07:36.400	00:07:38.270	the line is terrible.
+C	00:07:38.560	00:07:41.629	OH, yes, i'm also having problems.
+C	00:07:42.080	00:07:44.270	this line must be congested!
+C	00:07:45.490	00:07:46.839	uh my name is gary...
+C	00:07:47.039	00:07:49.709	and i'd like to get to know you a little better!
+D	00:07:49.919	00:07:50.560	what?
+D	00:07:51.120	00:07:52.449	who are you?
+C	00:07:53.360	00:07:55.089	i'm a friend of jack's...
+C	00:07:55.039	00:07:55.420	and...
+C	00:07:55.580	00:07:57.690	and yesterday i saw a picture of you...
+D	00:07:58.080	00:07:59.210	how could that be?
+D	00:07:59.680	00:08:00.680	what picture?
+C	00:08:00.880	00:08:03.299	don't raise your voice with me, alice.
+C	00:08:04.029	00:08:06.230	in the picture there were three people.
+C	00:08:06.720	00:08:10.043	one was jack, one was an ugly girl...
+C	00:08:12.319	00:08:14.769	and then a very beautiful lady...
+C	00:08:15.079	00:08:16.820	and jack told me it was you...
+C	00:08:17.549	00:08:22.850	hold on uh while i put you through to a friend of mine, who doesn't agree with me about the ugly girl.
+B	00:08:26.240	00:08:28.670	hello, who's speaking?
+D	00:08:29.110	00:08:30.190	this is alice.
+D	00:08:30.520	00:08:33.839	and i urgently need to speak with the other guy...
+D	00:08:34.299	00:08:35.940	i think his name is gary.
+B	00:08:36.000	00:08:38.639	uh, i'm afraid i can't hear you.
+B	00:08:38.959	00:08:40.249	could you speak up?
+D	00:08:40.719	00:08:44.480	i said i urgently need to speak with gary!
+B	00:08:44.720	00:08:48.089	oh, i'm afraid gary's very busy at the moment.
+B	00:08:49.059	00:08:55.440	if you'd like an appointment, i... i can fit you in the beginning of next month.
+D	00:08:55.680	00:08:56.360	what?
+D	00:08:56.840	00:08:58.290	you are joking, aren't you?
+D	00:08:58.720	00:09:02.110	i told you i need to speak with him immediately.
+B	00:09:02.240	00:09:03.920	alice!
+B	00:09:04.160	00:09:05.319	it's anne!
+B	00:09:06.399	00:09:07.380	it's a joke!
+B	00:09:08.310	00:09:10.340	and you fell for it completely!
+D	00:09:10.320	00:09:11.060	anne?!
+D	00:09:10.880	00:09:12.679	you scared the hell out of me!
+D	00:09:13.249	00:09:14.442	what a stupid joke!
+B	00:09:14.800	00:09:20.250	okay, maybe it was a stupid joke -but you bought it hook, line and sinker!
+
+D	00:09:39.200	00:09:41.099	hi anne, have you got a moment?
+D	00:09:41.279	00:09:43.720	i just have to show you a few things.
+B	00:09:43.680	00:09:48.120	alice, how many times have i told you to call before you come and visit me at the office?
+B	00:09:48.560	00:09:50.790	if my boss finds out, i'll be in trouble.
+D	00:09:51.040	00:09:51.829	yes, i know.
+D	00:09:51.839	00:09:52.880	you're right.
+D	00:09:52.880	00:09:53.610	i'm sorry.
+D	00:09:54.080	00:09:56.140	anyway, you are on your coffee break...
+D	00:09:56.320	00:09:59.059	and i just need some advice.
+D	00:09:59.459	00:10:01.360	i'm going out with philip tonight.
+D	00:10:01.360	00:10:04.440	you know, the handsome guy i met at the library last week?
+B	00:10:04.320	00:10:04.790	oh...
+D	00:10:04.800	00:10:06.240	i told you about him, didn't i?
+B	00:10:06.240	00:10:07.679	i don't know, alice.
+B	00:10:07.519	00:10:08.860	i've lost count.
+B	00:10:09.200	00:10:11.040	every week there's a different guy.
+B	00:10:11.040	00:10:14.490	and what's so important about him that you couldn't wait to see me?
+D	00:10:15.760	00:10:19.030	what if i wear this tonight?
+B	00:10:20.240	00:10:21.150	it's nice.
+B	00:10:21.040	00:10:22.160	red suits you.
+D	00:10:22.160	00:10:23.040	really?
+D	00:10:23.760	00:10:24.970	but if i wear this.
+D	00:10:24.970	00:10:27.190	i'll have to find the right black shawl.
+D	00:10:27.680	00:10:31.570	by the way, can you lend me the one you bought last Saturday?
+B	00:10:31.600	00:10:33.600	alice, it's brand new.
+B	00:10:33.600	00:10:35.760	i haven't even worn it yet!
+D	00:10:35.760	00:10:40.160	come on, anne... i told you that this date is really important to me.
+D	00:10:41.120	00:10:42.680	okay...
+D	00:10:43.680	00:10:46.420	what if i wore this one?
+B	00:10:46.560	00:10:47.779	that's pretty, too.
+D	00:10:48.399	00:10:53.670	yes, but if i wear this one, it would go better with your blue hat.
+D	00:10:53.760	00:10:55.190	could you lend it to me?
+D	00:10:55.519	00:10:56.240	please, anne!
+B	00:10:56.240	00:10:58.470	oh, alice no, not that one!
+B	00:10:58.640	00:11:00.040	it was a present from my sister.
+B	00:11:01.040	00:11:02.770	i'm very attached to it.
+D	00:11:02.770	00:11:03.839	oh, please anne.
+D	00:11:03.839	00:11:05.200	come on, help me.
+D	00:11:05.200	00:11:05.910	please!
+B	00:11:05.920	00:11:07.040	okay, okay!
+B	00:11:07.040	00:11:09.660	it's impossible to pick you out of anything anyway!
+B	00:11:10.000	00:11:15.269	but if i'd known you were going to borrow my entire wardrobe, i would have immediately told you i was very busy!
+D	00:11:15.279	00:11:16.720	thanks anne, you're the best.
+B	00:11:16.720	00:11:17.200	yeah..
+D	00:11:17.200	00:11:18.830	okay, i'm going now...
+D	00:11:19.200	00:11:20.750	um, by the way...
+D	00:11:21.360	00:11:26.210	what would you say if i told you i had broken your camera?
+B	00:11:26.220	00:11:27.580	you've done what?
+D	00:11:27.200	00:11:28.190	oh, come on, anne.
+D	00:11:28.160	00:11:29.480	i'm joking!
+D	00:11:30.720	00:11:34.050	i think work is making you just a little bit too nervous.
+D	00:11:34.240	00:11:35.040	bye!
+
+C	00:11:36.240	00:11:39.279	yes, uh to be honest, i am a bit worried.
+C	00:11:39.279	00:11:42.959	profits are down eight percent over the last few months.
+C	00:11:42.959	00:11:50.470	and just yesterday i read an article in uh in in media world that confirmed my suspicions.
+C	00:11:50.800	00:12:02.550	forecasts for the publishing market are are quite pessimistic, and the general feeling is that things are going to continue to go downhill based on current trends.
+C	00:12:02.800	00:12:08.379	the next five years could see a further drop of twenty percent.
+C	00:12:08.639	00:12:19.430	if we leave out best sellers and fiction, then the entire publishing market has taken a direct hit, or better is in a downward spiral.
+E	00:12:19.600	00:12:21.100	what about sales?
+C	00:12:22.000	00:12:26.060	for the moment they're stationary, but we won't be able to improve them.
+C	00:12:26.160	00:12:37.190	in fact, we'll have to stop publication of our encyclopedias of history and art history with awful consequences for those working on these projects.
+E	00:12:37.360	00:12:40.000	are you saying that we'll have to lay people off?
+C	00:12:40.000	00:12:42.160	no, no, not for the moment.
+C	00:12:42.160	00:12:48.320	but if things continue like they are, we will have to let some of our people go!
+E	00:12:48.480	00:12:49.580	oh my god!
+E	00:12:50.240	00:12:53.219	there must be something we can do to keep from cutting staff.
+C	00:12:53.339	00:12:58.700	i'm meeting with mr. stevens this afternoon to discuss the situation.
+C	00:12:59.120	00:13:05.540	we're going to focus on new objectives for the company in both marketing and sales.
+C	00:13:06.180	00:13:12.469	perhaps we will develop a new line of economic paperbacks which might help sales.
+E	00:13:12.959	00:13:17.019	but the other publishers are already doing that successfully.
+E	00:13:17.329	00:13:22.520	i think we'll need to develop new products to encourage new market opportunities.
+C	00:13:22.720	00:13:23.860	well said, billy!
+C	00:13:24.160	00:13:26.550	i've already got an idea to suggest.
+C	00:13:26.560	00:13:32.390	it won't resolve all of our problems, but it could bring about some interesting developments.
+E	00:13:32.560	00:13:34.329	and what might this new idea be?
+C	00:13:34.639	00:13:35.090	well...
+D	00:13:36.130	00:13:37.170	anna, are you in there?
+D	00:13:37.360	00:13:38.400	hey you!
+D	00:13:38.540	00:13:40.019	i'm looking for my friend anne.
+D	00:13:39.839	00:13:41.430	is she with you?
+D	00:13:41.760	00:13:42.609	anne!
+D	00:13:42.959	00:13:44.120	surprise!
+C	00:13:45.020	00:13:45.500	anne?
+C	00:13:45.620	00:13:46.800	hello? come back to earth.
+C	00:13:46.800	00:13:48.140	someone's looking for you.
+B	00:13:49.440	00:13:53.005	alice, what are you doing here?
+D	00:13:53.050	00:13:55.330	well, i came to see where you work, anne!
+D	00:13:55.860	00:13:57.110	could you give me a tour?
+D	00:13:57.910	00:14:00.920	so, these are your colleagues?
+D	00:14:05.180	00:14:06.919	what long faces!
+D	00:14:07.309	00:14:09.219	are you always like this?
+D	00:14:09.439	00:14:12.570	we need a little fun to lighten things up in here!
+D	00:14:12.880	00:14:15.009	why don't you invite them to the party this evening?
+B	00:14:16.639	00:14:19.693	no, no, no, really.
+B	00:14:19.700	00:14:20.300	i don't think...
+B	00:14:20.379	00:14:23.839	today is really not a good time to be talking about parties!
+B	00:14:24.259	00:14:26.370	why don't you come back some other time?
+B	00:14:26.610	00:14:28.990	and perhaps warn me in advance, perhaps!
+B	00:14:29.360	00:14:30.610	bye-bye, alice!
+
+B	00:14:36.639	00:14:39.470	yes, yes, mr. jones!
+B	00:14:39.360	00:14:42.500	the collection is divided into thematic volumes.
+B	00:14:43.220	00:14:47.239	your volume will be the first, uh dealing with starters.
+B	00:14:48.539	00:14:49.480	that's right!
+B	00:14:51.120	00:14:54.800	yes, recipes should be written clearly and precisely.
+B	00:14:56.160	00:14:58.600	i'm not sure i agree with you there.
+B	00:14:58.880	00:15:03.440	ingredients should be written separately, directly under the title of each dish.
+B	00:15:04.250	00:15:08.110	okay, i'll expect your first installment next week then.
+B	00:15:09.210	00:15:09.719	allright.
+B	00:15:09.760	00:15:10.940	goodbye, mr. jones.
+B	00:15:11.090	00:15:11.550	goodbye.
+B	00:15:18.880	00:15:20.530	excuse me, gary.
+B	00:15:21.250	00:15:23.559	has mr. bradford got in touch yet?
+B	00:15:27.629	00:15:28.149	gary?
+B	00:15:30.219	00:15:31.289	hello!
+B	00:15:31.409	00:15:32.759	i asked you a question.
+B	00:15:33.079	00:15:34.470	could you answer, please?
+C	00:15:35.759	00:15:36.260	what's up anne?
+C	00:15:36.070	00:15:37.780	i'm sorry, anne.
+C	00:15:37.790	00:15:39.940	i'm writing the contracts to send out to the authors.
+B	00:15:40.000	00:15:41.910	have you spoken to mr. bradford yet?
+C	00:15:42.240	00:15:42.655	no!
+C	00:15:43.040	00:15:44.110	could you give him a call?
+C	00:15:44.300	00:15:45.699	i'm really very busy at the moment.
+B	00:15:46.209	00:15:50.160	okay, could you at least tell me where you are with him?
+B	00:15:50.920	00:15:53.129	has he sent us the materials?
+B	00:15:54.829	00:15:55.259	gary?
+B	00:15:56.569	00:15:57.059	hello!
+B	00:15:57.099	00:15:58.200	gary!
+C	00:15:58.749	00:15:58.980	what?
+B	00:16:00.720	00:16:05.120	please, can you tell me what is so entertaining about drawing up contracts?
+C	00:16:05.620	00:16:05.930	why?
+B	00:16:05.920	00:16:10.709	because you're glued to your computer, and you keep laughing like a fool.
+C	00:16:11.129	00:16:12.820	i'm just in a good mood today.
+B	00:16:13.150	00:16:16.180	come on, gary, i'm not stupid!
+B	00:16:16.560	00:16:17.580	what are you doing?
+C	00:16:20.300	00:16:21.590	okay, you've caught me out!
+C	00:16:21.640	00:16:22.179	i'm chatting!
+C	00:16:23.279	00:16:23.839	it's great fun.
+C	00:16:23.839	00:16:25.030	would you like to give it a try?
+B	00:16:27.170	00:16:28.520	no, thank you very much.
+B	00:16:29.540	00:16:31.729	and you shouldn't be chatting at work anyway!
+B	00:16:32.269	00:16:34.200	mr. stevens might notice...
+C	00:16:34.340	00:16:35.319	now why would he?
+C	00:16:35.379	00:16:39.480	if he walks in the door, i'll just close the window and continue typing up the contracts.
+C	00:16:39.600	00:16:41.230	anne, relax!
+C	00:16:41.950	00:16:42.850	let's chat a bit together.
+B	00:16:44.100	00:16:45.860	no i'm afraid i can't.
+B	00:16:46.780	00:16:48.950	somebody needs to work around here!
+B	00:16:49.600	00:16:52.469	now could you explain how i should proceed with this?
+B	00:16:53.069	00:16:54.720	you spoke to mr. bradford.
+B	00:16:54.720	00:16:57.780	so, could you give me some details on your agreement?
+C	00:16:58.639	00:16:59.220	yes.
+C	00:16:59.230	00:17:03.639	he should have sent some materials in two days ago, but we still haven't received anything yet.
+C	00:17:03.839	00:17:06.240	give him a call and see where he's at with those.
+B	00:17:15.560	00:17:17.040	hello, mr. bradford.
+B	00:17:17.420	00:17:20.299	this is anne baxter from pilgrim publishing.
+B	00:17:21.819	00:17:22.300	hello.
+B	00:17:22.679	00:17:27.190	we are still waiting for the materials you should have sent us two days ago.
+B	00:17:27.240	00:17:29.919	i just wanted to know if you were having problems...
+B	00:17:32.750	00:17:35.389	what does the index have to do with it?
+B	00:17:36.149	00:17:37.829	i'm afraid i don't understand.
+B	00:17:38.659	00:17:40.640	no, it's just i wasn't aware of the...
+B	00:17:42.170	00:17:43.120	no, i don't think...
+B	00:17:43.840	00:17:44.400	could...
+B	00:17:44.400	00:17:45.799	could you just hold on a second?
+C	00:17:47.209	00:17:48.810	hey mark, this is gary!
+C	00:17:49.340	00:17:50.449	no, no, no, don't worry.
+C	00:17:50.749	00:17:51.700	everything's just fine!
+C	00:17:51.920	00:17:53.250	and just didn't know.
+C	00:17:55.230	00:17:56.369	have you finished the index then?
+C	00:17:56.949	00:17:57.530	okay, great.
+C	00:17:58.150	00:17:59.510	we'll expect your e-mail then!
+C	00:18:00.130	00:18:01.450	okay. bye, mark.
+B	00:18:03.840	00:18:05.110	i hate you, gary!
+B	00:18:06.553	00:18:13.420	if you spent a little time filling me in instead of chatting on your computer, i might just know what's going on around here!
+C	00:18:14.260	00:18:14.510	what?
+B	00:18:14.950	00:18:15.610	oh!
+
+F	00:18:21.699	00:18:25.550	i've called you in today to bring you up to speed on our new cookbook series.
+F	00:18:26.480	00:18:34.610	anne's going to take notes from which will then develop a detailed outline of the work in progress and then set the deadlines.
+F	00:18:35.700	00:18:39.380	so, gary. which authors have we contacted?
+C	00:18:39.430	00:18:44.430	we've got in touch with jones, bradford, smith, fox and grant.
+C	00:18:44.470	00:18:47.050	unfortunately, we haven't been able to contact chakoswski.
+C	00:18:47.450	00:18:49.020	i think he's abroad at the moment.
+B	00:18:49.370	00:18:50.200	"cha"what?
+B	00:18:51.229	00:18:51.820	Ehm... sorry...
+B	00:18:53.190	00:18:55.180	could you spell that for me please, gary?
+C	00:18:55.270	00:19:00.519	certainly, c h a k o s w s k i.
+C	00:19:00.799	00:19:02.620	he's one of our russian collaborators.
+F	00:19:03.550	00:19:06.119	couldn't we get in touch with parker in his place?
+F	00:19:06.769	00:19:07.619	what do you think?
+F	00:19:08.111	00:19:09.660	he's worked with us in the past.
+C	00:19:09.700	00:19:10.499	it's a good idea.
+C	00:19:10.669	00:19:12.170	unfortunately, i haven't got his number.
+F	00:19:12.840	00:19:16.050	i think i have it in my old appointment book.
+F	00:19:16.320	00:19:18.640	let me just make a note of that so i don't forget!
+F	00:19:21.390	00:19:23.570	what's the news on the contribution so far?
+F	00:19:23.660	00:19:26.020	have the authors started sending in material
+B	00:19:26.250	00:19:30.540	yes, and i've already begun editing the first batch.
+F	00:19:30.720	00:19:31.730	excellent, anne!
+F	00:19:32.440	00:19:35.410	you'll also have to take care of researching the images.
+F	00:19:36.220	00:19:42.770	when you've got those, you can send them along to the graphics department for page insertion.
+F	00:19:43.270	00:19:44.940	let's move on to the typography.
+F	00:19:45.480	00:19:50.399	rachel, have you seen the first batch of proofs we got from montex today?
+A	00:19:50.799	00:19:52.130	yes, mr. stevens.
+A	00:19:52.350	00:19:53.839	great work, i must say.
+A	00:19:54.0799	00:19:56.240	it seems to me that they've done an excellent job!
+F	00:19:56.240	00:19:59.810	good! so, it looks like we can trust them with this edition.
+F	00:20:00.910	00:20:02.509	let's get a bid in immediately.
+F	00:20:03.189	00:20:04.370	take note of that, rachel!
+A	00:20:04.720	00:20:05.900	yes, mr. stevens.
+A	00:20:05.930	00:20:08.300	i'll call them as soon as we finish this meeting.
+F	00:20:09.280	00:20:10.409	one last thing.
+F	00:20:10.969	00:20:14.319	we haven't found a title for this series.
+F	00:20:15.299	00:20:16.838	do you have any ideas?
+F	00:20:19.039	00:20:19.960	come on!
+F	00:20:21.520	00:20:22.929	use your imagination!
+F	00:20:24.769	00:20:30.220	i want something original, something catchy!
+F	00:20:32.950	00:20:33.550	nothing?
+F	00:20:35.750	00:20:39.119	okay, then that's your first task.
+F	00:20:40.339	00:20:44.730	do some brainstorming to come up with some ideas and then we'll go through them together.
+F	00:20:46.890	00:20:48.620	why the long faces?
+F	00:20:49.710	00:20:51.320	IT's nothing to worry about!
+F	00:20:52.280	00:20:53.400	you're a great team.
+F	00:20:54.300	00:20:56.170	i'm sure you'll think of something interesting!
+F	00:20:57.390	00:21:57.960	okay?
+
+A	00:21:00.230	00:21:03.360	gary, did you get that e-mail problem fixed?
+C	00:21:03.360	00:21:04.080	yes, i did.
+C	00:21:04.320	00:21:05.740	i set up a new account for you.
+C	00:21:06.040	00:21:08.469	you only have to create a new username and password.
+A	00:21:09.159	00:21:10.500	how do i do that?
+A	00:21:10.800	00:21:12.530	i'm hopeless with computers.
+C	00:21:12.690	00:21:13.350	i know you are!
+C	00:21:13.420	00:21:15.559	in fact by now i've lost all hope with you!
+C	00:21:16.829	00:21:18.709	but you really do need to try to learn!
+C	00:21:18.769	00:21:23.169	i mean, email and internet are indispensable in this day and age.
+A	00:21:23.248	00:21:25.440	i know, i know, gary.
+A	00:21:25.280	00:21:28.230	you don't ever get tired of repeating that!
+A	00:21:28.430	00:21:30.359	i must admit i'm a luddite.
+A	00:21:30.969	00:21:37.480	how i miss the days when you wrote letters by hand, and visited the library to do research!
+A	00:21:39.640	00:21:41.129	everything's changed now.
+A	00:21:42.319	00:21:46.840	i think i've done well to learn to send and receive e-mails!
+C	00:21:47.540	00:21:51.920	speaking of e-mails, um i noticed what you were writing to the authors.
+C	00:21:51.930	00:21:56.410	and if you'll permit me rachel, your emails are much too stuffy and formal.
+C	00:21:56.880	00:21:58.800	they don't fit in at all with internet jargon.
+A	00:21:59.480	00:22:00.780	what are you saying?
+C	00:22:00.940	00:22:01.920	i'll give you an example.
+C	00:22:04.880	00:22:11.060	uh... when you start off an e-mail you use: 'we'd like to inform you that...'
+C	00:22:12.370	00:22:13.860	it's quite old-fashioned, you know.
+C	00:22:14.560	00:22:17.180	it's better to write: 'did you know that...?'
+C	00:22:17.570	00:22:18.890	or another example.
+C	00:22:19.590	00:22:22.409	when you need to make an excuse you begin:
+C	00:22:22.769	00:22:24.330	'we regret to inform you that...'.
+C	00:22:25.010	00:22:29.260	it's much better to use something like: 'unfortunately, we can't...'.
+C	00:22:29.928	00:22:33.170	it's less formal, but at the same time more professional.
+C	00:22:33.710	00:22:36.409	e-mail needs to be kept simple and to the point.
+C	00:22:36.839	00:22:40.390	use abbreviations as often as possible and keep phrases short.
+C	00:22:40.780	00:22:44.649	if you're writing to someone you know well, you can even add an emoticon.
+C	00:22:45.339	00:22:46.460	it's always a pleasure to get one!
+A	00:22:46.830	00:22:48.020	an emoticon?
+A	00:22:48.610	00:22:50.880	what the devil is that?
+C	00:22:51.004	00:22:52.710	you're so old- school, rachel!
+C	00:22:53.190	00:22:58.939	emoticons are those little 'faces' that you can make using keyboard characters that show how you're feeling at the time!
+A	00:22:59.769	00:23:02.270	okay, okay, 'professor'!
+A	00:23:02.480	00:23:07.670	i'll try to simplify and use a more colloquial tone when writing.
+A	00:23:08.524	00:23:11.310	perhaps i'll even put in a smiley!
+C	00:23:11.520	00:23:12.607	it's not difficult!
+C	00:23:12.789	00:23:13.370	you'll see.
+C	00:23:13.480	00:23:15.970	just let the magic of the internet transport you.
+C	00:23:16.390	00:23:18.240	but remember to use 'netiquette'!
+A	00:23:18.420	00:23:20.839	you're talking like a computer manual!
+A	00:23:21.183	00:23:23.050	what is 'netiquette'?
+C	00:23:23.130	00:23:25.029	it's good manners on the internet.
+C	00:23:25.059	00:23:27.440	it's the rules of the road of the network.
+C	00:23:27.790	00:23:31.920	rachel, rachel, rachel, you really do need to get some practice, don't you?
+C	00:23:33.963	00:23:34.779	i've got an idea.
+C	00:23:35.029	00:23:37.180	why don't you let me sign you up for a forum?
+C	00:23:37.960	00:23:42.250	that way you can learn the rules of the road and the lingo as you surf.
+C	00:23:43.400	00:23:45.580	speaking of which, do you like music?
+A	00:23:47.560	00:23:51.280	music? yes, very much so...
+C	00:23:51.340	00:23:51.670	great!
+C	00:23:51.873	00:23:54.770	then i'll add podcasting sites to your favorites.
+C	00:23:55.213	00:24:01.390	so you can download podcasts, and maybe even burn them to disk and...
+A	00:24:01.430	00:24:02.859	stop, gary!
+A	00:24:02.999	00:24:05.309	oh you're driving me crazy!
+A	00:24:05.859	00:24:07.900	i don't understand a word.
+A	00:24:08.620	00:24:12.920	besides e-mail, i have no desire to learn any of it!
+A	00:24:13.313	00:24:14.969	none of it!
+A	00:24:15.499	00:24:16.499	do you understand?
+

@@ -1,0 +1,777 @@
+A	00:00:06.530	00:00:07.310	ok.
+A	00:00:07.310	00:00:08.250	your name!
+A	00:00:08.250	00:00:09.480	what's your name?
+A	00:00:09.230	00:00:13.240	what's your name?
+B	00:00:13.240	00:00:14.980	uh, brown.
+B	00:00:14.990	00:00:16.480	Jack Brown.
+A	00:00:16.480	00:00:17.333	ok.
+A	00:00:17.333	00:00:19.320	and what is your address?
+B	00:00:21.244	00:00:23.351	three-twenty-five.
+A	00:00:23.351	00:00:24.625	what?
+B	00:00:24.625	00:00:27.040	three-twenty-five Park Street.
+A	00:00:27.040	00:00:27.870	good.
+A	00:00:27.880	00:00:30.670	and what is your phone number?
+B	00:00:30.670	00:00:35.160	five four three- two one zero zero.
+A	00:00:34.760	00:00:39.700	five four three one two zero zero
+B	00:00:38.330	00:00:38.630	no.
+B	00:00:38.630	00:00:39.700	no.
+B	00:00:39.700	00:00:45.240	five four three two one zero zero.
+A	00:00:44.370	00:00:45.290	ok.
+A	00:00:45.290	00:00:46.099	ok.
+A	00:00:46.099	00:00:47.760	now, what's your job?
+B	00:00:47.829	00:00:49.509	I'm a thief.
+A	00:00:49.509	00:00:53.079	you are a thief.
+A	00:00:53.079	00:00:54.079	ok.
+A	00:00:54.079	00:00:55.240	next
+A	00:00:57.799	00:00:59.259	oh.
+A	00:00:59.259	00:01:00.480	excuse me!
+C	00:01:00.824	00:01:01.669	oh, no.
+C	00:01:01.669	00:01:03.000	excuse me.
+C	00:01:03.550	00:01:04.550	um.
+C	00:01:04.550	00:01:06.440	are you a secretary here?
+A	00:01:06.440	00:01:08.160	yes, I am.
+C	00:01:07.910	00:01:09.336	oh.
+C	00:01:09.336	00:01:10.880	I'm a policeman.
+C	00:01:10.880	00:01:12.218	um.
+C	00:01:12.219	00:01:13.480	what's your name?
+A	00:01:13.250	00:01:15.170	my name is Judy.
+A	00:01:15.170	00:01:16.880	what's your name?
+C	00:01:16.699	00:01:18.320	my name is Bob.
+C	00:01:18.549	00:01:21.800	Judy, could I have your phone number?
+A	00:01:21.890	00:01:22.610	sure.
+A	00:01:22.610	00:01:26.240	it's four three two um...
+A	00:01:25.689	00:01:28.920	oh, excuse me, Bob.
+C	00:01:29.170	00:01:30.760	bye, Judy.
+
+D	00:01:34.350	00:01:44.560	hello!
+B	00:01:44.420	00:01:46.360	hi Bill!
+B	00:01:46.568	00:01:48.110	this is Jack.
+D	00:01:48.110	00:01:49.110	Jack?
+D	00:01:49.110	00:01:51.000	Jack Brown?
+B	00:01:51.380	00:01:53.640	yes,it's me,jack.
+D	00:01:54.080	00:01:56.180	how are you, jack?
+B	00:01:56.190	00:01:57.690	I'm fine.
+B	00:01:57.690	00:01:59.120	thanks.
+B	00:01:59.120	00:02:00.410	well...
+B	00:02:00.410	00:02:03.840	no, no, I'm not fine.
+D	00:02:09.680	00:02:11.640	Jack, where are you?
+B	00:02:12.680	00:02:14.240	well, bill.
+B	00:02:14.240	00:02:16.370	I'm in jail.
+D	00:02:16.370	00:02:19.000	in jail?
+B	00:02:17.970	00:02:20.680	in jail.
+D	00:02:20.680	00:02:24.270	uh, where is the jail?
+B	00:02:24.270	00:02:28.400	it's here in New York on River Road.
+D	00:02:29.040	00:02:30.666	what's the address?
+B	00:02:30.667	00:02:31.570	I don't know.
+B	00:02:31.570	00:02:33.130	wait a minute!
+B	00:02:33.130	00:02:35.320	hey, what's the address here?
+A	00:02:35.320	00:02:38.460	it's seven-forty-nine river road.
+B	00:02:38.460	00:02:44.640	bill, yeah it's seven-forty-nine River Road.
+D	00:02:43.930	00:02:46.440	and what's the phone number?
+B	00:02:46.199	00:02:47.640	phone number?
+B	00:02:47.650	00:02:48.609	wait a minute!
+B	00:02:48.609	00:02:51.280	hey and what's the phone number here?
+A	00:02:51.280	00:02:56.009	it's six three two five four zero one.
+B	00:02:56.009	00:03:03.639	bill the number is six three two five four zero one, ok?
+D	00:03:03.639	00:03:07.680	six three two five four zero one.
+B	00:03:07.090	00:03:07.757	yeah.
+B	00:03:07.757	00:03:08.730	that's right.
+D	00:03:08.740	00:03:10.371	ok, bye jack.
+B	00:03:10.371	00:03:11.307	wait, wait, wait a minute!
+B	00:03:11.307	00:03:12.520	hey, bill, bill.
+B	00:03:12.520	00:03:15.920	you've got to help me please come here now.
+D	00:03:15.920	00:03:17.440	um.
+D	00:03:17.440	00:03:18.960	I can't I'm busy.
+B	00:03:18.870	00:03:21.680	busy, what are you doing?
+D	00:03:21.460	00:03:22.719	I'm swimming.
+D	00:03:22.719	00:03:23.480	bye jack.
+
+E	00:03:36.169	00:03:37.813	Sally!
+E	00:03:37.813	00:03:39.480	I'm so happy.
+A	00:03:39.229	00:03:41.090	why are you so happy?
+E	00:03:41.100	00:03:43.800	I'm going to France tomorrow.
+A	00:03:43.370	00:03:44.920	France?
+A	00:03:44.479	00:03:46.410	how are you going there?
+E	00:03:46.410	00:03:48.880	I'm going by airplane.
+A	00:03:48.419	00:03:50.989	oh, that's so exciting!
+A	00:03:50.999	00:03:52.440	how long will you stay?
+E	00:03:52.249	00:03:55.820	I'll stay in France for two weeks.
+A	00:03:55.820	00:03:56.820	wow.
+A	00:03:56.820	00:03:59.100	that's a long time.
+E	00:03:59.100	00:04:01.040	I'm so happy.
+A	00:04:00.620	00:04:03.280	how expensive is France?
+E	00:04:03.139	00:04:05.400	how expensive?
+E	00:04:04.830	00:04:07.320	I don't know.
+E	00:04:07.320	00:04:08.800	why?
+A	00:04:08.249	00:04:12.249	I think it's quite expensive in France.
+E	00:04:12.259	00:04:13.840	really?
+A	00:04:13.289	00:04:15.680	how much is your hotel?
+E	00:04:15.770	00:04:19.880	well, I I'm not sure.
+A	00:04:19.729	00:04:22.640	how far is your hotel from Paris?
+E	00:04:22.590	00:04:27.390	I don't know how far it is from Paris.
+A	00:04:27.390	00:04:29.120	how much is the Train?
+E	00:04:29.120	00:04:31.140	oh, Sally.
+E	00:04:31.140	00:04:33.080	I don't know.
+A	00:04:32.819	00:04:34.260	and the taxis.
+A	00:04:34.260	00:04:36.400	how expensive are the taxis?
+E	00:04:36.300	00:04:38.240	taxis?
+E	00:04:38.450	00:04:40.760	I'm not...
+A	00:04:41.580	00:04:42.751	and the food?
+A	00:04:42.751	00:04:44.550	how expensive is the food?
+E	00:04:44.550	00:04:48.160	oh,I just don't know.
+E	00:04:47.610	00:04:49.760	Oh, Sally.
+E	00:04:49.760	00:04:52.440	I'm so sad!
+
+B	00:04:57.940	00:05:00.760	how long am I going to be in here?
+C	00:05:00.770	00:05:02.520	a long time.
+B	00:05:02.460	00:05:04.800	how long?
+C	00:05:04.800	00:05:07.260	um I really don't know.
+B	00:05:07.260	00:05:10.200	can you check for me, please?
+C	00:05:09.970	00:05:10.420	ok.
+C	00:05:10.420	00:05:11.480	yeah.
+B	00:05:13.320	00:05:16.240	how long is this going to take?
+C	00:05:16.450	00:05:17.530	not long.
+C	00:05:17.530	00:05:18.520	just a minute!
+B	00:05:18.400	00:05:20.000	how long?
+C	00:05:19.780	00:05:20.832	just a minute!
+C	00:05:20.843	00:05:22.880	oh,hey, I found it.	
+B	00:05:22.880	00:05:23.672	good!
+B	00:05:23.672	00:05:24.180	good!
+B	00:05:24.180	00:05:27.177	um, so how long am I going to be in here?
+C	00:05:27.177	00:05:28.560	I don't know.
+B	00:05:28.230	00:05:30.040	well what's that?
+C	00:05:30.040	00:05:31.420	it's my comic book.
+C	00:05:31.420	00:05:32.840	I lost it last week.
+D	00:05:44.190	00:05:45.400	hello.
+D	00:05:46.350	00:05:50.200	I'm here to see my friend.
+C	00:05:50.100	00:05:52.040	how long will you stay?
+D	00:05:52.040	00:05:54.880	um, I don't know.
+C	00:05:54.670	00:05:56.240	how long?
+D	00:05:56.240	00:05:57.680	a few minutes!
+C	00:05:57.870	00:05:58.608	ok.
+C	00:05:58.608	00:05:59.800	go in.
+
+F	00:06:09.700	00:06:12.760	what time are you going to the meeting this afternoon?
+G	00:06:12.849	00:06:15.640	I'm going at twe thirty.
+F	00:06:15.650	00:06:18.880	twe thirty.
+F	00:06:18.880	00:06:21.560	and what time will you come back?
+G	00:06:21.050	00:06:24.000	I will be back at three thirty.
+F	00:06:24.280	00:06:26.160	three thirty.
+F	00:06:26.470	00:06:27.470	good.
+F	00:06:27.470	00:06:28.760	thanks.
+G	00:06:28.610	00:06:30.280	Oh, Mary.
+F	00:06:30.080	00:06:30.590	yes.
+G	00:06:30.590	00:06:32.880	what time are you going to lunch?
+F	00:06:32.710	00:06:36.120	I'll go to lunch at eleven forty-five.
+G	00:06:36.120	00:06:38.280	eleven forty-five?
+F	00:06:38.280	00:06:39.680	yes, why?
+G	00:06:39.879	00:06:44.320	could you go at eleven thirty and take this by the bank?
+F	00:06:44.240	00:06:45.880	yes, of course.
+G	00:06:45.860	00:06:46.629	thanks.
+F	00:06:46.629	00:06:47.880	you're welcome.
+G	00:06:51.550	00:06:53.760	I really like this place.
+H	00:06:53.730	00:06:55.030	well, good.
+H	00:06:55.030	00:06:56.920	would you like another drink?
+G	00:06:57.330	00:06:59.440	do we have time?
+H	00:06:58.930	00:07:01.320	I don't know.
+H	00:07:01.560	00:07:03.360	excuse me, waiter!
+I	00:07:03.210	00:07:04.760	yes, sir.
+H	00:07:04.740	00:07:06.880	what time do you close?
+I	00:07:06.550	00:07:08.880	tonight we close at ten o'clock.
+H	00:07:08.710	00:07:09.902	ten o'clock?
+I	00:07:09.902	00:07:10.880	yes.
+H	00:07:10.560	00:07:12.370	good we have time.
+H	00:07:12.370	00:07:14.240	let's have another drink!
+H	00:07:15.090	00:07:16.371	excuse me, waiter!
+I	00:07:16.371	00:07:17.600	yes, sir.
+H	00:07:17.410	00:07:19.109	we would like more drinks, please.
+I	00:07:19.109	00:07:22.400	certainly, sir.
+
+E	00:07:38.490	00:07:39.350	Helen!
+F	00:07:39.350	00:07:39.940	yes.
+E	00:07:39.940	00:07:42.450	could I borrow a pen, please?
+F	00:07:42.460	00:07:43.240	sure.
+F	00:07:43.240	00:07:44.400	here you are.
+E	00:07:44.400	00:07:45.400	thanks.
+F	00:07:45.400	00:07:46.660	don't mention it.
+E	00:07:46.660	00:07:47.920	Oh, Helen!
+F	00:07:47.890	00:07:48.840	what?
+E	00:07:48.550	00:07:51.080	this pen has blue ink.
+E	00:07:50.790	00:07:54.200	can I borrow a pen that has black ink?
+F	00:07:54.160	00:07:56.610	of course.
+F	00:07:56.610	00:08:03.180	here's a pen with black ink.
+E	00:08:03.180	00:08:04.170	great!
+E	00:08:04.180	00:08:04.876	thanks.
+F	00:08:04.876	00:08:06.000	sure.
+
+E	00:08:06.000	00:08:11.537	oh, helen!
+F	00:08:11.537	00:08:12.640	what is it?
+E	00:08:12.650	00:08:14.920	I don't have any stamps.
+E	00:08:14.890	00:08:18.090	can I borrow a stamp, Helen?
+F	00:08:18.090	00:08:19.600	sure, jane.
+F	00:08:29.719	00:08:31.280	here you are.
+E	00:08:31.019	00:08:33.169	thank you so much!
+E	00:08:33.169	00:08:35.939	well, I'm going to the post office.
+E	00:08:35.939	00:08:37.480	see you later.
+F	00:08:37.289	00:08:38.760	see you.
+
+E	00:08:38.400	00:08:44.270	oh.
+E	00:08:44.270	00:08:46.080	it's raining.
+F	00:08:46.400	00:08:48.080	yes, it is.
+E	00:08:47.969	00:08:51.260	I don't have my umbrella.
+E	00:08:51.260	00:08:54.880	can I borrow your umbrella, Helen?
+F	00:08:56.210	00:08:58.280	of course, Jane.
+F	00:09:01.909	00:09:03.750	here you are!
+E	00:09:03.750	00:09:04.520	great!
+E	00:09:04.520	00:09:06.750	thanks see you later!
+F	00:09:06.750	00:09:08.000	yeah.
+F	00:09:16.010	00:09:18.280	can I borrow a pen?
+F	00:09:18.089	00:09:20.360	can I borrow a stamp?
+F	00:09:20.239	00:09:22.960	can I borrow your umbrella?
+F	00:09:22.700	00:09:27.380	Oh.
+F	00:09:27.380	00:09:31.320	Oh,Jane can I borrow your potato chips?
+H	00:09:31.320	00:09:38.000	Oh, waiter!
+I	00:09:39.430	00:09:40.270	yes, sir.
+H	00:09:40.270	00:09:41.610	may I borrow your pen, please?
+I	00:09:41.610	00:09:43.200	certainly, sir.
+H	00:09:44.130	00:09:45.066	thank you.
+I	00:09:45.066	00:09:46.400	you're welcome.
+I	00:09:51.979	00:09:54.040	ok, here you go, sir.
+H	00:09:54.299	00:09:55.209	oh, thank you.
+I	00:09:55.209	00:09:56.520	you're welcome.
+I	00:10:01.099	00:10:02.880	thank you.
+H	00:10:02.880	00:10:04.160	you're welcome.
+I	00:10:07.310	00:10:08.760	excuse me, sir.
+H	00:10:08.760	00:10:09.510	yes.
+I	00:10:09.510	00:10:11.440	may i borrow my pen?
+H	00:10:11.310	00:10:13.200	oh!
+H	00:10:13.340	00:10:14.920	thank you.
+I	00:10:14.630	00:10:16.600	you're welcome.
+
+G	00:10:19.650	00:10:20.790	excuse me!
+C	00:10:20.790	00:10:21.210	yes,
+G	00:10:21.210	00:10:22.385	may I sit here?
+C	00:10:22.350	00:10:23.240	yes.
+G	00:10:23.040	00:10:24.360	thank you.
+G	00:10:29.170	00:10:30.520	excuse me!
+C	00:10:30.380	00:10:31.000	yes.
+G	00:10:30.890	00:10:32.840	is this your newspaper?
+C	00:10:32.810	00:10:33.760	yes, it is.
+G	00:10:33.470	00:10:35.080	may I borrow it?
+C	00:10:34.850	00:10:35.480	yes.
+C	00:10:35.480	00:10:36.000	sure.
+G	00:10:35.870	00:10:37.320	thank you.
+
+A	00:10:48.270	00:10:50.720	why are you crying?
+B	00:10:50.320	00:10:53.880	I'm crying because I'm sad.
+A	00:10:53.880	00:10:57.480	I cry when I'm sad, too.
+B	00:10:57.370	00:11:02.370	oh and why are you yawning?
+A	00:11:02.370	00:11:05.700	I'm yawning because I'm tired.
+A	00:11:05.710	00:11:09.360	I always yawn when I'm tired.
+A	00:11:09.010	00:11:10.920	oh.
+H	00:11:10.920	00:11:12.960	why are you yawning?
+A	00:11:13.530	00:11:16.712	I'm yawning because I'm tired.
+B	00:11:16.712	00:11:19.840	she always yawns when she's tired.
+B	00:11:19.840	00:11:24.849	why are you shouting?
+H	00:11:24.849	00:11:26.650	I'm angry.
+H	00:11:26.650	00:11:28.500	that's why I'm shouting.
+A	00:11:28.510	00:11:32.070	he usually shouts when he's angry.
+B	00:11:32.080	00:11:32.569	oh!
+H	00:11:32.569	00:11:36.150	and why are you crying?
+A	00:11:36.150	00:11:37.440	he's crying...
+B	00:11:37.440	00:11:41.550	cry because I'm sad.
+A	00:11:41.550	00:11:44.040	he cries when he's sad.
+A	00:11:43.680	00:11:45.935	ok, don't shout at him.
+H	00:11:45.935	00:11:49.880	oh, go on back to your desk and you stop crying.
+
+C	00:11:57.800	00:11:58.880	Jane!
+E	00:11:58.550	00:11:59.680	yes.
+C	00:11:59.540	00:12:01.590	did you type those reports?
+E	00:12:01.600	00:12:03.280	what are the reports?
+C	00:12:03.280	00:12:05.920	the reports I gave you last week.
+E	00:12:05.420	00:12:07.754	oh, no.
+E	00:12:07.754	00:12:08.680	I forgot.
+C	00:12:08.680	00:12:10.989	Jane, I need them today.
+E	00:12:10.989	00:12:13.390	I'll type them right now.
+C	00:12:13.400	00:12:14.527	Oh.
+C	00:12:14.527	00:12:15.240	Jane.
+E	00:12:15.140	00:12:16.320	yes.
+C	00:12:16.040	00:12:19.240	did you call mr. Smith about the meeting?
+E	00:12:19.010	00:12:21.380	oh, no I didn't.
+C	00:12:21.380	00:12:23.560	why didn't you call him?
+E	00:12:23.330	00:12:24.700	I forgot.
+E	00:12:24.700	00:12:26.440	I'm sorry.
+C	00:12:26.440	00:12:28.280	please call him.
+E	00:12:27.980	00:12:29.880	I'll call him right now.
+C	00:12:29.870	00:12:31.240	Oh.
+C	00:12:30.850	00:12:32.280	Jane.
+E	00:12:32.260	00:12:33.680	yes.
+C	00:12:33.290	00:12:36.280	did you photocopy these letters?
+E	00:12:36.280	00:12:39.080	um, not yet.
+C	00:12:40.060	00:12:42.280	Jane, I need these letters.
+E	00:12:43.179	00:12:46.280	ok, I'll photocopy them right now.
+C	00:12:46.280	00:12:47.080	ok.
+
+H	00:12:52.460	00:12:55.610	Oh, John.
+H	00:12:55.610	00:12:56.846	I need to talk to you.
+C	00:12:56.846	00:12:57.815	oh, hello mr. Smith.
+C	00:12:57.815	00:12:58.760	how are you?
+H	00:12:58.640	00:12:59.731	I'm fine.
+H	00:12:59.731	00:13:01.280	did you get those reports?
+C	00:13:01.280	00:13:03.130	I...
+C	00:13:03.130	00:13:06.310	well...
+
+A	00:13:19.260	00:13:20.280	hello!
+J	00:13:20.460	00:13:21.200	yes.
+J	00:13:21.200	00:13:22.068	can I help you?
+A	00:13:22.068	00:13:22.720	yes.
+A	00:13:22.720	00:13:24.560	I'm looking for a job.
+J	00:13:24.670	00:13:25.470	of course.
+J	00:13:25.480	00:13:26.290	please sit down.
+A	00:13:26.290	00:13:27.440	thank you.
+J	00:13:28.320	00:13:30.240	what's your name, please?
+A	00:13:30.150	00:13:31.150	Louis.
+A	00:13:31.150	00:13:33.210	Louis Bradford.
+J	00:13:33.210	00:13:35.960	is that Miss or mrs.?
+A	00:13:35.520	00:13:37.790	miss.
+J	00:13:37.790	00:13:39.330	um, address?
+A	00:13:39.330	00:13:43.880	forty-five Lake Street apartment six F.
+J	00:13:43.590	00:13:47.080	and your phone number miss Bradford?
+A	00:13:46.900	00:13:51.920	nine eight seven one two three four.
+J	00:13:51.820	00:13:52.812	ok.
+J	00:13:52.812	00:13:53.440	good.
+J	00:13:53.350	00:13:55.280	now I have some questions?
+J	00:13:55.240	00:13:57.480	first, can you type?
+A	00:13:57.480	00:14:02.280	um, well, no I can't type.
+J	00:14:02.250	00:14:03.680	that's ok.
+J	00:14:03.680	00:14:04.320	um...
+J	00:14:05.370	00:14:07.260	can you drive a car?
+A	00:14:07.260	00:14:09.330	drive a car?
+A	00:14:09.330	00:14:10.330	no.
+A	00:14:10.330	00:14:11.920	I can't drive.
+J	00:14:11.930	00:14:15.510	um...Oh!	
+J	00:14:15.510	00:14:18.890	can you cook Chinese food?
+A	00:14:18.900	00:14:19.900	no.
+A	00:14:19.900	00:14:23.640	I can't but I can cook spaghetti.
+J	00:14:23.640	00:14:23.960	oh!
+J	00:14:23.970	00:14:26.080	can you speak French?
+A	00:14:26.700	00:14:27.895	no.
+A	00:14:27.895	00:14:29.880	I can't speak French.
+J	00:14:30.540	00:14:36.920	well, oh, can you sing miss Bradford?
+A	00:14:36.630	00:14:37.890	sing?
+A	00:14:37.890	00:14:38.890	yes.
+A	00:14:38.890	00:14:40.000	I can sing.
+J	00:14:39.730	00:14:42.880	could you sing a short song for me, please?
+A	00:14:42.850	00:14:43.480	sure.
+A	00:14:46.620	00:14:49.950	happy birthday to you!
+A	00:14:49.950	00:14:53.540	happy birthday to you!
+A	00:14:53.630	00:14:59.060	happy birthday...
+J	00:14:59.060	00:15:01.080	that's that's ok.
+J	00:15:04.490	00:15:08.230	can you swim?
+A	00:15:08.240	00:15:12.000	no, I can't swim.
+J	00:15:12.080	00:15:13.530	well, miss Bradford!
+J	00:15:13.530	00:15:15.280	what can you do?
+A	00:15:15.710	00:15:18.660	well, I can iron.
+A	00:15:18.660	00:15:22.480	I can wash clothes.
+A	00:15:22.260	00:15:26.160	I can clean my apartment.
+A	00:15:26.160	00:15:29.080	I can go shopping.
+A	00:15:29.240	00:15:31.800	and I can wash dishes.
+J	00:15:31.370	00:15:32.066	really?
+J	00:15:32.076	00:15:33.960	you can do all of that?
+A	00:15:33.450	00:15:35.280	of course.
+J	00:15:36.950	00:15:39.240	what are you doing this evening?
+
+K	00:15:51.910	00:15:53.880	oh, excuse me, sir!
+H	00:15:53.739	00:15:56.120	oh, yes.
+H	00:15:55.929	00:15:57.160	can I help you?
+K	00:15:57.160	00:15:57.468	yes.
+K	00:15:57.468	00:15:58.200	thank you.
+K	00:15:58.150	00:16:00.280	I'm looking for an ATM.
+H	00:16:00.239	00:16:01.683	an ATM.
+H	00:16:01.683	00:16:03.120	let me think.
+K	00:16:03.120	00:16:06.240	is there an ATM around here?
+H	00:16:06.450	00:16:09.120	yes, it's around the corner!
+H	00:16:08.950	00:16:13.680	if you'll go straight and turn right it's around the corner.
+K	00:16:13.539	00:16:14.140	ok.
+K	00:16:14.140	00:16:18.080	I go straight and take a right and it's around the corner.
+H	00:16:18.690	00:16:21.359	or is it to the left?
+H	00:16:21.359	00:16:23.560	let me think honey!
+H	00:16:24.239	00:16:26.849	is there an ATM around here?
+G	00:16:26.849	00:16:31.450	go straight and make a left I think it's next to a drug store.
+K	00:16:31.450	00:16:32.890	next to a drug store?
+K	00:16:32.890	00:16:34.280	are you sure?
+G	00:16:33.910	00:16:36.440	I think so.
+G	00:16:37.260	00:16:40.500	there is one next to the drug store, isn't there?
+H	00:16:40.510	00:16:41.109	no.
+H	00:16:41.109	00:16:42.680	it's next to the theater.
+G	00:16:43.890	00:16:46.760	there's not an ATM next to the theater.
+H	00:16:47.729	00:16:49.279	yes, there is.
+H	00:16:49.289	00:16:51.480	I'm sure of it.
+K	00:16:51.359	00:16:54.257	well, it's ok never mind.
+K	00:16:54.257	00:16:55.280	really!
+G	00:16:55.650	00:16:59.610	there's one between the seven and the bank.
+G	00:16:59.620	00:17:02.169	there's not one next to the theater.
+H	00:17:02.169	00:17:03.489	yes, there is.
+H	00:17:03.489	00:17:05.490	I'm sure of it.
+H	00:17:05.500	00:17:07.760	follow me and I'll show you.
+
+B	00:17:25.720	00:17:27.120	hi, Bill!
+B	00:17:27.120	00:17:28.820	this is Jack.
+D	00:17:28.820	00:17:29.810	hi Jack.
+D	00:17:29.810	00:17:31.080	what are you doing?
+B	00:17:31.690	00:17:33.015	nothing.
+B	00:17:33.015	00:17:35.040	what are you doing?
+D	00:17:34.820	00:17:35.584	oh.
+D	00:17:35.584	00:17:37.400	I'm just watching TV.
+B	00:17:38.530	00:17:40.800	what are you doing tomorrow?
+D	00:17:40.540	00:17:44.040	well, tomorrow I'm going fishing.
+B	00:17:45.520	00:17:47.040	fishing?
+B	00:17:47.770	00:17:50.080	where are you going fishing?
+D	00:17:49.670	00:17:52.600	I'm going fishing at Big Lake.
+B	00:17:52.420	00:17:55.840	what are you doing tomorrow afternoon?
+D	00:17:55.750	00:17:59.200	after fishing I'm going to my mother's house.
+B	00:17:59.980	00:18:03.880	what are you going to do at your mother's house?
+D	00:18:03.500	00:18:06.360	I'm going to paint my mother's house.
+B	00:18:07.390	00:18:10.080	what about tomorrow evening?
+B	00:18:10.420	00:18:13.520	what are you doing tomorrow evening?
+D	00:18:13.300	00:18:16.960	tomorrow evening I'm going to go to a party.
+B	00:18:17.380	00:18:19.120	where's the party?
+D	00:18:19.630	00:18:23.000	the party's at Tom's house.
+B	00:18:22.840	00:18:24.720	Tom's house?
+D	00:18:24.260	00:18:25.320	yeah.
+B	00:18:25.100	00:18:28.360	oh!
+D	00:18:28.570	00:18:29.930	hey Jack!
+D	00:18:29.930	00:18:31.880	what are you doing tomorrow?
+B	00:18:32.320	00:18:33.680	nothing.
+B	00:18:33.320	00:18:36.800	I never do anything.
+B	00:18:37.900	00:18:41.080	I'm so bored.
+D	00:18:41.080	00:18:43.900	well, I have to go, Jack.
+B	00:18:43.900	00:18:45.260	sure, bill.
+B	00:18:45.260	00:18:46.570	see you.
+B	00:18:46.570	00:18:48.360	have fun!
+D	00:18:48.100	00:18:49.760	bye!
+
+G	00:18:56.630	00:18:59.160	can you help me I lost my luggage?
+F	00:18:59.000	00:19:00.680	you lost your luggage?
+G	00:19:00.520	00:19:02.840	yes, I can't find it.
+F	00:19:02.689	00:19:03.709	ok.
+F	00:19:03.709	00:19:04.808	what is your name?
+G	00:19:04.808	00:19:06.720	my name is Mary Wilson.
+F	00:19:06.470	00:19:09.340	how do you spell your last name?
+G	00:19:09.370	00:19:13.396	W I L S O N.
+G	00:19:13.396	00:19:14.640	Wilson.
+F	00:19:14.640	00:19:17.000	mrs. Wilson, may I see your ticket?
+G	00:19:17.000	00:19:18.400	of course.
+G	00:19:19.000	00:19:20.720	here it is.
+F	00:19:20.720	00:19:22.040	thank you.
+F	00:19:25.179	00:19:29.720	ok, flight number in N W zero two seven, right?
+G	00:19:29.600	00:19:30.165	yes.
+G	00:19:30.165	00:19:31.120	that's right.
+F	00:19:31.120	00:19:33.320	how many bags do you have?
+G	00:19:33.010	00:19:34.520	two.
+F	00:19:34.010	00:19:36.440	and what size are they?
+G	00:19:36.319	00:19:40.560	one is large and very heavy and one is small.
+F	00:19:40.510	00:19:42.360	what color are they?
+G	00:19:42.559	00:19:43.480	brown.
+F	00:19:43.039	00:19:45.939	and what are they made of?
+G	00:19:45.939	00:19:48.280	they're made of nylon.
+F	00:19:48.220	00:19:49.250	nylon?
+F	00:19:49.250	00:19:50.680	are they new?
+G	00:19:50.270	00:19:51.071	no.
+G	00:19:51.071	00:19:52.220	they're not new.
+G	00:19:52.220	00:19:54.160	they're about five years old.
+F	00:19:55.059	00:19:56.360	we'll check.
+F	00:19:56.360	00:19:57.740	please wait here.
+G	00:19:57.740	00:19:59.080	thank you very much!
+
+K	00:20:12.290	00:20:13.566	Hey!
+K	00:20:13.566	00:20:14.370	what are you watching?
+D	00:20:14.370	00:20:16.680	watching a Miss Universe contest.
+K	00:20:16.380	00:20:18.367	the Miss Universe contest.
+K	00:20:18.367	00:20:20.060	that's so stupid.
+D	00:20:20.070	00:20:20.640	no.
+D	00:20:20.640	00:20:22.800	it's not, I like it.
+K	00:20:25.190	00:20:27.000	who's that?
+D	00:20:26.660	00:20:28.920	that is Miss Universe.
+K	00:20:29.150	00:20:30.752	where is she from?
+D	00:20:30.752	00:20:32.240	she's from Australia.
+K	00:20:32.240	00:20:34.133	what city in Australia?
+D	00:20:34.133	00:20:35.480	she's from Sydney.
+K	00:20:36.230	00:20:38.280	what did she do?
+D	00:20:38.010	00:20:39.680	she's a fashion model.
+K	00:20:40.670	00:20:42.270	she looks so young.
+K	00:20:42.270	00:20:43.680	how old is she?
+D	00:20:43.610	00:20:45.780	she's twenty-one years old.
+K	00:20:45.780	00:20:47.240	a child!
+D	00:20:47.570	00:20:50.720	she may be young but she's beautiful.
+K	00:20:51.500	00:20:54.480	Miss Universe is so stupid.
+D	00:21:10.209	00:21:12.480	hello miss. universe.
+K	00:21:12.480	00:21:14.160	oh, stupid.
+
+B	00:21:24.490	00:21:25.480	guard!
+B	00:21:25.480	00:21:26.880	hey, guard!
+B	00:21:26.770	00:21:28.240	can you come here?
+C	00:21:28.000	00:21:29.760	what do you want?
+B	00:21:29.760	00:21:31.880	do you have a pen?
+C	00:21:31.780	00:21:38.200	a pen?
+C	00:21:38.200	00:21:39.120	oh, yes.
+C	00:21:39.130	00:21:40.630	I have a pen here.
+B	00:21:40.630	00:21:41.680	thank you.
+C	00:21:41.640	00:21:42.890	no problem.
+B	00:21:42.890	00:21:45.080	oh, and guard,
+C	00:21:45.670	00:21:46.320	yes.
+B	00:21:46.210	00:21:47.800	do you have any paper?
+C	00:21:47.970	00:21:50.800	paper for writing a letter?
+B	00:21:50.800	00:21:51.185	uh, yes.
+B	00:21:51.185	00:21:52.030	that's right.
+C	00:21:53.520	00:21:55.360	yes here's some.
+B	00:21:55.360	00:21:56.009	ok.
+B	00:21:56.010	00:21:56.650	thank you.
+C	00:21:56.650	00:21:58.320	you're welcome.
+B	00:22:05.730	00:22:06.919	Oh, guard!
+B	00:22:06.919	00:22:08.240	guard!
+B	00:22:08.240	00:22:10.320	do you have a dictionary?
+C	00:22:10.250	00:22:11.066	no.
+C	00:22:11.067	00:22:12.960	I don't have a dictionary.
+B	00:22:12.679	00:22:15.829	well, do you know how to spell the word?
+B	00:22:15.829	00:22:17.880	escape.
+B	00:22:17.630	00:22:26.000	is it e S CA PE or es ka PE?
+C	00:22:25.529	00:22:27.230	no, no, no.
+C	00:22:27.240	00:22:31.280	it's es CA PE.
+B	00:22:30.929	00:22:36.029	e SC a.p.e.
+B	00:22:36.029	00:22:37.049	ok, thank you.
+C	00:22:37.049	00:22:38.320	you're welcome.
+
+K	00:22:38.100	00:22:44.080	oh, excuse me!
+I	00:22:44.039	00:22:46.000	oh, yes.
+K	00:22:45.929	00:22:48.230	can I have some tea?
+I	00:22:48.230	00:22:50.792	some tea I'm sorry.
+I	00:22:50.792	00:22:52.560	we don't have any tea.
+K	00:22:52.350	00:22:55.069	oh, do you have lemonade?
+I	00:22:55.069	00:22:56.600	lemonade?
+I	00:22:56.840	00:22:59.320	no, we don't have any lemonade.
+K	00:22:59.519	00:22:59.899	oh!
+K	00:22:59.899	00:23:02.152	no tea and no lemonade.
+K	00:23:02.152	00:23:04.560	well, do you have orange juice?
+I	00:23:04.309	00:23:06.320	orange juice?
+I	00:23:06.230	00:23:08.880	no, we don't have any orange juice either.
+K	00:23:08.880	00:23:10.880	you don't have any orange juice?
+I	00:23:11.179	00:23:13.740	no, we don't I'm very sorry.
+K	00:23:13.740	00:23:14.939	I can't believe it.
+K	00:23:14.939	00:23:16.200	do you have coffee?
+I	00:23:15.990	00:23:19.519	oh.
+I	00:23:19.519	00:23:21.070	no I'm sorry.
+I	00:23:21.070	00:23:23.400	we don't have any coffee either.
+K	00:23:23.299	00:23:28.920	ok, no tea, no lemonade, no orange juice and no coffee.
+K	00:23:28.819	00:23:30.889	what do you have?
+I	00:23:30.899	00:23:32.320	we have water.
+K	00:23:31.980	00:23:32.759	water.
+K	00:23:32.759	00:23:33.960	I see.
+K	00:23:34.130	00:23:36.784	ok, I'll have a glass of water then.
+I	00:23:36.784	00:23:37.201	ok.
+I	00:23:37.201	00:23:38.280	one water.
+I	00:23:39.769	00:23:41.640	hey, here you go.
+I	00:23:41.269	00:23:42.980	one water.
+K	00:23:42.980	00:23:44.480	thank you.
+I	00:23:44.035	00:23:44.610	welcome.
+K	00:23:47.570	00:23:48.840	Oh, waiter!
+I	00:23:51.340	00:23:52.596	yes, what is it?
+K	00:23:52.596	00:23:54.120	do you have any ice?
+I	00:23:54.309	00:23:56.022	um, I'm sorry.
+I	00:23:56.022	00:23:58.689	we we don't have any ice.
+K	00:23:58.689	00:24:01.880	ok, um, well, do you have a menu?
+I	00:24:01.880	00:24:03.760	um...
+I	00:24:04.689	00:24:06.270	no, we don't.
+K	00:24:06.280	00:24:07.730	no menu?
+I	00:24:07.730	00:24:08.025	no.
+I	00:24:08.025	00:24:09.189	I'm sorry.
+K	00:24:09.199	00:24:11.560	well, can you tell me what you have here?
+I	00:24:12.790	00:24:13.592	sure.
+I	00:24:13.592	00:24:20.680	we have a chicken soup, fried chicken, chicken sandwiches and chicken on rice.
+K	00:24:21.220	00:24:23.320	do you have any noodles?
+I	00:24:23.449	00:24:25.640	we don't have noodles.
+I	00:24:25.640	00:24:33.169	we have chicken soup, fried chicken, chicken sandwiches and chicken on rice.
+K	00:24:33.078	00:24:33.427	ok.
+K	00:24:33.427	00:24:33.980	I see.
+K	00:24:33.980	00:24:37.480	um, do you have any chicken curry?
+I	00:24:38.289	00:24:41.929	we don't have any chicken curry.
+I	00:24:41.929	00:24:51.079	we have chicken soup, fried chicken, chicken sandwiches and chicken on rice.
+K	00:24:51.079	00:24:51.763	ok.
+K	00:24:51.763	00:24:53.386	I'll have chicken soup please.
+I	00:24:53.386	00:24:53.837	ok.
+I	00:24:53.837	00:24:54.679	chicken soup.
+K	00:24:54.679	00:24:55.069	ok.
+K	00:24:55.069	00:24:58.960	yes I like chicken soup and could I have a napkin?
+M	00:24:58.640	00:25:00.650	a napkin?
+K	00:25:00.650	00:25:01.560	yes.
+I	00:25:02.319	00:25:06.410	look, we are not a five-star restaurant?
+I	00:25:06.410	00:25:07.789	we don't have now.
+K	00:25:07.789	00:25:09.740	that's okay I think I have one.
+I	00:25:09.740	00:25:10.360	ok.
+K	00:25:10.500	00:25:11.640	ok.
+I	00:25:25.370	00:25:26.370	ok ma'am.
+I	00:25:26.370	00:25:29.000	your chicken soup.
+K	00:25:28.110	00:25:30.610	oh, thank you.
+K	00:25:30.620	00:25:32.440	you can put it.
+K	00:25:32.309	00:25:35.520	here.
+I	00:25:35.520	00:25:35.920	ok.
+I	00:25:35.920	00:25:37.913	here you go.
+K	00:25:37.913	00:25:38.725	thank you.
+I	00:25:38.725	00:25:39.560	you're welcome.
+L	00:25:55.860	00:25:56.940	Oh, waiter!
+I	00:25:56.940	00:25:57.740	yes.
+L	00:25:57.740	00:26:00.320	do you have a menu, please?
+I	00:25:59.730	00:26:01.640	a menu!
+
+A	00:26:17.690	00:26:18.960	hello.
+M	00:26:18.710	00:26:19.465	hi!
+M	00:26:19.465	00:26:20.750	is this Brenda?
+A	00:26:20.760	00:26:22.800	no, this isn't Brenda.
+M	00:26:22.650	00:26:24.440	well, who is this?
+A	00:26:24.180	00:26:25.500	I'm Sally.
+M	00:26:25.500	00:26:28.160	oh, I'm sorry I got the wrong number.
+A	00:26:28.160	00:26:29.760	that's ok.
+M	00:26:30.230	00:26:32.820	excuse me, Sally do you know Brenda?
+A	00:26:32.820	00:26:35.220	no, I don't know Brenda.
+M	00:26:35.220	00:26:37.680	well anyway what do you do Sally?
+A	00:26:37.590	00:26:38.520	me?
+A	00:26:38.520	00:26:40.280	I'm a secretary.
+M	00:26:40.500	00:26:44.280	mmm a secretary I see, so what do secretaries do?
+A	00:26:44.040	00:26:46.160	I do many things.
+M	00:26:45.900	00:26:47.000	really?
+A	00:26:46.740	00:26:47.670	yes.
+A	00:26:47.670	00:26:49.200	I typed letters.
+M	00:26:49.200	00:26:50.880	you type letters?
+A	00:26:50.700	00:26:52.880	yes, and I answer the phone.
+M	00:26:53.130	00:26:55.650	hmm so you typed letters and answer the phone.
+A	00:26:55.650	00:26:58.400	uh-huh and I make photocopies.
+M	00:26:58.620	00:27:00.320	oh,you're very busy.
+M	00:27:00.320	00:27:03.560	you type letters, you answer the phone and you make photocopies.
+A	00:27:03.560	00:27:06.420	I also make coffee and do filing.
+M	00:27:06.420	00:27:08.480	hmm, you can do many things.
+A	00:27:08.330	00:27:09.256	yes.
+A	00:27:09.330	00:27:10.680	I'm very busy!
+A	00:27:10.500	00:27:12.160	what do you do?
+M	00:27:12.480	00:27:13.260	I'm a plumber.
+A	00:27:13.260	00:27:15.160	a plumber?
+A	00:27:14.610	00:27:17.080	Oh,what do you do?
+M	00:27:16.950	00:27:21.040	well, I'm very busy, also I usually fix pipes?
+A	00:27:20.990	00:27:22.580	fix pipes?
+A	00:27:22.580	00:27:24.760	what kind of pipes?
+M	00:27:24.440	00:27:28.160	well, water pipes, I fix bathroom pipes.
+A	00:27:27.900	00:27:29.580	oh, I see.
+A	00:27:29.580	00:27:32.440	you fix pipes and bathrooms.
+M	00:27:32.660	00:27:35.600	yes and I fix kitchen pipes, also.
+A	00:27:35.370	00:27:37.440	do you like your job?
+M	00:27:37.190	00:27:38.400	yes, I do.
+M	00:27:38.400	00:27:40.160	and do you like your job?
+A	00:27:40.430	00:27:44.200	some days I do and some days I don't.
+A	00:27:43.860	00:27:46.740	oh,I have to go now.
+M	00:27:46.740	00:27:49.950	oh,well, it was nice talking to you.
+A	00:27:49.950	00:27:51.120	ok bye.
+M	00:27:51.120	00:27:52.990	ok bye bye.
+
+H	00:27:53.000	00:27:55.350	Sally, what are you doing?
+A	00:27:55.350	00:27:57.280	I'm talking on the phone.
+H	00:27:57.540	00:27:59.200	well, did you fix the coffee?
+A	00:27:58.920	00:27:59.820	yes.
+A	00:27:59.820	00:28:01.240	I made the coffee.
+H	00:28:02.280	00:28:03.440	thank you!
+H	00:28:03.120	00:28:05.200	did you do the typing?
+A	00:28:05.069	00:28:07.819	yes, I did the typing.
+H	00:28:07.819	00:28:10.480	and did you do the filing?
+A	00:28:10.260	00:28:10.959	yes.
+A	00:28:10.959	00:28:12.680	I did the filing.
+H	00:28:12.260	00:28:15.200	thank you and did you do the photocopies?
+A	00:28:15.540	00:28:15.959	yes.
+A	00:28:15.959	00:28:17.880	I did the photocopies.
+H	00:28:19.670	00:28:21.120	thank you.
+H	00:28:21.120	00:28:21.930	Oh, Sally!
+A	00:28:21.930	00:28:22.500	yes.
+H	00:28:22.500	00:28:26.790	I called the plumber a few minutes ago to fix the pipes in the bathroom.
+A	00:28:26.790	00:28:28.220	you called the plumber?
+H	00:28:28.220	00:28:31.199	yes, to fix the pipes in the bathroom.
+A	00:28:31.199	00:28:32.000	oh.
+A	00:28:32.000	00:28:33.480	all right.
+A	00:28:37.710	00:28:38.600	come in.
+M	00:28:38.600	00:28:39.415	hi!
+M	00:28:39.415	00:28:40.350	I'm the plumber.
+M	00:28:40.350	00:28:42.570	I'm here to fix the pipes in the bathroom,
+A	00:28:42.570	00:28:43.880	oh, hello.
+A	00:28:43.500	00:28:46.840	um the bathroom is over there.
+M	00:28:46.580	00:28:48.480	ok,thank you.
+
+D	00:29:03.050	00:29:09.080	I'm going to the movies with Jill tonight.
+N	00:29:08.940	00:29:11.440	Hey, Jill's nice.
+D	00:29:11.070	00:29:13.280	I like her a lot.
+D	00:29:13.050	00:29:17.124	but bill I don't know what to wear.
+N	00:29:17.124	00:29:18.260	I can help you.
+D	00:29:18.270	00:29:19.160	ok.
+N	00:29:23.790	00:29:24.590	here.
+N	00:29:24.590	00:29:27.200	why don't you wear this purple shirt?
+D	00:29:27.030	00:29:31.800	I don't want to wear a purple shirt.
+N	00:29:31.800	00:29:32.910	why not?
+D	00:29:32.910	00:29:34.720	it's too old.
+N	00:29:34.910	00:29:36.000	ok.
+N	00:29:40.520	00:29:42.600	why don't you wear this white shirt?
+D	00:29:42.290	00:29:43.790	a white shirt?
+N	00:29:43.790	00:29:45.790	it's a nice shirt.
+D	00:29:45.790	00:29:48.520	it's for work not a movie.
+N	00:29:49.270	00:29:50.840	ok.
+N	00:29:54.790	00:29:57.200	why don't you wear this blue shirt?
+D	00:29:57.079	00:30:00.360	I don't want to wear a blue shirt.
+N	00:30:00.360	00:30:05.660	ok.
+N	00:30:05.660	00:30:08.880	why don't you wear this green sweater?
+D	00:30:08.449	00:30:11.640	I can't wear a sweater.
+N	00:30:11.380	00:30:13.000	why not?
+D	00:30:12.880	00:30:14.890	it's too hot.
+N	00:30:14.890	00:30:16.120	ok.
+N	00:30:16.750	00:30:22.680	why don't you wear this yellow polo?
+D	00:30:22.400	00:30:26.709	I can't wear this yellow polo.
+N	00:30:26.709	00:30:28.380	why not?
+D	00:30:28.390	00:30:30.480	it's too small.
+N	00:30:31.390	00:30:32.560	ok.
+N	00:30:34.360	00:30:36.640	why don't you wear this brown shirt?
+N	00:30:36.530	00:30:37.610	it's nice.
+D	00:30:37.610	00:30:39.040	it's ugly.
+N	00:30:39.880	00:30:40.880	well...
+D	00:30:40.880	00:30:47.829	oh, why don't I wear this shirt?
+N	00:30:47.829	00:30:50.130	you can't wear that shirt.
+D	00:30:50.140	00:30:51.680	why not?
+N	00:30:51.550	00:30:53.160	it's mine.
+D	00:30:52.880	00:30:54.913	oh, thanks, Bill.
+D	00:30:54.913	00:30:56.120	you're nice.
+N	00:30:55.699	00:31:04.320	I'm.
+I	00:31:04.330	00:31:07.080	yes. and what would you like to drink tonight?
+D	00:31:06.540	00:31:08.800	why don't we have wine?
+E	00:31:09.030	00:31:11.720	no, I don't want wine.
+D	00:31:13.020	00:31:16.280	why don't we have beer?
+E	00:31:16.290	00:31:18.680	no, I don't like beer.
+D	00:31:19.410	00:31:23.400	well, why don't we have orange juice?
+E	00:31:24.000	00:31:27.200	no why don't we have water?
+D	00:31:27.630	00:31:28.520	ok.
+D	00:31:28.660	00:31:30.520	waiter we'll have two waters.
+I	00:31:30.450	00:31:31.660	certainly, sir.
+I	00:31:31.660	00:31:32.480	two waters.
+E	00:31:36.330	00:31:37.170	thank you.
+I	00:31:37.170	00:31:38.000	you're welcome.
+D	00:31:38.900	00:31:39.508	thank you.
+I	00:31:39.508	00:31:40.480	you're welcome.
+I	00:31:43.540	00:31:44.540	ok.
+I	00:31:44.540	00:31:46.280	what would you like for dinner tonight?
+D	00:31:46.720	00:31:49.280	why don't we have salad?
+E	00:31:49.570	00:31:52.680	Tom, I don't want salad.
+D	00:31:54.850	00:31:57.760	why don't we have soup?
+E	00:31:58.390	00:32:00.160	I'm hungry.
+E	00:32:00.440	00:32:02.280	I don't want soup.
+D	00:32:02.830	00:32:04.960	what do you want?
+E	00:32:05.500	00:32:08.960	why don't we have steak?
+D	00:32:11.900	00:32:13.900	oh...
+D	00:32:13.900	00:32:17.280	why don't we have hamburgers?
+E	00:32:17.280	00:32:19.520	you want hamburgers?
+D	00:32:19.330	00:32:20.880	well...
+E	00:32:20.560	00:32:25.210	why don't you go to McDonald's?
+D	00:32:25.210	00:32:28.920	waiter we'll have two steaks, please.
+I	00:32:29.140	00:32:30.595	two steaks.
+I	00:32:30.605	00:32:31.880	certainly, sir.
+

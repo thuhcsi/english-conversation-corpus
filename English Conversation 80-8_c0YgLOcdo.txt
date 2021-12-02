@@ -1,0 +1,312 @@
+A	00:00:03.600	00:00:06.080	excuse me, may i sit here?
+B	00:00:06.080	00:00:07.830	yeah, sure.
+A	00:00:11.840	00:00:13.360	my name is archie.
+B	00:00:13.360	00:00:14.870	i'm linda.
+A	00:00:14.880	00:00:16.880	linda, what a lovely name!
+A	00:00:16.880	00:00:18.790	what are you doing here all by yourself?
+B	00:00:18.800	00:00:20.480	i'm having a break.
+A	00:00:20.480	00:00:22.630	what do you do for a living? may i ask?
+B	00:00:22.640	00:00:25.109	i'm the personal assistant to a lawyer.
+A	00:00:25.119	00:00:26.950	do you like your job?
+B	00:00:26.960	00:00:29.519	sometimes i do, sometimes i don't.
+A	00:00:29.519	00:00:32.150	are your working conditions good?
+B	00:00:32.160	00:00:34.079	yes, the salary is good.
+B	00:00:34.079	00:00:38.559	i work from nine am to four pm and i have two days off every week.
+B	00:00:38.559	00:00:40.229	and the office is very comfortable.
+A	00:00:40.239	00:00:42.239	do you have any promotion prospects?
+B	00:00:42.239	00:00:43.510	no, i don't think so.
+A	00:00:43.520	00:00:45.440	do you attend training courses?
+B	00:00:45.440	00:00:46.239	yes, sometimes.
+B	00:00:46.239	00:00:47.270	what do you do?
+A	00:00:47.280	00:00:49.590	i am a photographer for travel magazines.
+B	00:00:49.600	00:00:51.110	wow, that sounds great.
+B	00:00:51.120	00:00:52.480	do you meet a lot of people?
+A	00:00:52.480	00:00:55.029	i meet people from all walks of life.
+A	00:00:55.039	00:00:58.399	i can show you my portfolio and maybe we could...get together...
+C	00:00:58.399	00:01:00.960	linda, excuse me.
+C	00:01:00.960	00:01:04.549	uh, you left your mobile in the office and miranda didn't know how to reach you.
+C	00:01:04.559	00:01:06.000	she's going crazy.
+B	00:01:06.000	00:01:07.040	what's the matter?
+C	00:01:07.040	00:01:08.230	it's a priority!
+C	00:01:08.240	00:01:12.149	miss adams is in london and someone must escort her.
+C	00:01:12.159	00:01:16.630	unfortunately i'm busy. so you should take her out to dinner.
+C	00:01:16.640	00:01:21.119	i've already booked a table for two at the japanese restaurant in charlotte street.
+C	00:01:21.119	00:01:24.710	you know, tottenham court road, good street, tube station.
+B	00:01:24.720	00:01:26.640	sorry, i have to do this.
+B	00:01:26.640	00:01:28.510	hope to see you again.
+
+D	00:01:35.520	00:01:36.880	mom, can i come in?
+E	00:01:36.880	00:01:38.159	oh, lucy! good timing.
+E	00:01:38.159	00:01:40.799	i just switched off my pc and i'm ready to have lunch with you.
+D	00:01:40.799	00:01:41.910	me too. i'm hungry.
+E	00:01:41.920	00:01:42.799	let's go then.
+E	00:01:42.799	00:01:44.950	we usually we have no time to talk.
+D	00:01:44.960	00:01:46.880	oh, can i make a phone call before we leave?
+E	00:01:46.880	00:01:47.840	yes, sure.
+D	00:01:47.840	00:01:48.069	thanks.
+D	00:01:56.079	00:02:00.159	hi, this is lucy fraser. i'd like to talk to mr gatti, please.
+D	00:02:02.159	00:02:04.719	roberto, this is lucy fraser.
+D	00:02:04.719	00:02:08.759	i'm calling to check the delivery of an order placed last month.
+D	00:02:09.759	00:02:13.830	the order number is five six six.
+D	00:02:13.840	00:02:15.4270	there's a delay in the delivery.
+D	00:02:21.280	00:02:23.040	i see, i see.
+D	00:02:23.040	00:02:26.550	so the order is divided into two shipments.
+D	00:02:28.560	00:02:31.550	okay, the second shipment is still in transit?
+D	00:02:34.560	00:02:37.910	now i need to know if the goods can be delivered before the weekend.
+D	00:02:37.920	00:02:40.309	this is a big inconvenience.
+D	00:02:42.319	00:02:45.280	sure, i would appreciate that.
+D	00:02:45.280	00:02:50.869	i'll give you my mobile phone number, so that you can get back to me at any time. okay?
+D	00:02:50.879	00:02:58.790	zero seven two three three eight two three three four four.
+D	00:02:58.800	00:03:04.149	okay, thank you roberto. goodbye.
+E	00:03:04.159	00:03:07.040	oh, honey. you must be starving.
+E	00:03:07.040	00:03:09.440	here is a nice toasted sandwich for you.
+D	00:03:09.440	00:03:10.640	kind of you!
+E	00:03:10.640	00:03:14.159	and here's an orange juice and hot coffee.
+D	00:03:14.159	00:03:14.879	great!
+E	00:03:14.879	00:03:20.350	we use state of the art equipment now: a toaster juicer and a coffee maker.
+
+E	00:03:27.360	00:03:29.360	oh, god! it's late.
+E	00:03:29.360	00:03:32.789	okay, time to switch off the laptop and go home.
+E	00:03:34.799	00:03:36.229	where's my cell phone?
+E	00:03:38.239	00:03:40.550	it's not under the files.
+E	00:03:44.560	00:03:47.040	stay calm, miranda.
+E	00:03:47.040	00:03:50.869	this desk is a mess, no wonder i always lose things.
+E	00:03:52.879	00:03:55.200	it's not in the drawer.
+E	00:03:55.200	00:03:56.560	aha! there you are.
+E	00:03:56.560	00:04:02.309	behind the laptop where i can't see you of course.
+E	00:04:02.319	00:04:04.879	i can't leave everything like this.
+E	00:04:04.879	00:04:12.550	okay, pens everywhere and when i need one i can never find one.
+E	00:04:12.560	00:04:17.189	they can go in the drawer.
+E	00:04:17.199	00:04:20.710	these papers are important.
+E	00:04:20.720	00:04:28.469	okay, staple them all together or i'll end up losing something important.
+E	00:04:30.479	00:04:35.110	okay, stapler.
+E	00:04:36.560	00:04:38.532	great, i'm out of staples.
+E	00:04:39.120	00:04:44.830	okay make a note for linda: buy staples.
+E	00:04:47.840	00:04:50.910	i'll just use this paper clip for now.
+E	00:04:53.520	00:04:57.110	all right, that's a little better.
+E	00:04:57.120	00:04:59.919	i can actually see the desk again.
+B	00:04:59.919	00:05:01.430	may i come in, mrs cunningham?
+E	00:05:01.440	00:05:03.440	yes, of course linda, come in. come in.
+B	00:05:03.440	00:05:05.510	miss adams is here.
+E	00:05:05.520	00:05:07.840	miss adams? who is she?
+B	00:05:07.840	00:05:10.469	an american woman from the isle of wight.
+B	00:05:10.479	00:05:12.909	she says it's her first appointment.
+E	00:05:13.919	00:05:17.270	it says here she's got a hotel in cos.
+E	00:05:17.280	00:05:23.199	and she wants to file a lawsuit against a company called beautiful bathrooms.
+E	00:05:23.199	00:05:27.350	she purchased some faulty showers from them for her hotel.
+E	00:05:27.360	00:05:28.720	oh, yes!
+E	00:05:28.720	00:05:37.270	i remember miss adams, send her in.
+B	00:05:37.280	00:05:39.909	miss adams, this is miranda cunningham.
+E	00:05:39.919	00:05:40.870	how do you do?
+F	00:05:40.880	00:05:42.960	how do you do, miranda.
+E	00:05:42.960	00:05:48.080	yes, and this of course is linda, my secretary and precious personal assistant.
+F	00:05:48.080	00:05:49.189	pleased to meet you.
+B	00:05:49.199	00:05:50.240	and you.
+E	00:05:50.240	00:05:52.000	thank you, linda.
+F	00:05:52.000	00:05:59.909	so, as i said on the telephone, i have got a hotel in cos and i have recently changed the bathrooms.
+E	00:05:59.919	00:06:02.000	what's the name of the hotel?
+E	00:06:02.000	00:06:05.830	oh! please, have a seat.
+
+G	00:06:18.840	00:06:26.880	warm and happy!
+G	00:06:26.880	00:06:28.479	what can i do for you?
+E	00:06:28.479	00:06:30.160	hi, this is miranda cunningham.
+E	00:06:30.160	00:06:34.000	i would like to talk to the customer service.
+G	00:06:34.000	00:06:35.670	yes, how can i help?
+E	00:06:35.680	00:06:37.600	this is miranda cunningham.
+G	00:06:37.600	00:06:39.199	are you all right?
+E	00:06:39.199	00:06:40.880	no, i'm not all right.
+E	00:06:40.880	00:06:42.309	we are freezing!
+E	00:06:42.319	00:06:44.120	the heating system is not working.
+G	00:06:45.120	00:06:48.950	i'll send someone in the afternoon or tomorrow morning.
+E	00:06:48.960	00:06:50.720	make it this afternoon.
+E	00:06:50.720	00:06:52.880	as i said we are freezing.
+E	00:06:52.880	00:06:59.120	this is a legal firm and we have a lot of taxing work to do and it's anything but easy at this temperature.
+G	00:06:59.120	00:07:01.360	yeah.
+E	00:07:01.360	00:07:04.230	i called yesterday to explain the situation and...
+G	00:07:04.240	00:07:05.840	i see.
+E	00:07:05.840	00:07:08.639	you don't have to see, you have to come!
+E	00:07:08.639	00:07:11.360	what is your name, please?
+G	00:07:11.360	00:07:16.150	i am matthew peacock.
+E	00:07:16.160	00:07:17.280	listen, mr.peacock.
+E	00:07:17.280	00:07:19.360	if things are not put right straight away.
+E	00:07:19.360	00:07:21.830	i will make a complaint to your superiors!
+E	00:07:21.840	00:07:23.990	good morning!
+E	00:07:28.000	00:07:30.629	let me give it another try.
+H	00:07:40.639	00:07:42.960	hi, this is rose snug.
+E	00:07:42.960	00:07:45.360	hi, this is miranda cunningham.
+E	00:07:45.360	00:07:48.879	listen, we have had no heating since monday.
+E	00:07:48.879	00:07:51.039	i called yesterday and today but...
+H	00:07:51.039	00:07:54.080	i'm terribly sorry to hear that, mrs cunningham.
+H	00:07:54.080	00:07:57.840	tell me more about what happened so that i can solve your problem.
+E	00:07:57.840	00:07:59.909	well, there's very little to say.
+E	00:07:59.919	00:08:02.080	the heating system is not working.
+E	00:08:02.080	00:08:04.629	and we tried to fix it but to no avail.
+H	00:08:04.639	00:08:06.080	i understand.
+H	00:08:06.080	00:08:08.639	let me apologize for the inconvenience.
+H	00:08:08.639	00:08:12.070	i'll send someone to settle the matter right away.
+E	00:08:12.080	00:08:15.469	you can't imagine how happy i am to hear that.
+
+B	00:08:20.479	00:08:24.869	well, we have a good working relationship but i am just the secretary.
+B	00:08:24.879	00:08:28.550	and miranda constantly reminds me that she's the boss.
+B	00:08:28.560	00:08:33.680	i'm always here early because i absolutely have to clock in by nine o'clock.
+B	00:08:33.680	00:08:38.399	so i usually get to work around eight forty five, just in case.
+B	00:08:38.399	00:08:45.760	but miranda arrives late all the time and nobody says anything of course.
+B	00:08:45.760	00:08:54.990	no, i don't work fixed hours and sometimes i stay in the office after work because we have to meet deadlines, so it can be very stressful.
+B	00:08:56.000	00:08:56.800	it's okay.
+B	00:08:56.800	00:09:02.800	but most of the time i do routine tasks, i file documents answer the phone, reply to emails.
+B	00:09:02.800	00:09:05.829	so i'm usually stuck behind a desk.
+B	00:09:05.839	00:09:07.670	it can be...
+E	00:09:09.680	00:09:10.720	morning, linda.
+B	00:09:10.720	00:09:11.320	good morning.
+E	00:09:12.320	00:09:14.870	i never managed to get here on time.
+E	00:09:14.880	00:09:17.030	traffic is so bad this time of the morning.
+E	00:09:19.040	00:09:20.949	i'm surprised you're always so punctual.
+E	00:09:20.959	00:09:22.630	you get to work early.
+E	00:09:22.640	00:09:25.200	what time do you leave your house in the morning?
+B	00:09:25.200	00:09:27.200	usually around twenty past eight.
+B	00:09:27.200	00:09:28.320	i take the tube.
+E	00:09:28.320	00:09:29.430	it's quite quick.
+B	00:09:29.440	00:09:34.870	but once or twice a week i drive to work so i leave the house around eight o'clock, because there can be a lot...
+E	00:09:34.880	00:09:36.880	linda, do we have today's newspaper?
+B	00:09:36.880	00:09:37.600	yes.
+E	00:09:37.600	00:09:40.750	read me my horoscope, let's see what the week is like.
+B	00:09:43.760	00:09:48.800	scorpio, work: control your sharp tongue today.
+B	00:09:48.800	00:09:51.279	try not to be too critical and severe.
+E	00:09:51.279	00:09:54.389	is there anything about love?
+B	00:09:54.399	00:09:58.389	love: you usually say things that upset or offend people.
+E	00:09:58.399	00:09:59.680	what?
+E	00:09:59.680	00:10:03.990	do you think i'm tactless?
+B	00:10:04.000	00:10:05.839	you want me to continue?
+E	00:10:05.839	00:10:07.279	no, no thank you, linda.
+E	00:10:07.279	00:10:09.810	just a cup of coffee, thanks.
+
+B	00:10:17.279	00:10:19.360	sorry for bursting in like this.
+B	00:10:19.360	00:10:24.790	but there's a very attractive man in reception and he says he's here to fix the coffee machine.
+E	00:10:24.800	00:10:26.560	well, and?
+B	00:10:26.560	00:10:27.760	it's not broken!
+B	00:10:27.760	00:10:36.389	it works perfectly well and we still have plenty of paper cups, stirrers, white and brown sugar, coffee and even two types of tea.
+E	00:10:36.399	00:10:40.320	well, so then tell them that we don't need anything and the machine works just fine.
+B	00:10:40.320	00:10:43.760	but he's here now and he's very attractive.
+B	00:10:43.760	00:10:47.920	and i thought perhaps we could have him check the machine, just in case.
+E	00:10:47.920	00:10:49.750	i see.
+E	00:10:49.760	00:10:52.240	well, perhaps we could spice up the day a bit.
+E	00:10:52.240	00:10:53.430	let him in.
+B	00:10:53.440	00:11:00.310	certainly, thanks!
+B	00:11:02.320	00:11:04.240	this is mrs cunningham, the boss.
+I	00:11:04.240	00:11:05.519	good afternoon.
+E	00:11:05.519	00:11:07.920	hi, troy.
+I	00:11:07.920	00:11:10.150	yeah, i'm here to repair the coffee machine.
+E	00:11:10.160	00:11:11.348	so linda says.
+I	00:11:11.920	00:11:13.839	and where is it?
+E	00:11:13.839	00:11:17.350	we also have one of your vending machines with chocolates and biscuits.
+E	00:11:17.360	00:11:19.190	you see, linda and i have a sweet tooth.
+E	00:11:19.200	00:11:22.240	but we also have certain dietary requirements.
+I	00:11:22.240	00:11:23.040	I see.
+E	00:11:23.040	00:11:26.880	some of my clients are allergic to wheat and some are vegans.
+E	00:11:26.880	00:11:29.590	linda is a vegetarian, aren't you, linda?
+B	00:11:29.600	00:11:31.839	yes, yes, i am.
+E	00:11:31.839	00:11:37.519	so is it possible to have some wheat free snacks and some that are suitable for vegans as well?
+I	00:11:37.519	00:11:38.480	well, i'm not sure.
+I	00:11:38.480	00:11:39.760	i'm just a technician.
+I	00:11:39.760	00:11:42.079	i repair the machines.
+E	00:11:42.079	00:11:45.440	well, perhaps we can have them send us a brochure with the products.
+I	00:11:45.440	00:11:48.800	sure, and the coffee machine?
+E	00:11:48.800	00:11:51.279	no problem, it works just fine.
+E	00:11:51.279	00:11:55.630	but perhaps there is a small problem with the hot chocolate.
+E	00:11:56.240	00:11:58.959	it tends to be a bit watery.
+E	00:11:58.959	00:12:01.670	is there any way to make it creamier?
+I	00:12:01.680	00:12:02.959	let's have a look.
+E	00:12:02.959	00:12:05.990	linda, why don't you show troy where the machine is?
+B	00:12:06.000	00:12:09.320	of course, mrs cunningham.
+
+C	00:12:12.720	00:12:16.880	well, i'm sorry to say that there are quite a few mistakes in this report of yours.
+E	00:12:16.880	00:12:18.480	mistakes? are you sure?
+C	00:12:18.480	00:12:22.480	yes, but linda can type it again, right?
+E	00:12:22.480	00:12:23.519	sure, she can.
+E	00:12:23.519	00:12:26.800	but i'm a bit worried about her, you know.
+C	00:12:26.800	00:12:27.990	why?
+E	00:12:28.000	00:12:34.629	linda is a high flyer but these days she's working too much and she's making some embarrassing mistakes.
+C	00:12:34.639	00:12:35.680	such as?
+E	00:12:35.680	00:12:40.790	well, such as sending an email to mr scorn instead of mrs scorn.
+E	00:12:40.800	00:12:43.680	you know that couple going through the troublesome divorce?
+E	00:12:43.680	00:12:45.670	can you imagine that?
+C	00:12:45.680	00:12:47.200	i see.
+C	00:12:47.200	00:12:54.240	linda is a nice girl but she is probably overworked, underpaid and frustrated.
+E	00:12:54.240	00:12:56.710	are you saying that i treating her badly?
+C	00:12:56.720	00:13:03.839	no, i just think that maybe she has too much to do and she needs less work and more motivation.
+E	00:13:03.839	00:13:05.600	what do you suggest?
+C	00:13:05.600	00:13:07.839	find another secretary.
+E	00:13:07.839	00:13:09.440	are you joking?
+E	00:13:09.440	00:13:17.590	she handles my phone calls, she writes emails, she deals with the clients and she speaks both german and spanish fluently.
+E	00:13:17.600	00:13:19.750	i can't imagine working without her.
+C	00:13:19.760	00:13:21.110	right, i know.
+C	00:13:21.120	00:13:23.519	it's hard without a good secretary.
+E	00:13:23.519	00:13:24.670	so?
+C	00:13:25.680	00:13:29.509	try and do something to make her feel more motivated.
+C	00:13:29.519	00:13:34.389	motivation and job satisfaction are at the basis of everything.
+C	00:13:34.399	00:13:41.760	for instance, give her something different to do and ask for her opinion from time to time.
+C	00:13:41.760	00:13:44.720	a pay rise is also a good idea.
+E	00:13:44.720	00:13:45.750	sure.
+E	00:13:45.760	00:13:50.189	a pay rise is always a nice way to get what you want from an employee.
+
+E	00:16:14.000	00:16:16.160	hi, this is miranda cunningham.
+E	00:16:16.160	00:16:18.629	can i speak to lawrence, please?
+J	00:16:18.639	00:16:20.240	miranda, it is me.
+J	00:16:20.240	00:16:21.189	nice to hear from you.
+J	00:16:21.199	00:16:22.870	what can i do for you?
+E	00:16:22.880	00:16:25.519	i'm calling to arrange a meeting with you.
+E	00:16:25.519	00:16:29.040	we need to talk about mr and mrs scon's divorce.
+E	00:16:29.040	00:16:33.670	there are some problems with property division.
+E	00:16:33.680	00:16:35.910	can we make an appointment right away?
+J	00:16:35.920	00:16:37.279	certainly.
+E	00:16:37.279	00:16:38.959	what is convenient for you?
+E	00:16:38.959	00:16:41.320	how about tuesday morning at eleven?
+J	00:16:42.320	00:16:45.519	sorry, i'm tied up all day on tuesday.
+J	00:16:45.519	00:16:47.188	sometime on wednesday morning.
+E	00:16:47.839	00:16:49.920	what about wednesday at ten?
+J	00:16:49.920	00:16:52.710	that's fine by me.
+E	00:16:52.720	00:16:55.590	let me take note of that in my diary.
+E	00:16:57.600	00:17:01.430	maybe it would be better to meet in my office this time.
+E	00:17:01.440	00:17:04.160	i mean your office is fine, i know.
+E	00:17:04.160	00:17:09.750	the old mahogany desk belonged to your grandfather remus and the green armchairs to your aunt evelyn.
+E	00:17:09.760	00:17:17.549	but our meeting room has a huge table, comfortable chairs, and last but not least, a vending machine that makes much better tea.
+J	00:17:17.559	00:17:18.549	I see.
+J	00:17:18.549	00:17:20.549	i'm at your command.
+
+E	00:17:24.559	00:17:29.120	first of all, i want to thank you both for helping me with tomorrow's presentation.
+E	00:17:29.120	00:17:34.070	it's going to be a difficult meeting and i'm nervous about it.
+E	00:17:34.080	00:17:36.549	okay, here it goes.
+E	00:17:40.559	00:17:42.240	good morning, everyone.
+E	00:17:42.240	00:17:46.470	if we are all here, let's get started.
+C	00:17:46.480	00:17:49.120	hello? brittany?
+C	00:17:49.120	00:17:53.350	uh okay, that's fine.
+C	00:17:53.360	00:17:56.240	sure, we can go to dinner tonight.
+C	00:17:56.240	00:18:00.070	i'll pick you up at seven sharp.
+C	00:18:02.080	00:18:07.400	yes, so do i, bye.
+C	00:18:08.400	00:18:11.919	sorry, my sister, no, my cousin.
+C	00:18:11.919	00:18:13.190	family matters.
+E	00:18:15.200	00:18:16.190	where was i?
+E	00:18:19.200	00:18:20.799	i'd like to welcome you all.
+E	00:18:20.799	00:18:24.720	i would like to introduce al from the human resources office.
+E	00:18:24.720	00:18:29.520	and may i also introduce my personal assistant, linda.
+E	00:18:29.520	00:18:32.870	i'm sorry i had to call this meeting at such a short notice.
+E	00:18:32.880	00:18:36.990	we are all here to discuss some urgent financial problems.
+E	00:18:38.000	00:18:41.990	the main objective of this meeting is to cut expenses.
+E	00:18:42.000	00:18:45.190	i'm sorry to have to say it, but it is time to tighten our belts.
+E	00:18:47.200	00:18:50.710	now did you all receive a copy of today's agenda?
+E	00:18:50.720	00:18:53.600	there are four items on the agenda.
+E	00:18:53.600	00:18:58.150	all of them deal with possible areas we have identified for potential cuts.
+E	00:19:00.160	00:19:05.760	if you don't mind, i think it's best if we take the points in order.
+E	00:19:05.760	00:19:07.840	linda is going to take the minutes.
+B	00:19:07.840	00:19:09.600	yes, sure.
+E	00:19:09.600	00:19:14.400	lunch break is at twelve thirty and the meeting is going to finish at four p.m.
+E	00:19:14.400	00:19:16.549	is that okay for everybody?
+C	00:19:16.559	00:19:17.039	fine.
+B	00:19:17.039	00:19:18.200	sure, yes.
+E	00:19:19.200	00:19:21.080	any questions before we start?
+E	00:19:24.080	00:19:27.110	oh, sorry, one last thing.
+E	00:19:27.120	00:19:29.750	please switch off your mobile phones.
+E	00:19:29.760	00:19:30.789	thank you.
+C	00:19:30.799	00:19:31.760	sure.
+E	00:19:33.760	00:19:35.350	how did i do?
+

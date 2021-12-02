@@ -1,0 +1,378 @@
+A	00:00:00.680	00:00:02.040	hi, Aaron!
+B	00:00:02.361	00:00:03.120	hi!
+A	00:00:03.634	00:00:05.439	mom's meeting me here for coffee.
+A	00:00:05.814	00:00:08.216	she says she has a surprise for me.
+B	00:00:08.794	00:00:10.157	what do you think it is?
+A	00:00:10.694	00:00:11.510	I don't know.
+A	00:00:11.679	00:00:13.215	but mom says I'll like it.
+A	00:00:14.410	00:00:15.820	hi, mom!
+A	00:00:15.820	00:00:18.789	so what's the surprise?
+C	00:00:18.789	00:00:21.720	you can't wait, can you?
+A	00:00:21.530	00:00:23.230	no!
+C	00:00:23.230	00:00:24.490	ok.
+C	00:00:24.490	00:00:27.750	we're going to take a trip to Europe.
+A	00:00:28.019	00:00:28.953	Europe?!
+A	00:00:29.048	00:00:31.678	I've always wanted to travel to Europe!
+C	00:00:31.845	00:00:33.008	I know.
+A	00:00:33.089	00:00:34.144	when are we going?
+A	00:00:34.335	00:00:35.355	where are we going?
+A	00:00:35.576	00:00:36.977	how long can we stay?
+C	00:00:37.081	00:00:39.676	we'll go during your Christmas vacation.
+C	00:00:39.723	00:00:42.147	we'll stay about a week.
+A	00:00:42.815	00:00:43.990	but where will we go?
+C	00:00:44.520	00:00:47.217	dad says you and I can decide.
+A	00:00:47.697	00:00:49.100	Wow!
+A	00:00:49.143	00:00:52.284	let's go to Paris, Rome, London...
+C	00:00:52.363	00:00:53.504	wait a minute!
+C	00:00:53.833	00:00:56.876	we'll only have a week for sightseeing.
+B	00:00:57.176	00:00:58.058	that's right.
+B	00:00:58.439	00:01:01.754	you can't see all the famous places in one week.
+A	00:01:01.830	00:01:04.232	so we should choose one place.
+C	00:01:04.570	00:01:05.392	yes.
+A	00:01:05.994	00:01:06.586	ok.
+A	00:01:06.971	00:01:07.473	hmm...
+A	00:01:08.215	00:01:10.541	what do I want to see in Europe?
+B	00:01:10.764	00:01:13.506	Paris is famous for great art museums.
+C	00:01:13.877	00:01:17.245	London also has some great museums.
+A	00:01:17.504	00:01:19.851	and we can speak English there!
+A	00:01:20.726	00:01:22.971	so how are we going to decide?
+B	00:01:23.207	00:01:25.397	why don't you look on the computer?
+C	00:01:25.663	00:01:26.952	good idea.
+C	00:01:27.473	00:01:31.530	let's see which cities have things we really want to see!
+C	00:01:32.210	00:01:35.278	there are so many places to go in Europe.
+C	00:01:35.865	00:01:40.165	let's just choose two cities and decide between them.
+A	00:01:40.628	00:01:42.127	that would be easier.
+A	00:01:43.111	00:01:44.486	we can each choose one.
+A	00:01:45.059	00:01:46.386	where do you want to go?
+C	00:01:47.144	00:01:48.830	Paris, I think.
+B	00:01:49.097	00:01:49.682	why?
+C	00:01:50.310	00:01:54.048	I want to go to Paris to see the Louvre!
+B	00:01:54.718	00:01:55.972	what about you, amber?
+A	00:01:56.252	00:01:57.779	I want to go to London!
+A	00:01:58.393	00:02:00.464	there are lots of attractions there.
+B	00:02:00.747	00:02:04.071	oh you'll decide between Paris and London.
+C	00:02:04.378	00:02:05.299	right.
+B	00:02:06.017	00:02:08.378	there are some cool castles in London.
+A	00:02:08.557	00:02:09.465	I know!
+C	00:02:10.012	00:02:12.285	those would be fun to see.
+A	00:02:12.459	00:02:14.193	so let's go to London.
+C	00:02:14.295	00:02:19.022	but I would love to see the Eiffel Tower in Paris, too.
+B	00:02:19.524	00:02:22.383	which city is easier to get around?
+C	00:02:23.172	00:02:25.603	both cities have subways.
+C	00:02:25.895	00:02:28.478	that would be the best way to travel around.
+C	00:02:28.599	00:02:31.251	this isn't going to be an easy decision.
+C	00:02:31.519	00:02:35.500	Paris and London both have interesting attractions.
+A	00:02:35.721	00:02:37.212	and delicious food.
+A	00:02:37.757	00:02:39.231	and cool stores!
+B	00:02:39.248	00:02:40.818	and they're both expensive.
+B	00:02:41.186	00:02:43.555	you can't choose the cheaper place.
+A	00:02:44.056	00:02:45.731	how are we going to decide?
+C	00:02:46.263	00:02:50.304	well, let's go home and talk to dad.
+A	00:02:50.563	00:02:51.015	right.
+A	00:02:51.350	00:02:52.644	we'll just have to tell him.
+C	00:02:53.552	00:02:54.784	tell him what?
+A	00:02:55.145	00:02:57.362	tell him we need a longer vacation!
+
+D	00:02:58.527	00:02:59.072	hi, honey.
+D	00:03:00.867	00:03:02.189	what did the doctor say?
+D	00:03:04.489	00:03:05.022	Mia?
+D	00:03:06.860	00:03:09.680	you look like you're in shock.
+D	00:03:10.360	00:03:12.890	is it something serious?
+E	00:03:12.890	00:03:16.080	the doctor said I'm not sick.
+D	00:03:16.400	00:03:20.280	then why have you been so sick to your stomach?
+E	00:03:22.100	00:03:26.000	Jeff, your dream has come true.
+E	00:03:26.630	00:03:29.760	we're going to have a baby.
+D	00:03:31.100	00:03:33.230	what?
+E	00:03:33.230	00:03:35.320	I'm pregnant.
+D	00:03:37.070	00:03:39.020	really?
+D	00:03:39.020	00:03:41.060	are you sure?
+E	00:03:41.741	00:03:42.405	yes.
+E	00:03:43.011	00:03:46.520	the doctor said I'm already five weeks pregnant.
+D	00:03:48.590	00:03:50.280	Wow.
+D	00:03:50.160	00:03:52.400	we're going to be parents.
+D	00:03:53.720	00:03:56.320	we already are parents!
+E	00:03:57.843	00:03:59.280	I know.
+D	00:04:01.610	00:04:06.680	mia, I know this isn't what you wanted right now.
+E	00:04:06.759	00:04:08.170	I do want this.
+E	00:04:09.032	00:04:11.651	this is wonderful.
+D	00:04:13.709	00:04:17.720	but it's really a surprise, isn't it?
+D	00:04:17.400	00:04:21.880	we didn't plan to have children for two more years.
+E	00:04:22.055	00:04:22.730	right.
+E	00:04:23.531	00:04:24.896	I love my job.
+E	00:04:25.646	00:04:28.720	I don't feel ready to give it up to be a mom.
+D	00:04:28.956	00:04:29.817	well...
+D	00:04:30.178	00:04:33.738	we always said you'd stop working when we had kids.
+D	00:04:34.639	00:04:36.330	but if you don't.
+E	00:04:36.811	00:04:37.393	Jeff.
+D	00:04:37.864	00:04:38.680	yes?
+E	00:04:40.344	00:04:44.249	I will stop working at the newspaper when we have the baby.
+D	00:04:46.145	00:04:47.155	are you sure?
+E	00:04:48.416	00:04:49.315	yes.
+E	00:04:51.124	00:04:52.156	this is hard.
+E	00:04:53.274	00:04:56.092	and I may not feel ready for it.
+E	00:04:57.288	00:04:57.640	but...
+E	00:04:58.903	00:05:04.744	I know that every life is a gift, even one that wasn't planned.
+E	00:05:04.880	00:05:09.621	so I'll be the best mom I can be.
+D	00:05:10.584	00:05:11.800	I know you will.
+D	00:05:13.400	00:05:15.760	that's why I love you, Mia.
+
+C	00:05:17.960	00:05:21.800	this is such wonderful news!
+A	00:05:22.218	00:05:24.680	I can't wait till your baby's born!
+C	00:05:25.259	00:05:26.955	when is the baby due?
+E	00:05:27.285	00:05:28.025	in June.
+A	00:05:28.712	00:05:31.468	when can you find out if it's a boy or a girl?
+D	00:05:31.460	00:05:34.280	probably in January.
+A	00:05:35.145	00:05:36.520	I hope it's a girl!
+C	00:05:36.800	00:05:39.400	daughters are great!
+C	00:05:39.739	00:05:43.516	well, I'm really happy for you two.
+DE	00:05:43.610	00:05:44.960	thanks!
+
+F	00:05:44.840	00:05:47.520	Mia, this is exciting!
+F	00:05:47.929	00:05:48.177	but...
+F	00:05:49.073	00:05:52.680	I thought you wanted to wait longer before you have children.
+E	00:05:52.400	00:05:54.160	we did.
+E	00:05:54.433	00:05:56.680	I really enjoy my job.
+E	00:05:57.078	00:05:57.789	but...
+E	00:05:57.910	00:06:00.640	all life doesn't always go the way we plan.
+F	00:06:01.192	00:06:02.048	that's true.
+E	00:06:03.225	00:06:05.939	I'm worried about how my boss will react.
+E	00:06:06.407	00:06:10.371	he might not understand why I want to stay home with the baby.
+F	00:06:11.292	00:06:13.689	well, I think it's great that you want to.
+F	00:06:14.457	00:06:16.257	you'll be wonderful parents.
+D	00:06:16.500	00:06:17.382	thank you!
+
+D	00:06:20.055	00:06:22.659	honey, you amaze me.
+E	00:06:23.063	00:06:23.691	I do?
+D	00:06:24.281	00:06:24.970	yes.
+E	00:06:25.612	00:06:28.079	you work so hard to become an editor.
+D	00:06:28.730	00:06:31.436	but you're willing to give it up for our family.
+E	00:06:32.157	00:06:34.352	well, you amaze me, too.
+D	00:06:35.149	00:06:35.831	really?
+E	00:06:36.338	00:06:37.030	yes.
+E	00:06:37.119	00:06:39.560	you've wanted a baby for so long.
+E	00:06:40.223	00:06:42.509	but all day, you've thought of me first.
+E	00:06:42.908	00:06:43.978	thank you.
+D	00:06:43.830	00:06:45.779	you're welcome.
+D	00:06:45.789	00:06:48.029	I love you.
+D	00:06:48.029	00:06:52.280	and I love you, little baby.
+E	00:06:53.555	00:06:55.589	I love both of you,too.
+E	00:06:55.589	00:07:01.000	but, Jeff, are you sure I can't have any coffee?
+D	00:07:01.589	00:07:05.080	baby, what do you think?
+
+G	00:07:07.409	00:07:09.320	thanks for lunch, Kara.
+H	00:07:09.702	00:07:10.784	Oh, No.
+H	00:07:10.996	00:07:12.525	thank you, Liz!
+H	00:07:12.269	00:07:15.680	my music store has really turned the corner.
+G	00:07:15.612	00:07:16.334	really?
+G	00:07:16.594	00:07:18.125	that's great news!
+H	00:07:18.418	00:07:21.200	I'm so thankful for all your help!
+G	00:07:21.604	00:07:22.551	you're welcome.
+G	00:07:22.898	00:07:24.810	I'm really happy for you.
+H	00:07:25.238	00:07:27.599	my dream is finally coming true.
+H	00:07:28.582	00:07:30.788	I have my own business.
+H	00:07:30.950	00:07:32.845	and it's profitable!
+G	00:07:33.713	00:07:36.439	it's also good that you like what you do.
+H	00:07:36.791	00:07:37.818	that's true.
+H	00:07:38.222	00:07:40.246	I love my music store!
+G	00:07:40.470	00:07:43.682	it must be fun to do something you love.
+H	00:07:44.393	00:07:45.123	it is.
+H	00:07:45.953	00:07:48.260	don't you like working at the Stop 'n' Shop?
+G	00:07:49.799	00:07:51.195	it's not bad.
+G	00:07:51.625	00:07:52.893	but it's not easy.
+G	00:07:53.661	00:07:57.375	I always have to compare prices with other stores.
+H	00:07:57.708	00:08:00.243	oh, I know what you mean.
+G	00:08:01.128	00:08:05.004	every month I'm figuring out what our prices should be.
+H	00:08:05.442	00:08:06.117	right.
+H	00:08:06.602	00:08:10.676	you're always asking yourself, ''are prices too high?
+H	00:08:11.037	00:08:13.446	what would happen if prices were lower?''
+G	00:08:14.295	00:08:14.845	right.
+G	00:08:15.344	00:08:16.400	it's not fun.
+H	00:08:16.790	00:08:20.483	and it's hard to compete with large discount stores.
+G	00:08:20.985	00:08:21.767	it is.
+G	00:08:22.483	00:08:27.032	I wish I could just have a nice little store- with no problems.
+G	00:08:27.865	00:08:32.060	I don't like worrying about being profitable every month.
+H	00:08:33.108	00:08:34.511	that's business!
+H	00:08:34.978	00:08:36.844	but it's also exciting, really?
+G	00:08:37.677	00:08:38.713	it has been.
+G	00:08:39.420	00:08:42.069	but I've thought about doing something else.
+H	00:08:42.523	00:08:43.125	really?
+H	00:08:43.750	00:08:45.208	what would you like to do?
+G	00:08:45.348	00:08:48.616	managing the stop 'n' shop isn't an adventure.
+H	00:08:49.051	00:08:54.949	but managing profit and loss margins every month can be exciting.
+G	00:08:55.721	00:08:57.227	you really think so?
+H	00:08:57.688	00:09:01.690	I have to admit, Liz, I like business.
+G	00:09:02.047	00:09:02.872	really?
+H	00:09:03.821	00:09:06.596	I like it almost as much as I like music!
+G	00:09:06.913	00:09:07.762	wow.
+G	00:09:08.259	00:09:09.367	that's great.
+H	00:09:10.202	00:09:12.140	so what are you going to do?
+G	00:09:13.207	00:09:14.934	oh, nothing.
+G	00:09:15.528	00:09:20.594	the stop 'n' shop might not be exciting, but it's a good business.
+G	00:09:21.176	00:09:23.906	besides, what else would I do?
+H	00:09:24.475	00:09:25.421	I don't know.
+H	00:09:26.025	00:09:27.053	what do you like?
+G	00:09:28.097	00:09:29.721	I like adventure.
+G	00:09:30.237	00:09:32.294	I love Brazil!
+H	00:09:32.708	00:09:36.308	well, business is an adventure.
+H	00:09:37.240	00:09:39.473	maybe one month is a down month.
+G	00:09:40.494	00:09:44.817	The Adventure is trying to do better the next month, right?
+H	00:09:45.238	00:09:45.735	right!
+H	00:09:46.346	00:09:52.895	some months I just break even but even that's fun because i know i did lose money!
+G	00:09:54.244	00:09:55.114	you're right.
+G	00:09:55.314	00:09:59.694	it is an adventure,doing business can be fun!
+I	00:09:59.903	00:10:02.001	are you two girls doing well?
+G	00:10:02.607	00:10:03.392	we're fine.
+G	00:10:03.842	00:10:05.042	what about you, Becca?
+G	00:10:05.970	00:10:08.526	how are your profit margins?
+I	00:10:08.988	00:10:11.033	how are my profit margins?
+I	00:10:12.384	00:10:15.853	actually, the net cafe has been doing really well.
+H	00:10:16.847	00:10:18.343	that's wonderful!
+I	00:10:19.142	00:10:23.494	in fact, the people at headquarters might want me to work there.
+G	00:10:24.098	00:10:25.052	Wow!
+I	00:10:25.767	00:10:28.157	yeah, it would be an adventure!
+H	00:10:29.677	00:10:31.270	that's business...
+G	00:10:31.339	00:10:33.608	a fun adventure!
+
+B	00:10:36.759	00:10:38.740	what are all these things on the floor?
+F	00:10:39.453	00:10:40.890	there are things to recycle.
+F	00:10:41.337	00:10:43.325	I clean the apartment this afternoon.
+F	00:10:44.324	00:10:46.402	and now I'm tired.
+F	00:10:46.923	00:10:49.146	I can't stop yawning.
+B	00:10:49.465	00:10:51.850	why don't you take a nap before dinner?
+F	00:10:52.861	00:10:54.062	I think I will.
+F	00:10:55.087	00:10:56.616	can you be quiet?
+B	00:10:57.196	00:10:58.483	of course!
+B	00:10:58.896	00:11:00.594	I can be very quiet.
+B	00:11:00.911	00:11:03.434	I won't even turn on the TV!
+F	00:11:03.636	00:11:04.982	ok, thanks.
+F	00:11:05.631	00:11:08.271	I think I'll sleep for about two hours.
+B	00:11:08.578	00:11:10.328	do you want me to wake you up?
+F	00:11:10.951	00:11:12.187	sure, thanks.
+B	00:11:12.775	00:11:15.426	in two hours,that'll be five o'clock.
+F	00:11:16.071	00:11:16.737	that's fine.
+B	00:11:16.925	00:11:17.764	sleep well.
+F	00:11:17.793	00:11:18.330	Thanks.
+B	00:11:18.554	00:11:20.760	I'll just to read a book.
+
+D	00:11:20.856	00:11:22.085	hey, Aaron!
+B	00:11:23.807	00:11:24.920	Shhhh...
+D	00:11:25.055	00:11:25.854	what?
+B	00:11:26.111	00:11:27.274	Becca's asleep.
+D	00:11:27.752	00:11:28.629	oh.
+D	00:11:28.865	00:11:31.329	I wanted to ask you to play catch.
+D	00:11:31.440	00:11:32.006	catch!
+B	00:11:32.365	00:11:34.137	no, thanks.
+B	00:11:34.446	00:11:35.224	here's your ball.
+B	00:11:35.381	00:11:35.885	catch!
+B	00:11:40.682	00:11:41.219	uh-oh.
+B	00:11:42.137	00:11:44.701	I don't think Becca is sleeping now.
+F	00:11:46.282	00:11:48.786	I thought you were going to be quiet!
+B	00:11:48.955	00:11:50.767	I'm sorry, Becca.
+D	00:11:51.571	00:11:52.472	me too.
+B	00:11:52.862	00:11:53.889	go back to sleep.
+B	00:11:54.398	00:11:56.163	we'll be really quiet now.
+F	00:11:56.862	00:11:57.775	I can't.
+F	00:11:57.704	00:11:59.647	i'm not sleepy now.
+B	00:12:00.550	00:12:03.371	well, you did ask me to wake you up!
+F	00:12:04.094	00:12:04.738	I know.
+F	00:12:05.012	00:12:09.228	but I wanted to sleep longer than twenty minutes!
+
+E	00:12:17.715	00:12:20.262	girls, thanks for these baby clothes.
+E	00:12:20.293	00:12:21.687	they're really cute!
+J	00:12:21.832	00:12:22.995	you're welcome.
+H	00:12:23.378	00:12:25.447	I can't wait to see the baby.
+D	00:12:26.039	00:12:29.760	I can't either but we have to wait seven more months.
+E	00:12:30.024	00:12:31.408	that's a good thing!
+E	00:12:31.596	00:12:33.327	we need time to get ready.
+H	00:12:33.744	00:12:35.327	what will you name the baby?
+E	00:12:35.836	00:12:36.954	I don't know.
+E	00:12:37.299	00:12:39.206	Jeff and I need to talk about it.
+E	00:12:39.974	00:12:42.084	do you have any ideas, honey?
+D	00:12:42.802	00:12:44.091	not yet.
+E	00:12:45.018	00:12:46.566	I like the name John.
+D	00:12:47.779	00:12:49.629	but it's too common.
+D	00:12:50.207	00:12:52.140	I want a special name for our baby.
+H	00:12:53.127	00:12:54.478	do you like the name Aidan?
+E	00:12:55.244	00:12:55.753	Aidan?
+E	00:12:56.183	00:12:57.513	that's a nice name.
+D	00:12:58.212	00:13:00.354	but there are too many ways to spell it!
+H	00:13:01.030	00:13:04.433	you couldn't name the baby after Mia's brother, David.
+H	00:13:04.951	00:13:06.281	do you like that idea?
+D	00:13:07.629	00:13:09.969	I don't know...
+D	00:13:12.368	00:13:14.440	what girls names do you like?
+J	00:13:14.913	00:13:16.960	we think her middle name should be Mia.
+D	00:13:17.805	00:13:18.937	aww.
+D	00:13:19.034	00:13:20.176	good idea!
+E	00:13:20.975	00:13:22.226	I like my name.
+E	00:13:22.644	00:13:24.894	but its meaning isn't very special.
+E	00:13:25.186	00:13:26.791	it just means ''my.''
+D	00:13:27.234	00:13:28.280	that's right!
+D	00:13:28.347	00:13:29.540	you're Mia Mia!
+E	00:13:30.049	00:13:31.098	ha-ha.
+E	00:13:31.835	00:13:34.972	but Joffrey is a good middle name for a boy.
+D	00:13:35.393	00:13:36.270	ok.
+H	00:13:36.532	00:13:39.300	let's talk about your daughter's first name.
+H	00:13:39.790	00:13:43.776	we like Ava, barrel or svet Lana.
+E	00:13:44.722	00:13:46.090	ava is a nice name.
+H	00:13:46.299	00:13:48.660	and it's a popular name for girls now.
+E	00:13:48.867	00:13:49.697	really?
+D	00:13:50.225	00:13:53.014	but I don't want a popular name.
+H	00:13:53.649	00:13:55.716	oh, right.
+H	00:13:56.177	00:13:58.037	then what about Svetlana?
+J	00:13:58.584	00:13:59.226	yes!
+J	00:13:59.278	00:14:00.865	Svetlana is-
+D	00:14:00.905	00:14:02.277	hard to say.
+J	00:14:03.371	00:14:06.826	ok, what about Beryl?
+H	00:14:07.162	00:14:09.309	the name barrel means jewel.
+H	00:14:09.880	00:14:11.668	isn't that a nice meaning?
+D	00:14:11.680	00:14:12.653	uhh...
+D	00:14:12.945	00:14:15.166	we'll think about these names.
+D	00:14:15.442	00:14:16.771	then we'll let you know.
+E	00:14:17.473	00:14:18.985	thanks again, girls!
+H	00:14:19.425	00:14:19.925	ok.
+H	00:14:20.151	00:14:21.499	see you later!
+J	00:14:21.570	00:14:22.179	bye.
+
+E	00:14:27.454	00:14:28.933	aren't they cute?
+E	00:14:29.109	00:14:31.715	claire and amber really want to help us.
+E	00:14:32.167	00:14:34.286	so what do you think, honey?
+D	00:14:35.439	00:14:38.795	well, I was thinking...
+D	00:14:39.301	00:14:41.748	how about the name pebbles for a girl?
+D	00:14:42.162	00:14:43.884	it's from my favorite cartoon.
+E	00:14:44.807	00:14:46.233	uh, Jeff?
+E	00:14:46.873	00:14:50.621	let's find a name that's not common or strange!
+
+J	00:14:51.812	00:14:52.933	hey, aaron.
+J	00:14:52.992	00:14:55.758	look what I found in my mailbox yesterday.
+B	00:14:56.604	00:14:59.510	you got a postcard from Greg and Liz, too?
+J	00:15:00.031	00:15:00.930	that's right.
+J	00:15:01.054	00:15:03.263	Liz told me a lot about Brazil.
+B	00:15:03.536	00:15:05.938	it looks like a cool place.
+F	00:15:06.038	00:15:07.879	what looks like a cool place?
+J	00:15:08.052	00:15:08.813	Brazil.
+F	00:15:09.807	00:15:11.146	it does!
+F	00:15:11.510	00:15:14.464	I received a postcard from Greg and Liz today.
+F	00:15:14.720	00:15:15.427	look!
+J	00:15:15.508	00:15:17.172	yours just arrived, too?
+F	00:15:17.619	00:15:21.163	well, it is a long way from Brazil to Tampa!
+B	00:15:22.188	00:15:24.825	anything else come in the mail today, sis?
+F	00:15:24.949	00:15:26.682	a package for me.
+F	00:15:27.305	00:15:29.607	I bought some clothes from a catalog.
+J	00:15:29.840	00:15:31.205	cool!
+J	00:15:31.838	00:15:33.086	let me see.
+F	00:15:35.039	00:15:37.957	aaron, you got something in the mail, too.
+B	00:15:38.520	00:15:39.001	what?
+F	00:15:39.519	00:15:42.397	a big envelope from Dexter College.
+B	00:15:42.653	00:15:45.312	oh, it's just junk mail.
+B	00:15:45.507	00:15:46.389	give it to me.
+F	00:15:46.496	00:15:48.171	I don't think it's junk mail.
+B	00:15:48.715	00:15:49.669	why not?
+F	00:15:49.980	00:15:53.388	because it says: ''congratulations!'' on the envelope.
+B	00:15:54.646	00:15:57.015	that doesn't mean anything.
+F	00:15:57.290	00:15:59.538	and they sent it first class!
+B	00:15:59.963	00:16:00.556	so?
+F	00:16:01.607	00:16:05.257	aaron, are you going to college next September?
+B	00:16:05.638	00:16:07.069	No.
+F	00:16:07.328	00:16:10.755	then why did Dexter College send you this?
+B	00:16:11.628	00:16:14.317	because I might go there in January.
+

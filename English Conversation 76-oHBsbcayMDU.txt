@@ -1,0 +1,405 @@
+A	00:00:05.920	00:00:08.310	hello?
+A	00:00:08.320	00:00:09.353	anyone home?
+B	00:00:09.459	00:00:10.480	anne!
+B	00:00:10.482	00:00:11.863	it's great to see you!
+A	00:00:11.900	00:00:12.517	hi!
+B	00:00:12.880	00:00:14.680	you look great!
+A	00:00:14.639	00:00:19.840	thank you paolo, you look... you look well yourself...
+A	00:00:20.320	00:00:26.400	but this house is so untidy and... so dusty!
+A	00:00:26.160	00:00:29.160	i know, let's give this place a good clean.
+A	00:00:28.960	00:00:31.750	the others will be here in a minute.
+A	00:00:31.760	00:00:34.280	let's get started straight away.
+A	00:00:42.879	00:00:44.160	right.
+A	00:00:44.160	00:00:48.440	before you know it we'll have cleaned and tidied everything!
+B	00:00:48.160	00:00:53.720	you haven't changed anne, cleaning, dusting, and tidying!
+B	00:00:53.280	00:00:55.360	it's just like when we were at university.
+B	00:00:55.571	00:00:57.208	can't you think of anything else?
+A	00:00:57.039	00:00:58.080	oh look who's talking!
+A	00:00:58.719	00:01:01.480	always strumming away on your guitar!
+A	00:01:03.280	00:01:07.990	come on paolo, don't be lazy!
+A	00:01:08.000	00:01:13.040	oh come on let's get started!
+C	00:01:18.593	00:01:19.980	surprise, surprise!
+A	00:01:20.022	00:01:22.627	hi michelle, sandra!
+C	00:01:22.560	00:01:24.554	how are you?
+C	00:01:32.560	00:01:33.840	wonderful!
+C	00:01:33.840	00:01:36.720	all together again, just like the old days!
+C	00:01:36.560	00:01:38.159	ok guys, what shall we do?
+C	00:01:38.159	00:01:39.670	i want to have lots of fun!
+B	00:01:39.788	00:01:44.304	so do i,come on michelle, let's go for a long walk, all the way down to the lake!
+A	00:01:44.720	00:01:46.065	stop where you are!
+A	00:01:46.399	00:01:48.080	where are you two going?
+A	00:01:49.759	00:01:59.360	come on paolo pick up that brush again and michelle, please, can you pick up your bag and that frightful hat!
+B	00:01:59.360	00:02:00.880	at your command, captain!
+D	00:02:00.479	00:02:04.069	come on michelle, stop playing around and give us a hand.
+C	00:02:04.079	00:02:14.710	oh,oh,this detergent is made by syntax, the american multinational that makes household cleaning products.
+C	00:02:14.720	00:02:16.861	i refuse to use this product.
+C	00:02:17.230	00:02:19.015	you know i hate multinationals!
+A	00:02:19.200	00:02:19.840	but it's just...
+A	00:02:19.840	00:02:22.550	all detergents made by multinationals.
+A	00:02:22.959	00:02:26.550	how are you supposed to clean a house if you refuse to use them?
+C	00:02:26.560	00:02:27.599	you guess right!
+C	00:02:27.599	00:02:29.159	i never do any cleaning!
+C	00:02:29.280	00:02:31.147	my flatmates look after that!
+A	00:02:31.200	00:02:36.390	oh i see, so you arranged to have your flat cleaned.
+D	00:02:36.400	00:02:38.043	michelle, you're just like paolo.
+D	00:02:38.400	00:02:40.710	look what a mess this house is in.
+C	00:02:40.720	00:02:42.239	if it weren't for us...
+B	00:02:42.239	00:02:46.280	if it weren't for you, i'd be chilled out palying my guitar.
+B	00:02:46.160	00:02:48.382	none of your forced labor.
+B	00:02:48.800	00:02:52.390	i see we spend most of the time of this holiday cleaning...
+B	00:02:52.400	00:02:55.664	i am started to wonder if this holiday may have been a mistake.
+A	00:02:56.180	00:02:58.877	come on paolo,stop complaining!
+A	00:02:59.280	00:03:03.240	you'll be happy to see this place all spick and span!
+A	00:03:04.159	00:03:08.120	sandra i've, i've already dusted that!
+D	00:03:07.760	00:03:08.390	oh really?
+A	00:03:08.400	00:03:08.720	yes.
+D	00:03:08.720	00:03:13.120	are you sure you cleaned it properly, because it doesn't look very clean to me!
+A	00:03:13.120	00:03:18.120	mike!!!
+E	00:03:18.159	00:03:19.186	what's going on here?
+E	00:03:19.300	00:03:22.840	are you my old college friends or workers from a cleaning company?
+
+E	00:03:30.562	00:03:34.252	come on, put away those brooms and detergents and let's toast the good old days!
+C	00:03:34.400	00:03:35.742	but sarah's not here yet!
+D	00:03:35.840	00:03:36.640	that's odd!
+D	00:03:36.825	00:03:37.993	she should be here by now!
+D	00:03:38.349	00:03:40.113	she said she'd be here just after lunch.
+B	00:03:40.197	00:03:40.790	that's right!
+B	00:03:40.959	00:03:43.031	and she's the one who organized this reunion.
+F	00:03:43.606	00:03:46.210	am i wrong or are you talking about me?
+A	00:03:46.292	00:03:47.291	sarah!!!
+A	00:03:47.310	00:03:48.467	at last!
+F	00:03:48.625	00:03:49.711	don't get up!
+E	00:03:50.080	00:03:52.358	so everybody ready for the toast?
+F	00:03:52.437	00:03:52.801	yeah.
+F	00:03:52.824	00:03:56.035	well, actually i'm really tired.
+F	00:03:56.217	00:03:57.172	i need to lie down.
+B	00:03:57.216	00:03:59.510	oh, sarah, don't be a spoilsports!
+B	00:03:59.599	00:04:01.439	we have been waiting for you...
+B	00:04:01.439	00:04:04.200	come on ladies!
+E	00:04:05.439	00:04:08.480	wow, anne's looking more beautiful than ever...
+B	00:04:08.239	00:04:11.120	don't tell me you still think about her.
+E	00:04:11.120	00:04:15.429	so, i propose a toast yeah to our college days together!
+C	00:04:15.439	00:04:16.479	yes...
+C	00:04:16.479	00:04:18.469	and to this wonderful holiday!
+B	00:04:18.646	00:04:19.078	that's right.
+A	00:04:19.063	00:04:19.479	cheers!
+B	00:04:19.359	00:04:21.400	cheers!
+
+B	00:04:23.440	00:04:25.859	life's hard for musicians, you know mike.
+B	00:04:26.531	00:04:30.085	sample recordings, auditions, the odd performance.
+B	00:04:30.800	00:04:33.360	but never anything serious.
+B	00:04:33.360	00:04:36.950	always ready for the big break!
+C	00:04:36.960	00:04:42.070	you know, paolo, i think no one has understood your talent yet.
+C	00:04:42.080	00:04:44.668	you'll see, you'll be successful one day.
+B	00:04:44.731	00:04:46.150	i certainly hope so!
+B	00:04:46.160	00:04:49.510	i need to make money somehow.
+E	00:04:49.520	00:04:52.000	why don't you get a job?
+E	00:04:52.000	00:04:54.800	something, until you make it as a guitarist.
+B	00:04:54.800	00:04:55.669	what would i do?
+B	00:04:56.130	00:04:57.578	work in a bank like you?
+B	00:04:57.841	00:04:59.336	no, that's not for me!
+E	00:05:00.335	00:05:03.006	it's not as if there are only banks to work in.
+E	00:05:03.933	00:05:05.431	there are other jobs that you can do.
+B	00:05:05.460	00:05:06.807	i know, i know.
+B	00:05:07.221	00:05:09.066	i worked in a supermarket last year.
+E	00:05:09.840	00:05:10.720	what was that like?
+B	00:05:10.720	00:05:11.270	oh well...
+B	00:05:11.280	00:05:12.800	adding up all the time...
+B	00:05:12.800	00:05:14.550	and the album clock at dawn.
+B	00:05:14.560	00:05:16.800	i did it for three months.
+B	00:05:16.800	00:05:17.830	no, no...
+B	00:05:17.840	00:05:20.479	normal jobs are not for me.
+B	00:05:20.479	00:05:23.670	i am an artist.
+F	00:05:23.680	00:05:25.840	what are you talking about?
+E	00:05:25.840	00:05:27.830	about work...
+E	00:05:27.840	00:05:30.880	oh by the way sarah, how's your pub coming on?
+E	00:05:30.880	00:05:32.000	just a minute what was it called?
+E	00:05:32.000	00:05:32.526	'blue moon'?
+B	00:05:32.479	00:05:34.080	that's it.
+F	00:05:34.080	00:05:36.000	you do it on purpose, don't you?...
+F	00:05:36.000	00:05:37.600	making things worse...
+F	00:05:37.600	00:05:39.830	with that sarcastic tone of voice!
+F	00:05:39.840	00:05:41.680	you like making fun of me!
+F	00:05:41.680	00:05:44.520	you're horrible!
+E	00:05:46.479	00:05:47.680	but what did i say?
+B	00:05:47.680	00:05:47.919	what?
+B	00:05:47.919	00:05:49.430	didn't you know?
+B	00:05:49.440	00:05:52.880	sarah's pub buurned down two years ago...
+B	00:05:52.880	00:05:56.950	the insurance hasn't paid, they said the fire wasn't an accident.
+B	00:05:56.960	00:06:01.480	sara's lost everything... included the sense of fun she used to have.
+E	00:06:02.479	00:06:02.800	man!
+E	00:06:02.800	00:06:04.080	i really messed up!
+E	00:06:04.080	00:06:06.390	i didn't know that had happened!
+E	00:06:06.400	00:06:09.590	we we spoke at christmas but she didn't say the pub burned down!
+B	00:06:09.600	00:06:12.000	you know what sarah's like.
+B	00:06:12.000	00:06:16.160	she doesn't like to speak this thing!
+B	00:06:16.160	00:06:19.830	this experience has really changed her.
+B	00:06:19.830	00:06:22.360	and i think this holiday will be good for her.
+C	00:06:25.360	00:06:26.319	hey!
+C	00:06:26.319	00:06:27.840	what's going on?
+
+A	00:06:37.360	00:06:38.560	no that's enough sandra!
+A	00:06:38.560	00:06:40.240	i don't think you need to add any more salt!
+F	00:06:40.240	00:06:42.629	i really think that ravioli are rather tasteless!
+A	00:06:42.639	00:06:44.639	let's see what they think!
+A	00:06:44.639	00:06:47.029	would you like to try my ravioli?
+A	00:06:47.039	00:06:49.199	sandra says they're tasteless!
+B	00:06:49.199	00:06:55.480	fantastic anne!
+E	00:06:58.160	00:06:59.360	really good!
+E	00:06:59.360	00:07:01.840	i always said you'd make someone a great wife!
+A	00:07:01.840	00:07:02.800	see i don't.
+A	00:07:02.800	00:07:04.240	did you hear that?
+F	00:07:04.240	00:07:06.019	i don't think they're very tasty.
+F	00:07:06.032	00:07:09.830	i'm sorry anne but my reviewers are a lot better than yours.
+F	00:07:09.840	00:07:12.600	i'm cooking tomorrow and we'll see who's the best cook!
+A	00:07:14.080	00:07:16.532	oh she's always criticizing!
+B	00:07:16.585	00:07:18.150	well don't take it seriously, anne.
+B	00:07:18.160	00:07:20.000	you know what santa's like.
+B	00:07:20.000	00:07:21.960	competitive by nature.
+
+C	00:07:27.840	00:07:30.400	ok guys, let's have a chat!
+C	00:07:30.400	00:07:32.960	tell me what you've been doing since we last met.
+E	00:07:34.000	00:07:38.550	well, paolo and i were talking about our work and our hopes for the future.
+C	00:07:38.560	00:07:40.800	work, work, work...
+C	00:07:40.800	00:07:44.070	let's talk about something a bit more interesting...
+C	00:07:44.080	00:07:47.830	romances, says passionate love story, things like that...
+C	00:07:47.840	00:07:51.759	oh you, for example anne, have you got a boyfriend?
+A	00:07:51.759	00:07:53.440	me?
+A	00:07:53.426	00:07:54.340	why me I？
+A	00:07:54.710	00:07:57.029	i i've got to go to the kitchen to check on the roast.
+B	00:07:57.039	00:07:57.799	come on, anne!
+B	00:07:57.799	00:07:59.120	don't be shy!
+B	00:07:59.120	00:08:01.040	answer michelle's question!
+A	00:08:02.319	00:08:06.280	ok, well there is someone, but he's not my boyfriend.
+E	00:08:07.840	00:08:09.759	what does that mean?
+A	00:08:09.759	00:08:17.919	he's my flatmate, his name is jack,i've really got to go now and check on the roast, it'll be burning!
+A	00:08:17.919	00:08:20.560	uh michelle can you come and give me a hand?
+A	00:08:20.560	00:08:22.800	and then come and tell the others that dinner's ready!
+
+B	00:08:31.280	00:08:33.360	mike?
+B	00:08:33.360	00:08:35.110	mikey?
+B	00:08:35.120	00:08:35.839	hello...
+B	00:08:35.839	00:08:37.919	anyone there?
+E	00:08:38.065	00:08:38.426	yes?
+E	00:08:38.452	00:08:38.842	what's wrong?
+B	00:08:38.959	00:08:40.320	oh you tell me!
+B	00:08:40.320	00:08:41.120	hey look as if...
+E	00:08:41.120	00:08:43.829	i'm finished paolo!
+E	00:08:43.839	00:08:45.320	i wasn't expecting this!
+E	00:08:46.480	00:08:49.590	i thought...
+E	00:08:49.600	00:08:50.961	i'm stupid!
+B	00:08:52.000	00:08:53.590	what are you talking about?
+B	00:08:53.600	00:08:55.440	what do you mean?
+E	00:08:55.440	00:08:56.560	anne!
+E	00:08:56.560	00:08:57.680	she's in love!
+E	00:08:57.600	00:08:59.760	with another man!
+E	00:08:59.760	00:09:05.590	and i was hoping that, you know, we could become more than just good friends during this holiday!
+E	00:09:05.600	00:09:07.480	i've never stopped thinking about her!
+E	00:09:09.120	00:09:13.190	what an idiot!
+E	00:09:13.200	00:09:15.880	sorry paolo, i have to be by myself for a while.
+
+C	00:09:20.959	00:09:23.360	good morning sarah!
+C	00:09:23.360	00:09:25.829	have you seen what a beautiful day it is?
+C	00:09:25.839	00:09:27.519	how about a walk in the countryside?
+C	00:09:27.519	00:09:29.560	and then we can relax by the pool.
+F	00:09:29.360	00:09:31.360	i don't really feel like going out.
+F	00:09:31.360	00:09:33.190	i'd rather stay in and read.
+C	00:09:33.200	00:09:36.550	oh come on sarah, don't be years old to social self!
+C	00:09:36.560	00:09:38.320	let's have some fun together!
+C	00:09:38.320	00:09:41.200	why don't we play a trick on the guys were still asleep?
+C	00:09:41.200	00:09:43.920	we could wake them up with a nice bucket of cold water!
+F	00:09:43.920	00:09:45.600	what a stupid trick!
+B	00:09:48.320	00:09:53.600	'nothing's changed, but i still love you truly...
+B	00:09:53.600	00:10:00.000	beautiful girl with brown eyes, dusting away my heart sights!'
+F	00:10:00.000	00:10:01.430	that's all we needed!
+B	00:10:01.440	00:10:05.400	oh you don't understand sarah, this is poetry!
+B	00:10:05.279	00:10:08.079	this is the story of a secret love!
+F	00:10:08.079	00:10:10.959	ah poetry, love, tricks!
+F	00:10:10.959	00:10:13.040	enough of this nonsense!
+F	00:10:13.040	00:10:18.160	if i'd known you were all going to be so 'amusing', i never would have organized this reunion!
+B	00:10:27.200	00:10:32.920	'beautiful girl we brown eyes, dusting away my heart sights!'
+D	00:10:33.360	00:10:34.240	oh no!
+D	00:10:34.240	00:10:34.959	paolo!
+D	00:10:34.959	00:10:37.000	look what a mess you've made!
+D	00:10:38.160	00:10:39.040	and by the way...
+D	00:10:39.040	00:10:41.910	you didn't clean the kitchen last night, did you?
+D	00:10:41.920	00:10:44.720	come on michelle give me a hand!
+C	00:10:44.720	00:10:48.230	oh no, i'm sorry, i can't touch that awful stuff!
+D	00:10:48.240	00:10:49.990	when are you going to get the message?
+C	00:10:50.000	00:10:52.040	i never touch that awful stuff!
+C	00:10:51.760	00:10:54.470	i hate detergents and the multinationals that make them!
+C	00:10:54.480	00:10:56.000	and i hate cleaning too!
+C	00:10:56.000	00:10:56.700	oh come on!
+C	00:10:56.700	00:10:58.200	we're on holiday!
+A	00:10:59.279	00:11:01.440	what is this racket!
+A	00:11:01.440	00:11:03.080	and what is going on in here?
+A	00:11:02.800	00:11:04.790	has world war three broken out?
+B	00:11:04.800	00:11:06.560	it's just started!
+C	00:11:06.560	00:11:14.150	well, soldier sandra's launcher offensive but the 'paolo-michelle squadron' is responding well to the attack and will defend its position to the bitter end.
+D	00:11:14.160	00:11:15.760	stop playing around.
+D	00:11:15.760	00:11:16.949	roll your sleeves up!
+D	00:11:16.959	00:11:21.120	the sooner we start working the sooner we'll finish and we'll be able to relax by pool.
+C	00:11:21.519	00:11:22.240	wait a minute!
+C	00:11:22.240	00:11:24.680	i was just thinking of going back to bed!
+C	00:11:24.399	00:11:27.279	if i'd known what was waiting for me, i would have slept until midday!
+A	00:11:27.279	00:11:30.400	maybe we could ask sarah to give us a hand.
+C	00:11:30.160	00:11:31.680	well, you must be joking!
+C	00:11:31.680	00:11:33.680	she just asked not to be disturbed!
+C	00:11:33.360	00:11:36.710	and giving her a bad mood over the last couple of days...
+C	00:11:36.720	00:11:38.480	well we could ask mike though.
+A	00:11:38.480	00:11:39.750	oh no...
+A	00:11:39.760	00:11:42.079	i just saw him a few minutes ago.
+A	00:11:42.079	00:11:45.920	i asked him where he was going and he said he was going to the village to buy a newspaper.
+A	00:11:45.920	00:11:51.519	he asked me if he should do some shopping, but i told him we'd all go to the supermarket together later on.
+B	00:11:51.519	00:11:52.800	fantastic!
+B	00:11:52.800	00:11:54.870	first running up, then the shopping!
+B	00:11:54.880	00:11:57.519	just the sort of holiday that i'm dreaming of!
+D	00:11:57.519	00:11:57.910	well...
+D	00:11:57.920	00:12:00.240	it's only the four of us here!
+D	00:12:00.240	00:12:01.960	let's share jobs out.
+B	00:12:04.399	00:12:07.670	just a minute, just a minute...
+B	00:12:07.680	00:12:09.000	i've got an idea!
+
+B	00:12:14.320	00:12:19.839	how about you and anna having a cleaning competition, timed, in here?
+B	00:12:19.839	00:12:22.310	you clear one part and you the other.
+C	00:12:22.320	00:12:23.200	yes...
+C	00:12:23.200	00:12:27.840	and i can keep the time and power provides some beautiful background music!
+C	00:12:28.399	00:12:33.680	at the end we'll see who's been the fastest and of course which part of the kitchen shines the most!
+B	00:12:33.680	00:12:35.509	i think it's a great idea!
+B	00:12:35.519	00:12:39.350	you and anna are always arguing about who's the best at doing things.
+C	00:12:39.360	00:12:42.870	oh this could be the right moment to show off your domestic skills!
+C	00:12:42.880	00:12:47.360	and the winner will be crowned 'queen of housewives'!
+C	00:12:47.360	00:12:49.480	what do you think?
+A	00:12:50.160	00:12:50.790	um, well.
+A	00:12:50.800	00:12:51.279	it's a...
+A	00:12:51.279	00:12:53.200	it's an unusual idea...
+A	00:12:53.200	00:12:56.240	it's very original but... but i'm not sure.
+D	00:12:55.920	00:12:58.949	oh come on anne, why not?
+D	00:12:58.959	00:13:00.680	it would be interesting!
+A	00:13:01.519	00:13:04.000	oh, ok!
+A	00:13:04.000	00:13:05.920	you've convinced me!
+A	00:13:05.920	00:13:07.269	should we start?
+B	00:13:07.279	00:13:08.079	great!
+B	00:13:08.079	00:13:13.750	so sandra you clean the sink uh the cooker on this part of the floor!
+B	00:13:13.760	00:13:20.790	oh, anne, you've got the oven, the table and this other part of the floor.
+A	00:13:20.800	00:13:21.760	okay.
+C	00:13:21.760	00:13:23.519	ok...
+C	00:13:23.519	00:13:27.519	ready, get set, go!
+C	00:13:27.519	00:13:31.990	'sponge in hand, sandra's clean the tabs while anne is intently sweeping the floor.
+C	00:13:32.000	00:13:36.639	now sandra is spraying the turtle onto the cooking rings, anne's started on the table.
+C	00:13:36.639	00:13:40.470	time is passing by another contestant is showing signs of fatigue.
+C	00:13:40.480	00:13:44.150	the race is open and nothing is separating the two cleaners.'
+B	00:13:44.160	00:13:48.310	those college days were so long ago...
+B	00:13:48.320	00:14:11.410	you are so clever, so beautiful too, but i never forgotten you, nothing's changed i still try love you, beautiful girl with brown eyes, dusting away my heart sighs...
+A	00:14:13.279	00:14:14.839	finished!
+B	00:14:14.839	00:14:16.079	incredible!
+B	00:14:16.079	00:14:19.350	you both finished at exactly the same time!
+B	00:14:19.360	00:14:23.720	come on michelle, we need to decide which is the cleanest part.
+A	00:14:36.079	00:14:37.279	so?
+D	00:14:37.279	00:14:38.800	who's won?
+C	00:14:38.800	00:14:47.430	well, after a considerable discussion the jury declares that the winner is...
+A	00:14:47.440	00:14:48.079	come on!
+A	00:14:48.079	00:14:49.279	don't keep us in the dark!
+D	00:14:49.279	00:14:50.560	who's won?
+C	00:14:50.560	00:14:53.829	or you've both won, it's a dead heat!
+C	00:14:53.839	00:14:57.520	you finished together and both parts of the kitchen are perfectly clean.
+A	00:14:58.320	00:15:01.680	ok, well maybe it's better this way sandra.
+A	00:15:01.680	00:15:05.990	at least there'll be no arguing about... about who's better at cleaning!
+D	00:15:06.000	00:15:10.790	yeah, you're right, let's forget our rivalries, at least for today.
+D	00:15:10.800	00:15:12.680	come on let's shake on it!
+A	00:15:12.399	00:15:13.440	ok!
+D	00:15:13.440	00:15:16.080	we're both champion cleaners!
+
+E	00:15:32.000	00:15:34.800	hi sarah, do you have a minute i'd like to talk?
+F	00:15:34.800	00:15:36.389	sure...
+E	00:15:36.399	00:15:38.079	um, well...
+E	00:15:38.079	00:15:40.230	i'd like to apologize for the other evening.
+E	00:15:40.240	00:15:41.680	i swear i didn't do it on purpose.
+E	00:15:41.680	00:15:44.949	i didn't know anything about what had happened at the bar.
+F	00:15:44.959	00:15:47.880	ok, i'll forgive you this time!
+E	00:15:48.320	00:15:49.519	great!
+E	00:15:49.519	00:15:52.080	i'm glad we've cleared up this understanding.
+E	00:15:53.199	00:15:55.080	so tell me, how did the fire start?
+F	00:16:00.160	00:16:01.680	i don't really know!
+F	00:16:02.639	00:16:06.480	the lighting system had been checked two days earlier by the electrician.
+F	00:16:06.480	00:16:09.120	and the sprinkler system was working fine too.
+F	00:16:08.959	00:16:10.629	it had just been installed.
+F	00:16:10.639	00:16:12.040	but it didn't work!
+E	00:16:12.639	00:16:14.470	how's that possible?
+F	00:16:14.480	00:16:16.399	i don't really know.
+F	00:16:16.399	00:16:21.199	someone must have thrown a cigarette on the curtains which caught fire straight away.
+F	00:16:21.199	00:16:23.749	the whole pub burned down in a few hours.
+F	00:16:23.759	00:16:26.310	the fire brigade couldn't save the place.
+F	00:16:26.320	00:16:28.389	it all went up in flames.
+F	00:16:28.399	00:16:30.399	i wish i'd been more careful...
+F	00:16:30.399	00:16:33.110	i wished i'd checked everything more carefully...
+E	00:16:33.120	00:16:35.360	but it's not your fault sarah!
+E	00:16:35.360	00:16:37.480	how could you prevented the fire?
+E	00:16:38.720	00:16:41.080	come on, you've got to pull yourself out of this!
+E	00:16:40.800	00:16:43.430	you can't spend your whole life thinking about your problems!
+E	00:16:43.440	00:16:46.320	you used to be such a fun person...
+F	00:16:46.320	00:16:48.150	life changes us mike.
+F	00:16:48.160	00:16:51.680	we've all changed since our university days.
+E	00:16:51.680	00:16:53.360	sure!
+E	00:16:53.360	00:16:56.280	but i'd like to help you find your old enthusiasm again.
+E	00:16:58.000	00:17:00.440	tell me, how can i possibly help?
+F	00:17:02.480	00:17:03.519	well...
+F	00:17:03.519	00:17:05.590	i'm not sure...
+F	00:17:05.600	00:17:07.360	you're embarrassing me!
+E	00:17:07.360	00:17:13.829	you shouldn't feel embarrassed, not with me, we've always trusted each other... no?
+E	00:17:13.839	00:17:15.040	what time is it?
+F	00:17:16.480	00:17:17.590	four fifteen...
+E	00:17:17.600	00:17:18.319	oh no!
+E	00:17:18.319	00:17:19.120	the match...
+E	00:17:19.120	00:17:20.360	it's already started!
+F	00:17:22.720	00:17:25.480	you know mike, we were talking just then.
+E	00:17:26.319	00:17:27.280	yeah i know, i know!
+E	00:17:27.280	00:17:29.990	um we'll continue our conversation later!
+E	00:17:30.000	00:17:31.350	i've really got to watch the game now!
+E	00:17:31.360	00:17:32.080	it's a great match.
+E	00:17:32.080	00:17:33.600	chelsea against manchester united!
+F	00:17:34.160	00:17:36.640	you know that doesn't interest me in the slightest!
+F	00:17:36.640	00:17:38.150	you haven't changed, mike!
+F	00:17:38.160	00:17:43.000	all you think about is football, football's the only important thing in your life!
+E	00:17:44.720	00:17:46.800	you're exaggerating now sarah!
+F	00:17:47.520	00:17:49.590	and you don't understand anything!
+F	00:17:49.600	00:17:51.440	all you care about is football!
+F	00:17:51.440	00:17:54.880	maybe if i wore a manchester united shirt, you'd pay me more attention!
+E	00:17:57.840	00:17:59.080	what did you say?
+
+B	00:18:21.110	00:18:32.520	i'd like to tell you i love you, but i'm afraid of being wrong with you...
+B	00:18:32.520	00:18:43.200	beautiful girl with brown eyes, dusting away my heart sighs'...
+F	00:18:45.760	00:18:46.880	oh no paolo!
+F	00:18:46.880	00:18:50.640	that's all i needed... is you with your stupid guitar!
+F	00:18:50.640	00:18:53.280	i've had enough, i'm going to my room.
+B	00:18:58.400	00:19:00.320	what's wrong with her?
+B	00:19:00.320	00:19:02.470	i don't think my song's that bad!
+B	00:19:02.480	00:19:04.040	what do you think mike?
+B	00:19:07.360	00:19:10.160	'i'd like to tell you'...
+B	00:19:10.160	00:19:11.190	i love you.
+E	00:19:11.200	00:19:12.160	paolo!
+E	00:19:12.160	00:19:14.360	can i watch the game in peace and quiet!
+B	00:19:14.360	00:19:22.760	'i'd like to tell you i love you...'
+E	00:19:22.480	00:19:25.680	that's enough, i'm gonna watch this somewhere else.
+B	00:19:26.160	00:19:27.440	i can't believe it!
+B	00:19:27.440	00:19:29.240	they're all mad here!
+
+B	00:19:29.240	00:19:41.560	beautiful girl with brown eyes, dusting away my heart sighs!'
+B	00:19:44.480	00:19:46.480	oh, anne!
+B	00:19:46.480	00:19:49.510	at last someone who appreciates my talent!
+B	00:19:49.520	00:19:52.120	i knew you were an expert in music!
+A	00:19:52.120	00:19:53.679	but...
+A	00:19:53.679	00:19:55.440	that song paolo...
+A	00:19:55.440	00:19:56.640	what does it mean?
+B	00:19:56.640	00:19:58.160	oh i wrote it.
+B	00:19:58.160	00:20:01.400	thanks to mike that gave me the inspiration.
+B	00:20:00.880	00:20:02.159	do you like it?
+A	00:20:02.159	00:20:04.470	oh, no!
+A	00:20:04.480	00:20:05.520	mike?!
+B	00:20:05.520	00:20:07.360	yeah.
+A	00:20:07.360	00:20:09.590	that's not possible!
+A	00:20:09.600	00:20:11.280	i don't believe it!
+B	00:20:13.440	00:20:15.039	unbelievable!
+B	00:20:15.039	00:20:17.240	they are all mad in the house!
+B	00:20:18.840	00:20:29.280	'...beautiful girl with brown eyes, dusting away my heart sighs!'
+

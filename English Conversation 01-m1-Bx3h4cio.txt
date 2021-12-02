@@ -1,0 +1,758 @@
+B	00:00:19.439	00:00:21.560	hello.
+C	00:00:21.570	00:00:22.950	hello.
+B	00:00:22.950	00:00:24.310	how are you?
+C	00:00:24.310	00:00:26.169	I'm fine, thank you.
+C	00:00:26.169	00:00:26.900	and you?
+B	00:00:26.910	00:00:29.089	I'm fine, thank you.
+B	00:00:29.099	00:00:30.669	where are you from?
+C	00:00:30.669	00:00:32.430	I come from England.
+B	00:00:32.440	00:00:35.070	you come from England?
+B	00:00:35.080	00:00:37.619	do you like Manchester United?
+C	00:00:37.619	00:00:39.869	I don't like football.
+B	00:00:39.869	00:00:42.300	oh,you don't like football.
+B	00:00:42.310	00:00:43.299	hmm
+B	00:00:43.299	00:00:45.209	I see.
+B	00:00:45.209	00:00:47.080	why did you come here?
+C	00:00:47.080	00:00:48.810	I came for vacation.
+B	00:00:48.810	00:00:50.770	you came for vacation.
+B	00:00:50.780	00:00:52.380	are you having fun?
+C	00:00:52.380	00:00:55.799	yes, I'm having a great time.
+B	00:00:55.799	00:00:59.250	what do you like the best about here?
+C	00:00:59.250	00:01:01.320	what do I like the best?
+C	00:01:01.320	00:01:04.260	well, the people are very kind.
+B	00:01:05.260	00:01:07.769	the people here are kind.
+B	00:01:07.769	00:01:09.560	do you like the food?
+C	00:01:09.930	00:01:10.930	yes.
+C	00:01:10.930	00:01:13.170	the food is great!
+B	00:01:13.170	00:01:15.690	is the food too spicy for you?
+C	00:01:16.232	00:01:16.836	no.
+C	00:01:16.960	00:01:18.699	I love spicy food.
+C	00:01:18.699	00:01:21.470	I can eat spicy food every day.
+B	00:01:22.350	00:01:24.650	how much longer will you stay here?
+C	00:01:24.970	00:01:27.670	I will stay two more days.
+B	00:01:28.500	00:01:30.280	then you will go home?
+C	00:01:30.280	00:01:30.909	yes.
+C	00:01:30.909	00:01:32.400	then I will go home.
+B	00:01:32.790	00:01:34.360	where do you work?
+C	00:01:34.360	00:01:37.290	I work for a big company.
+B	00:01:37.290	00:01:39.799	what kind of company do you work for?
+C	00:01:40.059	00:01:42.220	I work for an import company.
+C	00:01:42.220	00:01:44.350	and what about you?
+B	00:01:44.350	00:01:46.590	I work at the bank.
+C	00:01:46.600	00:01:50.220	huh, are you a bank teller?
+B	00:01:50.220	00:01:53.600	no, I'm the owner.
+C	00:01:53.600	00:01:55.860	ohh.
+
+D	00:02:04.119	00:02:09.010	hey, how was your vacation?
+E	00:02:09.010	00:02:11.050	it was very fun.
+D	00:02:11.348	00:02:13.226	oh, where did you go?
+E	00:02:13.445	00:02:14.708	I went to the beach.
+D	00:02:15.070	00:02:16.640	who did you go with?
+E	00:02:16.650	00:02:22.370	I went with my father, mother and older sister.
+D	00:02:22.370	00:02:25.840	did you have a house at the beach?
+E	00:02:25.850	00:02:28.720	no, we stayed at a hotel.
+D	00:02:29.320	00:02:31.550	which hotel did you stay at?
+E	00:02:31.550	00:02:35.400	it's called the Imperial.
+D	00:02:35.979	00:02:38.410	have you stayed there before?
+E	00:02:38.410	00:02:42.280	yes, we've been going there for years.
+D	00:02:42.280	00:02:44.400	must be very nice.
+E	00:02:44.800	00:02:49.440	yes, it's very nice and not too expensive.
+D	00:02:50.440	00:02:52.600	did you play in the water?
+E	00:02:52.600	00:02:58.540	yes, I went swimming and I rode the banana boats.
+D	00:02:58.540	00:03:01.479	how about your older sister?
+E	00:03:01.865	00:03:03.769	she does not like the water.
+E	00:03:03.680	00:03:08.370	she likes to sit on the beach and read a book.
+D	00:03:08.380	00:03:11.320	what do your mother and father like to do?
+E	00:03:11.320	00:03:13.699	they like to eat in the restaurant.
+D	00:03:15.609	00:03:18.270	how long was your vacation?
+E	00:03:18.370	00:03:20.660	three or four days.
+D	00:03:20.760	00:03:24.440	and will you go there again next year?
+E	00:03:24.540	00:03:28.749	of course.
+
+F	00:03:40.340	00:03:40.830	hey.
+F	00:03:40.834	00:03:41.913	is that bill?
+B	00:03:41.930	00:03:45.370	uh yeah.
+F	00:03:45.370	00:03:47.108	do you remember me?
+F	00:03:47.216	00:03:47.976	from school?
+B	00:03:49.660	00:03:52.540	I'm sorry, I don't remember you.
+B	00:03:52.540	00:03:54.210	did we study together?
+F	00:03:54.310	00:03:57.670	yes. and we lived in the same dorm too.
+B	00:03:57.970	00:03:59.340	really?
+B	00:03:59.350	00:04:01.050	what floor did you live on?
+F	00:04:01.250	00:04:06.000	I lived on the ninth floor, you lived on the seventh floor.
+B	00:04:07.000	00:04:08.300	that's right,
+B	00:04:08.300	00:04:09.400	how did you know?
+F	00:04:09.530	00:04:13.100	I would see you in the elevator sometimes.
+B	00:04:14.110	00:04:16.610	I'm sorry I don't remember you.
+F	00:04:17.032	00:04:18.050	it's all right.
+F	00:04:18.140	00:04:19.727	it was several years ago.
+B	00:04:20.170	00:04:22.340	well anyway.
+B	00:04:22.340	00:04:25.140	it's nice to meet you again.
+F	00:04:25.150	00:04:26.150	Monica.
+B	00:04:26.150	00:04:30.260	Monica sales, right?
+F	00:04:30.260	00:04:33.790	yes! see, so you do remember me.
+B	00:04:33.790	00:04:36.410	okay, so where do you live now?
+F	00:04:36.892	00:04:38.660	I live in an apartment.
+B	00:04:38.660	00:04:41.170	Oh, do you live with your parents?
+F	00:04:41.170	00:04:44.350	no, my parents moved to the country.
+B	00:04:44.350	00:04:46.910	they must be very happy there.
+F	00:04:46.910	00:04:49.920	yes, they enjoy it very much.
+B	00:04:49.930	00:04:52.520	so do you live alone?
+F	00:04:52.520	00:04:53.420	no.
+F	00:04:53.420	00:04:56.400	I share the apartment with an old friend.
+B	00:04:56.410	00:04:57.410	really?
+B	00:04:57.410	00:04:58.850	a friend?
+B	00:04:58.850	00:05:01.810	is he a boyfriend?
+F	00:05:01.810	00:05:04.880	no, she's an old friend from school.
+F	00:05:04.880	00:05:07.620	we've known each other for many years.
+F	00:05:07.881	00:05:08.798	how about you bill?
+F	00:05:08.870	00:05:09.496	where do you live?
+B	00:05:09.964	00:05:11.561	oh I rent an apartment.
+B	00:05:11.892	00:05:13.090	I'm by myself.
+F	00:05:13.281	00:05:14.508	do you like it there?
+B	00:05:15.340	00:05:18.890	yeah, but it's kind of noisy.
+F	00:05:20.088	00:05:23.308	Oh, maybe you should complain with your neighbors.
+B	00:05:23.420	00:05:29.830	oh no no, I'm the one who makes the noise.
+
+C	00:05:38.950	00:05:41.530	hey, I like your shirt.
+G	00:05:41.530	00:05:43.250	Thanks, it's new.
+G	00:05:43.250	00:05:44.570	I got it last week.
+C	00:05:44.570	00:05:46.760	huh, did you get anything else?
+G	00:05:46.760	00:05:48.700	no, just the shirt.
+C	00:05:48.700	00:05:50.420	where did you get it?
+G	00:05:50.420	00:05:52.760	I got it from the weekend market.
+C	00:05:52.760	00:05:54.280	how much did it cost?
+G	00:05:54.280	00:05:57.350	it cost about twelve dollars.
+C	00:05:57.193	00:05:58.093	really?
+C	00:05:58.270	00:06:00.964	that did not cost too much at all.
+G	00:06:01.158	00:06:02.777	yeah it's a good price.
+C	00:06:02.840	00:06:06.280	hah, do you like to wear hats?
+G	00:06:06.280	00:06:08.560	yeah, I like to wear hats.
+G	00:06:09.055	00:06:11.980	but only in the winter time when it is cold.
+C	00:06:11.980	00:06:15.410	hmm, do you like to wear jewelry?
+G	00:06:15.410	00:06:19.190	I just have this necklace that my girlfriend gave to me.
+C	00:06:19.190	00:06:24.380	Oh, what do you think about fashion?
+G	00:06:24.380	00:06:29.370	I think it is important to be in fashion.
+C	00:06:29.380	00:06:31.930	do you have a pierced ear?
+G	00:06:31.930	00:06:34.370	no, I do not have a pierced ear.
+C	00:06:34.370	00:06:36.070	do you have a tattoo?
+G	00:06:36.080	00:06:37.061	yes, I do.
+C	00:06:37.370	00:06:39.110	huh, what is the tattoo of?
+G	00:06:39.110	00:06:41.044	it's a big blue scary monster.
+C	00:06:42.040	00:06:43.040	really?
+C	00:06:43.040	00:06:45.074	Wow, can I see it?
+G	00:06:45.174	00:06:46.005	are you sure?
+C	00:06:46.103	00:06:47.175	yes, I'm sure.
+G	00:06:47.204	00:06:48.625	okay. here's my tattoo.
+
+H	00:07:00.483	00:07:02.811	do you have any brothers and sisters?
+E	00:07:03.534	00:07:05.358	I have one sister.
+H	00:07:05.510	00:07:06.776	who is older?
+H	00:07:06.891	00:07:07.985	you or your sister?
+E	00:07:08.570	00:07:12.470	my sister is older than me.
+H	00:07:12.470	00:07:15.460	do you get along with your sister?
+E	00:07:15.470	00:07:19.550	yes, we get along ok.
+H	00:07:19.550	00:07:22.280	how about your parents?
+E	00:07:22.280	00:07:25.820	my father died many years ago.
+H	00:07:25.820	00:07:29.300	I'm sorry to hear about that.
+E	00:07:29.300	00:07:31.364	my mother is fine though.
+E	00:07:31.680	00:07:34.870	she is very strong and likes to work.
+H	00:07:34.880	00:07:37.010	what does your mother do?
+E	00:07:37.010	00:07:39.837	she teaches at a university.
+H	00:07:40.175	00:07:40.999	that's great!
+H	00:07:41.160	00:07:42.990	what does she teach?
+E	00:07:42.990	00:07:45.350	she teaches Psych.
+H	00:07:45.350	00:07:46.530	pardon me?
+H	00:07:46.530	00:07:48.620	I do not understand.
+E	00:07:48.939	00:07:51.573	she teaches psychology.
+H	00:07:51.872	00:07:54.876	psychology. I understand now.
+E	00:07:55.520	00:07:57.350	how about you?
+E	00:07:57.350	00:07:58.890	are you married?
+H	00:07:58.890	00:08:00.780	I'm not married yet.
+H	00:08:00.780	00:08:03.060	I had a girlfriend for many years.
+H	00:08:03.060	00:08:05.480	but we broke up.
+E	00:08:05.480	00:08:08.900	I'm sad to hear that.
+
+B	00:08:18.349	00:08:20.360	can I return this?
+I	00:08:20.360	00:08:21.600	what is it?
+B	00:08:24.379	00:08:26.629	it's a shirt.
+I	00:08:26.629	00:08:29.089	what's wrong with it?
+B	00:08:29.089	00:08:30.990	nothing is wrong with it.
+B	00:08:30.990	00:08:33.410	it just doesn't fit.
+I	00:08:33.708	00:08:34.949	the color wrong?
+B	00:08:35.660	00:08:37.970	no the color is fine.
+B	00:08:37.970	00:08:40.549	but the size is much too small.
+I	00:08:40.549	00:08:42.809	do you remember when you bought it?
+B	00:08:42.809	00:08:46.700	I didn't.
+I	00:08:46.700	00:08:48.570	you didn't buy the shirt?
+I	00:08:48.570	00:08:49.839	who bought it?
+B	00:08:49.849	00:08:51.650	my friend bought it.
+I	00:08:51.650	00:08:54.210	do you remember when your friend bought it?
+B	00:08:54.210	00:08:57.560	she bought it last week.
+I	00:08:57.560	00:09:00.289	okay good. do you have the receipt?
+B	00:09:00.299	00:09:04.530	as a matter of fact, I do.
+I	00:09:07.669	00:09:10.530	let me have the shirt and the receipt, please.
+I	00:09:13.940	00:09:17.460	would you like to exchange it for a larger size?
+B	00:09:18.470	00:09:21.919	can I get cash back instead?
+I	00:09:21.919	00:09:25.669	no, but I can give you store credit.
+B	00:09:25.669	00:09:27.339	what is that?
+I	00:09:27.349	00:09:34.070	well, the shirt was nineteen dollars and ninety-nine cents right?
+B	00:09:34.070	00:09:35.520	yeah, that's right.
+I	00:09:35.520	00:09:40.799	well, I can give you a store coupon good for nineteen dollars and ninety-nine cents.
+I	00:09:40.799	00:09:47.320	or you can exchange this shirt for a larger size.
+B	00:09:47.330	00:09:49.580	okay, I'll take the coupon.
+I	00:09:49.580	00:09:53.419	okay.
+B	00:09:53.419	00:09:54.570	thank you.
+
+B	00:10:07.410	00:10:10.380	do you have a pet?
+J	00:10:10.380	00:10:11.849	yes, I do.
+B	00:10:13.859	00:10:17.370	Oh, what kind of pet do you have?
+J	00:10:17.370	00:10:19.140	can you guess?
+B	00:10:21.150	00:10:24.060	can I guess?
+B	00:10:24.060	00:10:27.640	okay, do you have a pet dog?
+J	00:10:28.410	00:10:31.950	no, I do not have a pet dog.
+B	00:10:32.400	00:10:36.900	hmm okay, you do not have a pet dog.
+B	00:10:36.900	00:10:39.690	do you have a pet cat?
+J	00:10:39.690	00:10:45.060	no, I do not have a pet cat.
+B	00:10:45.060	00:10:47.900	do not have a pet cat.
+B	00:10:48.900	00:10:51.530	do you have a pet fish?
+J	00:10:52.530	00:10:55.700	no, I do not have a pet fish.
+B	00:10:56.700	00:11:02.150	you don't have a pet fish. huh.
+J	00:11:02.160	00:11:04.590	you cannot guess?
+J	00:11:04.590	00:11:07.140	do you want me to tell you?
+B	00:11:07.140	00:11:09.130	no, wait a minute.
+B	00:11:09.130	00:11:13.169	I'm thinking, give me one more guess.
+J	00:11:13.169	00:11:16.630	okay, I'll give you one more guess.
+B	00:11:19.630	00:11:25.339	I know, you have a pet monkey.
+J	00:11:25.349	00:11:29.460	what? a pet monkey?
+J	00:11:29.460	00:11:31.750	why would I have a pet monkey?
+B	00:11:33.750	00:11:36.310	because you look like a monkey.
+J	00:11:37.310	00:11:40.510	I don't look like a monkey.
+J	00:11:40.510	00:11:42.739	you look like a monkey.
+B	00:11:43.739	00:11:46.049	okay, I cannot guess.
+B	00:11:46.049	00:11:48.460	what kind of pet do you have?
+J	00:11:48.460	00:11:52.020	I have a pet iguana.
+B	00:11:52.020	00:11:54.789	an iguana?
+B	00:11:54.789	00:11:56.460	how unusual.
+B	00:11:56.460	00:11:58.200	where did you get it?
+J	00:11:58.200	00:12:01.310	from the pet shop.
+B	00:12:01.320	00:12:03.450	how long you been had it?
+J	00:12:03.450	00:12:06.780	hmm about four years.
+B	00:12:06.780	00:12:11.280	Wow, what is your iguana's name?
+J	00:12:11.280	00:12:13.034	his name is Winnie.
+B	00:12:13.836	00:12:16.689	winnie, what does winnie do?
+J	00:12:17.230	00:12:19.580	winnie doesn't do very much.
+J	00:12:19.580	00:12:21.489	he's quite lazy.
+B	00:12:21.489	00:12:25.270	Wow what does winnie eat?
+J	00:12:25.702	00:12:27.080	Winnie eats a vegetarian.
+J	00:12:27.290	00:12:30.270	winnie eats vegetables.
+B	00:12:30.280	00:12:35.290	that's quite interesting.
+
+J	00:12:42.700	00:12:44.870	what kind of food do you like?
+K	00:12:45.870	00:12:48.670	I like all kinds of food.
+J	00:12:48.670	00:12:49.900	really?
+J	00:12:49.900	00:12:52.250	can you eat spicy food?
+K	00:12:52.250	00:12:54.770	I love spicy food.
+K	00:12:54.770	00:12:56.700	the hotter is the better.
+J	00:12:56.710	00:12:59.380	you are so lucky!
+K	00:12:59.380	00:13:02.020	why am i lucky?
+J	00:13:02.020	00:13:04.910	it's terrible when I eat a hot pepper.
+K	00:13:05.567	00:13:07.445	can you eat Thai or Mexican food?
+J	00:13:08.400	00:13:09.590	yes, I can.
+J	00:13:09.590	00:13:12.960	but only if it's really bland.
+K	00:13:12.970	00:13:14.690	do you eat out very often?
+J	00:13:16.030	00:13:17.290	sometimes.
+K	00:13:17.290	00:13:19.500	do you have a favorite restaurant?
+J	00:13:20.526	00:13:23.214	I do have a favorite vegetarian restaurant.
+K	00:13:23.560	00:13:25.840	are you a vegetarian?
+J	00:13:25.840	00:13:27.370	yes, I am.
+K	00:13:27.370	00:13:30.700	so you don't eat chicken or pork?
+J	00:13:30.700	00:13:32.870	no chicken, no pork.
+J	00:13:32.870	00:13:35.140	but I do eat fish.
+K	00:13:35.140	00:13:39.720	are you a vegetarian for health reasons or religious reasons?
+J	00:13:39.730	00:13:41.670	mostly for health reasons.
+K	00:13:42.429	00:13:46.090	hmm, all this talk about food is made me hungry.
+K	00:13:46.100	00:13:47.590	are you hungry?
+J	00:13:47.590	00:13:49.270	yes, I am.
+J	00:13:49.280	00:13:52.370	would you like to go to my favorite vegetarian restaurant?
+K	00:13:52.370	00:13:53.729	what is good there?
+J	00:13:53.739	00:13:55.609	well, of course.
+J	00:13:55.609	00:13:58.010	the fresh vegetables are outstanding.
+K	00:13:58.430	00:13:59.481	sounds delicious.
+K	00:13:59.401	00:14:00.402	let's go.
+
+B	00:14:11.609	00:14:13.289	do you study?
+K	00:14:13.289	00:14:16.169	yes, I study at the University.
+B	00:14:16.169	00:14:18.579	what subject do you study?
+K	00:14:18.579	00:14:20.549	I am studying marketing.
+B	00:14:20.549	00:14:23.859	okay. and when will you graduate?
+K	00:14:23.859	00:14:26.779	I will graduate next semester.
+B	00:14:27.779	00:14:31.389	will you continue to study for your master's degree?
+K	00:14:31.389	00:14:33.299	no, not yet.
+B	00:14:33.299	00:14:36.870	hmm, what will you do after you graduate?
+K	00:14:36.870	00:14:40.229	I'm not sure yet, it depends.
+B	00:14:40.229	00:14:41.679	depends on what?
+K	00:14:41.679	00:14:45.329	it depends on what kinds of job offers I get.
+B	00:14:45.329	00:14:47.189	what do you mean?
+K	00:14:47.199	00:14:50.319	well, if I get a job that provides opportunity.
+K	00:14:50.319	00:14:51.719	I will take it.
+B	00:14:51.719	00:14:54.339	what other jobs have you applied for?
+K	00:14:54.339	00:14:58.829	oh I've made many applications to all kinds of companies.
+B	00:14:58.829	00:15:01.969	what kinds of companies did you apply to?
+K	00:15:02.969	00:15:06.839	Hotels, factories, import companies.
+B	00:15:06.839	00:15:10.149	what if you get a job far away from home?
+K	00:15:11.400	00:15:14.519	I would rather stay close to my family.
+B	00:15:14.519	00:15:17.729	what will you do if you cannot find a job?
+K	00:15:17.729	00:15:19.569	if I cannot find a job.
+K	00:15:19.569	00:15:22.659	I will stay in school and study for a master's degree.
+B	00:15:22.659	00:15:26.579	a master's degree in what faculty?
+K	00:15:26.579	00:15:28.209	I'm not sure yet,
+K	00:15:28.209	00:15:29.849	I'll have to think about it.
+
+K	00:15:40.940	00:15:43.900	let's get out of the city this weekend.
+B	00:15:43.910	00:15:45.980	yeah, that's a good idea.
+B	00:15:45.990	00:15:48.470	I'm getting sick of being here.
+K	00:15:48.470	00:15:51.200	do you want to go to the beach?
+B	00:15:51.200	00:15:53.360	we always go to the beach.
+B	00:15:53.360	00:15:55.810	let's do something different.
+K	00:15:55.820	00:15:59.000	how about camping?
+B	00:15:59.000	00:16:00.110	camping?
+B	00:16:00.574	00:16:01.941	that sounds terrific!
+K	00:16:02.388	00:16:04.043	all my ideas are terrific.
+B	00:16:05.450	00:16:07.170	do you have a tent?
+K	00:16:07.170	00:16:08.330	no, do you?
+B	00:16:08.330	00:16:13.920	hmm no, but I can borrow a large one from my friend.
+K	00:16:13.920	00:16:16.010	how about a sleeping bag?
+B	00:16:16.010	00:16:18.175	yes, I have a sleeping bag.
+B	00:16:18.218	00:16:18.995	do you have one?
+K	00:16:19.260	00:16:20.620	no, I don't.
+B	00:16:21.620	00:16:24.070	do you want to share one with me?
+K	00:16:24.518	00:16:25.169	no thanks.
+K	00:16:25.274	00:16:26.562	I'll buy a new sleeping bag.
+B	00:16:28.100	00:16:32.060	do you think we should go far far away?
+K	00:16:32.060	00:16:34.070	how much time do you have?
+B	00:16:34.080	00:16:36.900	I can leave Friday after work.
+K	00:16:36.900	00:16:38.840	I can leave Friday, too.
+K	00:16:38.840	00:16:40.760	when do you have to be back?
+B	00:16:40.760	00:16:43.370	well, I have to be back by Sunday.
+K	00:16:43.380	00:16:46.850	okay, we'll be back by Sunday.
+B	00:16:46.850	00:16:49.280	what should we do while we're there?
+K	00:16:49.280	00:16:51.500	do you want to go hiking?
+B	00:16:51.500	00:16:53.670	hiking? okay.
+B	00:16:53.670	00:16:57.260	but we shouldn't go far from the campground.
+K	00:16:57.744	00:16:59.263	if we stay around the campground.
+K	00:16:59.209	00:17:00.720	will we bring the barbecue?
+B	00:17:00.720	00:17:05.460	of course, what is camping without a barbecue?
+K	00:17:05.460	00:17:07.820	will you make your famous hamburgers?
+B	00:17:07.820	00:17:09.180	sure thing.
+B	00:17:09.180	00:17:10.589	I'll make hamburgers.
+K	00:17:10.589	00:17:13.089	should we invite some friends?
+B	00:17:13.099	00:17:14.520	great idea!
+B	00:17:14.520	00:17:17.130	let's invite all of our friends.
+K	00:17:17.130	00:17:18.780	this is going to be fun.
+B	00:17:18.780	00:17:21.370	I can't wait.
+
+F	00:17:31.000	00:17:34.000	do you have any hobbies?
+B	00:17:34.000	00:17:36.310	yes, I have several.
+F	00:17:36.310	00:17:39.630	really? please tell me more about your hobbies.
+B	00:17:40.630	00:17:44.640	well, I do like to collect things.
+F	00:17:45.640	00:17:46.750	really?
+F	00:17:46.750	00:17:48.620	what do you like to collect?
+B	00:17:49.620	00:17:53.610	I like to collect stamps.
+F	00:17:53.620	00:17:55.010	really?
+F	00:17:55.010	00:17:57.220	where do you collect stamps from?
+B	00:17:58.230	00:18:02.850	I collect stamps from all over the world.
+F	00:18:02.860	00:18:05.010	why do you do that?
+B	00:18:06.510	00:18:12.630	because eventually I hope to have a stamp from every country.
+F	00:18:12.640	00:18:15.970	why do you want all of those stamps?
+B	00:18:15.970	00:18:23.000	well, I think it's because I won't be able to go to those countries myself.
+F	00:18:23.000	00:18:26.860	Oh. what is another hobby of yours?
+B	00:18:26.870	00:18:29.550	I collect beer.
+F	00:18:30.550	00:18:31.949	pardon me?
+F	00:18:31.959	00:18:33.780	you collect beer?
+B	00:18:34.780	00:18:38.902	well, actually I collect beer cans.
+F	00:18:40.329	00:18:44.110	okay, where did you get the cans from?
+B	00:18:44.510	00:18:48.730	from every place that I travel to.
+F	00:18:48.730	00:18:50.880	do you drink the beer?
+B	00:18:51.880	00:18:54.530	nah. I'm not a beer drinker.
+F	00:18:55.722	00:18:56.953	oh, I see.
+B	00:18:58.240	00:18:59.630	what about you?
+B	00:18:59.630	00:19:02.010	what are your hobbies?
+F	00:19:02.020	00:19:05.949	well, I like to read a lot.
+B	00:19:05.949	00:19:07.510	really?
+B	00:19:07.510	00:19:09.170	what do you read about?
+F	00:19:09.170	00:19:16.660	I like to read about bestsellers and I like to read a lot about science too.
+B	00:19:17.660	00:19:20.690	emm, what kind of science do you read about?
+F	00:19:21.220	00:19:28.220	variety of topics but I especially like to read about nature and about electronics.
+B	00:19:29.046	00:19:29.870	fascinating!
+B	00:19:30.579	00:19:33.579	why do you like to read so much?
+F	00:19:33.579	00:19:37.140	well, I think it helps me exercise my brain.
+B	00:19:39.224	00:19:40.437	that's a good reason.
+B	00:19:41.196	00:19:43.450	if it doesn't make you too tired.
+
+B	00:19:53.150	00:19:54.150	Alex!
+J	00:19:54.150	00:19:54.780	hey!
+B	00:19:54.780	00:19:57.209	hey. this is my friend, Bob.
+B	00:19:57.209	00:19:59.270	he's from England.
+B	00:19:59.270	00:20:01.265	hey! um, excuse me.
+L	00:20:01.110	00:20:01.682	okay.
+J	00:20:01.939	00:20:04.059	sit down, please.
+J	00:20:07.069	00:20:09.179	what city in England do you come from?
+L	00:20:09.179	00:20:10.554	I come from London.
+L	00:20:10.597	00:20:11.875	have you ever been there?
+J	00:20:11.699	00:20:13.470	no, I've never been.
+J	00:20:13.470	00:20:15.530	I hope to go someday.
+L	00:20:15.530	00:20:18.059	you can if you have true desire.
+J	00:20:20.059	00:20:22.490	have you been here a long time?
+L	00:20:22.490	00:20:24.480	I've been here for about seven years.
+L	00:20:24.480	00:20:25.770	how about you?
+J	00:20:25.770	00:20:28.269	haha, I've been here all my life.
+J	00:20:28.279	00:20:30.949	why have you stayed here such a long time?
+L	00:20:30.949	00:20:33.309	I've stayed here for many reasons.
+J	00:20:33.319	00:20:35.329	stayed for many reasons.
+J	00:20:35.329	00:20:36.970	are you married?
+L	00:20:36.980	00:20:38.510	yes, I am.
+J	00:20:38.510	00:20:41.150	is your wife beautiful?
+L	00:20:41.150	00:20:43.069	would you like to see a picture of my wife?
+J	00:20:43.079	00:20:44.100	that would be nice.
+J	00:20:49.100	00:20:53.710	oh, she's very lovely.
+J	00:20:53.720	00:20:55.960	is she from around here?
+L	00:20:55.970	00:20:57.179	thank you.
+L	00:20:57.179	00:20:59.029	yes, she is from here.
+J	00:20:59.029	00:21:00.919	do you have any children?
+L	00:21:00.929	00:21:02.939	no, no children yet.
+L	00:21:02.939	00:21:04.730	but certainly in the future.
+J	00:21:04.730	00:21:06.090	where do you work?
+L	00:21:06.090	00:21:07.829	I work at the newspaper.
+J	00:21:07.829	00:21:10.069	Wow, the newspaper.
+J	00:21:10.069	00:21:11.990	what do you do there?
+L	00:21:12.000	00:21:15.079	I am a reporter.
+
+M	00:21:24.573	00:21:25.764	that's part of what's interesting.
+M	00:21:25.764	00:21:30.359	it's not a consumer model if you will but instead what we do is we go to the district.
+F	00:21:32.260	00:21:33.949	I'm bored.
+F	00:21:33.949	00:21:35.760	let's do something.
+N	00:21:35.770	00:21:37.340	what do you want to do?
+F	00:21:37.340	00:21:39.220	I don't know.
+F	00:21:39.230	00:21:40.959	anything is fine.
+N	00:21:40.959	00:21:43.410	emm, let's go see a movie.
+F	00:21:44.410	00:21:48.760	no. I went to see three movies this week.
+N	00:21:48.760	00:21:49.760	three?
+N	00:21:49.760	00:21:51.790	oh, why so many?
+F	00:21:51.790	00:21:55.360	because I was bored all week.
+N	00:21:55.360	00:21:58.900	well, you want to play some sports?
+F	00:21:58.900	00:22:03.010	no, I don't want to play any sports.
+N	00:22:03.020	00:22:04.040	why not?
+N	00:22:04.040	00:22:05.530	sports are fun.
+F	00:22:05.530	00:22:10.180	well, I don't want to run around and get all hot.
+N	00:22:10.180	00:22:13.750	yeah, it's kind of hot.
+N	00:22:13.750	00:22:15.140	how about shopping?
+N	00:22:15.062	00:22:16.066	you want to go shopping?
+F	00:22:16.040	00:22:17.980	I like shopping.
+F	00:22:17.980	00:22:21.910	but I have to watch my money until the end of the month.
+N	00:22:21.910	00:22:25.740	well, we can go eat dinner.
+F	00:22:25.750	00:22:27.579	dinner is a good idea.
+F	00:22:27.579	00:22:29.270	where would you like to eat?
+N	00:22:29.270	00:22:33.340	I heard about this new Japanese restaurant down at the mall.
+F	00:22:33.340	00:22:35.600	huh, is it expensive?
+N	00:22:35.600	00:22:38.360	uh, it's not too expensive.
+N	00:22:38.693	00:22:40.003	but it's not cheap.
+F	00:22:40.130	00:22:44.050	okay, well that sounds good.
+N	00:22:44.050	00:22:45.840	and when we're finished.
+N	00:22:45.850	00:22:48.951	we can go window-shopping.
+F	00:22:49.569	00:22:51.640	mmm, that sounds like fun.
+N	00:22:51.650	00:22:58.059	oh, and if we want we can play some indoor, air-conditioned sports.
+F	00:22:58.059	00:22:59.049	really?
+F	00:22:59.059	00:23:01.990	which sport has air conditioning?
+N	00:23:01.990	00:23:03.480	bowling.
+F	00:23:03.490	00:23:07.280	bowling? right. great.
+F	00:23:07.280	00:23:08.180	let's go!
+N	00:23:08.180	00:23:09.049	okay.
+
+N	00:23:17.900	00:23:19.340	excuse me?
+J	00:23:19.340	00:23:20.340	yes?
+N	00:23:20.340	00:23:22.860	would you like some coffee or tea while you're waiting?
+J	00:23:22.860	00:23:24.300	hmm yes that would be lovely.
+J	00:23:24.275	00:23:24.775	thank you.
+N	00:23:24.980	00:23:27.178	which would you prefer, coffee or tea?
+J	00:23:27.650	00:23:30.950	coffee, please.
+N	00:23:30.950	00:23:33.890	and how would you like your coffee?
+J	00:23:33.890	00:23:36.940	two sugars and some milk.
+N	00:23:36.950	00:23:39.780	okay. I'm sorry, but we don't have any milk.
+N	00:23:39.681	00:23:40.907	is coffee-mate alright?
+J	00:23:41.570	00:23:43.590	coffee, coffee mate is fine.
+N	00:23:43.590	00:23:46.940	okay, it's one coffee,I'll be right back.
+J	00:23:46.950	00:23:48.450	oh, excuse me.
+N	00:23:48.450	00:23:49.380	yes.
+J	00:23:49.380	00:23:52.220	do you use fresh ground coffee?
+N	00:23:52.220	00:23:53.820	no, we don't.
+N	00:23:53.820	00:23:55.480	we use instant coffee.
+N	00:23:55.490	00:23:57.120	Nescafe, I think.
+J	00:23:57.120	00:24:00.710	I see, on second thought.
+J	00:24:00.886	00:24:02.153	can I have some tea, please?
+N	00:24:02.318	00:24:04.574	yes, tea.
+N	00:24:04.621	00:24:06.085	what kind of tea would you like?
+J	00:24:06.240	00:24:08.010	what kind of tea do you have?
+N	00:24:08.010	00:24:12.980	we have Earl Grey, green tea or Lipton.
+J	00:24:12.980	00:24:15.890	green tea is Chinese, is it not?
+N	00:24:15.890	00:24:17.360	yes.
+J	00:24:17.360	00:24:20.480	I'll try the green tea.
+N	00:24:20.480	00:24:25.130	okay, would you like that iced or hot?
+J	00:24:25.430	00:24:27.830	iced. iced sounds nice.
+N	00:24:27.840	00:24:28.622	okay, one.
+J	00:24:28.439	00:24:29.274	not too sweet.
+N	00:24:29.430	00:24:30.970	one iced green tea.
+N	00:24:30.980	00:24:33.110	would you like a cookie?
+J	00:24:33.110	00:24:35.240	cookie? no, no thank you.
+N	00:24:35.250	00:24:37.130	okay. how about an apple?
+J	00:24:37.130	00:24:39.620	yes. I'd like an apple.
+N	00:24:39.620	00:24:42.017	one iced green tea and one Apple.
+N	00:24:42.118	00:24:44.240	I'll be right back.
+
+K	00:24:51.819	00:24:54.459	have you ever traveled abroad?
+B	00:24:54.459	00:24:55.929	yes, I have.
+B	00:24:55.939	00:24:58.510	in fact I was born abroad.
+K	00:24:58.510	00:25:00.220	you were born abroad?
+K	00:25:00.220	00:25:01.610	where were you born?
+B	00:25:01.610	00:25:03.819	I was born in Japan.
+K	00:25:03.819	00:25:05.300	you're joking.
+B	00:25:06.100	00:25:08.080	no, I'm not joking.
+B	00:25:08.090	00:25:09.050	it's true.
+B	00:25:09.050	00:25:11.910	I was made in Japan.
+K	00:25:12.910	00:25:15.430	do you speak Japanese?
+B	00:25:15.430	00:25:16.827	no, I don't.
+B	00:25:16.802	00:25:18.374	I left when I was young.
+K	00:25:18.699	00:25:20.209	how old are you?
+B	00:25:20.209	00:25:22.300	I was nine.
+K	00:25:22.300	00:25:24.410	you were nine years old.
+K	00:25:24.410	00:25:26.439	and you do not speak Japanese?
+B	00:25:26.439	00:25:29.920	no, I was nine months old.
+K	00:25:29.930	00:25:33.480	Oh. what other countries have you been to?
+B	00:25:33.490	00:25:36.100	huh I went to Mexico.
+K	00:25:36.100	00:25:37.720	how was that?
+B	00:25:37.720	00:25:39.790	it was great.
+K	00:25:39.790	00:25:42.179	what did you like the best?
+B	00:25:42.189	00:25:45.459	well, the ruins were interesting.
+K	00:25:45.459	00:25:47.000	anything else do you like?
+B	00:25:47.000	00:25:49.410	the beaches were nice.
+K	00:25:49.420	00:25:50.870	where else have you been?
+B	00:25:50.870	00:25:54.630	I lived in London for one year.
+K	00:25:54.640	00:25:56.600	really? how was that?
+B	00:25:56.600	00:26:00.340	I was only eight years old.
+K	00:26:00.340	00:26:02.000	you were eight years old.
+K	00:26:02.000	00:26:03.410	what were you doing there?
+B	00:26:03.410	00:26:05.770	I went there with my mother.
+B	00:26:05.780	00:26:07.370	she was working there.
+K	00:26:07.370	00:26:11.470	of all the countries you've been to which is your favorite country?
+B	00:26:11.470	00:26:13.090	Thailand.
+K	00:26:13.090	00:26:14.809	why do you like Thailand?
+B	00:26:14.809	00:26:22.500	I love Thailand because the food is delicious and the people are very friendly.
+
+B	00:26:32.840	00:26:35.070	hi. can I help you?
+F	00:26:35.070	00:26:38.180	yes. I'd like to buy a washing machine.
+B	00:26:38.180	00:26:40.770	okay. which brand would you like?
+F	00:26:40.770	00:26:43.850	I don't care so much about brands.
+B	00:26:43.850	00:26:46.410	so, what are you looking for?
+F	00:26:46.410	00:26:50.690	I'm looking for a good price and good functions.
+B	00:26:50.690	00:26:55.310	okay. function and price are important to you.
+F	00:26:55.320	00:26:56.510	that's right.
+B	00:26:56.520	00:26:59.190	okay, first may I ask you?
+B	00:26:59.190	00:27:02.180	what size washer do you need?
+F	00:27:02.180	00:27:05.190	what do you mean by what size washer?
+B	00:27:05.190	00:27:09.180	well, like a small size is four kilos.
+B	00:27:09.180	00:27:12.350	large size is eight kilos.
+F	00:27:12.350	00:27:14.430	do you have a medium size?
+B	00:27:14.430	00:27:18.440	sure. medium size is six kilos.
+F	00:27:18.440	00:27:21.030	okay, I think I want a medium size.
+B	00:27:21.030	00:27:22.140	all right.
+B	00:27:22.140	00:27:26.370	and do you want a one bin or a two bin washer?
+F	00:27:26.370	00:27:29.650	what's the difference between one bin and two bin?
+B	00:27:29.660	00:27:36.110	well, with a two bin washer.
+B	00:27:36.110	00:27:41.080	you have to move the clothes to the spinner yourself.
+F	00:27:41.090	00:27:43.200	and the one bin?
+B	00:27:43.200	00:27:45.450	oh, it does it automatically.
+B	00:27:45.450	00:27:48.900	it's a two-in-one spin bin.
+F	00:27:48.900	00:27:52.030	oh, I understand.
+F	00:27:52.040	00:27:54.370	which one cleans better?
+B	00:27:54.560	00:27:56.900	they clean the same.
+F	00:27:56.900	00:27:57.900	really?
+F	00:27:57.900	00:28:01.400	and do the washers cost the same?
+B	00:28:01.400	00:28:09.320	well, the one bin washer is more expensive but it's simple to use.
+F	00:28:09.320	00:28:11.690	simple is important.
+F	00:28:11.690	00:28:16.040	well, I think I'd like the one bin washer.
+B	00:28:16.040	00:28:17.220	you know?
+B	00:28:17.220	00:28:19.800	if you like things simple and easy.
+B	00:28:19.800	00:28:24.200	may I suggest to you the fuzzy logic function?
+F	00:28:24.200	00:28:26.840	what is the fuzzy logic?
+B	00:28:26.840	00:28:29.640	fuzzy logic is a special function.
+B	00:28:29.640	00:28:32.750	it makes using the washer easier.
+F	00:28:32.750	00:28:35.090	how does the function work?
+B	00:28:35.090	00:28:37.830	well, you put in your clothes.
+B	00:28:37.830	00:28:41.502	you put in the soap and the washer does the rest.
+F	00:28:42.251	00:28:43.307	sounds perfect.
+F	00:28:43.709	00:28:49.840	this is exactly the kind of washing machine I've been looking for.
+
+B	00:28:58.570	00:29:02.620	hey, did you have a good weekend?
+J	00:29:02.630	00:29:05.000	no. not really.
+B	00:29:05.000	00:29:07.990	oh. I'm sorry to hear that.
+B	00:29:08.000	00:29:09.310	what happened?
+J	00:29:09.310	00:29:13.640	during the weekend, my house was robbed.
+B	00:29:16.510	00:29:18.660	your house was robbed?
+B	00:29:18.670	00:29:20.150	what do you mean?
+J	00:29:20.150	00:29:28.950	I mean I was not there and someone came and took everything from my house!
+B	00:29:28.960	00:29:31.630	someone took everything from your house?
+B	00:29:31.640	00:29:34.330	that's terrible!
+J	00:29:34.330	00:29:36.070	terrible.
+J	00:29:36.070	00:29:39.780	yes, I think so.
+B	00:29:39.790	00:29:42.400	did they break anything?
+J	00:29:42.400	00:29:45.870	yes. they broken window to get in.
+B	00:29:46.870	00:29:49.540	did they take your television?
+J	00:29:49.540	00:29:52.430	yes. they took the television.
+B	00:29:53.440	00:29:56.680	did they take the DVD player?
+J	00:29:56.680	00:29:59.936	yes. they took the DVD player.
+B	00:30:02.320	00:30:05.680	did they take your laptop?
+J	00:30:05.680	00:30:06.680	yes.
+J	00:30:06.680	00:30:09.080	they took the laptop.
+B	00:30:11.080	00:30:13.270	did they take your clothes?
+J	00:30:13.270	00:30:15.640	yes. they...
+J	00:30:15.640	00:30:20.650	no, they did not take my clothes.
+B	00:30:20.650	00:30:25.980	oh, that's because your clothes are old and out of fashion.
+J	00:30:26.980	00:30:31.840	do you really think my clothes are old fashioned?
+B	00:30:31.840	00:30:33.730	yes, I do.
+B	00:30:33.730	00:30:35.240	they're very old.
+J	00:30:35.240	00:30:39.730	oh, this is terrible.
+J	00:30:39.730	00:30:46.230	first, my house gets robbed and now my clothes are old fashioned.
+B	00:30:47.230	00:30:51.040	did you tell the police that your house was robbed?
+J	00:30:51.040	00:30:53.670	yes, I told the police.
+B	00:30:54.670	00:30:56.890	what did they say?
+J	00:30:56.890	00:30:58.790	they didn't say much.
+J	00:30:58.790	00:31:01.780	they just took a report.
+
+K	00:31:12.720	00:31:14.840	hello?
+B	00:31:14.850	00:31:16.980	hi, is this Tina?
+K	00:31:16.980	00:31:18.689	yes, this is.
+K	00:31:18.699	00:31:19.550	who's this?
+B	00:31:20.039	00:31:21.730	this is Alex.
+B	00:31:21.730	00:31:22.690	do you remember me?
+K	00:31:23.110	00:31:25.449	I'm sorry. I do not remember you.
+B	00:31:25.449	00:31:30.250	um, did you come into the CS computer shop today?
+K	00:31:30.250	00:31:32.289	I went to many shops today,
+K	00:31:32.289	00:31:33.840	where is yours?
+B	00:31:33.850	00:31:37.909	our shop is located at the galaxy mall.
+K	00:31:37.919	00:31:40.829	which floor is your shop on?
+B	00:31:40.829	00:31:43.750	CS computer is on the third floor.
+K	00:31:44.828	00:31:46.860	oh, yes. I think I remember now.
+K	00:31:46.860	00:31:48.659	what is your name again?
+B	00:31:48.659	00:31:52.959	my name is alex willis of cs computer.
+K	00:31:52.959	00:31:55.169	oh. I remember you now.
+K	00:31:55.179	00:31:56.500	you were the tall person.
+K	00:31:56.500	00:31:59.360	very handsome.
+B	00:31:59.370	00:32:00.753	yes, that's right.
+B	00:32:00.781	00:32:02.375	you have a good memory Tina.
+K	00:32:03.750	00:32:06.319	so what can I do for you, mr. Willis?
+B	00:32:06.329	00:32:13.500	do you remember coming into our shop and asking about a catalogue for computer games?
+K	00:32:13.500	00:32:16.029	yes, I remember asking for the catalogue.
+K	00:32:16.029	00:32:17.490	you could not find it.
+B	00:32:17.490	00:32:18.490	right.
+B	00:32:18.490	00:32:20.130	I couldn't find it.
+K	00:32:20.130	00:32:21.870	but you have it now?
+B	00:32:21.870	00:32:24.659	yes, I have the catalogue.
+K	00:32:24.659	00:32:26.549	great!
+B	00:32:26.549	00:32:30.779	would you like for me to keep it here at the shop for you?
+K	00:32:30.779	00:32:34.459	no, I'm not free to go down there anytime soon.
+B	00:32:35.459	00:32:41.370	hmm, well since you cannot come to this shop.
+B	00:32:41.370	00:32:44.579	can I send you the catalogue?
+K	00:32:44.579	00:32:46.789	that would be wonderful!
+B	00:32:46.799	00:32:50.309	okay, may I have your address, please?
+K	00:32:50.319	00:33:00.299	it's two three zero seven T Street, Sacramento, California. nine five six one zero.
+B	00:33:00.299	00:33:04.679	okay, was that twenty-seven zero three T Street?
+K	00:33:04.679	00:33:10.230	no, that's two three zero seven T Street.
+B	00:33:10.230	00:33:12.579	ok, I have your address.
+B	00:33:12.579	00:33:15.240	and I'll send it to you today.
+K	00:33:15.240	00:33:18.670	great! thanks.
+B	00:33:18.680	00:33:20.140	my pleasure.
+K	00:33:20.140	00:33:21.820	mr. Willis?
+B	00:33:21.820	00:33:22.820	yes?
+K	00:33:22.820	00:33:27.220	I often have questions about computers and games.
+B	00:33:27.220	00:33:29.360	well you can ask me anything.
+B	00:33:29.360	00:33:31.050	it's my business.
+K	00:33:31.060	00:33:32.410	thanks for that.
+K	00:33:32.410	00:33:34.520	may I have your phone number?
+B	00:33:34.520	00:33:42.580	sure it's zero one eight six seven five three o nine.
+B	00:33:42.580	00:33:46.360	call me any time if you have a question.
+K	00:33:46.360	00:33:47.740	thanks a lot.
+B	00:33:47.740	00:33:49.060	my pleasure.
+K	00:33:49.070	00:33:50.060	good bye.
+B	00:33:50.060	00:33:52.140	bye bye.
+
+J	00:34:05.309	00:34:07.239	honey! I'm home.
+K	00:34:11.249	00:34:13.620	how are you?
+J	00:34:13.620	00:34:15.460	I'm terrible.
+J	00:34:15.460	00:34:17.130	I have a headache.
+K	00:34:17.130	00:34:19.110	I'm so sad to hear that.
+K	00:34:19.110	00:34:21.180	what gives you a headache?
+J	00:34:21.180	00:34:25.200	there are so many reasons.
+K	00:34:25.200	00:34:27.670	maybe you'll feel better if you tell me.
+J	00:34:28.170	00:34:32.569	well, work is my biggest headache.
+K	00:34:32.579	00:34:34.430	what is wrong at work?
+J	00:34:35.430	00:34:37.499	it's my boss.
+J	00:34:37.509	00:34:40.140	he always scolds me.
+K	00:34:40.140	00:34:42.799	why does your boss scold you?
+J	00:34:42.809	00:34:47.730	he says I'm lazy and I take too many breaks.
+K	00:34:47.730	00:34:50.279	well do you take too many breaks?
+J	00:34:50.289	00:34:53.789	I don't think so.
+K	00:34:53.789	00:34:56.019	well why don't you ignore your boss?
+J	00:34:56.019	00:34:59.499	I can't ignore him.
+J	00:34:59.499	00:35:02.210	he's my boss.
+K	00:35:02.220	00:35:03.960	that's too bad.
+K	00:35:03.960	00:35:05.970	what else gives you a headache?
+J	00:35:05.970	00:35:09.710	what else gives me a headache?
+J	00:35:09.720	00:35:11.560	my co-workers!
+J	00:35:11.560	00:35:13.890	my co-workers give me a headache.
+K	00:35:13.890	00:35:16.920	why do your co-workers give you a headache?
+J	00:35:16.920	00:35:19.890	because they're always gossiping.
+K	00:35:19.890	00:35:23.090	do they gossip about you?
+J	00:35:23.100	00:35:26.700	probably but not to my face.
+K	00:35:26.700	00:35:28.380	that's too bad.
+K	00:35:28.380	00:35:31.110	what else gives you a headache?
+J	00:35:33.120	00:35:34.120	driving.
+J	00:35:34.120	00:35:36.410	driving gives me a headache.
+K	00:35:36.420	00:35:38.590	why does driving give you a headache?
+J	00:35:38.590	00:35:47.100	oh. there's always traffic jams and there's no place to park.
+K	00:35:47.100	00:35:50.220	why don't you take a bus to work?
+J	00:35:50.220	00:35:52.560	take a bus to work?
+J	00:35:52.560	00:35:56.970	it's too crowded and there's never a seat.
+K	00:35:56.970	00:35:59.100	that's too bad.
+K	00:35:59.100	00:36:02.519	what can you do to get rid of your headache?
+J	00:36:02.519	00:36:06.830	easy. I come home and I see you!
+
+J	00:36:15.620	00:36:18.180	are you excited to go to the party?
+K	00:36:18.180	00:36:21.170	yes. I am very excited about the party.
+J	00:36:21.170	00:36:24.130	do you think we should bring something with us?
+K	00:36:24.140	00:36:27.350	yes. I think we should bring a gift or something.
+J	00:36:27.350	00:36:29.770	what would be good to bring?
+K	00:36:29.780	00:36:31.600	what about bringing flowers?
+J	00:36:32.660	00:36:35.719	but the flower shop is so far away.
+J	00:36:35.719	00:36:38.150	can you think of something else?
+K	00:36:38.150	00:36:41.420	what if we bring some chips.
+J	00:36:41.420	00:36:43.969	someone else will be bringing chips.
+J	00:36:43.969	00:36:46.570	can you think of something else?
+K	00:36:46.580	00:36:49.489	what about bringing food?
+J	00:36:49.489	00:36:52.019	well, we don't have to bring food.
+J	00:36:52.019	00:36:56.390	because there's gonna be a buffer at the party.
+K	00:36:56.390	00:37:00.739	what about bringing my music CD collection?
+J	00:37:00.739	00:37:04.370	bringing your music CD collection is a good idea!
+J	00:37:04.370	00:37:08.320	but they're gonna have a DJ at the party.
+K	00:37:08.330	00:37:11.979	what about bringing some playing cards?
+J	00:37:11.989	00:37:14.570	you don't have to bring playing cards.
+J	00:37:14.580	00:37:18.800	because there's going to be a mini casino at the party.
+K	00:37:18.800	00:37:19.800	really?
+K	00:37:19.800	00:37:22.590	there's going to be a mini casino at the party?
+J	00:37:22.590	00:37:25.850	really! it's true I'm not kidding.
+J	00:37:25.850	00:37:29.239	can you think of something else?
+K	00:37:31.249	00:37:34.999	there's only one thing the party does not have.
+J	00:37:34.999	00:37:37.040	what's that?
+K	00:37:37.040	00:37:39.650	the party does not have us.
+K	00:37:39.650	00:37:41.810	let's just bring ourselves.
+J	00:37:41.810	00:37:43.729	yeah!
+

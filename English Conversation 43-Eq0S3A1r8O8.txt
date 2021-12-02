@@ -1,0 +1,805 @@
+A	00:00:07.759	00:00:09.629	that's four panes fifty please.
+B	00:00:10.390	00:00:11.120	here you are.
+A	00:00:11.120	00:00:12.941	thank you very much, thank you.
+C	00:00:14.639	00:00:15.568	morning, ted.
+D	00:00:15.568	00:00:17.010	good morning, Tim.
+D	00:00:17.010	00:00:17.638	how are you.
+C	00:00:17.870	00:00:19.870	i'm fine, thanks. and you?
+D	00:00:21.064	00:00:21.714	good morning.
+D	00:00:21.714	00:00:22.249	can i help you
+B	00:00:22.249	00:00:24.630	yes, martha mckay, please.
+B	00:00:24.640	00:00:25.904	she's the producer.
+D	00:00:26.320	00:00:28.167	that's five eight nine four.
+D	00:00:28.167	00:00:29.102	what's your name, please?
+B	00:00:29.199	00:00:30.350	julia drake.
+D	00:00:31.199	00:00:32.271	hello.
+D	00:00:32.559	00:00:33.984	mr drake is at reception.
+D	00:00:35.360	00:00:36.604	yes, all right.
+D	00:00:37.440	00:00:38.981	mrs mckay is in room twelve
+D	00:00:38.981	00:00:40.701	that's on the second floor.
+D	00:00:40.701	00:00:40.790	the lift is over there.
+B	00:00:40.800	00:00:41.808	thank you.
+
+E	00:00:42.960	00:00:44.477	and what's your address.
+E	00:00:45.520	00:00:47.120	ninety-four tindall street.
+E	00:00:47.120	00:00:51.315	how do you spell tindal t-i-n-d-a double-l.
+E	00:00:51.600	00:00:52.549	thank you.
+E	00:00:52.559	00:00:54.335	and your postcode.
+E	00:00:55.680	00:00:59.574	can you repeat that, please, ninety-eight NB.
+E	00:01:00.719	00:01:02.151	and your telephone number.
+E	00:01:03.120	00:01:07.098	oh one three seven two eight nine five three one.
+E	00:01:08.240	00:01:10.479	thank you, miss faucet goodbye.
+F	00:01:10.479	00:01:11.052	hello.
+F	00:01:11.052	00:01:11.345	i'm...
+F	00:01:11.345	00:01:14.543	julia! welcome to apex tv.
+F	00:01:14.799	00:01:15.600	come in.
+F	00:01:15.600	00:01:16.727	no, don't come in.
+F	00:01:17.040	00:01:20.232	um. this is my personal assistant, rebecca bond.
+B	00:01:20.232	00:01:21.245	how do you do, rebecca.
+E	00:01:21.245	00:01:22.320	pleased to meet you.
+F	00:01:22.320	00:01:24.390	come and meet some of the people in the newsroom.
+F	00:01:24.400	00:01:27.020	is frederick in he's the managing director.
+E	00:01:27.119	00:01:28.789	no. he's in london.
+F	00:01:28.799	00:01:30.000	oh, i see.
+F	00:01:30.240	00:01:32.388	right. well. come on then, julia.
+F	00:01:36.479	00:01:38.079	that's tim barnes over there.
+F	00:01:38.079	00:01:39.076	he's a reporter.
+F	00:01:39.920	00:01:41.610	tim, this is julia.
+F	00:01:41.610	00:01:42.588	she's our new trainee.
+G	00:01:43.280	00:01:43.816	hi.
+B	00:01:44.640	00:01:45.236	hi.
+G	00:01:46.000	00:01:47.799	this is a very interesting story, martha.
+G	00:01:47.799	00:01:48.230	look at this.
+F	00:01:48.560	00:01:50.540	tell me about it this afternoon. ok.
+G	00:01:51.520	00:01:52.017	sure.
+G	00:01:53.119	00:01:54.580	see you around, julie.
+B	00:01:54.720	00:01:55.608	julia.
+G	00:01:56.079	00:01:56.799	sorry.
+B	00:01:56.799	00:01:58.099	my name isn't julie.
+B	00:01:58.099	00:01:58.891	it's julia.
+G	00:01:59.759	00:02:00.619	oh, right.
+B	00:02:00.619	00:02:02.525	and address has got two d's.
+G	00:02:02.525	00:02:02.767	what.
+B	00:02:03.439	00:02:05.380	address is a, double d.
+G	00:02:07.920	00:02:09.299	right. thank you.
+B	00:02:10.319	00:02:11.376	don't mention it.
+H	00:02:13.920	00:02:16.080	who's that young woman with martha and sean
+G	00:02:16.080	00:02:17.510	her name's julia.
+G	00:02:17.520	00:02:18.771	she's a new trainee.
+H	00:02:19.920	00:02:20.905	she's very pretty.
+F	00:02:27.120	00:02:28.800	well, that's everyone, i think.
+F	00:02:28.800	00:02:29.963	tea or coffee.
+B	00:02:29.963	00:02:31.012	coffee, please.
+F	00:02:31.012	00:02:31.819	black or white.
+B	00:02:31.819	00:02:34.132	oh, white with no sugar, please.
+H	00:02:35.624	00:02:36.437	HELLO.
+H	00:02:36.560	00:02:37.920	you're julia, aren't you
+B	00:02:37.920	00:02:39.057	yes, and...
+H	00:02:39.057	00:02:40.021	pleased to meet you.
+H	00:02:40.400	00:02:41.120	i'm gary.
+B	00:02:41.120	00:02:42.400	nice to meet you, gary.
+B	00:02:42.400	00:02:43.504	what do you do?
+H	00:02:44.800	00:02:46.324	um i'm a newsreader.
+B	00:02:47.360	00:02:48.710	oh yes!
+B	00:02:48.720	00:02:50.578	you're gary fenton.
+B	00:02:51.970	00:02:53.920	you're my mum's favorite news reader.
+F	00:02:53.920	00:02:54.768	here you are.
+F	00:02:55.120	00:02:56.031	hello, gary.
+F	00:02:56.031	00:02:56.852	this is julia.
+H	00:02:57.599	00:02:59.000	Er, yes, i know.
+H	00:02:59.920	00:03:01.420	anyway, i must be off.
+H	00:03:02.384	00:03:03.034	see you!
+B	00:03:04.640	00:03:06.096	he's very nice.
+F	00:03:06.640	00:03:07.599	yes.
+
+B	00:03:10.043	00:03:11.457	Hi. I'm home.
+I	00:03:11.457	00:03:12.085	hello, dear.
+I	00:03:12.560	00:03:15.111	how's your new job tell me all about it.
+B	00:03:15.111	00:03:16.075	it's great.
+B	00:03:16.075	00:03:17.481	everyone's very friendly.
+
+G	00:03:21.440	00:03:24.070	no, i can't make it today, ellie...
+G	00:03:24.080	00:03:25.419	i haven't got time.
+G	00:03:25.419	00:03:27.075	i have to finish this program and...
+G	00:03:27.920	00:03:30.372	ellie ellie!
+B	00:03:33.680	00:03:34.769	hi, tim.
+B	00:03:42.000	00:03:43.121	good morning, julia.
+B	00:03:43.121	00:03:44.620	how nice to see you.
+
+E	00:03:50.400	00:03:52.720	martha, can you take a look at the diary for this week?
+F	00:03:52.720	00:03:55.398	now oh, yes, all right.
+E	00:03:58.879	00:04:01.923	well this morning you're on the food programme.
+E	00:04:02.159	00:04:05.163	then this afternoon you've got a meeting with floyd and hank.
+E	00:04:05.163	00:04:07.062	that's at quarter two.
+E	00:04:07.360	00:04:10.160	then tomorrow you've got an appointment at the dentist's...
+E	00:04:10.160	00:04:12.149	...in the morning at quarter past ten.
+F	00:04:12.159	00:04:13.519	marvelous!
+E	00:04:13.519	00:04:16.079	then in the afternoon you've got a meeting with frederick.
+E	00:04:16.079	00:04:17.027	oh no, sorry.
+E	00:04:17.027	00:04:17.576	he can't make it.
+E	00:04:17.576	00:04:18.949	he has to go to paris.
+F	00:04:18.959	00:04:21.280	so is tuesday afternoon free now.
+E	00:04:21.280	00:04:24.230	no, you have to finish the video com report.
+E	00:04:24.240	00:04:25.680	oh, hi, julia.
+E	00:04:25.680	00:04:29.490	then on wednesday morning you're at the birmingham conference.
+G	00:04:29.490	00:04:30.560	martha. can i have a word?
+F	00:04:30.560	00:04:31.310	yes, tim.
+F	00:04:31.310	00:04:31.831	what is it?
+G	00:04:31.831	00:04:33.759	i haven't got an assistant for this afternoon...
+G	00:04:33.759	00:04:35.759	...for the story about carl stalker.
+G	00:04:35.759	00:04:36.892	you know, the windows guy.
+F	00:04:37.680	00:04:39.120	oh yes.
+F	00:04:39.120	00:04:40.639	well who have we got.
+F	00:04:40.639	00:04:42.131	uh, chloe's away.
+F	00:04:42.131	00:04:43.145	get us on holiday...
+G	00:04:43.145	00:04:44.233	...and everybody else is busy.
+G	00:04:44.233	00:04:45.704	but i have to have an assistant.
+B	00:04:45.704	00:04:48.880	can i do it can i be your assistant, tim.
+F	00:04:48.880	00:04:50.033	that's an idea.
+G	00:04:50.880	00:04:52.880	she hasn't got the experience, martha.
+F	00:04:52.880	00:04:53.880	she has to learn.
+B	00:04:53.880	00:04:55.222	and there's nobody else.
+G	00:04:57.600	00:04:58.556	okay.
+F	00:04:59.199	00:05:00.090	see you later.
+B	00:05:01.280	00:05:03.267	so what's this job about?
+B	00:05:05.680	00:05:07.350	''wonderful windows.
+B	00:05:07.350	00:05:08.790	can you believe it?
+B	00:05:08.800	00:05:13.350	new windows for just five hundred pounds. and who's this guy walker?
+G	00:05:13.360	00:05:14.560	stalker.
+G	00:05:14.560	00:05:18.469	carl stalker. he's the managing director of wonderful windows.
+G	00:05:18.479	00:05:20.240	and he's got his customers money...
+G	00:05:20.240	00:05:21.909	but they haven't got their windows.
+G	00:05:22.151	00:05:24.070	these are all letters from his customers.
+G	00:05:24.256	00:05:26.005	we have to leave at one thirty sharp.
+
+J	00:05:33.680	00:05:35.442	jason's in trouble at school again.
+B	00:05:37.360	00:05:38.340	who's jason?
+J	00:05:38.800	00:05:39.600	he's my son.
+B	00:05:39.600	00:05:42.320	oh, how many children have you got?
+J	00:05:42.320	00:05:44.469	two a son and a daughter.
+B	00:05:44.479	00:05:45.967	what's your daughter's name?
+J	00:05:45.967	00:05:50.432	kylie she's thirteen jason's sixteen my wife sharon...
+G	00:05:50.432	00:05:53.301	okay julia. now you wait at the corner with one of these.
+G	00:05:54.000	00:05:55.759	stalker's got a blue jaguar.
+B	00:05:55.759	00:05:56.866	what does he look like?
+G	00:05:57.440	00:05:58.800	he's quite tall.
+G	00:05:58.800	00:06:00.309	he's got short, dark hair.
+G	00:06:00.319	00:06:01.014	when you see him.
+G	00:06:01.014	00:06:01.353	call me.
+
+B	00:06:14.960	00:06:15.400	tim.
+B	00:06:15.400	00:06:15.779	tim.
+B	00:06:16.160	00:06:17.074	here he is.
+B	00:06:18.000	00:06:21.350	a blue jaguar and oh no.
+B	00:06:21.360	00:06:22.249	it isn't him.
+B	00:06:22.479	00:06:23.370	it's a woman.
+B	00:06:24.160	00:06:25.401	and it isn't a jaguar.
+B	00:06:25.401	00:06:25.918	sorry.
+B	00:06:36.240	00:06:36.914	wait.
+B	00:06:37.111	00:06:37.600	yes.
+B	00:06:37.600	00:06:38.221	he's here.
+B	00:06:39.840	00:06:45.998	a blue jag, registration number three zero seven abw.
+G	00:06:57.680	00:06:58.557	MR stalker.
+G	00:06:58.557	00:06:59.703	i'm from apex tv.
+G	00:06:59.703	00:07:00.855	can i ask you some questions?
+K	00:07:00.855	00:07:01.534	WHAT THE...
+K	00:07:01.534	00:07:02.544	no, you can't.
+G	00:07:03.360	00:07:05.520	where is your customer's money, mr stalker.
+K	00:07:05.520	00:07:07.030	i've got nothing to say.
+G	00:07:07.563	00:07:08.133	mr stalker.
+G	00:07:08.133	00:07:09.821	you and your wife have got a big house...
+G	00:07:09.821	00:07:12.550	...and an expensive car, but your customers have got nothing.
+G	00:07:12.560	00:07:14.240	where is their money, mr stalker.
+K	00:07:14.240	00:07:14.639	look.
+K	00:07:14.639	00:07:16.960	go away and switch that thing off.
+G	00:07:16.960	00:07:18.693	where's the money, mr stalker.
+K	00:07:19.840	00:07:20.639	clear off!
+B	00:07:26.404	00:07:27.548	you are right, sean.
+G	00:07:31.715	00:07:32.104	Great.
+G	00:07:32.634	00:07:33.496	we've got him now.
+G	00:07:35.520	00:07:36.503	how about a drink?
+G	00:07:37.427	00:07:38.086	oh just a minute.
+G	00:07:38.086	00:07:38.489	what's the time?
+B	00:07:39.362	00:07:40.960	it's half past seven.
+G	00:07:41.141	00:07:41.924	excuse me.
+L	00:07:51.932	00:07:52.601	if that's tim.
+L	00:07:52.601	00:07:53.422	i'm not here.
+E	00:07:55.668	00:07:56.250	hello.
+G	00:07:56.859	00:07:57.266	hi, rebecca.
+G	00:07:57.266	00:07:57.787	it's tim.
+E	00:07:59.359	00:08:00.194	hi tim.
+E	00:08:01.759	00:08:03.542	Er, ellie's not here.
+G	00:08:04.132	00:08:07.844	oh, well, can you video the football match for me i can't get back in time.
+E	00:08:08.319	00:08:09.409	yes, ok.
+G	00:08:09.830	00:08:10.400	thanks, rebecca.
+G	00:08:10.719	00:08:11.215	see you later.
+E	00:08:12.960	00:08:14.427	yes. bye, tim.
+E	00:08:16.264	00:08:16.849	ellie!
+B	00:08:20.400	00:08:22.185	is rebecca still at work?
+G	00:08:22.185	00:08:22.916	no, she's at home.
+B	00:08:23.120	00:08:24.353	OH, are you and rebecca...
+J	00:08:24.353	00:08:25.477	see you at the usual place.
+G	00:08:25.599	00:08:26.632	yeah, see you there.
+G	00:08:27.981	00:08:28.975	sorry rebecca and i...
+B	00:08:29.599	00:08:31.496	oh, nothing. let's go.
+
+E	00:09:07.760	00:09:09.120	rebecca Bond speaking.
+H	00:09:09.599	00:09:10.143	good morning.
+H	00:09:10.143	00:09:13.880	this is angus moon from the modern woman magazine.
+H	00:09:14.160	00:09:17.961	we'd like to do an article on the job of a personal assistant.
+H	00:09:19.600	00:09:21.728	martha mckay is an old friend of mine...
+H	00:09:21.728	00:09:24.202	...and she says that you're a wonderful pa.
+H	00:09:25.120	00:09:26.347	are you busy now?
+H	00:09:26.640	00:09:28.320	can i ask you a few questions?
+E	00:09:28.320	00:09:30.087	well, yes, of course.
+H	00:09:30.240	00:09:33.658	great. first a few questions about you.
+H	00:09:34.240	00:09:35.949	what time do you get up in the morning?
+E	00:09:36.242	00:09:38.000	i always get up at seven o'clock.
+E	00:09:38.215	00:09:40.000	i have a shower and wash my hair.
+E	00:09:40.240	00:09:42.238	i have breakfast at half past seven.
+E	00:09:42.560	00:09:43.829	then i get dressed.
+H	00:09:43.839	00:09:46.108	and uh what do you normally have for breakfast?
+E	00:09:46.399	00:09:51.560	breakfast oh, i usually have a glass of orange juice...
+E	00:09:51.560	00:09:54.745	a grapefruit, two slices of toast one with butter and jam...
+E	00:09:54.745	00:09:56.150	...and one with butter and marmalade.
+E	00:09:56.160	00:09:57.711	and two cups of coffee.
+H	00:09:57.839	00:09:59.306	you're very organized.
+E	00:09:59.760	00:10:01.830	well, you have to be for this job.
+H	00:10:02.720	00:10:04.872	and what do you do in your free time?
+E	00:10:06.720	00:10:08.725	i go to the gym three times a week...
+E	00:10:08.725	00:10:11.279	...on Monday, Wednesday, and Saturday.
+E	00:10:11.600	00:10:14.069	on thursday evening, i go to my dance class...
+H	00:10:14.079	00:10:15.535	oh, do you like dancing?
+E	00:10:16.160	00:10:17.580	yes, i do.
+E	00:10:18.079	00:10:19.468	i like cooking, too.
+E	00:10:20.160	00:10:22.587	and i love going to parties.
+H	00:10:24.480	00:10:25.920	okay, rebecca.
+H	00:10:25.920	00:10:27.248	thank you very much.
+E	00:10:28.399	00:10:30.220	but don't you want to talk about my job.
+H	00:10:31.247	00:10:33.680	well, i have got one last question.
+H	00:10:33.680	00:10:36.555	um, do you know a gary fenton?
+E	00:10:37.279	00:10:39.520	gary yes, of course.
+E	00:10:39.520	00:10:41.000	he's one of our news readers...
+H	00:10:41.519	00:10:44.012	and he's a very good news reader,
+H	00:10:44.012	00:10:44.415	isn't he?
+E	00:10:45.597	00:10:47.544	gary! you...
+H	00:10:48.115	00:10:48.373	Hey.
+H	00:10:48.373	00:10:49.829	it's only a joke, rebecca.
+E	00:10:49.839	00:10:51.644	well, i don't think it's funny.
+
+F	00:11:03.040	00:11:05.280	now, i always come on at the end of the program...
+F	00:11:05.280	00:11:06.554	and try the food and drinks.
+F	00:11:06.554	00:11:07.680	that's the next bit.
+F	00:11:07.680	00:11:08.785	is everything ready?
+B	00:11:08.785	00:11:09.588	i think so.
+E	00:11:11.920	00:11:13.279	frederick's on the phone, martha.
+E	00:11:13.279	00:11:14.438	he's in new york.
+F	00:11:14.438	00:11:16.092	ok. five minutes then, julia.
+B	00:11:20.240	00:11:21.369	five minutes, neil.
+H	00:11:37.920	00:11:42.201	some salt in the lemonade.
+H	00:11:51.360	00:11:55.555	and some chili powder in the soup.
+B	00:12:10.320	00:12:11.521	hello gary.
+B	00:12:11.839	00:12:12.950	do you want to try it?
+H	00:12:13.077	00:12:16.459	oh no. martha always tries the food and drinks.
+H	00:12:17.120	00:12:19.822	but, um, can i uh watch?
+F	00:12:20.480	00:12:21.491	if you want to.
+B	00:12:22.240	00:12:23.590	ready, martha ok.
+F	00:12:31.600	00:12:34.236	so, this is our lunch for a warm summer's day...
+F	00:12:34.800	00:12:37.853	a green salad, cheese with french bread...
+F	00:12:38.160	00:12:42.310	cold tomato and onion soup, and homemade lemonade.
+F	00:12:48.455	00:12:49.880	it's time to try it.
+F	00:12:50.880	00:12:51.670	no.
+F	00:12:51.680	00:12:53.577	why don't we make a change today?
+F	00:12:54.240	00:13:00.079	here in the studio today is everybody's favorite news reader, gary fenton.
+F	00:13:00.270	00:13:02.881	would you like to try this delicious meal, gary?
+F	00:13:04.720	00:13:07.271	i bet you can't wait to taste it.
+F	00:13:15.519	00:13:16.077	here.
+F	00:13:16.399	00:13:18.884	try the homemade lemonade first.
+F	00:13:24.959	00:13:26.839	isn't that wonderful, gary
+H	00:13:27.939	00:13:28.676	very nice.
+F	00:13:30.399	00:13:36.953	now, what about this soup , a nice cold soup, hey gary
+F	00:13:38.079	00:13:41.078	come on, a big spoonful.
+F	00:13:48.320	00:13:50.399	well, that's it for this week.
+F	00:13:50.399	00:13:53.625	i hope you enjoy your summer lunch as much as gary.
+F	00:13:54.105	00:13:54.750	bye.
+
+H	00:14:05.250	00:14:06.639	ok. what would you like
+E	00:14:06.639	00:14:08.597	i'll have a glass of white wine please.
+B	00:14:08.597	00:14:09.120	me, too.
+G	00:14:09.120	00:14:11.456	homemade lemonade for me, please, gary.
+H	00:14:11.519	00:14:12.586	very funny.
+E	00:14:13.374	00:14:14.706	gary just a joke,
+G	00:14:14.706	00:14:15.714	i have a mineral water.
+H	00:14:15.714	00:14:16.310	i have to dry
+H	00:14:16.320	00:14:17.136	ice and lemon.
+G	00:14:17.136	00:14:17.680	yes please.
+G	00:14:17.680	00:14:19.519	oh, I must give ellie a ring.
+H	00:14:19.519	00:14:20.800	two glasses of white...
+H	00:14:20.800	00:14:24.720	wine ...a mineral water with ice and lemon, a pint of lager.
+B	00:14:24.720	00:14:25.416	who's ellie?
+E	00:14:25.839	00:14:27.087	tim's girlfriend.
+B	00:14:27.360	00:14:29.651	OH! aren't you tim's girlfriend?
+E	00:14:29.651	00:14:30.895	me no.
+E	00:14:31.199	00:14:33.670	ellie's my flatmate. tim lives upstairs.
+B	00:14:33.680	00:14:35.720	oh, i see.
+B	00:14:36.720	00:14:37.829	what does she do?
+E	00:14:37.839	00:14:40.777	she works in a hotel so she works funny hours.
+H	00:14:41.249	00:14:42.000	here we are.
+H	00:14:42.000	00:14:43.500	nice, cold drinks.
+G	00:14:52.320	00:14:53.190	NO reply.
+
+D	00:15:04.074	00:15:04.676	morning Tim.
+G	00:15:05.440	00:15:06.173	morning ted.
+D	00:15:06.720	00:15:07.577	oh dear.
+D	00:15:07.577	00:15:08.307	you look tired.
+D	00:15:08.720	00:15:10.173	what time were you up this morning
+G	00:15:10.800	00:15:12.050	about four o'clock.
+G	00:15:12.560	00:15:14.310	there was an accident at the station.
+G	00:15:14.320	00:15:16.470	there weren't any trains for five hours.
+D	00:15:16.480	00:15:17.367	terrible.
+G	00:15:17.367	00:15:18.370	oh hi, rebecca.
+E	00:15:18.370	00:15:20.058	hi thanks ted.
+E	00:15:21.120	00:15:23.040	what's the date today, tim
+G	00:15:23.040	00:15:23.477	what?
+E	00:15:23.839	00:15:24.880	today's date.
+E	00:15:24.880	00:15:25.677	what is it
+G	00:15:26.399	00:15:29.189	ER, it's the forth of october.
+E	00:15:29.199	00:15:32.120	and what do you know about the forth of october
+G	00:15:33.120	00:15:35.000	it's the day after the third of october
+E	00:15:35.440	00:15:36.790	try again, tim.
+E	00:15:36.800	00:15:38.198	think of your girlfriend.
+G	00:15:40.237	00:15:40.723	oh no!
+G	00:15:40.723	00:15:41.720	it's ellie's birthday.
+G	00:15:42.720	00:15:45.399	but i haven't got a card or a present or anything.
+G	00:15:46.631	00:15:47.329	excuse me!
+B	00:15:47.839	00:15:49.749	oh sorry!
+E	00:15:49.759	00:15:51.126	good afternoon, julia.
+B	00:15:51.126	00:15:52.790	i know. i'm sorry.
+B	00:15:52.790	00:15:54.150	the trains were all late.
+D	00:15:54.160	00:15:55.839	there was an accident to the station.
+B	00:15:55.839	00:15:56.959	is martha annoyed
+E	00:15:56.959	00:15:58.316	well, she isn't pleased-
+E	00:15:58.316	00:15:59.906	this is the second time this week.
+B	00:15:59.906	00:16:01.732	yes, but it wasn't my fault today.
+E	00:16:01.732	00:16:03.648	and you were late last Thursday, too.
+B	00:16:04.880	00:16:06.000	well, that's it.
+B	00:16:06.000	00:16:08.000	i must find a flat in town.
+
+E	00:16:14.480	00:16:16.000	are there any places in there.
+B	00:16:16.399	00:16:17.812	no, there aren't.
+E	00:16:20.320	00:16:21.281	what about this?
+E	00:16:21.440	00:16:25.829	second floor flat- bedroom, living room, small kitchen and bathroom wc.
+B	00:16:25.839	00:16:28.044	yes, but it's six hundred pounds a month.
+B	00:16:28.044	00:16:29.420	i can't afford that.
+E	00:16:29.920	00:16:32.000	no, i suppose not.
+E	00:16:32.320	00:16:34.160	you could try an agency.
+B	00:16:34.413	00:16:35.384	i haven't got time.
+E	00:16:36.000	00:16:38.310	ask martha for some time off this afternoon.
+B	00:16:38.320	00:16:39.472	oh come on, rebecca.
+B	00:16:39.472	00:16:41.228	i was late this morning, remember.
+E	00:16:41.759	00:16:43.120	well, try it.
+E	00:16:43.120	00:16:46.000	martha's got a teleconference with frederick all afternoon.
+B	00:16:46.000	00:16:47.481	a teleconference.
+E	00:16:47.481	00:16:47.886	yes.
+E	00:16:47.886	00:16:49.114	frederick's in tokyo.
+B	00:16:49.440	00:16:52.385	oh, so martha doesn't need me.
+
+B	00:16:54.959	00:16:58.639	so let me see- there's the room and the kitchen...
+B	00:16:58.639	00:17:00.756	...and the bathroom and the toilet are in the hall.
+O	00:17:00.756	00:17:01.829	yes, that's right.
+O	00:17:01.839	00:17:03.829	you share them with the people upstairs.
+O	00:17:03.839	00:17:05.242	they're very nice people.
+B	00:17:05.679	00:17:07.357	and how much is it, mr jackson
+O	00:17:07.357	00:17:08.949	it's only  sixty-five pounds a week.
+O	00:17:08.959	00:17:11.299	so are you interested?
+B	00:17:11.299	00:17:12.511	yes, definitely.
+B	00:17:16.471	00:17:17.639	the people upstairs.
+O	00:17:17.639	00:17:19.759	ah, yes.
+
+D	00:17:24.720	00:17:25.732	reception.
+H	00:17:26.480	00:17:27.167	any luck?
+B	00:17:27.600	00:17:28.230	no.
+B	00:17:28.240	00:17:29.760	there isn't anything.
+B	00:17:29.760	00:17:35.590	everything's too far away, too expensive, too noisy, or just grotty.
+E	00:17:35.600	00:17:36.640	never mind.
+E	00:17:36.640	00:17:38.472	look, come to my place for a drink.
+E	00:17:38.472	00:17:40.735	it's a sort of surprise for ellie's birthday.
+B	00:17:40.735	00:17:41.513	ok.
+
+G	00:17:55.193	00:17:55.960	back in a minute.
+B	00:18:06.720	00:18:08.964	this is a nice place, rebecca.
+E	00:18:08.964	00:18:10.240	yes i like it.
+E	00:18:10.240	00:18:11.760	this is ellie's room.
+E	00:18:11.760	00:18:15.359	we've got this living room, a kitchen and the bathroom's down the hall...
+E	00:18:15.359	00:18:16.353	...next to my bedroom.
+B	00:18:17.520	00:18:18.720	where do you live, gary
+H	00:18:18.720	00:18:20.630	i've got a flat just around the corner.
+E	00:18:20.640	00:18:22.107	gary's got a lovely place.
+E	00:18:22.107	00:18:24.023	it's on the top floor and it's got a great view.
+E	00:18:24.559	00:18:25.371	tea, everyone?
+H	00:18:25.919	00:18:27.442	there's a message on your answer phone.
+G	00:18:30.240	00:18:31.840	happy birthday to you.
+G	00:18:31.840	00:18:33.440	happy birthday to you.
+G	00:18:33.440	00:18:35.520	happy birthday, dear ellie.
+G	00:18:35.520	00:18:37.180	happy birthday to you.
+G	00:18:37.440	00:18:38.320	see you later.
+G	00:18:38.320	00:18:39.120	love you.
+G	00:18:39.120	00:18:40.160	bye.
+H	00:18:40.160	00:18:40.870	love you.
+H	00:18:40.880	00:18:41.760	bye.
+H	00:18:41.760	00:18:43.027	you old romantic.
+B	00:18:43.679	00:18:46.310	well, i think it's very sweet, tim.
+L	00:18:46.320	00:18:47.600	hi rebecca.
+L	00:18:47.600	00:18:48.720	it's me...
+E	00:18:48.720	00:18:49.453	everybody.
+E	00:18:49.438	00:18:49.776	it's ellie.
+L	00:18:52.160	00:18:55.590	hi rebecca, it's me, ellie.
+L	00:18:55.600	00:18:57.840	this is just to say goodbye.
+L	00:18:57.840	00:19:01.360	i'm really sorry about this, but i've got a job in a hotel in san francisco...
+L	00:19:01.360	00:19:04.799	...and so... well... ER...
+L	00:19:04.799	00:19:07.830	the rent for this month is on the dressing table in my room.
+L	00:19:07.840	00:19:09.919	there's a letter for tim, there, too.
+L	00:19:09.919	00:19:12.390	can you give it to him, please.
+L	00:19:12.400	00:19:14.799	so, that's it.
+L	00:19:14.799	00:19:16.230	bye.
+L	00:19:16.240	00:19:17.120	take care.
+B	00:19:25.440	00:19:26.240	oh dear.
+B	00:19:26.240	00:19:27.600	poor tim.
+E	00:19:27.600	00:19:29.270	WELL, it was very strange.
+E	00:19:29.280	00:19:30.798	i mean she wasn't here last night...
+E	00:19:30.798	00:19:32.470	...and then she wasn't here this morning.
+H	00:19:32.480	00:19:33.679	look on the bright side.
+H	00:19:33.679	00:19:35.039	you need a new flatmate now.
+H	00:19:35.039	00:19:36.960	julia needs a room, so...
+B	00:19:36.960	00:19:37.919	gary!
+E	00:19:36.960	00:19:39.089	gary, it's all right, julia.
+E	00:19:39.089	00:19:40.320	gary's right.
+E	00:19:40.320	00:19:42.240	the room is yours, if you want it.
+B	00:19:42.240	00:19:43.440	what really?
+E	00:19:43.440	00:19:45.120	yes, really.
+B	00:19:45.120	00:19:46.549	oh, thank you!
+B	00:19:46.559	00:19:47.440	that's great.
+B	00:19:47.679	00:19:49.590	wonderful!
+B	00:19:49.600	00:19:51.280	oh, tim.
+B	00:19:51.300	00:19:51.939	I'M sorry.
+
+J	00:20:05.600	00:20:07.440	i'm sorry i'm late, tim.
+J	00:20:07.440	00:20:10.149	i had to go to the police station about kylie and jason.
+G	00:20:10.159	00:20:11.280	not now, sean.
+G	00:20:11.280	00:20:12.909	we need to go in five minutes.
+J	00:20:15.919	00:20:17.840	what's the matter with him today?
+E	00:20:17.840	00:20:18.720	it's ellie.
+J	00:20:18.720	00:20:19.669	ellie.
+E	00:20:19.679	00:20:20.960	she's gone.
+J	00:20:20.960	00:20:21.919	gone.
+E	00:20:21.919	00:20:23.350	to the states.
+J	00:20:23.360	00:20:24.880	to the states.
+E	00:20:24.880	00:20:26.211	she left yesterday.
+E	00:20:29.360	00:20:32.470	you see, yesterday was ellie's birthday.
+E	00:20:32.480	00:20:36.710	tim, gary, julia and i went back to my place for a birthday drink for ellie.
+E	00:20:36.720	00:20:40.820	ellie wasn't there, but there was a message from her on the answerphone.
+E	00:20:41.120	00:20:47.590	she said that she had a new job in san francisco and well... goodbye.
+J	00:20:47.600	00:20:48.559	what did tim do?
+E	00:20:48.559	00:20:50.240	he just walked out of the flat.
+E	00:20:50.240	00:20:51.909	he didn't say a word.
+E	00:20:51.919	00:20:54.654	it was all very sad and, well, embarrassing.
+E	00:20:54.654	00:20:56.549	we didn't know what to do.
+N	00:20:56.559	00:20:58.559	no wonder he's in a bad mood.
+E	00:20:58.559	00:21:02.080	but it's not all bad news, because julia's my new flatmate now.
+G	00:21:02.080	00:21:03.430	come on, sean.
+G	00:21:03.440	00:21:05.520	haven't got all day.
+E	00:21:05.520	00:21:07.430	have a nice day.
+
+N	00:21:13.200	00:21:14.159	that's the lot.
+E	00:21:14.159	00:21:15.520	cup of tea, mr drake
+N	00:21:15.520	00:21:16.600	um, no,
+N	00:21:16.600	00:21:17.328	thank you, rebecca.
+N	00:21:17.328	00:21:18.230	i'd better be off now.
+B	00:21:18.240	00:21:19.280	thanks, dad.
+N	00:21:19.280	00:21:21.600	ah, Don't mention it, love.
+E	00:21:21.600	00:21:22.159	bye.
+N	00:21:22.159	00:21:22.799	bye.
+N	00:21:23.280	00:21:25.029	bye, rebecca.
+E	00:21:25.039	00:21:26.789	welcome to wellington gardens.
+B	00:21:26.789	00:21:28.239	i still can't believe it.
+E	00:21:28.239	00:21:31.350	why don't we have a party, a sort of welcome to julia thing.
+B	00:21:31.360	00:21:32.320	oh, yes.
+B	00:21:32.320	00:21:33.280	great idea.
+B	00:21:33.280	00:21:34.470	when?
+E	00:21:34.480	00:21:38.720	next Friday we can invite some of the neighbors and everyone from work.
+B	00:21:38.720	00:21:40.400	everyone even frederick.
+E	00:21:40.400	00:21:41.193	don't worry.
+E	00:21:41.193	00:21:43.039	he's in south africa for the rest of the week.
+B	00:21:43.039	00:21:44.470	so who can we invite.
+
+J	00:21:47.120	00:21:48.080	what's this?
+B	00:21:48.080	00:21:49.760	it's an invitation to our party.
+J	00:21:49.760	00:21:51.679	a party, eh when is it?
+B	00:21:51.679	00:21:52.640	it's next Friday.
+B	00:21:52.640	00:21:53.840	the eighteenth.
+B	00:21:53.840	00:21:54.640	tim, here.
+J	00:21:54.640	00:21:55.440	great!
+J	00:21:55.440	00:21:56.720	i like parties.
+G	00:21:56.720	00:21:58.149	we can't come.
+J	00:21:58.159	00:21:58.880	but...
+G	00:21:58.880	00:22:00.789	we've got that programme to finish.
+J	00:22:00.799	00:22:02.016	can't we do it another time.
+J	00:22:02.029	00:22:02.768	It's juliu's...
+G	00:22:02.880	00:22:03.543	no!
+B	00:22:10.400	00:22:11.029	oh, well...
+
+H	00:22:21.200	00:22:21.840	hi, tim.
+H	00:22:21.840	00:22:23.120	it's party time.
+G	00:22:23.120	00:22:24.010	no, it isn't.
+G	00:22:35.840	00:22:37.741	ok, i think we can take a look at that now.
+O	00:22:39.440	00:22:42.630	last year richard bennett gave up his job in a london bank...
+O	00:22:42.640	00:22:45.510	...and decided to walk to the south pole.
+O	00:22:45.520	00:22:47.750	why did you give up your job, richard?
+P	00:22:47.760	00:22:52.549	well, i didn't like my job and i had a lot of problems at home.
+P	00:22:52.559	00:22:55.750	i just wanted to get away from it all.
+P	00:22:55.760	00:22:58.480	i wanted to find myself, if you like.
+O	00:22:58.480	00:23:00.230	so you left england in august.
+O	00:23:00.240	00:23:01.760	what did you do first?
+P	00:23:01.760	00:23:04.230	i flew to buenos aires in argentina.
+P	00:23:04.240	00:23:06.571	from there i traveled to the antarctic by boat.
+O	00:23:07.919	00:23:10.076	when did you actually start your journey to the pole?
+P	00:23:11.280	00:23:15.029	well, i had to wait for a few weeks, because the weather was very bad...
+P	00:23:15.039	00:23:17.679	...so i didn't set off until the end of september.
+O	00:23:17.679	00:23:18.950	did anyone go with you?
+P	00:23:18.960	00:23:20.960	no, i was on my own.
+O	00:23:20.960	00:23:23.750	and did you reach the south pole?
+P	00:23:23.760	00:23:25.919	no, i didn't.
+P	00:23:25.919	00:23:30.480	after about three hundred kilometers i fell into a huge crevasse..
+P	00:23:30.480	00:23:35.200	...you know- a big hole- about ten meters deep.
+O	00:23:35.200	00:23:36.630	were you hurt?
+P	00:23:36.640	00:23:38.960	yes, i broke my arm.
+P	00:23:38.960	00:23:40.789	i couldn't climb out.
+O	00:23:40.799	00:23:42.159	what did you do.
+P	00:23:42.159	00:23:45.590	well, fortunately, my sledge fell into the hole with me...
+P	00:23:45.760	00:23:49.110	i had food, and i had my radio, too.
+P	00:23:49.120	00:23:51.039	and i called for help.
+O	00:23:51.039	00:23:53.750	how long were you there before they found you?
+P	00:23:53.760	00:23:54.880	five days.
+P	00:23:54.880	00:23:57.510	there was a bad storm, you see.
+P	00:23:57.520	00:24:03.029	i thought it was the end, but then suddenly i heard voices and dogs.
+P	00:24:03.039	00:24:07.750	i shouted and shouted and faces appeared above me.
+O	00:24:07.760	00:24:11.350	what did you think about, while you were in the crevasse?
+P	00:24:11.360	00:24:15.590	i thought about my life back in england.
+P	00:24:15.600	00:24:20.320	and the funny thing was that all my problems at home and at work...
+P	00:24:20.320	00:24:22.470	...weren't important anymore.
+P	00:24:22.480	00:24:26.870	i just wanted to be with my family and friends again.
+P	00:24:26.880	00:24:29.520	life's very short, you know.
+P	00:24:29.520	00:24:32.549	you have to enjoy it while you can.
+O	00:24:32.559	00:24:34.880	thank you very much.
+J	00:24:34.880	00:24:36.715	can i just look at that last part again?
+P	00:24:48.000	00:24:52.230	i thought about my life back in england.
+P	00:24:52.240	00:24:56.960	and the funny thing was that all my problems at home and at work...
+P	00:24:56.960	00:24:59.029	...weren't important anymore.
+P	00:24:59.039	00:25:03.430	i just wanted to be with my family and friends again.
+P	00:25:03.440	00:25:06.080	life's very short, you know.
+P	00:25:06.080	00:25:09.190	you have to enjoy it while you can.
+O	00:25:09.200	00:25:10.164	thank you very much.
+J	00:25:12.400	00:25:14.320	yes, that's fine.
+J	00:25:14.320	00:25:19.679	do you want a cup of coffee tim?
+G	00:25:19.679	00:25:20.241	sorry.
+G	00:25:20.241	00:25:21.190	what did you say?
+J	00:25:21.200	00:25:22.941	would you like a coffee?
+G	00:25:24.799	00:25:26.960	no thanks, sean.
+G	00:25:26.960	00:25:29.870	we've got a party to go to.
+
+B	00:25:32.880	00:25:34.960	what do you think, rebecca?
+B	00:25:34.960	00:25:37.679	skirt or the trousers?
+B	00:25:37.679	00:25:39.430	i can't afford both.
+E	00:25:39.440	00:25:40.282	i don't know.
+E	00:25:40.282	00:25:41.679	how much are they?
+B	00:25:41.679	00:25:44.149	the skirt's twenty-eight pounds fifty
+B	00:25:44.159	00:25:47.177	the trousers are a bit more expensive, but not much.
+B	00:26:02.080	00:26:05.430	look, there's gary.
+E	00:26:05.440	00:26:06.559	where?
+B	00:26:06.559	00:26:07.360	there.
+B	00:26:07.360	00:26:09.760	he's going into the men's department.
+E	00:26:09.760	00:26:11.611	i suppose he's buying some new clothes...
+E	00:26:11.611	00:26:13.279	...for his interview with that magazine.
+B	00:26:13.279	00:26:14.159	oh yes.
+B	00:26:14.159	00:26:15.360	what did he say?
+B	00:26:15.360	00:26:18.610 	the readers of stars and style magazine voted me...
+B	00:26:18.610	00:26:22.149	...the best dressed news reader on tv.
+B	00:26:24.159	00:26:25.613	let's see what he's buying.
+B	00:26:33.120	00:26:34.400	hi, gary.
+B	00:26:34.400	00:26:35.360	what are you doing?
+H	00:26:35.360	00:26:39.120	i'm looking for a shirt and a tie to go with my new suit.
+B	00:26:39.120	00:26:41.190	are they for your interview?
+H	00:26:41.200	00:26:42.480	oh, do you know about that?
+B	00:26:42.480	00:26:43.660	oh, come on, gary.
+B	00:26:43.660	00:26:44.630	everybody knows.
+B	00:26:44.640	00:26:46.931	you mention it at least ten times a day.
+H	00:26:48.791	00:26:49.760	excuse me.
+H	00:26:49.760	00:26:51.440	can i try these on, please
+Q	00:26:51.440	00:26:51.800	sure.
+Q	00:26:51.800	00:26:52.950	the changing rooms are over there.
+H	00:26:52.960	00:26:53.440	thank you.
+E	00:26:53.440	00:26:55.200	how many shirts are you taking?
+H	00:26:57.962	00:27:00.846	only the best is good enough for the best- dressed newsreader.
+
+H	00:27:08.366	00:27:08.905	hi, tim.
+G	00:27:11.360	00:27:12.349	ok, gary.
+G	00:27:12.349	00:27:13.702	what's in the bags?
+H	00:27:13.702	00:27:16.743	oh, these oh it's my new suit and things from my interview...
+G	00:27:16.743	00:27:18.823	...about the best dressed newsreader.
+G	00:27:18.823	00:27:19.723	yes, we know.
+G	00:27:20.790	00:27:21.650	armani, eh
+G	00:27:21.943	00:27:22.835	bet that cost a bit.
+H	00:27:23.256	00:27:24.034	well, if it's good.
+H	00:27:24.195	00:27:25.169	the price doesn't matter.
+G	00:27:29.645	00:27:30.787	did you hear about?
+B	00:27:31.529	00:27:31.890	yes,
+B	00:27:31.890	00:27:33.413	he's even worse than usual.
+G	00:27:33.749	00:27:35.487	somebody should do something about him.
+G	00:27:36.344	00:27:37.586	when is this interview anyway
+E	00:27:38.135	00:27:39.909	straight after the six o'clock news.
+
+H	00:28:37.552	00:28:39.655	psst! sean! sean!
+R	00:28:41.168	00:28:44.241	gary fenton to the studio, please, five minutes.
+
+F	00:28:53.338	00:28:55.016	oh, there you are, gary.
+F	00:28:55.101	00:28:56.450	why are you so late
+H	00:28:59.884	00:29:00.399	good evening.
+H	00:29:00.619	00:29:02.850	this is gary fenton with the six o'clock news.
+F	00:29:15.440	00:29:17.515	gary, your visitors.
+S	00:29:18.799	00:29:21.200	charlotte mortimer from stars and style magazine.
+S	00:29:21.200	00:29:24.435	pleased to meet you, mr fenton, or may i call you gary.
+H	00:29:24.799	00:29:25.727	of course.
+S	00:29:26.399	00:29:30.240	now, can we take some photographs first oh no.
+S	00:29:30.240	00:29:32.330	we always see you at your desk, gary.
+H	00:29:33.520	00:29:35.890	well, i feel more comfortable here.
+S	00:29:37.084	00:29:39.982	but i'm sure all our readers want to know if you've got any legs.
+H	00:29:42.348	00:29:44.689	i'd really prefer to be at my desk.
+S	00:29:45.389	00:29:46.267	come on now, gary.
+S	00:29:46.267	00:29:47.360	don't be shy!
+H	00:29:47.360	00:29:48.190	all right!
+S	00:29:52.080	00:29:53.326	what are you wearing
+S	00:29:56.159	00:29:59.219	uh, well, perhaps the desk is better.
+
+B	00:30:16.880	00:30:18.102	what's happening?
+E	00:30:18.102	00:30:19.866	the report is interviewing gary.
+G	00:30:19.919	00:30:21.800	gary always enjoys interviews.
+B	00:30:21.800	00:30:23.078	well, he isn't enjoying this one.
+E	00:30:23.600	00:30:25.797	i think we should give his trousers back now.
+G	00:30:25.797	00:30:26.278	why
+G	00:30:27.332	00:30:28.313	all right.
+S	00:30:33.571	00:30:34.823	so when did you start doing that
+H	00:30:35.200	00:30:36.630	well, a couple of years ago.
+G	00:30:36.640	00:30:37.932	sorry to interrupt.
+G	00:30:38.000	00:30:39.160	we found these, gary.
+H	00:30:45.279	00:30:45.969	excuse me.
+
+B	00:31:39.679	00:31:40.693	come on, gary.
+B	00:31:40.693	00:31:41.471	cheer up.
+B	00:31:41.760	00:31:44.799	the magazine got photos of you in your new suit in the end.
+E	00:31:44.799	00:31:48.000	but you looked so funny in those baggy old trousers.
+G	00:31:48.320	00:31:50.000	where did you get them, anyway
+H	00:31:50.480	00:31:51.680	they were Sean's.
+H	00:31:53.024	00:31:53.570	oh no.
+H	00:31:54.302	00:31:54.934	sean!
+
+J	00:32:07.440	00:32:10.516	so what are we going to do at this school
+B	00:32:10.799	00:32:13.360	tim's going to interview one of the teachers.
+B	00:32:13.360	00:32:15.359	she's won the lottery twice.
+J	00:32:16.320	00:32:17.650	i've never won the lottery.
+G	00:32:18.559	00:32:20.099	in fact, i've never won anything!
+B	00:32:21.320	00:32:22.383	is everything ok
+G	00:32:22.720	00:32:23.679	sure.
+G	00:32:23.932	00:32:24.371	let's go.
+G	00:32:24.960	00:32:25.519	oh!
+B	00:32:25.519	00:32:27.115	tim, are you all right
+G	00:32:27.679	00:32:28.832	yes i'm fine.
+G	00:32:28.832	00:32:30.306	i've just got stomach ache, that's all.
+B	00:32:30.306	00:32:31.716	you can't work like this.
+B	00:32:31.716	00:32:33.097	you should be at home in bed.
+G	00:32:33.343	00:32:33.650	look.
+G	00:32:33.919	00:32:36.141	i've never missed a day's work in my life...
+G	00:32:36.141	00:32:37.423	...and i'm not going to start now.
+G	00:32:38.080	00:32:40.164	anyway, he's going to do the interview if i'm not there.
+B	00:32:40.317	00:32:40.749	me.
+G	00:32:42.000	00:32:43.669	have you ever done an interview before
+B	00:32:43.679	00:32:48.320	no, i haven't, but i've watched you several times and sean's here.
+B	00:32:48.320	00:32:50.077	he's filmed hundreds of interviews.
+G	00:32:50.077	00:32:53.551	no, it's ok, i can... oh!
+B	00:32:53.551	00:32:54.872	give me your car keys.
+B	00:32:54.872	00:32:56.924	i'm going to take you straight to the doctor.
+
+B	00:33:15.600	00:33:18.000	hi, how are you.
+G	00:33:18.063	00:33:20.776	hi,julia,did you get the interview alright?
+B	00:33:20.786	00:33:22.480	yes, everything was fine.
+B	00:33:22.480	00:33:23.919	but what about you?
+G	00:33:24.252	00:33:25.083	i feel a bit sore.
+G	00:33:25.440	00:33:27.840	they took my appendix out yesterday afternoon.
+B	00:33:27.840	00:33:28.478	i know.
+B	00:33:28.478	00:33:30.123	i came to see you, but you're asleep.
+B	00:33:31.840	00:33:32.950	i was with rebecca.
+G	00:33:36.320	00:33:38.399	i've never been in hospital before.
+B	00:33:38.442	00:33:40.149	How long are you going to be in here
+G	00:33:40.159	00:33:42.854	i can go home tomorrow and the doctor says...
+G	00:33:42.854	00:33:44.788	...i can go back to work next week, if i want to.
+B	00:33:45.200	00:33:45.952	tim.
+B	00:33:45.952	00:33:47.509	don't you ever stop.
+G	00:33:49.519	00:33:50.548	hi, gary.
+H	00:33:51.248	00:33:53.857	Tim... hello, julia.
+H	00:33:55.640	00:34:01.360	appendicitis, eh ah no, i suppose you can't eat anything at the moment.
+H	00:34:01.360	00:34:01.909	julia.
+B	00:34:01.919	00:34:02.908	no thanks.
+H	00:34:04.880	00:34:06.559	i've had appendicitis, you know.
+H	00:34:06.559	00:34:08.897	have you, julia very painful.
+H	00:34:09.440	00:34:10.556	now when did i have it?
+H	00:34:10.556	00:34:11.270	Oh yes.
+H	00:34:11.760	00:34:15.829	i was at school must be oh, twenty years ago.
+
+F	00:34:21.839	00:34:23.200	hello tim.
+F	00:34:23.200	00:34:24.536	what did the doctor say.
+G	00:34:24.639	00:34:26.000	all clear.
+G	00:34:26.000	00:34:27.848	and the best thing is i can eat normally again.
+F	00:34:28.320	00:34:33.030	good.
+G	00:34:33.040	00:34:34.044	um, julia...
+G	00:34:34.800	00:34:39.000	...I, em, wanted to say thank you for all your help when...
+G	00:34:39.760	00:34:43.000	...you know... and well, um...
+G	00:34:45.200	00:34:47.000	...would you like to go out for a meal sometime...
+G	00:34:47.679	00:34:49.919	...just to, you know, say thank you.
+B	00:34:49.919	00:34:51.197	yes, i'd love to.
+G	00:34:53.040	00:34:55.599	shall we try that new italian place near the museum.
+B	00:34:55.599	00:34:56.310	hmm.
+B	00:34:56.320	00:34:57.920	that would be nice.
+B	00:34:57.920	00:34:58.535	when?
+G	00:34:59.440	00:35:01.200	is this evening any good for you.
+B	00:35:01.200	00:35:02.950	yes, it's fine.
+G	00:35:02.960	00:35:03.839	great.
+G	00:35:03.839	00:35:05.760	shall i call for you about eight.
+B	00:35:05.760	00:35:07.236	i'm going to be in town anyway.
+B	00:35:07.236	00:35:10.574	so can we meet at the restaurant at say half past seven
+G	00:35:11.280	00:35:12.030	ok.
+G	00:35:15.040	00:35:17.643	tim barnes. hi pete...
+
+B	00:35:24.320	00:35:27.200	this is good. i love italian food.
+G	00:35:27.200	00:35:28.470	have you ever been to italy.
+B	00:35:28.480	00:35:30.150	i lived there for a couple of years.
+G	00:35:30.160	00:35:30.720	really?
+B	00:35:30.720	00:35:32.630	it was after i left university.
+B	00:35:32.640	00:35:34.800	i worked in a travel company.
+B	00:35:34.800	00:35:37.829	you know, looking after groups of british tourists.
+G	00:35:37.839	00:35:38.800	did you enjoy it?
+B	00:35:38.800	00:35:40.320	yes, it was great fun.
+B	00:35:40.320	00:35:41.829	i like travelling.
+B	00:35:41.839	00:35:43.040	what about you?
+G	00:35:43.040	00:35:47.440	i've traveled around a bit, mostly in asia and south america...
+G	00:35:47.440	00:35:49.480	...but i've never actually lived in another country.
+G	00:35:50.480	00:35:53.670	erm... you've got some sauce on your cheek.
+B	00:35:53.680	00:35:55.000	have i where?
+H	00:35:55.359	00:35:56.870	hi, you two.
+B	00:35:56.880	00:35:57.839	hello, gary.
+H	00:35:57.839	00:36:00.230	can i join you i'm having dinner here, too...
+H	00:36:00.372	00:36:01.754	...but my friends aren't here yet...
+H	00:36:02.206	00:36:05.270	you got a bit of sauce on your cheek, julia.
+B	00:36:05.280	00:36:06.189	thank you, gary.
+B	00:36:06.189	00:36:07.014	i can do it.
+B	00:36:15.440	00:36:16.871	that was a really good meal.
+B	00:36:16.871	00:36:17.589	i enjoyed it.
+G	00:36:17.599	00:36:19.109	yeah, me too.
+G	00:36:19.119	00:36:20.480	until gary arrived.
+B	00:36:20.480	00:36:21.286	yes.
+G	00:36:22.880	00:36:26.230	um, well, i've got an early start tomorrow.
+B	00:36:26.240	00:36:27.000	yes.
+G	00:36:27.520	00:36:28.550	so...
+B	00:36:30.560	00:36:31.920	yeah, good night.
+G	00:36:31.920	00:36:33.040	good night.
+G	00:36:33.040	00:36:34.042	see you tomorrow.
+B	00:36:37.760	00:36:38.571	tim!
+G	00:36:38.571	00:36:38.988	yes.
+B	00:36:39.920	00:36:43.000	i can't find my keys, i think i've left them at work.
+G	00:36:43.760	00:36:46.400	oh, isn't rebecca in.
+B	00:36:46.400	00:36:47.270	i don't know.
+B	00:36:47.280	00:36:48.489	probably not.
+G	00:36:49.200	00:36:49.985	oh dear.
+E	00:36:51.599	00:36:53.520	oh, hi, hi tim.
+E	00:36:53.520	00:36:54.581	i heard voices.
+E	00:36:54.581	00:36:57.098	i'm just on the phone to my sister, so i'll see you in a minute.
+G	00:37:03.359	00:37:04.382	still locked out.
+B	00:37:06.839	00:37:07.168	yes.

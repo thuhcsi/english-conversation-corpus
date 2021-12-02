@@ -1,0 +1,428 @@
+A	00:00:03.439	00:00:09.430	have you got a moment, peter, i've got a problem with my computer.
+B	00:00:09.440	00:00:14.960	oh, i don't know very much about computers... and i'm going out...
+B	00:00:14.960	00:00:17.910	they are waiting for me at the theater.
+A	00:00:17.920	00:00:19.600	always busy, eh?
+B	00:00:19.600	00:00:23.039	okay, okay sharon, take it easy!
+B	00:00:23.039	00:00:25.039	shall we have a look?
+A	00:00:25.039	00:00:28.320	thanks peter, you've got a big heart!
+B	00:00:28.320	00:00:32.630	let's see if i can help you before you thank me.
+A	00:00:32.640	00:00:35.750	alright, i can't use this program.
+A	00:00:35.760	00:00:41.830	i use it every day and today it isn't opening.
+B	00:00:41.840	00:00:49.350	why don't you turn the computer off and then turn it on again?
+A	00:00:49.360	00:00:53.910	okay peter, that's really a great idea!
+A	00:00:53.920	00:00:55.920	you're a genius!
+A	00:00:55.920	00:00:57.830	how can i do without you?
+B	00:00:57.840	00:01:00.229	i know, my dear!
+B	00:01:00.239	00:01:02.960	what are you working on?
+A	00:01:02.960	00:01:08.070	i'm writing my curriculum, because i would like to find a new job.
+A	00:01:08.080	00:01:11.520	listen, peter! i don't know how to write it.
+A	00:01:11.520	00:01:14.550	can you help me, please?
+B	00:01:14.560	00:01:17.040	i'm sorry, sharon!
+B	00:01:17.040	00:01:20.080	i'm in a hurry,i have no time! i'm late.
+B	00:01:20.080	00:01:21.680	they're waiting for me!
+A	00:01:21.680	00:01:25.990	very kind as usual!
+A	00:01:26.000	00:01:31.590	listen, peter,anne, alice and i are going to the cinema this evening.
+A	00:01:31.600	00:01:34.159	would you like to come?
+B	00:01:34.159	00:01:36.400	i'd like to but i can't.
+B	00:01:36.400	00:01:37.439	i have to...
+A	00:01:37.439	00:01:42.079	go to the theater, yes, i know!
+A	00:01:42.079	00:01:43.840	you always have something else to do!
+B	00:01:44.240	00:01:46.159	come on, sharon!
+B	00:01:46.159	00:01:47.749	what's the problem?
+B	00:01:47.759	00:01:51.190	maybe you're jealous of my career?
+A	00:01:51.200	00:02:03.990	oh, peter! i'm just tired of always coming second!
+
+A	00:02:04.000	00:02:05.680	hey, anne.
+A	00:02:05.680	00:02:06.880	houseworker?
+C	00:02:06.880	00:02:11.350	yeah, at last. can i ask you a question?
+A	00:02:11.360	00:02:12.319	sure.
+C	00:02:12.319	00:02:15.190	uh, how are you and peter?
+A	00:02:15.200	00:02:17.120	we're fine, thanks.
+A	00:02:17.120	00:02:19.670	listen, i want to go to that book shop.
+A	00:02:19.680	00:02:21.360	do you remember?
+C	00:02:21.360	00:02:25.750	oh, yes. the one with lots of photography books?
+A	00:02:25.760	00:02:26.319	yeah.
+C	00:02:26.319	00:02:28.160	and thriller books?
+A	00:02:28.160	00:02:28.959	yeah.
+C	00:02:28.959	00:02:33.190	and with the red coffee tables and flowers on the windows?
+A	00:02:33.200	00:02:33.599	yeah.
+C	00:02:33.599	00:02:38.229	where you can sit down and drink a delicious hot chocolate?
+A	00:02:38.239	00:02:40.239	yes, anne, that's the one!
+C	00:02:40.239	00:02:42.959	the london reader,it's a great place.
+A	00:02:42.959	00:02:46.720	yes. how do i get there?
+A	00:02:47.280	00:02:49.430	is it far?
+C	00:02:49.440	00:02:54.319	you can walk from here, it's about ten minutes away.
+A	00:02:54.319	00:02:56.869	great!
+C	00:02:56.879	00:03:01.910	oh, okay, let's see.
+C	00:03:01.920	00:03:05.910	go out the front door and turn left.
+A	00:03:05.920	00:03:07.280	easy enough.
+C	00:03:07.280	00:03:12.400	go straight ahead, past the traffic lights.
+A	00:03:12.400	00:03:15.589	right, straight ahead, past the traffic lights.
+C	00:03:15.599	00:03:20.560	turn right into june lane.
+A	00:03:20.560	00:03:21.830	june lane.
+C	00:03:21.840	00:03:26.480	then follow june lane to the end of the street.
+C	00:03:26.480	00:03:32.070	and turn right into may avenue.
+A	00:03:32.080	00:03:35.350	just a moment. turn left on may avenue?
+C	00:03:35.360	00:03:36.560	no, no, no.
+C	00:03:36.560	00:03:41.840	turn right into may avenue, and the bookshop is...
+D	00:03:41.840	00:03:46.480	hi, sharon. what are you girls talking about?
+C	00:03:46.480	00:03:51.430	i'm giving sharon directions for the london reader.
+C	00:03:51.440	00:04:04.720	so, turn right into may avenue, and the bookshop is the second shop on the left, next to the butcher's.
+D	00:04:04.720	00:04:06.789	no, anne!
+D	00:04:06.799	00:04:10.640	sharon, the bookshop is on the right, past the museum.
+D	00:04:10.640	00:04:13.519	and between a chemist and a bank.
+C	00:04:13.519	00:04:15.429	no, no, jack!
+C	00:04:15.439	00:04:16.880	you are wrong!
+C	00:04:16.880	00:04:18.320	the bookshop is...
+A	00:04:18.320	00:04:21.759	okay, okay guys, be quiet.
+A	00:04:21.759	00:04:26.000	don't worry! i've got my map.
+D	00:04:26.000	00:04:29.040	uh, sharon, i can come with you.
+D	00:04:29.040	00:04:32.070	if you don't mind.
+A	00:04:32.080	00:04:33.040	great!
+A	00:04:33.040	00:04:34.829	that's very kind of you, jack!
+C	00:04:37.280	00:04:40.160	jack, housework!
+C	00:04:40.160	00:04:45.510	do you remember?
+
+D	00:04:45.520	00:04:49.670	hey alice, what are you doing?
+D	00:04:49.680	00:04:54.230	do you mind giving us a hand with the housework, please?
+E	00:04:54.240	00:04:55.199	can't you see?
+E	00:04:55.199	00:04:59.030	i'm cleaning the computer!
+D	00:04:59.040	00:05:02.000	i see, i see.
+D	00:05:02.000	00:05:04.560	why is the computer on?
+E	00:05:04.560	00:05:08.070	just a moment.
+E	00:05:08.080	00:05:12.469	i don't understand how to connect to the internet on this computer.
+E	00:05:12.479	00:05:14.880	can you help me?
+D	00:05:14.880	00:05:18.880	okay, but just for one moment.
+E	00:05:18.880	00:05:24.950	thanks, jack.
+D	00:05:24.960	00:05:29.029	okay, click on that icon.
+E	00:05:29.039	00:05:31.440	what's an icon?
+D	00:05:31.440	00:05:34.790	that symbol on the screen.
+E	00:05:34.800	00:05:37.029	do you mean this picture of a telephone?
+D	00:05:37.039	00:05:40.000	yes, click on that.
+E	00:05:40.000	00:05:42.479	right, now what?
+D	00:05:42.479	00:05:46.469	enter your user name and password.
+E	00:05:46.479	00:05:47.759	okay.
+D	00:05:47.759	00:05:50.790	and click on that button there.
+E	00:05:50.800	00:05:53.909	click on the button.
+D	00:05:53.919	00:05:56.720	and now you're connecting to the internet!
+E	00:05:56.720	00:05:59.360	hey, that's easy.
+D	00:05:59.360	00:06:02.469	it's very easy, alice.
+D	00:06:02.479	00:06:05.440	you are hopeless with computers.
+D	00:06:05.440	00:06:07.510	and with housework too!
+D	00:06:07.520	00:06:08.880	come on, alice!
+D	00:06:08.880	00:06:13.350	it's time to clean up this mess now!
+
+E	00:06:13.360	00:06:17.590	jack, where were you yesterday evening?
+D	00:06:17.600	00:06:19.600	why?
+F	00:06:19.600	00:06:22.790	there was a great party at mary's!
+D	00:06:22.800	00:06:25.440	really?
+D	00:06:25.440	00:06:27.189	i wasn't invited!
+E	00:06:27.199	00:06:32.720	i can't believe that everyone was invited.
+D	00:06:32.720	00:06:37.350	i'm sure, i wasn't.
+D	00:06:37.360	00:06:40.950	anyway, i was busy yesterday.
+F	00:06:40.960	00:06:45.120	ah! did you have a meeting with some clients?
+D	00:06:45.120	00:06:48.870	no, i didn't.
+F	00:06:48.880	00:06:53.029	so, what?
+F	00:06:53.039	00:06:55.440	where were you?
+D	00:06:55.440	00:07:01.189	i was with robert at the red lion pub.
+F	00:07:01.199	00:07:05.919	that's impossible, robert was at the party.
+D	00:07:05.919	00:07:09.840	oops! i always get them mixed up.
+D	00:07:09.840	00:07:12.160	i was with charles.
+D	00:07:12.160	00:07:15.039	charles was at the party, too!
+E	00:07:15.039	00:07:18.720	come on jack, who are you with!?
+D	00:07:18.720	00:07:22.319	you are too curious, alice!
+D	00:07:22.319	00:07:28.710	okay, okay, i was with a girl.
+E	00:07:28.720	00:07:32.070	uh, oh, and?
+D	00:07:32.080	00:07:34.080	and, what?
+E	00:07:34.080	00:07:36.790	well, what's her name?
+E	00:07:36.800	00:07:38.240	do we know her?
+E	00:07:38.240	00:07:39.280	how old is she?
+D	00:07:39.280	00:07:40.230	stop!
+D	00:07:40.240	00:07:44.550	alice, stop! it's none of your business!
+E	00:07:44.560	00:07:45.680	okay, okay!
+E	00:07:45.680	00:07:47.510	you don't want to tell us.
+E	00:07:47.520	00:07:50.319	that's okay, i like mystery.
+E	00:07:50.319	00:07:52.950	it makes life exciting!
+E	00:07:52.960	00:07:56.230	well, let's change the subject!
+E	00:07:56.240	00:07:59.510	peter, where were you yesterday evening?
+E	00:07:59.520	00:08:02.319	why weren't you at the party?
+B	00:08:02.319	00:08:03.749	i was at the theater.
+B	00:08:03.759	00:08:06.639	we are preparing the performance.
+F	00:08:06.639	00:08:09.520	and you sharon?
+F	00:08:09.520	00:08:11.510	where were you?
+A	00:08:11.520	00:08:12.000	me?
+F	00:08:12.000	00:08:13.919	where were you?
+A	00:08:13.919	00:08:18.150	um, i was at a home watching a film on tv.
+E	00:08:18.160	00:08:19.990	which one?
+A	00:08:20.000	00:08:24.639	um, the latest film starring nicole kidman.
+A	00:08:24.639	00:08:27.440	what's the name?
+A	00:08:27.440	00:08:29.270	yes, "moulin rouge"!
+E	00:08:29.280	00:08:30.560	really?
+E	00:08:30.560	00:08:31.520	that's strange.
+E	00:08:31.520	00:08:33.509	i remember.
+E	00:08:33.519	00:08:34.399	here! look.
+E	00:08:34.399	00:08:36.709	it's on tv today!
+A	00:08:36.719	00:08:42.959	really? oh! they always show the same stuff on tv.
+A	00:08:42.959	00:08:47.279	oh, don't get up! i'll get the door.
+
+A	00:08:47.279	00:08:48.949	there's a postcard for you, alice.
+E	00:08:48.959	00:08:50.640	for me?
+E	00:08:50.640	00:08:53.590	oh, it's from my father.
+E	00:08:53.600	00:08:55.839	he was in the bahamas last week.
+B	00:08:55.839	00:08:56.949	really?
+B	00:08:56.959	00:09:00.630	i was in the bahamas last summer.
+A	00:09:00.640	00:09:02.560	just you?
+B	00:09:02.560	00:09:05.760	oops, sorry sharon.
+B	00:09:05.760	00:09:08.080	we were in the bahamas last summer.
+B	00:09:08.080	00:09:10.480	it was sunny and hot.
+B	00:09:10.480	00:09:13.760	the perfect weather for swimming and relaxing!
+B	00:09:13.760	00:09:15.670	it was fantastic!
+A	00:09:15.680	00:09:19.750	fantastic, yeah, fantastic.
+D	00:09:19.760	00:09:25.030	i'm sure it was!
+F	00:09:25.040	00:09:28.389	oh, i prefer holidays in the winter.
+F	00:09:28.399	00:09:31.509	it's too hot in the summer.
+F	00:09:31.519	00:09:35.910	i like going to the mountains and skiing.
+D	00:09:35.920	00:09:38.880	my last holiday was two years ago!
+F	00:09:38.880	00:09:41.110	two years ago?
+D	00:09:41.120	00:09:45.590	yes, it was a long time ago.
+D	00:09:45.600	00:09:49.269	i need another holiday soon!
+D	00:09:49.279	00:09:53.269	anyway, was your father on holiday in the bahamas, alice?
+E	00:09:53.279	00:09:54.880	no, he wasn't.
+E	00:09:54.880	00:09:57.920	he's working on a new play there.
+F	00:09:57.920	00:10:03.040	oh, how fascinating must be being a director!
+F	00:10:03.040	00:10:08.470	fame, money, and a lot of traveling around the world!
+E	00:10:08.480	00:10:10.640	and no time for family!
+E	00:10:10.640	00:10:15.509	just a few calls, postcards and a lot of misunderstandings.
+D	00:10:15.519	00:10:17.839	why don't you call him now?
+E	00:10:17.839	00:10:20.470	i don't think that's a good idea!
+F	00:10:20.480	00:10:24.230	why? when was your last call?
+E	00:10:24.240	00:10:25.519	three weeks ago.
+D	00:10:25.519	00:10:27.910	that's a long time!
+D	00:10:27.920	00:10:29.360	come on!
+D	00:10:29.360	00:10:31.990	alice, call him!
+D	00:10:32.000	00:10:35.190	i'm sure he'll be happy to hear from you!
+E	00:10:35.200	00:10:38.000	well, maybe you're right!
+E	00:10:38.000	00:10:40.800	okay, i'll call him!
+E	00:10:40.800	00:10:42.310	thanks jack.
+E	00:10:42.320	00:10:48.870	for your advice, i mean!
+
+D	00:10:48.880	00:10:54.470	yes, that's exactly what i told him.
+D	00:10:54.480	00:10:58.880	i sent him an email asking for more information.
+D	00:10:58.880	00:11:00.959	no, i didn't...
+D	00:11:00.959	00:11:04.949	i'm sorry, i didn't have enough time today.
+D	00:11:04.959	00:11:10.069	okay, okay, i'll call him in ten minutes!
+D	00:11:10.079	00:11:12.640	bye.
+F	00:11:12.640	00:11:15.839	hi, jack!
+F	00:11:15.839	00:11:18.800	so, did you have a good day?
+D	00:11:18.800	00:11:20.150	no, i didn't.
+D	00:11:20.160	00:11:22.399	it was a horrible day, anne.
+D	00:11:22.399	00:11:25.110	i had a lot of work to do.
+D	00:11:25.120	00:11:27.760	first i met some clients in the city.
+D	00:11:27.760	00:11:31.040	we met at nine o'clock and finished at two.
+D	00:11:31.040	00:11:36.079	after that i checked the monthly loss and profit accounts twice.
+D	00:11:36.079	00:11:37.279	and then i wrote some letters.
+D	00:11:37.279	00:11:39.360	i am so tired.
+F	00:11:39.360	00:11:44.310	well, now relax!
+F	00:11:44.320	00:11:47.829	have a glass of wine.
+F	00:11:47.839	00:11:50.079	you're lucky.
+F	00:11:50.079	00:11:54.880	i'm cooking lasagna, your favorite dish.
+D	00:11:54.880	00:11:55.839	no, thanks anne.
+D	00:11:55.839	00:11:57.760	i ate lasagna at lunch.
+F	00:11:57.760	00:12:01.200	oh, but it's not a problem.
+F	00:12:01.200	00:12:03.910	i'll prepare something else.
+F	00:12:03.920	00:12:09.200	and after dinner we can watch wimbledon on tv.
+F	00:12:09.200	00:12:11.750	there's the men's singles match.
+F	00:12:11.760	00:12:13.040	it should be exciting.
+D	00:12:13.040	00:12:15.430	i'm sorry. i can't.
+D	00:12:15.440	00:12:20.160	i have some work to finish, and then i'm going to my karate gym.
+D	00:12:20.160	00:12:21.600	that's how i relax!
+F	00:12:21.839	00:12:24.880	hey, jack, just a moment!
+F	00:12:24.880	00:12:31.829	didn't you notice anything?
+D	00:12:31.839	00:12:35.350	did you clean the kitchen?
+F	00:12:35.360	00:12:37.440	no, i didn't.
+F	00:12:37.440	00:12:43.430	uh, did you receive your marvelous set of chinese plates'?
+F	00:12:43.440	00:12:45.360	no, jack!
+F	00:12:45.360	00:12:48.389	nothing about the house.
+F	00:12:48.399	00:12:52.389	it's about me.
+F	00:12:52.399	00:12:53.920	oh, i see!
+F	00:12:53.920	00:12:57.279	you bought a new pair of shoes, didn't you?
+F	00:12:57.279	00:12:59.670	they're very nice!
+F	00:12:59.680	00:13:04.629	well, i have to go, now it's late.
+F	00:13:04.639	00:13:10.710	it doesn't matter! go! bye!
+F	00:13:10.720	00:13:19.910	such a waste of time.
+
+A	00:13:20.920	00:13:21.920	hey anne.
+A	00:13:21.920	00:13:25.030	thanks a lot for the tip on the bookshop.
+A	00:13:25.040	00:13:28.069	oh my god! anne!
+A	00:13:28.079	00:13:30.720	what's happening here?
+A	00:13:30.720	00:13:31.279	makeup.
+A	00:13:31.279	00:13:33.750	let me see.
+A	00:13:33.760	00:13:37.350	new hairstyle, new dress.
+A	00:13:37.360	00:13:39.839	you look great!
+F	00:13:39.839	00:13:45.590	at last somebody noticed my change!
+A	00:13:45.600	00:13:48.629	it's impossible not to notice it!
+F	00:13:48.639	00:13:50.880	thanks!
+F	00:13:50.880	00:13:53.350	well, what were you talking about?
+A	00:13:53.360	00:13:56.160	oh, i wanted to thank you for the tip on the bookshop.
+A	00:13:56.160	00:13:57.829	it's a great shop.
+F	00:13:57.839	00:14:00.480	great, i'm glad you liked it.
+F	00:14:00.480	00:14:06.069	i love sitting and drinking a cup of coffee and looking at the books.
+A	00:14:06.079	00:14:13.670	yes, that's exactly what i did, i sat down, ordered a cup of coffee and read.
+A	00:14:13.680	00:14:16.399	and i found all the books i wanted!
+F	00:14:16.399	00:14:18.629	what books did you buy?
+A	00:14:18.639	00:14:25.110	i bought a biography about virginia woolf and a book about archaeology.
+A	00:14:25.120	00:14:29.110	and you, what are you doing?
+F	00:14:29.120	00:14:34.320	i'm trying not to think about all my problems.
+F	00:14:34.320	00:14:37.350	so, i'm looking at some pictures.
+A	00:14:37.360	00:14:38.639	can i see them?
+F	00:14:38.639	00:14:41.269	sure!
+F	00:14:41.279	00:14:44.160	they're pictures of us!
+F	00:14:44.160	00:14:46.959	oh, look, look at this one!
+F	00:14:46.959	00:14:49.189	we were in edinburgh!
+F	00:14:49.199	00:14:51.040	we went for a trip.
+F	00:14:51.040	00:14:52.550	do you remember?
+A	00:14:52.560	00:14:54.399	yes, i do!
+A	00:14:54.399	00:14:58.790	how funny alice was with that scottish hat!
+A	00:14:58.800	00:15:01.760	did we go by car?
+F	00:15:01.760	00:15:03.600	oh, no, we didn't.
+F	00:15:03.600	00:15:06.310	we went by train.
+F	00:15:06.320	00:15:11.990	and at the very last moment, peter didn't come because of the audition.
+A	00:15:12.000	00:15:17.189	yes! as usual.
+A	00:15:17.199	00:15:19.120	and who's this?
+A	00:15:19.120	00:15:20.790	i don't know him!
+F	00:15:20.800	00:15:24.949	oh, that's frank, a friend of mine.
+F	00:15:24.959	00:15:28.389	i met him on holiday in norway.
+F	00:15:28.399	00:15:31.829	we had a good time together.
+A	00:15:31.839	00:15:34.639	and?
+F	00:15:34.639	00:15:40.710	afterwards he went his way and i went my way.
+A	00:15:40.720	00:15:44.710	yeah, that's life!
+A	00:15:44.720	00:15:46.639	did you have an affair with him?
+F	00:15:46.639	00:15:49.279	no, no, i didn't.
+F	00:15:49.279	00:15:51.279	nothing like that.
+F	00:15:51.279	00:15:54.000	and we were only good friends!
+A	00:15:54.000	00:15:56.240	do you keep in touch?
+F	00:15:56.240	00:15:59.269	no, we don't.
+F	00:15:59.279	00:16:02.949	he wrote me a letter five years ago.
+F	00:16:02.959	00:16:06.230	he sent me an invitation to his wedding.
+A	00:16:06.240	00:16:07.600	did you go?
+F	00:16:07.600	00:16:09.509	no i didn't.
+F	00:16:09.519	00:16:11.670	well, unfortunately, i had a lot of work.
+F	00:16:11.680	00:16:14.389	and i couldn't get away.
+A	00:16:14.399	00:16:18.550	hey, but this is jack!
+A	00:16:18.560	00:16:21.600	how smart he looks in this picture!
+F	00:16:21.600	00:16:26.790	yes, yes, he does!
+A	00:16:26.800	00:16:33.030	do you mind, anne, if i keep this picture with me?
+F	00:16:33.040	00:16:35.519	i, i do mind!
+F	00:16:35.519	00:16:40.470	um, no way, i'm sorry, sharon! but no!
+A	00:16:40.480	00:16:41.839	why not?
+A	00:16:41.839	00:16:44.710	what do you care about it?
+F	00:16:44.720	00:16:47.120	and you?
+F	00:16:47.120	00:16:55.749	what do you care about it?
+D	00:16:55.759	00:16:58.870	hey girls, what's happening here?
+F	00:16:58.880	00:17:10.230	nothing, at all.
+
+D	00:17:10.240	00:17:12.000	hi, sharon?
+D	00:17:12.000	00:17:13.750	what's up?
+A	00:17:13.760	00:17:17.750	hi, jack, i'm okay.
+A	00:17:17.760	00:17:18.319	don't worry!
+A	00:17:18.319	00:17:20.949	everything is just fine!
+D	00:17:20.959	00:17:24.390	really?
+D	00:17:24.400	00:17:31.919	i don't think so.
+D	00:17:31.919	00:17:34.480	come on, tell me what's happening.
+D	00:17:34.480	00:17:37.039	some problems with peter?
+A	00:17:37.039	00:17:38.630	no!
+A	00:17:38.640	00:17:40.960	well, yes!
+A	00:17:40.960	00:17:44.470	but i don't think you're the right person to talk with!
+D	00:17:44.480	00:17:47.360	maybe you're right.
+D	00:17:47.360	00:17:51.440	but i can't stand seeing you so sad!
+D	00:17:51.440	00:17:52.310	and this?
+D	00:17:52.320	00:17:55.200	what does it mean?
+A	00:17:55.200	00:17:55.679	don't worry!
+A	00:17:55.679	00:17:57.350	i'm not leaving forever!
+A	00:17:57.360	00:18:00.950	my colleague lucy invited me to spend the weekend at her house.
+A	00:18:00.960	00:18:04.549	she has a cottage in the countryside near brighton.
+A	00:18:04.559	00:18:07.830	we are leaving in the evening, right after work!
+D	00:18:07.840	00:18:10.720	the countryside is lovely there!
+A	00:18:10.720	00:18:12.080	i hope so!
+A	00:18:12.080	00:18:15.190	i need a break!
+A	00:18:15.200	00:18:18.789	living with peter is getting hard!
+A	00:18:18.799	00:18:22.470	he's so nervous about his concert.
+A	00:18:22.480	00:18:25.830	he can only think and talk about that!
+A	00:18:25.840	00:18:28.000	he seems miles away!
+A	00:18:28.000	00:18:32.160	and as for his music, he's excessive.
+A	00:18:32.160	00:18:36.559	he goes on singing all day long!
+A	00:18:36.559	00:18:38.880	he doesn't speak with me anymore.
+A	00:18:38.880	00:18:41.679	he sings with me.
+A	00:18:41.679	00:18:48.630	"sharon can you pass me the salt, please?"
+D	00:18:48.640	00:18:54.150	i like it when you smile!
+D	00:18:54.160	00:19:00.789	i think a weekend in the countryside is exactly what you need!
+A	00:19:00.799	00:19:03.120	i didn't know you liked the country so much.
+D	00:19:03.120	00:19:04.630	are you joking?
+D	00:19:04.640	00:19:10.960	i love the countryside, it's so quiet and relaxing.
+A	00:19:10.960	00:19:13.110	a lot of people think it's boring.
+D	00:19:13.120	00:19:18.230	well, they don't know what they're missing.
+A	00:19:18.240	00:19:19.200	what, jack?
+A	00:19:19.200	00:19:21.590	are you using cliches now?
+D	00:19:21.600	00:19:25.750	like the countryside is safe and the city is dangerous?
+A	00:19:25.760	00:19:28.559	or: the country is clean and the city is dirty?
+D	00:19:28.559	00:19:31.840	and don't forget the country is cheap, too!
+A	00:19:31.840	00:19:35.510	yes, there's that, too.
+A	00:19:35.520	00:19:38.320	the city is very expensive.
+A	00:19:38.320	00:19:40.789	just think how much the rent is for this apartment!
+D	00:19:40.799	00:19:42.080	don't remind me!
+D	00:19:42.080	00:19:45.669	i have to pay mine tomorrow morning!
+A	00:19:45.679	00:19:48.080	well, jack!
+A	00:19:48.080	00:19:50.230	it was good talking with you!
+A	00:19:50.240	00:19:54.549	you make me laugh!
+A	00:19:54.559	00:20:03.350	sometimes, i think about us about how we were together once.
+D	00:20:03.360	00:20:10.710	we were, we are a wonderful couple!
+D	00:20:10.720	00:20:13.520	don't forget it!
+A	00:20:13.520	00:20:14.180	alright!
+
+F	00:20:18.400	00:20:19.440	oh, hi, jack.
+F	00:20:19.440	00:20:22.710	do you have a moment?
+D	00:20:22.720	00:20:26.789	i always have time for you, anne!
+F	00:20:26.799	00:20:28.880	can i ask you a question?
+D	00:20:28.880	00:20:31.510	sure, how can i help you?
+F	00:20:31.520	00:20:35.190	well, i need your advice.
+F	00:20:35.200	00:20:37.280	i want to buy a new car.
+D	00:20:37.280	00:20:42.149	ah, you should buy a fast, expensive sports car!
+F	00:20:42.159	00:20:47.270	come on, i can't afford a sports car.
+F	00:20:47.280	00:20:54.870	my car's old, it's too big and it's difficult to drive.
+D	00:20:54.880	00:20:57.200	very good reasons to buy a new car.
+F	00:20:57.200	00:20:58.870	yes!
+F	00:20:58.880	00:21:07.909	i'd like to buy a small, stylish car that's not too expensive.
+D	00:21:07.919	00:21:13.520	a small, stylish car that's not too expensive.
+F	00:21:13.520	00:21:15.520	and for young people!
+D	00:21:15.520	00:21:20.070	of course, you shouldn't buy a car for old people.
+F	00:21:20.080	00:21:23.350	so, what car should i buy?
+F	00:21:23.360	00:21:27.190	i don't understand anything about cars!
+D	00:21:27.200	00:21:32.070	well, what about buying a ferrari?
+F	00:21:32.080	00:21:34.320	are you joking?
+D	00:21:34.320	00:21:36.390	just kidding.
+D	00:21:36.400	00:21:39.360	let me think.
+D	00:21:39.360	00:21:43.110	oh, can i have a look?
+D	00:21:43.120	00:21:47.750	how about this car?
+F	00:21:47.760	00:21:50.240	it's nice!
+F	00:21:50.240	00:21:52.720	isn't it expensive?
+D	00:21:52.720	00:21:56.159	all cars are expensive these days.
+
+D	00:21:56.159	00:22:00.549	by the way, did you hear about sharon?
+F	00:22:00.559	00:22:04.549	yes, i met peter in the afternoon.
+F	00:22:04.559	00:22:07.200	he told me they had a quarrel.
+F	00:22:07.200	00:22:10.149	but i don't think we should worry about it!
+F	00:22:10.159	00:22:11.350	do you?
+D	00:22:11.360	00:22:15.510	um, maybe we should.
+D	00:22:15.520	00:22:22.630	what do you think of sharon, anne?
+F	00:22:22.640	00:22:25.440	she's very pretty.
+D	00:22:25.440	00:22:29.909	yes, she is.
+F	00:22:29.919	00:22:33.190	what about me, jack?
+F	00:22:33.200	00:22:35.159	do you think i'm good-looking?
+D	00:22:35.200	00:22:39.440	come on anne, you are very attractive!
+F	00:22:39.440	00:22:41.510	do you really think so?
+D	00:22:41.520	00:22:43.440	yes, anne.
+D	00:22:43.440	00:22:46.559	you are always on my mind!
+F	00:22:46.559	00:22:46.960	oh!
+D	00:22:46.960	00:22:50.710	oh, i'm sorry.
+F	00:22:50.720	00:22:54.470	it doesn't matter, jack.
+

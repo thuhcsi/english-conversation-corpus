@@ -1,0 +1,399 @@
+A	00:00:00.880	00:00:03.199	betty!
+A	00:00:03.199	00:00:05.520	betty!
+A	00:00:05.520	00:00:10.070	betty, where are you?
+B	00:00:10.080	00:00:13.190	i'm right here, dear.
+A	00:00:13.200	00:00:17.349	betty, guess what!
+B	00:00:17.359	00:00:20.240	you are getting a dog!
+A	00:00:20.240	00:00:21.429	huh?
+A	00:00:21.439	00:00:22.800	no.
+B	00:00:22.800	00:00:24.710	you're getting married!
+A	00:00:24.720	00:00:26.240	what?
+A	00:00:26.240	00:00:27.910	no!
+B	00:00:27.920	00:00:31.429	ok, i can't guess.
+A	00:00:31.439	00:00:34.630	look at this.
+B	00:00:34.640	00:00:35.600	wow!
+B	00:00:35.600	00:00:40.950	it's a check for one hundred dollars.
+A	00:00:40.960	00:00:45.430	it's my prize from a writing contest.
+B	00:00:45.440	00:00:47.680	you are a winner!
+B	00:00:47.680	00:00:49.840	that's great news!
+A	00:00:49.840	00:00:51.840	thanks, betty.
+A	00:00:51.840	00:00:53.920	what can i do with the money?
+B	00:00:53.920	00:00:54.960	i know!
+B	00:00:54.960	00:00:56.239	i know!
+B	00:00:56.239	00:00:59.990	you can give it to me.
+A	00:01:00.000	00:01:04.710	you are funny, but i don't think so.
+B	00:01:04.720	00:01:07.280	maybe you can buy stock.
+A	00:01:07.280	00:01:11.119	i don't know anything about the stock market.
+B	00:01:11.119	00:01:12.310	oh, dear.
+B	00:01:12.320	00:01:14.080	i don't, either.
+A	00:01:14.080	00:01:15.910	i know.
+A	00:01:15.920	00:01:19.990	i can put the money in a bank account.
+B	00:01:20.000	00:01:24.710	you can put it in my bank account.
+A	00:01:24.720	00:01:30.479	betty! i can save the money in my account.
+B	00:01:30.479	00:01:31.510	i know.
+B	00:01:31.520	00:01:34.479	i'm just kidding.
+A	00:01:34.479	00:01:37.439	hey, i have an idea.
+A	00:01:37.439	00:01:39.590	let's go to the diner.
+A	00:01:39.600	00:01:42.479	i can buy you lunch.
+B	00:01:42.479	00:01:47.109	ok!
+C	00:01:47.119	00:01:47.840	goodbye.
+C	00:01:47.840	00:01:51.510	come back soon.
+C	00:01:51.520	00:01:54.479	we're closed, finally.
+D	00:01:54.479	00:01:55.830	are you glad?
+C	00:01:55.840	00:01:58.399	i really am.
+D	00:01:58.399	00:02:01.200	oh, is this your wallet?
+C	00:02:01.200	00:02:02.159	no.
+C	00:02:02.159	00:02:04.149	did a customer forget it?
+D	00:02:04.159	00:02:06.079	i don't know.
+D	00:02:06.079	00:02:09.109	maybe there is a lot of money inside!
+C	00:02:09.119	00:02:12.390	maybe the owner's name is inside.
+D	00:02:12.400	00:02:14.400	oh, right.
+C	00:02:14.400	00:02:18.630	is there I.D. or a credit card?
+D	00:02:18.640	00:02:19.120	yes!
+D	00:02:19.120	00:02:22.470	it says, "maxwell."
+E	00:02:22.480	00:02:23.920	maxwell?
+E	00:02:23.920	00:02:26.229	only mom calls me maxwell.
+E	00:02:26.239	00:02:28.080	hey, that's my wallet!
+D	00:02:28.080	00:02:29.830	i found it!
+D	00:02:29.840	00:02:31.760	can i borrow your credit card?
+E	00:02:31.760	00:02:37.120	you can't use my credit card, it has my signature on it.
+D	00:02:37.120	00:02:41.280	max, you have four credit cards in your wallet.
+D	00:02:41.280	00:02:42.959	do you use them all?
+E	00:02:42.959	00:02:44.630	yes. why?
+C	00:02:44.640	00:02:46.480	are you in debt?
+D	00:02:46.480	00:02:48.150	max is in debt!
+E	00:02:48.160	00:02:49.200	no i'm not.
+E	00:02:49.200	00:02:51.519	i'm careful when i charge things.
+D	00:02:51.519	00:02:53.920	maybe i can get a credit card.
+E	00:02:53.920	00:02:58.550	a debit card is a better choice for you.
+D	00:02:58.560	00:03:02.000	why is a debit card better than a credit card?
+E	00:03:02.000	00:03:05.910	using a debit card is like using cash.
+C	00:03:05.920	00:03:09.430	yes, the money comes from your bank account right away.
+E	00:03:09.440	00:03:13.190	that way you don't spend more money than you have.
+D	00:03:13.200	00:03:16.229	oh, so i won't go into debt.
+E	00:03:16.239	00:03:17.680	that's right.
+C	00:03:17.680	00:03:20.550	and you don't pay interest.
+D	00:03:20.560	00:03:24.070	wow, you're helping me manage my money.
+D	00:03:24.080	00:03:25.680	thanks!
+E	00:03:25.680	00:03:27.270	you're still young.
+E	00:03:27.280	00:03:32.949	this is a great time to learn how to manage your money.
+C	00:03:32.959	00:03:38.470	i agree. the earlier you start, the better.
+C	00:03:38.480	00:03:43.040	max, who is the little girl in this picture?
+E	00:03:43.040	00:03:44.400	that's sarah.
+D	00:03:44.400	00:03:45.270	really?
+C	00:03:45.280	00:03:46.879	that's so sweet!
+E	00:03:46.879	00:03:53.519	i keep all my treasures in my wallet- my money, my credit cards and my little sister.
+
+F	00:03:56.400	00:03:59.270	renee is in the diner with simon's brother,
+F	00:03:59.280	00:04:05.990	rich. he has come from the big city to visit his little brother.
+F	00:04:06.000	00:04:10.080	simon comes in to pick up renee after work.
+F	00:04:10.080	00:04:13.350	he is surprised to see rich there.
+F	00:04:13.360	00:04:17.110	rich gives simon a big hug.
+F	00:04:17.120	00:04:20.469	rich has a card and gifts for him.
+G	00:04:20.479	00:04:28.150	you're giving me more gifts to help me plan my finances.
+G	00:04:28.160	00:04:32.790	thank you, rich.
+H	00:04:32.800	00:04:43.510	you're welcome,one day you will be rich like me.
+G	00:04:43.520	00:04:46.160	i don't want to be rich.
+C	00:04:46.160	00:04:50.080	so what is this card?
+H	00:04:50.080	00:04:51.670	it's a cash card.
+H	00:04:51.680	00:04:53.759	they are popular in the city.
+H	00:04:53.759	00:04:56.720	people say they are the new debit cards.
+C	00:04:56.720	00:04:58.710	how do you use it?
+H	00:04:58.720	00:05:01.840	you scan the card when you pay for something.
+H	00:05:01.840	00:05:05.590	then the money is taken from the card.
+G	00:05:05.600	00:05:08.160	how much money is on this card?
+H	00:05:08.160	00:05:11.360	i put fivehundred on this card for you.
+C	00:05:11.360	00:05:13.749	that's very generous.
+G	00:05:13.759	00:05:17.510	rich, this card is useless in small town.
+G	00:05:17.520	00:05:21.270	we don't have any cash card machines.
+H	00:05:21.280	00:05:24.550	use it when you visit me in the big city!
+G	00:05:24.560	00:05:25.919	rich.
+C	00:05:25.919	00:05:33.749	you boys must be hungry,let me get you some chocolate cake.
+H	00:05:33.759	00:05:35.759	you have a great wife.
+G	00:05:35.759	00:05:37.350	yes, i do.
+G	00:05:37.360	00:05:42.190	she's better than all the money in the world.
+
+C	00:05:49.919	00:05:51.350	good morning, max.
+C	00:05:51.360	00:05:52.639	how are you?
+E	00:05:52.639	00:05:56.710	i'm great!
+C	00:05:56.720	00:05:58.639	you're happy this morning.
+E	00:05:58.639	00:06:01.919	you're right, i'm very happy this morning.
+C	00:06:01.919	00:06:03.039	why?
+E	00:06:03.039	00:06:06.960	i love spring, flowers are beautiful.
+E	00:06:06.960	00:06:10.960	the birds are singing.
+C	00:06:10.960	00:06:13.919	but, max, spring isn't here yet.
+E	00:06:13.919	00:06:17.590	i know, but the weather is getting warmer.
+E	00:06:17.600	00:06:20.950	no more winter!
+E	00:06:20.960	00:06:23.759	hey, let's not work today.
+E	00:06:23.759	00:06:25.840	get simon and sara.
+E	00:06:25.840	00:06:28.309	we can have a picnic.
+C	00:06:28.319	00:06:30.080	that's a fun idea.
+C	00:06:30.080	00:06:32.309	but we can't close the diner today.
+C	00:06:32.319	00:06:34.000	what about our customers?
+E	00:06:34.000	00:06:36.309	they can join us at the park.
+C	00:06:36.319	00:06:37.600	no, max.
+C	00:06:37.600	00:06:40.230	we're spring- cleaning today, too.
+C	00:06:40.240	00:06:41.440	remember?
+E	00:06:41.440	00:06:44.469	oh, yeah.
+C	00:06:44.479	00:06:47.830	hey, we're closing early this saturday.
+C	00:06:47.840	00:06:49.589	let's have a picnic then.
+E	00:06:49.599	00:06:52.240	great idea.
+C	00:06:52.240	00:06:56.469	the weather is still a little cold for a picnic.
+C	00:06:56.479	00:06:58.319	but we can still have fun.
+E	00:06:58.319	00:07:00.840	yes! i can cook, and-
+C	00:07:00.840	00:07:02.240	clean.
+E	00:07:02.240	00:07:04.309	let's not clean at our picnic.
+C	00:07:04.319	00:07:06.960	no, let's clean now!
+E	00:07:06.960	00:07:14.840	ok, i can clean the kitchen.
+C	00:07:14.840	00:07:16.309	thanks.
+E	00:07:16.319	00:07:20.870	hey! look at our daily special!
+C	00:07:20.880	00:07:22.240	what is it?
+E	00:07:22.240	00:07:30.390	spring rolls!
+
+C	00:07:30.400	00:07:34.230	hey, max, do you have any special plans for sunday?
+E	00:07:34.240	00:07:38.390	not really, i'll probably just relax.
+E	00:07:38.400	00:07:40.960	sunday is my day off, you know.
+C	00:07:40.960	00:07:41.909	i know.
+C	00:07:41.919	00:07:44.319	but sunday is also easter.
+E	00:07:44.319	00:07:47.120	this sunday is easter?
+E	00:07:47.120	00:07:48.469	oh, no!
+G	00:07:48.479	00:07:50.560	don't you like easter?
+E	00:07:50.560	00:07:52.080	oh, it's a great holiday.
+E	00:07:52.080	00:07:54.550	i just remembered something.
+E	00:07:54.560	00:07:58.479	i'm cooking the easter breakfast at church!
+C	00:07:58.479	00:08:01.670	you're cooking on your day off?
+C	00:08:01.680	00:08:03.440	i'm sorry, max.
+G	00:08:03.440	00:08:04.560	i'm not.
+G	00:08:04.560	00:08:09.670	if max is cooking, then breakfast will be great.
+G	00:08:09.680	00:08:14.309	i'm looking forward to it already!
+C	00:08:14.319	00:08:19.589	i'm looking forward to small town's easter activities in the afternoon.
+C	00:08:19.599	00:08:22.479	the parade, the easter egg hunt...
+E	00:08:22.479	00:08:24.230	the easter egg hunt!
+E	00:08:24.240	00:08:26.240	oh, no!
+G	00:08:26.240	00:08:27.510	what's wrong?
+E	00:08:27.520	00:08:30.869	i am supposed to boil 200 eggs.
+E	00:08:30.879	00:08:34.719	and sara is supposed to help decorate them.
+G	00:08:34.719	00:08:36.399	so?
+E	00:08:36.399	00:08:41.589	she doesn't know yet!
+
+I	00:08:41.599	00:08:45.910	this card says, "you are one in a million!"
+C	00:08:45.920	00:08:48.080	that is really sweet.
+I	00:08:48.080	00:08:51.200	can i give this to jim?
+E	00:08:51.200	00:08:53.279	who's jim?
+I	00:08:53.279	00:08:56.870	no one.
+E	00:08:56.880	00:08:58.959	he must be someone.
+E	00:08:58.959	00:09:02.560	maybe he's even someone special.
+E	00:09:02.560	00:09:06.720	sara, is jim your special someone?
+I	00:09:06.720	00:09:07.590	max!
+I	00:09:07.600	00:09:08.399	no!
+I	00:09:08.399	00:09:10.790	jim is just a friend!
+I	00:09:10.800	00:09:13.040	he's not my boyfriend.
+C	00:09:13.040	00:09:17.829	we are trying to choose a valentine's day card for sara's friend.
+E	00:09:17.839	00:09:18.959	let me help you!
+I	00:09:18.959	00:09:22.560	ok, but be nice!
+E	00:09:22.560	00:09:26.230	i'm always nice.
+C	00:09:26.240	00:09:32.480	this one is cute. "let's be friends to the end!"
+I	00:09:32.480	00:09:34.560	that is cute.
+I	00:09:34.560	00:09:38.790	what does it say on the inside?
+C	00:09:38.800	00:09:40.240	"i love you."
+E	00:09:40.240	00:09:41.829	sounds good.
+I	00:09:41.839	00:09:42.720	what?
+I	00:09:42.720	00:09:44.560	no!
+I	00:09:44.560	00:09:46.640	i don't love jim.
+I	00:09:46.640	00:09:48.000	i like jim.
+I	00:09:48.000	00:09:50.550	he's my friend.
+I	00:09:50.560	00:09:53.360	let's keep looking.
+E	00:09:53.360	00:09:55.760	is he your sweetheart?
+E	00:09:55.760	00:10:02.829	this card says, "hello sweetheart!"
+I	00:10:02.839	00:10:04.640	max!
+C	00:10:04.640	00:10:07.509	i found one.
+C	00:10:07.519	00:10:09.920	it has a sweet message.
+I	00:10:09.920	00:10:11.190	what does it say?
+E	00:10:11.200	00:10:14.949	does it say, "i have a crush on you?
+C	00:10:14.959	00:10:19.600	no, it says, "thank you for being my friend."
+I	00:10:19.600	00:10:20.560	that's all?
+C	00:10:20.560	00:10:22.310	that's all.
+E	00:10:22.320	00:10:24.079	that's not very romantic.
+I	00:10:24.079	00:10:27.360	i know. i like it!
+I	00:10:27.360	00:10:29.030	it's perfect!
+I	00:10:29.040	00:10:34.790	and i can write my own special message.
+I	00:10:34.800	00:10:39.350	"your friend, sara."
+I	00:10:39.360	00:10:42.630	ok, i'm done. good.
+C	00:10:42.640	00:10:45.519	jim will appreciate your card.
+E	00:10:45.519	00:10:46.959	read it to us!
+I	00:10:46.959	00:10:49.600	no, it's personal.
+E	00:10:49.600	00:10:51.430	but i'm your brother.
+C	00:10:51.440	00:10:54.079	and you're a good brother.
+E	00:10:54.079	00:10:55.269	thanks.
+E	00:10:55.279	00:10:56.880	i care about you, sara.
+E	00:10:56.880	00:10:58.470	i want you to know that.
+I	00:10:58.480	00:11:00.079	thank you, max.
+I	00:11:00.079	00:11:01.509	you're sweet.
+E	00:11:01.519	00:11:02.560	i know.
+I	00:11:02.560	00:11:05.670	so will you read the card now?
+I	00:11:05.680	00:11:08.640	max, you make me smile.
+E	00:11:08.640	00:11:11.250	that's better than making you cry.
+C	00:11:12.480	00:11:13.600	i might cry.
+C	00:11:13.600	00:11:16.320	you two are so sweet to each other.
+C	00:11:16.320	00:11:19.350	let me give you a hug.
+E	00:11:19.360	00:11:21.040	uh, thanks.
+I	00:11:21.040	00:11:25.910	max, you can give someone a hug, too.
+E	00:11:25.920	00:11:27.040	who?
+I	00:11:27.040	00:11:29.509	your special someone.
+E	00:11:29.519	00:11:31.120	what are you talking about?
+E	00:11:31.120	00:11:33.590	i don't have a special someone.
+I	00:11:33.600	00:11:38.389	well, you do have a crush on a girl.
+C	00:11:38.399	00:11:41.910	she always gets the cheese omelet.
+E	00:11:41.920	00:11:44.096	let's not talk about that. it's personal.
+
+J	00:11:48.160	00:11:49.200	simon!
+J	00:11:49.200	00:11:50.160	betty!
+J	00:11:50.160	00:11:53.680	you are two of my favorite people!
+B	00:11:53.680	00:11:57.750	hugh, you say that to everyone.
+J	00:11:57.760	00:12:00.720	but you are!
+G	00:12:00.720	00:12:02.160	how are you, hugh?
+J	00:12:02.160	00:12:04.710	i'm super. thank you!
+J	00:12:04.720	00:12:06.000	how about you?
+G	00:12:06.000	00:12:07.279	i'm doing well.
+G	00:12:07.279	00:12:08.550	thanks.
+J	00:12:08.560	00:12:12.377	great! i have something perfect for you.
+B	00:12:13.839	00:12:17.590	hugh, you say that all the time!
+B	00:12:17.600	00:12:20.560	what are you selling today?
+J	00:12:20.560	00:12:24.629	i'm selling this. i love it!
+J	00:12:24.639	00:12:26.240	what do you think?
+G	00:12:26.240	00:12:30.399	it's a heart.
+B	00:12:30.399	00:12:34.470	it's a heart with arms.
+J	00:12:34.480	00:12:36.450	it's a heart hug!
+B	00:12:37.416	00:12:39.519	a heart hug?
+J	00:12:39.519	00:12:42.790	it's perfect for valentine's day!
+G	00:12:42.800	00:12:44.990	how many do you want?
+B	00:12:46.000	00:12:47.680	sorry, hugh.
+B	00:12:47.680	00:12:49.430	i don't want any.
+J	00:12:49.440	00:12:51.440	what?
+J	00:12:51.440	00:12:53.269	what about you, simon?
+J	00:12:53.279	00:12:56.949	you must want one for renee.
+G	00:12:56.959	00:12:59.360	i'm sorry, hugh.
+G	00:12:59.360	00:13:01.590	it's not the perfect gift for her.
+J	00:13:01.600	00:13:04.160	come on you two.
+J	00:13:04.160	00:13:05.773	let me give you a hug.
+B	00:13:07.839	00:13:10.720	no, no. that' ok.
+G	00:13:10.720	00:13:14.079	maybe max wants one.
+J	00:13:14.079	00:13:17.440	yes, max likes heart hugs.
+J	00:13:17.440	00:13:18.327	you're right! 
+J	00:13:22.484	00:13:23.240	goodbye.
+
+C	00:13:28.480	00:13:30.480	this is delicious!
+C	00:13:30.480	00:13:34.880	macaroni and cheese is one of my favorite dishes.
+G	00:13:34.880	00:13:36.150	i know.
+G	00:13:36.160	00:13:39.013	i'm glad because it's easy to make.
+C	00:13:39.839	00:13:42.790	i can't believe you cooked this dinner.
+C	00:13:42.800	00:13:46.079	and max even let you use his kitchen.
+G	00:13:46.079	00:13:50.629	well, he knows we celebrated our first valentine's day here.
+G	00:13:50.639	00:13:53.670	the diner is a special place for us.
+C	00:13:53.680	00:13:54.800	oh, simon.
+C	00:13:54.800	00:13:57.670	i fall in love with you more every day.
+G	00:13:57.680	00:13:59.519	that's what marriage is about.
+C	00:13:59.519	00:14:00.674	i agree.
+G	00:14:04.000	00:14:07.430	do you remember our first valentine's day together?
+C	00:14:07.440	00:14:08.880	of course!
+G	00:14:08.880	00:14:11.509	do you remember the poem i wrote you?
+C	00:14:11.519	00:14:13.337	you wrote me a poem?
+G	00:14:14.959	00:14:16.541	you don't remember?
+C	00:14:17.600	00:14:19.120	i'm just kidding.
+C	00:14:19.120	00:14:21.199	of course i remember!
+C	00:14:21.199	00:14:26.550	we were here at the diner and you read the poem on the stage.
+G	00:14:26.560	00:14:27.920	i was nervous.
+C	00:14:27.920	00:14:29.120	and cute!
+C	00:14:29.120	00:14:31.710	i'll never forget that night.
+C	00:14:32.720	00:14:35.519	is that max in a bunny costume?
+I	00:14:35.519	00:14:40.240	yes. this picture was taken a year ago.
+I	00:14:40.240	00:14:44.389	max and i went to the sweet home orphanage on easter.
+C	00:14:44.399	00:14:46.800	that's great.
+I	00:14:46.800	00:14:53.189	it was fun. we celebrated easter with the children.
+I	00:14:53.199	00:14:57.040	we gave them easter baskets filled with candies and cookies.
+I	00:14:57.040	00:14:58.389	they love them!
+C	00:14:58.399	00:15:01.670	it's wonderful that you're going again this year.
+I	00:15:01.680	00:15:03.920	yes. i'm excited.
+I	00:15:03.920	00:15:06.150	i'm writing letters to the children.
+I	00:15:06.160	00:15:08.320	i hope they'll be encouraged.
+C	00:15:08.320	00:15:10.560	you're tired.
+I	00:15:10.560	00:15:16.710	yeah. max and i stayed up late decorating eggs for the easter egg hunt.
+C	00:15:16.720	00:15:19.040	go to bed early tonight.
+I	00:15:19.040	00:15:21.110	i will.
+I	00:15:21.120	00:15:23.910	what are you and simon doing for easter?
+C	00:15:23.920	00:15:29.110	we're going to the easter service at church and then joining the town's activities.
+I	00:15:29.120	00:15:30.240	fun!
+I	00:15:30.240	00:15:34.480	but be careful during the easter egg hunt.
+I	00:15:34.480	00:15:40.235	max and i were so tired last night that we forgot to boil some of the eggs.
+C	00:15:41.120	00:15:45.269	oh, no!
+C	00:15:45.279	00:15:48.550	max, simon told me about your idea.
+C	00:15:48.560	00:15:50.560	i love it.
+E	00:15:50.560	00:15:52.150	so you guys will go?
+C	00:15:52.160	00:15:52.880	sure.
+C	00:15:52.880	00:15:56.150	we can go on sunday when the diner is closed.
+E	00:15:56.160	00:15:57.440	great.
+E	00:15:57.440	00:16:00.150	let's leave at eight o'clock.
+G	00:16:00.160	00:16:02.240	that's early!
+E	00:16:02.240	00:16:06.790	yes, i like to get an early start when i go to the city.
+C	00:16:06.800	00:16:11.030	ok. do you want to take two cars or one?
+E	00:16:11.040	00:16:12.720	let's take one car.
+E	00:16:12.720	00:16:15.509	parking in the city is expensive.
+G	00:16:15.519	00:16:18.240	ok. we can take our car.
+E	00:16:18.240	00:16:20.949	we'll pick you up at your place at eight o'clock.
+E	00:16:20.959	00:16:22.160	great.
+E	00:16:22.160	00:16:26.000	hey, do you guys like indian food?
+G	00:16:26.000	00:16:27.120	i don't know.
+G	00:16:27.120	00:16:28.310	is it good?
+E	00:16:28.320	00:16:29.759	it's delicious.
+E	00:16:29.759	00:16:30.959	do you want to try it?
+E	00:16:30.959	00:16:33.670	i know a great restaurant in the city.
+E	00:16:33.680	00:16:36.079	i can make reservations for us.
+C	00:16:36.079	00:16:36.790	ok.
+C	00:16:36.800	00:16:38.720	that sounds great!
+C	00:16:38.720	00:16:41.509	i'm really looking forward to this weekend.
+E	00:16:41.519	00:16:42.549	me too!
+F	00:16:44.320	00:16:48.000	betty is sorting mail at the post office.
+F	00:16:48.000	00:16:51.350	she sees an envelope with her name on it.
+F	00:16:51.360	00:16:52.575	she opens it.
+F	00:16:53.199	00:16:55.990	it's a birthday card.
+F	00:16:56.000	00:17:00.470	when she opens the card, she hears music.
+F	00:17:00.480	00:17:02.480	betty closes the card.
+F	00:17:02.480	00:17:04.870	betty opens the card again.
+F	00:17:04.880	00:17:07.839	the music starts again.
+F	00:17:07.839	00:17:11.349	betty laughs and dances to the music.
+G	00:17:14.000	00:17:15.360	hi, betty.
+G	00:17:15.360	00:17:16.959	nice music.
+B	00:17:16.959	00:17:17.839	thanks!
+B	00:17:17.839	00:17:22.230	my nephew sent me this musical birthday card.
+B	00:17:22.240	00:17:24.079	isn't it fun?
+B	00:17:24.079	00:17:27.839	it says, "leap for joy!
+B	00:17:27.839	00:17:29.830	it's your birthday!
+B	00:17:29.840	00:17:33.510	happy leap year birthday!"
+G	00:17:33.520	00:17:35.200	that's great.
+G	00:17:35.200	00:17:38.870	so are you excited for your birthday tomorrow?
+B	00:17:38.880	00:17:41.840	yes. i'm very excited.
+B	00:17:41.840	00:17:46.230	i'm thinking about getting engaged.
+G	00:17:46.240	00:17:47.120	what?
+G	00:17:47.120	00:17:48.960	really?
+B	00:17:48.960	00:17:51.600	no, not really.
+B	00:17:51.600	00:17:54.720	but i could get engaged, you know?
+G	00:17:54.720	00:17:56.799	how?
+G	00:17:56.799	00:18:01.430	do you know someone who wants to propose to you?
+B	00:18:01.440	00:18:02.640	no.
+B	00:18:02.640	00:18:05.510	but i could propose to someone.
+G	00:18:05.520	00:18:06.720	that's true.
+G	00:18:06.720	00:18:09.350	some women do propose to men.
+B	00:18:09.360	00:18:11.120	they do now.
+B	00:18:11.120	00:18:20.630	but years ago in great britain and ireland, women could only propose marriage on february twenty ninth.
+G	00:18:20.640	00:18:22.000	really?
+G	00:18:22.000	00:18:24.070	that's interesting.
+B	00:18:24.080	00:18:25.120	yes.
+B	00:18:25.120	00:18:26.880	and you know what else?
+G	00:18:26.880	00:18:27.840	what?
+B	00:18:27.840	00:18:31.039	the man couldn't say no!
+G	00:18:31.039	00:18:32.710	what if he did?
+B	00:18:32.720	00:18:37.350	then he'd have to give the woman a gift.
+G	00:18:37.360	00:18:40.131	sounds like a perfect day for women.
+B	00:18:40.840	00:18:42.320	yes.
+B	00:18:42.320	00:18:49.270	too bad it only came once every four years!
+

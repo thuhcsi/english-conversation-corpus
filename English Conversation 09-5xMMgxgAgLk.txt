@@ -1,0 +1,636 @@
+A	00:00:05.720	00:00:09.590	Oh，David help me.
+A	00:00:09.590	00:00:11.109	this box is too heavy.
+B	00:00:11.119	00:00:12.520	just a moment, Mary.
+C	00:00:12.520	00:00:13.832	that's okay dad.
+C	00:00:13.832	00:00:15.100	I can help mom.
+B	00:00:15.100	00:00:17.980	thanks, Tina.
+A	00:00:19.040	00:00:20.715	I'm so tired.
+B	00:00:20.715	00:00:22.339	I am too, Mary.
+B	00:00:22.339	00:00:25.777	but there are a lot more boxes out there to be moved.
+A	00:00:25.777	00:00:31.269	Oh!
+D	00:00:31.269	00:00:34.573	hi, my name is Joe Williams.
+D	00:00:34.573	00:00:36.310	and this is my wife, Sue.
+D	00:00:36.310	00:00:38.230	we live in the next apartment.
+A	00:00:38.230	00:00:39.504	hello, Joe.
+A	00:00:39.504	00:00:40.750	hello, Sue.
+A	00:00:40.750	00:00:42.440	my name is Mary white.
+A	00:00:42.440	00:00:44.130	nice to meet you.
+E	00:00:44.140	00:00:47.560	you must be the new family living in this apartment.
+A	00:00:47.560	00:00:48.950	yes, we are.
+A	00:00:48.950	00:00:53.410	would you like to come in?
+A	00:00:53.410	00:00:55.118	Joe and Sue Williams.
+A	00:00:55.118	00:00:56.630	this is my husband, David.
+A	00:00:56.630	00:00:58.330	and our daughter, Tina.
+B	00:00:58.340	00:01:00.520	hi Joe, nice to meet you.
+B	00:01:00.530	00:01:02.060	hi Sue. nice to meet you.
+C	00:01:02.060	00:01:04.017	hello, mr. and mrs. Williams.
+C	00:01:04.017	00:01:05.310	it's very nice to meet you.
+D	00:01:05.729	00:01:06.470	nice to meet you, too.
+E	00:01:06.529	00:01:07.478	nice to meet you.
+D	00:01:07.578	00:01:09.009	so can we help you?
+D	00:01:09.010	00:01:11.361	you have so many boxes.
+B	00:01:11.435	00:01:12.700	you don't mind.
+E	00:01:12.700	00:01:14.530	we don't mind at all.
+E	00:01:14.540	00:01:16.412	we're happy to help our new neighbors.
+A	00:01:16.412	00:01:20.000	oh, thanks.
+
+D	00:01:42.220	00:01:43.929	good morning. David.
+B	00:01:43.939	00:01:45.140	good morning, Joe.
+B	00:01:45.140	00:01:46.010	how are you this morning?
+D	00:01:46.010	00:01:47.449	I'm fine, thanks. and you?
+B	00:01:47.449	00:01:49.576	oh! I am a little bit tired.
+D	00:01:49.576	00:01:50.869	well, me too.
+D	00:01:50.869	00:01:52.760	we worked very hard last night.
+B	00:01:52.760	00:01:53.750	yes, we did.
+B	00:01:53.750	00:01:55.719	thanks for your help.
+E	00:01:55.729	00:01:57.280	you're welcome, David.
+E	00:01:57.280	00:01:58.454	David and Mary!
+E	00:01:58.454	00:02:00.439	I would like you to meet this family.
+E	00:02:00.439	00:02:02.150	this is Bill Smith.
+E	00:02:02.150	00:02:03.616	his wife Kathy.
+E	00:02:03.616	00:02:05.199	and their son Jack.
+B	00:02:05.199	00:02:07.120	I'm David white.
+B	00:02:07.120	00:02:08.323	nice to meet you.
+F	00:02:08.323	00:02:10.449	nice to meet you too, David.
+G	00:02:10.449	00:02:11.794	good morning, Mary.
+G	00:02:11.794	00:02:12.523	I'm Kathy.
+A	00:02:12.523	00:02:14.499	good morning, nice to meet you.
+G	00:02:14.499	00:02:16.687	this is lovely furniture.
+A	00:02:16.687	00:02:17.598	oh, thank you.
+A	00:02:17.598	00:02:18.859	it was my mother's.
+G	00:02:18.859	00:02:19.749	yes.
+A	00:02:19.749	00:02:21.710	would you like to sit down?
+F	00:02:21.710	00:02:25.359	sure.
+C	00:02:25.359	00:02:27.710	mom, what should I do this box?
+C	00:02:27.710	00:02:31.279	oh, hi, I'm Tina.
+I	00:02:31.279	00:02:33.560	hi. my name is Jack.
+I	00:02:33.560	00:02:35.180	do you guys live here, too?
+C	00:02:35.180	00:02:38.020	yeah. I moved in yesterday.
+I	00:02:38.030	00:02:39.520	great!
+I	00:02:39.520	00:02:42.729	great. I live right next door.
+C	00:02:42.729	00:02:46.950	good, because I don't. know anybody else here.
+A	00:02:46.960	00:02:48.440	Tina, come here.
+A	00:02:48.440	00:02:52.980	I would like you to meet bill and Kathy Smith.
+C	00:02:52.980	00:02:54.503	Hello mr. and mrs. Smith.
+C	00:02:54.503	00:02:55.830	nice to meet you.
+G	00:02:55.840	00:02:58.660	Mary, you have a lovely daughter.
+A	00:02:58.660	00:03:00.139	thank you.
+A	00:03:00.139	00:03:13.400	she's not only lovely she's shy also.
+
+A	00:03:13.410	00:03:15.910	hello, this is the white residence.
+E	00:03:15.910	00:03:18.400	hello. may I please speak with Mary?
+A	00:03:18.400	00:03:20.050	this is Mary speaking.
+E	00:03:20.050	00:03:20.718	hi, Mary.
+E	00:03:20.718	00:03:21.584	this is sue.
+E	00:03:21.584	00:03:22.860	how are you today?
+A	00:03:22.870	00:03:23.796	oh! I'm fine.
+A	00:03:23.796	00:03:24.319	sue.
+A	00:03:24.319	00:03:25.180	how are you?
+E	00:03:25.180	00:03:26.230	I'm fine.
+E	00:03:26.230	00:03:28.390	I'm sorry to bother you.
+E	00:03:28.390	00:03:29.720	are you busy?
+A	00:03:29.730	00:03:31.240	not too busy.
+A	00:03:31.240	00:03:33.400	I'm cleaning the apartment right now.
+E	00:03:33.400	00:03:35.560	Oh listen, Mary.
+E	00:03:35.560	00:03:36.638	I was wondering.
+E	00:03:36.638	00:03:39.350	do you want to join Kathy and me today?
+A	00:03:39.360	00:03:40.960	where are you going?
+E	00:03:40.960	00:03:44.176	we both need to buy some food at the supermarket.
+A	00:03:44.176	00:03:46.000	oh! great.
+A	00:03:46.000	00:03:49.260	I am so happy you've invited me to join you.
+E	00:03:49.270	00:03:50.850	why is that Mary?
+A	00:03:50.850	00:03:54.354	because I do not have any food in the apartment.
+E	00:03:54.354	00:03:57.040	oh, I think you really need to go then.
+A	00:03:57.040	00:03:58.750	yes. I agree with you.
+A	00:03:58.750	00:04:02.679	I know tonight David and Tina will be very hungry.
+A	00:04:02.679	00:04:05.310	if I don't have any food from the supermarket.
+E	00:04:05.310	00:04:09.936	good! so, um Cathy and I will go at twelve o'clock.
+E	00:04:09.937	00:04:11.530	is that a good time for you?
+A	00:04:11.530	00:04:13.780	oh! I'm sorry.
+A	00:04:13.780	00:04:17.220	I have a hair appointment at twelve o'clock.
+A	00:04:17.220	00:04:21.190	how about I meet you at the supermarket at one o'clock?
+E	00:04:21.190	00:04:21.970	sure.
+E	00:04:21.970	00:04:26.460	so Cathy and I will see you at the supermarket at one o'clock.
+A	00:04:26.460	00:04:28.810	ok. that sounds good, sue.
+A	00:04:28.810	00:04:30.570	I'll see you then.
+A	00:04:30.580	00:04:31.390	goodbye.
+E	00:04:31.390	00:04:34.880	goodbye
+
+A	00:04:36.870	00:04:42.900	oh! hi, Mary.
+G	00:04:42.900	00:04:44.060	hi.
+G	00:04:44.070	00:04:46.950	have you finished moving everything into your apartment?
+A	00:04:46.950	00:04:49.690	yes, I've been busy cleaning all day.
+A	00:04:49.690	00:04:52.880	trying to get all of my housework finished.
+G	00:04:52.880	00:04:56.940	I'm so glad to have a new neighbor who's so friendly.
+A	00:04:56.940	00:05:00.210	yes. I am so happy we moved here.
+A	00:05:00.210	00:05:04.080	I am so glad to have many friendly neighbors.
+A	00:05:04.080	00:05:07.290	I talked to sue today on the telephone.
+A	00:05:07.290	00:05:11.070	and she asked me to join you and go to the market together.
+G	00:05:11.070	00:05:12.720	oh, that's great.
+G	00:05:12.720	00:05:15.170	I'm glad you'll be joining us.
+A	00:05:15.170	00:05:16.934	yes me, too.
+A	00:05:16.934	00:05:19.500	I have no food in the apartment.
+G	00:05:19.500	00:05:21.820	so I'll see you at twelve
+A	00:05:21.830	00:05:26.000	no. actually, I'll meet you at one o'clock there.
+A	00:05:26.000	00:05:29.700	although, I forgot to get directions from Sue.
+G	00:05:29.700	00:05:30.650	oh!
+G	00:05:30.650	00:05:35.360	ok. it's very easy to get to the supermarket I can tell you.
+A	00:05:35.370	00:05:36.810	ok. just a moment.
+G	00:05:36.810	00:05:42.650	first, you go straight on Main Street for about one mile.
+A	00:05:42.650	00:05:43.700	uh-huh.
+G	00:05:43.710	00:05:51.110	at the second traffic light, turn left onto Grayson Avenue.
+G	00:05:51.110	00:05:56.810	after you turn left, go straight about four blocks.
+A	00:05:56.810	00:05:58.510	four blocks.
+G	00:05:58.520	00:06:02.760	the supermarket will be on your right-hand side.
+G	00:06:02.760	00:06:04.440	it's very large.
+G	00:06:04.440	00:06:07.610	so you'll see it easily.
+A	00:06:07.610	00:06:12.300	ok. let me repeat this to make sure I have the directions correctly.
+G	00:06:12.300	00:06:13.160	alright.
+A	00:06:13.160	00:06:17.150	go straight on Main Street for one mile.
+A	00:06:17.150	00:06:22.790	turn left onto Grayson Avenue after the second traffic light.
+A	00:06:22.790	00:06:27.650	go four blocks and the supermarket is on the right-hand side.
+G	00:06:27.650	00:06:29.580	that's exactly right.
+G	00:06:29.580	00:06:31.140	so I'll see you there.
+A	00:06:31.140	00:06:33.630	ok, I'll see you there Kathy.
+G	00:06:33.630	00:06:34.680	bye bye, Mary.
+A	00:06:34.680	00:06:36.940	bye bye.
+
+A	00:06:40.680	00:06:43.060	that was a funny story, Mary.
+F	00:06:43.060	00:06:44.338	Yes, sure was.
+A	00:06:44.338	00:06:46.629	just put those over there beside the sink.
+F	00:06:46.629	00:06:47.740	by the sink?
+A	00:06:47.740	00:06:49.058	yes, over there.
+F	00:06:49.058	00:06:57.240	OK.
+G	00:06:57.240	00:06:59.819	Mary what should I do with the salt and pepper?
+A	00:06:59.819	00:07:02.160	you can put that beside the stove.
+F	00:07:02.170	00:07:04.590	and how about these vegetables?
+A	00:07:04.590	00:07:12.749	those can go in the refrigerator.
+G	00:07:12.749	00:07:15.930	do you want this fruit in the refrigerator also?
+A	00:07:15.930	00:07:24.330	no. that can go above the microwave.
+F	00:07:24.330	00:07:27.300	and how about these cans of food?
+A	00:07:27.300	00:07:35.460	these can go above the sink.
+G	00:07:35.460	00:07:38.140	Mary! what about this bottle of soap?
+A	00:07:38.140	00:07:40.770	that can go under the sink.
+F	00:07:40.770	00:07:45.749	Wow, Mary. I think you've got enough stuff here for a whole month.
+A	00:07:45.749	00:07:47.920	yes, I think so.
+A	00:07:47.920	00:07:54.240	I don't want to have to go to the supermarket again for a long time.
+G	00:07:54.240	00:07:57.960	Mary，how about the bread? where should I put the bread?
+A	00:07:57.960	00:08:02.249	that can go above the microwave behind the fruit.
+F	00:08:02.249	00:08:05.869	ok. I think that's what everything.
+A	00:08:05.879	00:08:06.909	good.
+A	00:08:06.909	00:08:10.210	you can throw the the bags in the trash can.
+F	00:08:09.819	00:08:10.539	OK.
+A	00:08:10.539	00:08:17.499	oh! thank you so much for asking me to join you to go to the supermarket today.
+G	00:08:17.499	00:08:18.999	you're welcome.
+G	00:08:18.999	00:08:33.840	and I'm sure David and Tina will be very happy too.
+
+F	00:08:33.850	00:08:36.290	hello Joe's accounting firm.
+F	00:08:36.290	00:08:37.660	how may I help you?
+G	00:08:37.660	00:08:39.789	yeah, speak with Sue Williams please.
+F	00:08:39.799	00:08:41.338	this is Sue speaking.
+F	00:08:41.338	00:08:42.520	may I help you?
+G	00:08:42.530	00:08:44.030	so this is kathy.
+F	00:08:44.040	00:08:46.489	oh Kathy hi. what's up?
+G	00:08:46.489	00:08:51.230	well, I was wondering if you and your family would like to go on vacation with us.
+F	00:08:51.230	00:08:53.770	oh, we would love to go.
+G	00:08:53.770	00:08:56.170	and the Wright family is going also.
+F	00:08:56.170	00:08:58.400	great. where are you going?
+G	00:08:58.400	00:08:59.979	we're going to Florida.
+F	00:08:59.989	00:09:02.600	oh, that's very far away.
+F	00:09:02.600	00:09:04.203	will you fly on a plane?
+G	00:09:04.203	00:09:04.820	yes.
+F	00:09:04.820	00:09:07.339	oh, I'm sorry.
+F	00:09:07.339	00:09:08.699	I'm afraid we cannot go.
+F	00:09:08.699	00:09:10.730	it would be too expensive for us.
+G	00:09:10.730	00:09:14.369	but we have a very special price for the plane tickets.
+G	00:09:14.369	00:09:17.039	it's really not very expensive.
+F	00:09:17.049	00:09:19.700	well, when are you going?
+F	00:09:19.700	00:09:21.230	the last week of June.
+A	00:09:21.230	00:09:26.150	Oh! Kathy I'm sorry we're not free the last week of June.
+B	00:09:26.150	00:09:28.900	oh, why?
+A	00:09:28.900	00:09:30.890	Joe and I both have to work.
+F	00:09:30.890	00:09:33.020	we don't have enough vacation time.
+G	00:09:33.020	00:09:36.370	can you ask your boss for more vacation time?
+G	00:09:36.370	00:09:41.620	no, it is very difficult for us to ask for a vacation time.
+F	00:09:41.620	00:09:44.260	I'm sorry but we really cannot go.
+G	00:09:44.270	00:09:46.720	are you sure you cannot go?
+F	00:09:46.720	00:09:47.946	I'm sure.
+F	00:09:47.946	00:09:50.060	it would be impossible for us to go.
+G	00:09:50.060	00:09:52.900	I really wish you could go sue.
+F	00:09:52.900	00:09:55.070	yes, so do I.
+F	00:09:55.070	00:09:57.585	but it's really not convenient for us to go.
+F	00:09:57.585	00:09:58.690	I'm sorry.
+G	00:09:58.700	00:09:59.663	never mind, sue.
+G	00:09:59.663	00:10:00.910	that's okay.
+F	00:10:00.910	00:10:04.120	but I hope you all have a good time in Florida.
+G	00:10:04.130	00:10:06.020	thanks. I'm sure we will.
+F	00:10:06.020	00:10:07.580	oh and kathy!
+G	00:10:07.580	00:10:08.570	yes Sue.
+F	00:10:08.570	00:10:10.460	thank you for inviting us to go along.
+F	00:10:10.460	00:10:13.840	I'm really sorry. we can't go.
+G	00:10:13.840	00:10:15.049	no problem.
+G	00:10:15.049	00:10:17.359	maybe next year you can go with us.
+F	00:10:17.359	00:10:19.549	ok. sure goodbye.
+G	00:10:19.549	00:10:21.680	bye bye!
+
+B	00:10:26.130	00:10:31.919	ok, does everyone know what they want to do in our trip to Florida?
+A	00:10:31.919	00:10:35.909	well, Kathy and I want to go shopping everyday.
+F	00:10:35.909	00:10:39.640	and David and I want to go boating and fishing everyday.
+I	00:10:39.640	00:10:42.690	and Tina and I want to go to the beach every day.
+C	00:10:42.690	00:10:46.942	the zoo and the museum and the mall.
+B	00:10:46.942	00:10:49.150	wait, wait.
+B	00:10:49.150	00:10:53.070	I think we have two months to do in one week.
+A	00:10:53.070	00:10:54.489	David is right.
+A	00:10:54.489	00:10:59.640	we should make a schedule of everything that we would like to do each day.
+G	00:10:59.640	00:11:02.739	ok, I have a pen and paper.
+G	00:11:02.739	00:11:05.849	I'll write down everything we plan to do.
+A	00:11:05.849	00:11:07.370	ok.
+F	00:11:07.380	00:11:12.690	ok, on Sunday we'll go to the airport and fly to Florida.
+F	00:11:12.690	00:11:15.460	we'll arrive at the hotel in the evening.
+G	00:11:15.460	00:11:21.609	ok, Sunday. airport. hotel.
+I	00:11:21.609	00:11:25.469	and on Monday can we all go to the beach together?
+G	00:11:25.469	00:11:27.510	sounds good.
+G	00:11:27.510	00:11:30.299	Monday，beach.
+A	00:11:30.299	00:11:35.289	Tuesday, everyone can go shopping together and we'll buy gifts and souvenirs.
+F	00:11:35.289	00:11:41.109	on Wednesday the men can go boating and fishing, the women can go shopping again.
+F	00:11:41.109	00:11:43.530	and the kids can go to the beach again.
+G	00:11:43.530	00:11:45.190	slow down, slow down!
+G	00:11:45.190	00:11:46.359	I can't write that fast.
+C	00:11:46.359	00:11:51.440	and Thursday, we can go to the zoo.
+G	00:11:51.450	00:11:54.960	Thursday, zoo.
+A	00:11:54.960	00:12:01.929	Friday, the women and children could go to the amusement park and the men could go boating and fishing again.
+B	00:12:01.929	00:12:07.440	I think Saturday should be a day for everyone to do what they want to do.
+B	00:12:07.450	00:12:08.500	it's the free day.
+F	00:12:08.500	00:12:12.719	and of course on Sunday, we go to the airport and we fly home.
+B	00:12:12.719	00:12:17.310	well, I think we have a good plan for our trip to Florida.
+G	00:12:17.310	00:12:29.790	yes, I've written down our plans for Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and the last Sunday.
+C	00:12:29.790	00:12:37.700	I'm so excited.
+
+E	00:12:53.360	00:12:58.179	oh, hi Mary and Kathy come on in.
+A	00:12:58.179	00:13:00.380	we're sorry to bother you Sue.
+A	00:13:00.380	00:13:03.230	we were packing for our trip to Florida.
+A	00:13:03.470	00:13:06.940	we were hoping that we could borrow some things from you.
+G	00:13:06.940	00:13:12.280	yes. I have so many things to pack that I don't have enough suitcases.
+E	00:13:12.290	00:13:13.460	you don't.
+E	00:13:13.460	00:13:15.220	no problem.
+E	00:13:15.230	00:13:18.440	we have many extra suitcases you can borrow one.
+G	00:13:18.440	00:13:19.100	I can.
+G	00:13:19.100	00:13:21.920	oh! thanks, Sue. that's very nice of you.
+A	00:13:21.920	00:13:25.670	also do you have an extra tennis racket?
+A	00:13:25.670	00:13:30.039	David and I were hoping to play some tennis while we are in Florida?
+A	00:13:30.049	00:13:32.120	but we only have one racket.
+E	00:13:32.120	00:13:33.725	no problem.
+E	00:13:33.725	00:13:36.549	you can borrow Joe's racket.
+D	00:13:36.549	00:13:38.799	she can?
+E	00:13:38.799	00:13:41.169	yes, she can.
+D	00:13:41.179	00:13:43.910	oh, yeah.
+D	00:13:43.910	00:13:47.080	sure, sure. yes, you can.
+A	00:13:47.090	00:13:49.040	Oh, Sue.
+A	00:13:49.040	00:13:53.179	I'm so disappointed that you're not going to join us in Florida.
+A	00:13:53.179	00:13:56.678	I hope you're not too bored being at home this week.
+E	00:13:56.678	00:13:59.620	oh. we're not staying at home.
+D	00:13:59.620	00:14:00.810	we're not?
+E	00:14:01.060	00:14:02.810	no, we're not.
+E	00:14:02.810	00:14:06.130	I talked with my mother on the phone this morning.
+D	00:14:06.130	00:14:07.600	you did.
+E	00:14:07.600	00:14:09.640	yes, I did.
+E	00:14:09.640	00:14:13.190	she wants us to come and visit her for a few days.
+D	00:14:13.190	00:14:14.620	she does.
+E	00:14:14.620	00:14:16.720	yes, she does.
+E	00:14:16.720	00:14:20.210	as a matter of fact, we're going tomorrow morning.
+E	00:14:20.210	00:14:25.250	oh, so you need to start packing your suitcase right now dear.
+D	00:14:25.250	00:14:26.830	I should?
+E	00:14:26.830	00:14:29.470	yes, you should.
+E	00:14:29.470	00:14:33.873	do you have a problem with going to visit my mother?
+D	00:14:33.873	00:14:37.580	oh, no, not at all.
+D	00:14:37.580	00:14:40.090	I would love to visit your mother.
+E	00:14:40.090	00:14:42.880	you would.
+D	00:14:43.880	00:14:46.540	I guess it will be all right.
+G	00:14:48.160	00:14:52.790	Sue, I'm so happy that you don't have to stay home all week.
+G	00:14:52.790	00:14:57.450	going to visit your mother is a wonderful idea.
+D	00:14:57.460	00:15:04.000	it is?
+
+E	00:15:15.380	00:15:18.793	Joe, why do you look so upset?
+D	00:15:18.793	00:15:25.590	I wanted to go to Florida with our friends.
+D	00:15:25.590	00:15:28.460	I'm frustrated.
+E	00:15:28.460	00:15:30.367	don't be upset.
+E	00:15:30.367	00:15:31.950	we're going to visit my mother.
+D	00:15:31.950	00:15:35.850	I know we're going to visit your mother.
+D	00:15:35.850	00:15:38.630	that's why I'm upset.
+E	00:15:38.630	00:15:51.620	and why don't you want to go visit my mother?
+D	00:15:51.620	00:15:52.620	because.......
+E	00:15:52.620	00:15:55.400	yes, because why?
+D	00:15:55.400	00:15:59.630	because I don't know what to pack in my suitcase.
+E	00:15:59.630	00:16:06.810	Joe, you have so many clothes so many nice things.
+D	00:16:06.810	00:16:08.510	I know.
+D	00:16:08.510	00:16:10.140	that's the problem.
+D	00:16:10.140	00:16:12.690	I don't know what to take.
+E	00:16:12.690	00:16:19.260	Oh, Joe here.
+E	00:16:19.260	00:16:23.890	I'll help you decide what to take.
+E	00:16:23.900	00:16:31.190	how about these blue pants?
+E	00:16:31.190	00:16:34.400	you can take them when we go shopping with my mother.
+D	00:16:34.410	00:16:40.640	ok.
+D	00:16:40.640	00:16:50.480	and, well, I guess this red shirt would look nice with the blue pants.
+D	00:16:50.590	00:16:51.357	yeah.
+E	00:16:51.357	00:16:51.980	yeah.
+E	00:16:51.990	00:16:52.769	that's good.
+D	00:16:52.769	00:16:57.769	OK.
+E	00:16:57.779	00:17:05.809	and I think you need to take a jacket or a sweater because the evenings will be cool.
+D	00:17:05.809	00:17:10.549	well, should I take?
+D	00:17:10.549	00:17:18.689	the large tan jacket or should I take the small green sweater?
+E	00:17:19.650	00:17:21.699	I think this will be enough.
+D	00:17:21.709	00:17:24.039	you think so?
+D	00:17:24.049	00:17:27.919	ok, the small green sweater.
+D	00:17:27.919	00:17:28.949	ok.
+D	00:17:28.949	00:17:37.490	Oh, what about?
+D	00:17:37.490	00:17:42.010	what about....... my swimming suit?
+E	00:17:42.020	00:17:43.850	let's see.
+E	00:17:43.850	00:17:48.199	should you take the black bikini?
+E	00:17:48.199	00:17:57.830	or how about your yellow bathing suit?
+D	00:17:57.840	00:18:00.299	I think the black bikini is better.
+E	00:18:00.299	00:18:03.959	oh, I like the yellow bathing suit.
+E	00:18:03.959	00:18:06.120	I think you should take this one.
+E	00:18:06.120	00:18:09.819	I really do.
+E	00:18:09.829	00:18:12.079	alright, ok.
+E	00:18:12.079	00:18:15.380	well, what shoes are you going to take?
+D	00:18:15.380	00:18:23.299	shoes? I don't know.
+D	00:18:23.299	00:18:28.640	should I take the brown shoes or the white shoes?
+E	00:18:28.640	00:18:32.329	um, I think the white ones are better.
+D	00:18:32.329	00:18:33.329	ok.
+D	00:18:33.329	00:18:40.069	I think I can finish packing myself now.
+D	00:18:40.079	00:18:42.319	thank you, sue.
+E	00:18:42.319	00:18:47.228	any time especially when we're going to visit my mother.
+D	00:18:47.228	00:18:52.430	oh, yeah.
+
+E	00:19:18.930	00:19:34.810	Joe, what's the matter?
+E	00:19:34.810	00:19:37.190	are you all right? what's the matter?
+D	00:19:38.020	00:19:40.586	I have a stomach ache.
+D	00:19:40.586	00:19:44.652	well, why do you have a stomachache?
+D	00:19:44.652	00:19:46.370	I don't know.
+D	00:19:46.370	00:19:50.630	I just know that my stomach hurts.
+E	00:19:50.630	00:20:02.770	I think I should take you to the doctor.
+K	00:20:02.770	00:20:05.663	Joe Williams.
+E	00:20:05.663	00:20:06.950	that's us, doctor.
+K	00:20:06.950	00:20:08.230	sit down.
+D	00:20:08.230	00:20:09.350	thank you.
+D	00:20:09.350	00:20:15.850	hold it, please.
+K	00:20:15.850	00:20:18.100	how do you feel today, Joe?
+D	00:20:18.110	00:20:32.220	oh, I have a very very bad stomach ache.
+K	00:20:32.230	00:20:36.290	ok, you have a stomach ache.
+K	00:20:37.420	00:20:39.860	do you have a fever?
+D	00:20:39.860	00:20:42.140	a fever?
+D	00:20:42.140	00:20:46.576	I...... don't know.
+D	00:20:46.576	00:20:50.500	am I hot?
+K	00:20:50.500	00:20:58.240	no, you're not hot.
+K	00:20:58.240	00:21:01.860	you don't have a fever.
+K	00:21:01.870	00:21:04.320	do you have a headache?
+D	00:21:04.330	00:21:11.290	no, just... just my stomach.
+K	00:21:11.290	00:21:14.350	have you been feeling tired?
+D	00:21:14.350	00:21:16.130	hmm tired?
+D	00:21:17.350	00:21:20.890	not very much.
+K	00:21:20.890	00:21:26.170	have you been coughing or sneezing?
+D	00:21:26.170	00:21:31.660	coughing or sneezing?
+D	00:21:31.670	00:21:36.790	no. I have not been coughing or sneezing.
+F	00:21:36.800	00:21:40.630	doctor, do you know what's wrong with Joe?
+K	00:21:40.640	00:21:44.760	well, he has a very bad stomachache.
+K	00:21:45.500	00:21:47.660	but he does not have a headache.
+K	00:21:48.900	00:21:50.790	he does not have a fever.
+K	00:21:51.650	00:21:54.090	he has not been feeling tired.
+K	00:21:54.090	00:22:06.260	and he hasn't been coughing or sneezing.
+K	00:22:06.260	00:22:14.990	have you been eating these?
+D	00:22:14.990	00:22:16.730	yes.
+K	00:22:16.730	00:22:20.370	how many of these have you eaten?
+D	00:22:20.370	00:22:26.900	I don't know.
+D	00:22:26.900	00:22:28.167	twenty.
+E	00:22:28.167	00:22:29.520	twenty
+K	00:22:29.520	00:22:31.070	twenty
+D	00:22:32.070	00:22:39.830	they're... very delicious. very good.
+K	00:22:39.830	00:22:48.320	now I know why you have a stomachache.
+K	00:22:48.320	00:22:52.670	here take three of these.
+K	00:22:52.670	00:22:57.240	every hour for the next two days.
+K	00:22:57.240	00:23:03.309	you will be feeling better by tomorrow.
+
+D	00:23:18.309	00:23:25.630	Sue, I'm sorry.
+D	00:23:25.630	00:23:28.994	Sue, really I'm very sorry.
+E	00:23:28.994	00:23:33.714	I don't believe you.
+D	00:23:33.714	00:23:37.850	Sue, please, please, forgive me.
+E	00:23:38.829	00:23:41.769	can't go to my mother's today.
+D	00:23:41.769	00:23:42.719	what?
+E	00:23:42.719	00:23:45.978	you had to go to the doctor.
+D	00:23:45.978	00:23:48.769	I can't hear you please speak louder.
+E	00:23:48.769	00:23:58.629	I said,we couldn't go to my mother's today because you had to go to the doctor.
+D	00:23:58.639	00:24:00.519	I was sick.
+E	00:24:00.519	00:24:05.529	you ate too many chocolate bars.
+D	00:24:05.529	00:24:08.080	I'm really sorry.
+E	00:24:08.090	00:24:12.179	I don't forgive you.
+D	00:24:12.189	00:24:16.069	sue, please. really I'm sorry.
+D	00:24:16.069	00:24:18.220	please forgive me.
+E	00:24:18.220	00:24:25.209	no, you shouldn't have eaten so many chocolate bars.
+D	00:24:25.209	00:24:28.433	hey, wait a minute.
+D	00:24:27.949	00:24:32.409	you gave me those chocolate bars.
+E	00:24:32.409	00:24:41.209	I oh, I guess I did give you those chocolate bars.
+D	00:24:41.209	00:24:41.959	yeah.
+E	00:24:41.959	00:24:48.049	Oh, Joe. I'm sorry.
+E	00:24:48.049	00:24:52.023	I shouldn't have gotten mad at you for eating the chocolate bars.
+E	00:24:52.023	00:24:53.049	I gave you.
+E	00:24:53.059	00:24:57.039	will you forgive me?
+E	00:24:57.039	00:25:04.049	Joe, I'm really sorry.
+D	00:25:04.059	00:25:12.509	ok, I'll forgive you if you forgive me.
+E	00:25:12.519	00:25:22.890	ok, we will forgive each other.
+D	00:25:22.900	00:25:26.200	ok, so.
+D	00:25:26.200	00:25:29.140	what do you want to do, now?
+E	00:25:29.140	00:25:33.040	hmm. well, I am quite hungry actually.
+E	00:25:33.050	00:25:35.420	how about we eat some chocolate bars?
+D	00:25:35.420	00:25:40.160	Oh, Sue. no more chocolate.
+E	00:25:40.610	00:25:56.270	I'm just kidding.
+
+B	00:25:56.280	00:26:01.510	Mary! Mary! wake up. it's ten to ten we're late.
+A	00:26:01.510	00:26:07.809	that's nine dear. not nine fifty
+A	00:26:07.809	00:26:09.809	oh, we are late.
+B	00:26:09.819	00:26:14.500	and we have to leave the house to go to the airport at fifteen after ten
+A	00:26:14.500	00:26:17.549	oh! that means we only have twenty-five minutes to get ready.
+A	00:26:17.559	00:26:18.860	Oh!
+C	00:26:18.860	00:26:21.819	mum! dad! what time is it?
+A	00:26:21.819	00:26:22.299	oh.
+B	00:26:22.299	00:26:27.210	it's nine  fifty two that means we only have twenty-three minutes to get to the airport.
+B	00:26:27.210	00:26:50.939	let's go.
+F	00:26:50.939	00:26:52.799	Mary you know what time it is?
+F	00:26:52.799	00:26:53.730	it's ten three
+F	00:26:53.730	00:26:57.040	we have to go to your the report at ten fifteen
+A	00:26:57.040	00:26:58.990	can you please take our bags to the car?
+F	00:26:58.990	00:27:00.100	sure, sure.
+A	00:27:00.100	00:27:02.069	ok?
+C	00:27:02.069	00:27:04.540	Dad, what time do we have to be at the airport?
+B	00:27:04.540	00:27:07.260	at half past eleven
+C	00:27:07.260	00:27:10.530	eleven thirty
+A	00:27:10.530	00:27:12.970	ok. Do you think we will make it?
+B	00:27:12.970	00:27:14.670	I sure hope so.
+A	00:27:14.670	00:27:18.240	Tina are you did you pack all of your suitcases?
+C	00:27:18.240	00:27:20.271	yeah, they're all packed.
+A	00:27:20.271	00:27:22.090	ok. are you sure you got everything?
+C	00:27:22.090	00:27:22.590	yes.
+A	00:27:22.600	00:27:27.330	ok, you got your toothbrush, your toothpaste, your hairdryer, your makeup.
+C	00:27:27.340	00:27:28.410	yes.
+C	00:27:28.410	00:27:30.370	yes and yes.
+A	00:27:30.370	00:27:32.620	ok, so David did you get everything?
+B	00:27:32.620	00:27:38.079	yes, I have my shoes my clothes a book to read on the plane and all of our money.
+A	00:27:38.079	00:27:40.689	ok, ok, so everyone got everything, right?
+B	00:27:40.689	00:27:44.970	yes. we're sure we have everything.
+F	00:27:44.970	00:27:46.840	ok, i think this is everything.
+F	00:27:46.840	00:27:47.439	let's go.
+A	00:27:47.439	00:27:51.770	all right.
+
+A	00:27:57.350	00:28:03.649	attention please. flight seven hundred and fourty seven is now boarding at gate thirty nine
+A	00:28:03.649	00:28:10.220	flight seven hundred and fourty seven is now boarding at gate thirty nine
+B	00:28:10.220	00:28:11.399	excuse me.
+C	00:28:11.399	00:28:14.130	yes, ma'am. can I help you?
+B	00:28:14.130	00:28:18.470	yes. we are late for a flight to Florida.
+C	00:28:18.470	00:28:24.510	ok, and what is your flight number our flight number?
+B	00:28:23.340	00:28:26.799	our flight number is one thousand two hundred and fifty
+C	00:28:26.809	00:28:30.139	your flight is at one thousand two hundred and fifty
+B	00:28:30.139	00:28:34.939	no, no. our flight is at eleven thirty
+B	00:28:34.949	00:28:37.939	our flight number there is one thousand two hundred and fifty
+C	00:28:37.939	00:28:45.379	ok. how many tickets do you need for your flight?
+B	00:28:45.389	00:28:53.699	we have six tickets for our flight to Florida at eleven thirty flight one thousand two hundred and fifty
+C	00:28:53.699	00:29:03.439	ok. you have twelve tickets for flight eleven thirty that leaves at a half past six.
+B	00:29:03.439	00:29:16.039	no, no. we have six tickets at eleven thirty for flight number one thousand two hundred and fifty
+C	00:29:16.039	00:29:20.179	wow! you need to hurry.
+C	00:29:20.179	00:29:22.169	it's eleven o'clock.
+B	00:29:22.169	00:29:29.539	I know could you hurry as quickly as possible please?
+C	00:29:29.549	00:29:35.959	ok, that's six tickets.
+B	00:29:35.959	00:29:36.959	yes.
+C	00:29:36.959	00:29:45.510	and it is flight number one thousand two hundred and fifty
+B	00:29:48.970	00:29:49.949	yes.
+C	00:29:49.949	00:29:54.299	ok, and it leaves eleven thirty
+B	00:29:54.299	00:29:56.669	yes, yes, yes.
+C	00:29:56.669	00:30:03.390	ok, I'm sorry ma'am, but that flight has been delayed.
+C	00:30:03.390	00:30:09.209	it does not leave for another one hour and forty-five minutes.
+B	00:30:09.209	00:30:11.069	what?
+B	00:30:11.069	00:30:16.709	you mean we got up very quickly.
+B	00:30:16.709	00:30:19.829	we got ready very quickly.
+B	00:30:19.829	00:30:24.010	we came to the airport very quickly.
+B	00:30:24.010	00:30:33.840	and you are telling me that our flight does not leave for another hour and forty-five minutes.
+C	00:30:33.840	00:30:36.000	yeah.
+C	00:30:36.000	00:30:38.039	but that's good.
+B	00:30:38.039	00:30:40.500	how is that good?
+C	00:30:40.500	00:30:47.960	now, you're not late.
+
+A	00:30:53.110	00:30:56.020	I'm so tired.
+B	00:30:56.020	00:30:59.480	And, more than tired I'm exhausted.
+C	00:30:59.480	00:31:02.980	I think everybody's tired.
+D	00:31:02.980	00:31:05.930	I'm a little tired but not too much.
+E	00:31:05.930	00:31:11.070	yes me, too. I think we should cover somewhere tonight.
+F	00:31:11.080	00:31:15.460	how about going out to a movie?
+D	00:31:14.920	00:31:15.460	No.
+F	00:31:15.460	00:31:17.750	sorry, I think you'd like to go.
+E	00:31:17.750	00:31:20.320	I'd like to go see the beach.
+E	00:31:20.320	00:31:24.290	sweetheart, you're a little late it's dark outside already.
+C	00:31:24.290	00:31:28.800	I would like to take a shower before we go out.
+B	00:31:28.810	00:31:34.450	yes, David is right I think we all need a shower before we go out.
+E	00:31:34.450	00:31:39.581	all right after everyone's had a shower, we'll go out to eat.
+A	00:31:39.580	00:31:42.660	could we eat pizza?
+B	00:31:42.670	00:31:45.890	Tina dear, we had pizza last night.
+B	00:31:45.890	00:31:49.200	we need to try something different tonight.
+F	00:31:49.210	00:31:52.070	how about Chinese food?
+F	00:31:52.070	00:31:55.290	Can we go get find Chinese food?
+C	00:31:55.300	00:31:56.570	sounds good.
+C	00:31:56.570	00:32:01.130	ok, let's take a shower first.
+C	00:32:01.130	00:32:04.720	and then we'll all go out to eat Chinese food.
+A	00:32:04.720	00:32:05.830	mom.
+B	00:32:05.830	00:32:07.390	yes Tina.
+A	00:32:07.390	00:32:17.590	if I don't want Chinese food, could i order a pizza?
+
+A	00:32:24.329	00:32:33.929	oh, hello.
+B	00:32:33.929	00:32:34.559	hi.
+A	00:32:34.559	00:32:37.299	hi, hello, good evening.
+B	00:32:37.309	00:32:40.260	hi, there's six of us.
+A	00:32:40.260	00:32:44.840	ah! you want to kick a bus?
+B	00:32:44.840	00:32:47.939	no. I said there are six of us.
+A	00:32:47.939	00:32:52.110	oh, there are six of you.
+B	00:32:52.110	00:32:52.679	yes.
+B	00:32:52.679	00:32:55.069	is there a table free?
+A	00:32:55.069	00:32:57.600	huh, you cannot see.
+B	00:32:57.600	00:33:01.079	no, no. is there a table free?
+A	00:33:01.079	00:33:06.939	oh, yes, please come.
+B	00:33:06.949	00:33:10.760	excuse me. how much is the soup?
+A	00:33:10.760	00:33:13.019	you are a very large group.
+B	00:33:13.019	00:33:15.630	no, I asked you.
+B	00:33:15.630	00:33:17.850	how much is the soup.
+A	00:33:17.850	00:33:22.970	oh! it is three dollars.
+B	00:33:22.970	00:33:25.250	and what about the rice?
+A	00:33:25.250	00:33:30.380	it is one dollar a plate.
+B	00:33:30.380	00:33:36.980	ok, I think we would like six bowls of soup.
+B	00:33:36.980	00:33:44.270	six plates of rice and one large duck.
+A	00:33:51.519	00:33:52.730	hi, honey.
+A	00:33:52.730	00:33:54.519	I'm home.
+B	00:33:54.529	00:33:55.939	where have you been?
+B	00:33:55.939	00:33:58.159	you've been gone for a long time.
+A	00:33:58.159	00:34:00.860	well. I went to the doctor.
+B	00:34:00.860	00:34:02.230	to the doctor.
+B	00:34:02.230	00:34:04.289	sue, are you sick?
+B	00:34:04.299	00:34:09.259	why didn't you tell me you weren't feeling well I could go to the doctor with you?
+A	00:34:09.259	00:34:11.769	Joe, dear, I'm not sick.
+B	00:34:11.779	00:34:13.100	you're not sick.
+A	00:34:13.100	00:34:14.229	no.
+B	00:34:14.229	00:34:20.789	Well, if you're not sick why did you go to the doctor?
+A	00:34:20.799	00:34:30.430	darling, we're going to have a baby.
+B	00:34:33.440	00:34:33.709	a baby?
+B	00:34:31.430	00:34:33.709	we're going to have a baby.
+B	00:34:37.509	00:34:39.999	oh, I'm so happy.
+A	00:34:40.009	00:34:41.690	I know I'm excited, too.
+B	00:34:41.690	00:34:44.749	I'm going to call all of our friends on the telephone.
+A	00:34:44.749	00:34:45.130	ok.
+B	00:34:45.140	00:34:46.809	I'm going to tell them the good news.
+A	00:34:46.819	00:34:47.380	ok.
+B	00:34:47.819	00:34:49.380	a baby?
+A	00:34:49.819	00:34:51.380	yes.
+B	00:34:56.380	00:34:58.689	hello, Kathy.
+C	00:34:58.699	00:34:59.120	yes.
+B	00:34:59.120	00:35:00.229	this is Joe.
+B	00:35:00.229	00:35:02.870	sue is going to have a baby.
+C	00:35:02.870	00:35:05.259	a baby?
+C	00:35:05.269	00:35:10.940	oh! sue, this is great.
+C	00:35:10.940	00:35:12.390	congratulations.
+A	00:35:12.400	00:35:14.530	thanks Kathy.
+C	00:35:14.530	00:35:17.239	I'm so happy for you and Joe.
+C	00:35:17.239	00:35:19.390	this is terrific news.
+C	00:35:19.390	00:35:22.430	we must have a congratulations party.
+C	00:35:22.430	00:35:23.570	we can invite everyone.
+B	00:35:23.570	00:35:26.170	oh! that is a terrific idea!
+B	00:35:26.180	00:35:30.530	we can invite your family and we can invite the white family also.
+A	00:35:30.530	00:35:32.229	yes, definitely.
+C	00:35:32.239	00:35:33.320	this is fantastic.
+C	00:35:33.320	00:35:35.199	congratulations, Joe.
+C	00:35:35.209	00:35:36.920	congratulations, sue.
+A	00:35:36.920	00:35:41.800	thank you.
+
+A	00:36:15.570	00:36:17.570	oh.
+A	00:36:17.570	00:36:19.530	Mary this is so beautiful.
+A	00:36:19.530	00:36:20.880	thank you very much.
+C	00:36:20.880	00:36:22.880	you're welcome.
+A	00:36:44.630	00:36:46.655	Wow! beautiful!
+A	00:36:46.650	00:36:49.800	happy thank you for the lovely baby clothes.
+G	00:36:49.800	00:36:51.410	they're perfect.
+G	00:36:51.410	00:36:53.300	It's my pleasure.
+A	00:36:53.910	00:37:00.340	and Jack it's so nice of you to give your ball for the baby to play with thank you.
+C	00:37:00.340	00:37:02.220	Don't mention it.
+A	00:37:02.220	00:37:06.130	and David I can't thank you enough to the lovely toy you made.
+A	00:37:06.130	00:37:08.560	are you sure it wasn't too difficult for you?
+D	00:37:08.560	00:37:09.616	no problem.
+D	00:37:09.616	00:37:11.019	think nothing of it.
+A	00:37:11.019	00:37:16.200	I want you all to know we appreciate these gifts so much.
+A	00:37:16.210	00:37:17.320	they are really lovely.
+A	00:37:17.320	00:37:19.860	thank you.
+A	00:37:19.860	00:37:24.810	sure, we are really so lucky to have such good friends.
+A	00:37:24.810	00:37:27.009	god bless you all thank you.
+D	00:37:27.009	00:37:31.620	I want to thank everyone also when our family moved into this apartment.
+D	00:37:31.620	00:37:36.100	we didn't know anyone but now we have many new friends.
+E	00:37:36.100	00:37:40.860	I agree you're all very special to me.
+A	00:37:40.860	00:37:45.009	and Tina you know how you can be a good friend to me in the future.
+E	00:37:45.009	00:37:45.640	how?
+A	00:37:45.640	00:37:48.540	you can help me take care of the baby in your free time?
+B	00:37:48.550	00:37:54.989	you know I'm so glad you have moved into our apartment building.
+B	00:37:54.999	00:37:58.489	I think we've become very good friends.
+D	00:37:58.499	00:38:00.060	yes, we have.
+D	00:38:00.060	00:38:06.690	and I think we will all be friends for a very long time.
+

@@ -1,0 +1,408 @@
+A	00:00:04.720	00:00:06.560	hi! are you mr. rashid?
+B	00:00:06.560	00:00:07.600	uh yes, i am.
+A	00:00:07.600	00:00:09.090	it's a pleasure to meet you.
+A	00:00:08.800	00:00:11.759	i'm james evans, president of top-notch travel.
+C	00:00:11.759	00:00:14.979	welcome to top notch. i'm marie, the receptionist.
+B	00:00:14.799	00:00:15.920	it's nice to meet you.
+D	00:00:15.920	00:00:17.039	hi i'm paul.
+D	00:00:17.039	00:00:18.480	i'm a tour guide.
+B	00:00:18.480	00:00:19.359	glad to meet you.
+E	00:00:19.359	00:00:21.119	hi, i'm cheryl.
+B	00:00:21.119	00:00:22.630	the office manager.
+E	00:00:22.640	00:00:23.359	yes!
+A	00:00:23.359	00:00:24.080	pleasure.
+A	00:00:24.080	00:00:26.320	bob? bob is...
+B	00:00:26.320	00:00:27.680	a chef.
+A	00:00:27.680	00:00:29.470	no, bob is not a chef.
+A	00:00:32.480	00:00:33.840	bob is a...
+A	00:00:33.840	00:00:35.510	doctor?
+A	00:00:35.520	00:00:38.350	no, bob is not a doctor.
+A	00:00:39.360	00:00:41.239	bob is not a singer.
+A	00:00:42.239	00:00:44.719	he's not an architect.
+A	00:00:44.719	00:00:46.239	he's not an athlete...
+A	00:00:46.239	00:00:47.434	bob!
+F	00:00:47.520	00:00:48.590	hi...
+F	00:00:49.600	00:00:51.360	i'm the mailman.
+A	00:00:51.360	00:00:52.559	this is bob.
+A	00:00:52.559	00:00:53.280	bob is...
+B	00:00:53.280	00:00:54.430	an actor!
+
+D	00:00:59.440	00:01:00.120	this is good coffee.
+F	00:01:01.120	00:01:02.710	it is good.
+D	00:01:10.720	00:01:11.400	who's that?
+F	00:01:12.400	00:01:14.720	that's your friend david ducain.
+F	00:01:14.720	00:01:16.200	he's a writer from france.
+E	00:01:17.200	00:01:19.030	that's not david ducain.
+E	00:01:19.040	00:01:21.140	that's arturo montoya.
+E	00:01:21.520	00:01:23.520	he's mr. evans neighbor.
+E	00:01:23.520	00:01:25.690	he's a doctor from mexico.
+C	00:01:27.040	00:01:28.240	no.
+C	00:01:28.240	00:01:30.469	that's jeff davis.
+C	00:01:30.479	00:01:32.079	he's an artist.
+F	00:01:32.079	00:01:32.960	no.
+F	00:01:32.960	00:01:34.710	that's alan reece.
+F	00:01:34.720	00:01:36.560	he's our lawyer.
+E	00:01:36.560	00:01:38.109	that's not alan reece.
+C	00:01:39.119	00:01:43.980	oh! it's clark thomas from england.
+C	00:01:43.680	00:01:45.590	he's a musician!
+D	00:01:45.600	00:01:46.439	excuse me.
+G	00:01:47.439	00:01:48.560	yes?
+D	00:01:48.560	00:01:49.030	who's that?
+G	00:01:51.040	00:01:53.310	that's... mr. evans.
+G	00:01:56.320	00:01:58.799	he's your boss.
+F	00:01:58.799	00:02:01.870	that's not mr. evans.
+A	00:02:04.880	00:02:06.290	hey, guys!
+D	00:02:10.736	00:02:12.235	musician!
+
+H	00:02:31.440	00:02:32.560	excuse me.
+H	00:02:32.560	00:02:34.550	how do i get to the red cafe?
+A	00:02:34.560	00:02:35.319	the red cafe?
+A	00:02:36.319	00:02:37.470	let's see.
+A	00:02:38.480	00:02:41.040	go to the corner and turn left.
+H	00:02:41.040	00:02:41.990	left.
+A	00:02:42.000	00:02:44.560	go two blocks and turn right.
+H	00:02:44.560	00:02:45.670	right.
+A	00:02:45.680	00:02:48.470	around the corner is a train station.
+H	00:02:48.480	00:02:49.430	take the train.
+A	00:02:49.440	00:02:51.020	don't take the train!
+A	00:02:51.120	00:02:55.470	go through the station, across the street to the bookstore.
+A	00:02:56.480	00:02:58.960	next to the bookstore is a pharmacy.
+A	00:02:59.360	00:03:02.239	next to the pharmacy is the red cafe.
+H	00:03:02.239	00:03:02.280	yes!
+A	00:03:03.280	00:03:04.670	got it!
+A	00:03:05.680	00:03:06.159	let's do it again.
+A	00:03:08.159	00:03:08.509	corner.
+A	00:03:09.492	00:03:10.289	left.
+A	00:03:10.959	00:03:12.239	two blocks.
+A	00:03:12.239	00:03:13.350	right.
+A	00:03:13.360	00:03:14.879	around the corner.
+A	00:03:14.879	00:03:16.149	don't take the train!
+A	00:03:16.159	00:03:18.959	through the station, across the street.
+A	00:03:18.959	00:03:20.239	bookstore.
+A	00:03:20.239	00:03:21.430	pharmacy.
+A	00:03:21.440	00:03:22.879	red cafe!
+H	00:03:22.879	00:03:23.920	thank you very much.
+A	00:03:23.920	00:03:24.906	you're very welcome.
+
+C	00:03:42.000	00:03:43.502	is this your family?
+E	00:03:43.667	00:03:44.233	yes.
+C	00:03:48.799	00:03:50.080	who's this?
+E	00:03:50.080	00:03:51.830	my brother.
+C	00:03:51.840	00:03:54.480	he's so handsome.
+C	00:03:54.480	00:03:55.970	how old is he?
+E	00:03:55.680	00:03:57.080	he's Thirty-four.
+C	00:03:58.080	00:03:59.350	oh!
+E	00:03:59.360	00:04:00.720	he's a doctor.
+C	00:04:00.720	00:04:03.350	oh!!
+E	00:04:03.360	00:04:04.519	that's his wife.
+C	00:04:05.519	00:04:06.949	oh.
+C	00:04:06.959	00:04:08.710	she's very pretty.
+C	00:04:10.720	00:04:11.840	who's this?
+E	00:04:11.840	00:04:13.830	that's my mother.
+C	00:04:13.840	00:04:15.680	your mother.
+C	00:04:15.680	00:04:18.959	but she's so old.
+E	00:04:18.959	00:04:20.949	she's not old.
+E	00:04:20.959	00:04:22.680	she's FIFTY-EIGHT.
+C	00:04:23.680	00:04:24.830	ok.
+C	00:04:25.840	00:04:27.120	who's this.
+C	00:04:27.120	00:04:29.030	is he a doctor too?
+E	00:04:29.040	00:04:31.919	no, he's an architect.
+E	00:04:31.919	00:04:34.990	that's my sister's husband.
+C	00:04:36.000	00:04:37.360	who's this?
+E	00:04:37.360	00:04:39.590	that's my sister's son.
+E	00:04:39.600	00:04:41.280	he's a university student.
+C	00:04:42.000	00:04:45.199	he's so cute!
+E	00:04:45.199	00:04:47.230	he's so young.
+C	00:04:52.240	00:04:54.810	who's this short old woman?
+C	00:04:57.520	00:04:58.110	what?
+E	00:05:00.000	00:05:02.590	that is not a short old woman.
+E	00:05:03.600	00:05:04.110	that's me.
+C	00:05:07.447	00:05:08.173	OH!
+C	00:05:09.120	00:05:10.029	sorry.
+
+E	00:05:25.039	00:05:26.240	you're late.
+F	00:05:26.240	00:05:27.310	what time is it?
+E	00:05:28.320	00:05:29.919	two minutes after six.
+F	00:05:29.919	00:05:31.510	i'm not late.
+F	00:05:31.520	00:05:33.840	two minutes is not late.
+E	00:05:33.840	00:05:34.950	yes, it is.
+E	00:05:34.960	00:05:36.590	it's two minutes late.
+F	00:05:41.600	00:05:42.639	oh, look!
+F	00:05:42.639	00:05:44.000	it's five to six.
+F	00:05:44.000	00:05:45.830	i'm early.
+E	00:05:49.840	00:05:56.639	so for your birthday on saturday, there's a great french movie at the avalon.
+F	00:05:56.639	00:05:59.870	there's a baseball game on saturday night.
+E	00:06:00.880	00:06:04.960	or there's a play at the art center at EIGHT p.m.
+E	00:06:04.960	00:06:06.160	life is a dream.
+F	00:06:06.160	00:06:08.908	the tigers are playing the giants.
+F	00:06:08.927	00:06:10.061	you know, baseball?
+E	00:06:10.914	00:06:11.523	oh,look!
+E	00:06:11.544	00:06:13.591	there's a mozart concert on saturday.
+E	00:06:14.088	00:06:15.149	would you like to go?
+F	00:06:15.807	00:06:16.360	what time?
+E	00:06:17.635	00:06:18.555	half past seven.
+F	00:06:18.916	00:06:20.636	the ball games at seven.
+E	00:06:21.817	00:06:23.410	oh,wow!
+E	00:06:23.543	00:06:26.933	there's a talk by the writer ellen lee at the university on...
+F	00:06:26.947	00:06:28.490	on saturday night.
+F	00:06:33.308	00:06:35.489	is your birthday on saturday?
+E	00:06:36.359	00:06:36.984	no.
+E	00:06:38.130	00:06:39.323	it's your birthday.
+E	00:06:44.307	00:06:46.849	would you like to go to a baseball game for your birthday?
+F	00:06:46.800	00:06:48.539	a baseball game!
+F	00:06:49.189	00:06:50.761	that sounds great!
+
+E	00:07:03.475	00:07:04.977	do you like this blouse?
+F	00:07:05.500	00:07:05.870	yes.
+D	00:07:06.370	00:07:07.959	that blouse is beautiful!
+E	00:07:09.909	00:07:10.673	thank you!
+E	00:07:17.668	00:07:18.968	what about these shoes?
+E	00:07:19.024	00:07:19.732	do you like them?
+F	00:07:20.602	00:07:21.589	i like those shoes.
+D	00:07:21.718	00:07:23.454	i really like those shoes.
+E	00:07:31.780	00:07:33.401	and what about this dress?
+F	00:07:34.820	00:07:36.207	i really like that dress?
+E	00:07:36.791	00:07:37.262	you do?
+F	00:07:37.644	00:07:40.668	you look like a movie star...julia roberts!
+E	00:07:42.203	00:07:42.988	i see.
+E	00:07:49.062	00:07:50.273	and this skirt?
+F	00:07:50.543	00:07:52.433	that skirt is very nice.
+E	00:07:54.088	00:07:54.651	bob.
+E	00:07:56.591	00:07:57.079	bob!
+F	00:07:58.960	00:07:59.270	what?
+E	00:08:03.830	00:08:05.095	what about these sweater?
+F	00:08:05.388	00:08:06.592	i like those sweaters.
+F	00:08:06.608	00:08:07.836	those sweaters are very nice!
+E	00:08:08.698	00:08:09.174	thank you!
+
+E	00:08:21.061	00:08:21.551	hi.
+I	00:08:21.922	00:08:22.708	hi.
+E	00:08:26.949	00:08:29.404	welcome to my new apartment, mom!
+I	00:08:31.040	00:08:34.101	i liked your old apartment at twenty four oak street better.
+E	00:08:35.120	00:08:38.310	that's because you live at twenty TWO oak street.
+I	00:08:40.560	00:08:42.809	your old apartment had such a nice view.
+E	00:08:44.207	00:08:46.446	the view here is nice too, mom.
+E	00:08:47.239	00:08:49.502	the park is just across the street.
+E	00:08:50.279	00:08:52.876	and my office is around the corner.
+I	00:08:55.259	00:08:56.431	nice refrigerator.
+I	00:08:58.339	00:09:00.115	it's very small, isn't it?
+E	00:09:00.520	00:09:01.593	the refrigerator?
+I	00:09:02.140	00:09:02.885	the kitchen.
+E	00:09:05.068	00:09:06.787	it's a little small.
+E	00:09:07.863	00:09:08.978	but i like it.
+E	00:09:10.515	00:09:12.511	there's the dining room.
+E	00:09:16.363	00:09:17.371	the office.
+E	00:09:19.769	00:09:23.111	and the living room.
+I	00:09:26.745	00:09:27.794	the chairs are nice.
+I	00:09:28.618	00:09:29.775	i like the sofa.
+I	00:09:32.728	00:09:34.766	why is the dresser in the living room?
+E	00:09:36.417	00:09:38.979	there's no place else for it to go.
+I	00:09:39.949	00:09:42.038	but where are the other rooms, honey?
+E	00:09:42.796	00:09:45.849	mom, it's a studio apartment.
+E	00:09:46.840	00:09:48.198	there are no other rooms.
+I	00:09:49.058	00:09:49.837	this is it?
+E	00:09:51.432	00:09:52.115	this is it!
+I	00:09:53.845	00:09:55.797	but where's the bedroom?
+E	00:10:01.269	00:10:02.036	tada!
+I	00:10:04.338	00:10:06.617	i'm afraid to ask about the bathroom.
+E	00:10:07.022	00:10:08.573	OH, MOM!
+E	00:10:13.956	00:10:15.044	i think it's nice.
+
+C	00:10:21.839	00:10:24.320	paul, you're late again.
+D	00:10:24.411	00:10:26.800	sorry. i never get up before EIGHT forty five
+C	00:10:27.023	00:10:28.176	EIGHT forty five
+C	00:10:28.160	00:10:29.279	that's late!
+D	00:10:29.490	00:10:30.228	what time do you get up?
+C	00:10:30.533	00:10:31.295	FIVE a.m.
+D	00:10:31.683	00:10:32.564	FIVE a.m.?!
+D	00:10:32.800	00:10:34.320	that's early!
+D	00:10:34.320	00:10:35.680	what do you do in the morning?
+C	00:10:35.680	00:10:39.880	well, after i get up i usually make breakfast
+C	00:10:40.880	00:10:43.760	take out the garbage, do the laundry...
+D	00:10:43.760	00:10:45.040	the laundry?
+C	00:10:45.040	00:10:46.000	yes.
+C	00:10:46.000	00:10:48.880	then i read the newspaper, check my e-mail
+C	00:10:48.880	00:10:50.240	sometimes i take a nap...
+D	00:10:50.240	00:10:52.069	you take a nap in the morning?
+C	00:10:52.079	00:10:53.920	just FIFTEEN minutes.
+C	00:10:53.920	00:10:57.760	on monday, wednesday, and friday i exercise.
+C	00:10:57.760	00:11:00.069	and on the other days i clean the house.
+C	00:11:00.079	00:11:05.110	then i take a shower, get dressed, put on my makeup, and go to work.
+D	00:11:05.120	00:11:06.320	wow.
+D	00:11:06.320	00:11:08.000	you never sleep late?
+C	00:11:08.000	00:11:10.470	on the weekends i sleep 'till six
+D	00:11:10.480	00:11:11.930	that's really late.
+D	00:11:12.399	00:11:14.560	you do laundry in the morning?
+C	00:11:14.560	00:11:15.600	and the evening.
+C	00:11:15.600	00:11:18.640	why, when do you do the laundry?
+D	00:11:18.640	00:11:21.040	usually in march.
+D	00:11:21.040	00:11:22.079	and september.
+
+E	00:11:31.519	00:11:33.839	what are you doing this weekend?
+E	00:11:33.839	00:11:36.069	do you want to go shopping with me?
+C	00:11:36.079	00:11:37.680	that sounds great.
+C	00:11:37.680	00:11:39.750	when do you want to go?
+E	00:11:39.760	00:11:43.750	how about saturday morning?
+C	00:11:43.760	00:11:47.200	i'm making breakfast for some friends at nine
+C	00:11:47.200	00:11:51.480	then i'm doing laundry from eleven to noon.
+E	00:11:52.480	00:11:54.949	saturday afternoon?
+C	00:11:54.959	00:11:58.639	i'm taking an art class from one to three
+C	00:11:58.639	00:12:01.230	how about three thirty
+E	00:12:02.240	00:12:03.279	no,
+E	00:12:03.279	00:12:07.360	i'm exercising with a friend from three to four
+E	00:12:07.360	00:12:10.710	then i'm going to the movies at five with my sister.
+C	00:12:12.720	00:12:13.959	sunday morning?
+E	00:12:14.959	00:12:17.910	i'm visiting my parents until ten
+E	00:12:17.920	00:12:23.269	then i'm meeting a friend at the art museum until one
+C	00:12:25.279	00:12:26.120	sunday afternoon?
+E	00:12:27.120	00:12:31.110	i'm going to a baseball game with bob at ONE
+E	00:12:31.120	00:12:33.710	how about late afternoon?
+C	00:12:34.720	00:12:36.200	around FIVE
+E	00:12:37.200	00:12:38.190	great.
+F	00:12:41.200	00:12:42.480	hey.
+F	00:12:42.480	00:12:44.829	do you want to play basketball tomorrow?
+D	00:12:50.839	00:12:45.550	ok.
+
+F	00:12:54.560	00:12:57.750	tonight, i'm cooking.
+E	00:12:59.760	00:13:01.200	what are you making?
+F	00:13:01.200	00:13:04.949	bob's famous vegetable soup.
+F	00:13:04.959	00:13:06.870	do you have any vegetables?
+E	00:13:10.880	00:13:13.230	i have some onions,
+E	00:13:14.240	00:13:15.440	tomatoes
+F	00:13:15.440	00:13:16.880	how many tomatoes?
+E	00:13:16.880	00:13:17.310	two.
+E	00:13:18.320	00:13:20.230	i have some beans,
+E	00:13:22.240	00:13:23.269	some peas,
+E	00:13:25.279	00:13:27.279	one cabbage,
+E	00:13:27.279	00:13:29.440	and a potato.
+F	00:13:29.440	00:13:30.629	great!
+E	00:13:32.639	00:13:33.839	you want them all?
+F	00:13:33.839	00:13:35.230	it's vegetable soup.
+F	00:13:36.240	00:13:39.310	pass those bananas, please.
+C	00:13:40.320	00:13:42.040	bananas are fruit.
+F	00:13:43.040	00:13:43.949	yes.
+C	00:13:44.959	00:13:47.750	you put bananas in your vegetable soup?
+F	00:13:47.760	00:13:50.069	sounds good, doesn't it?
+F	00:13:50.079	00:13:53.829	now do you have any sugar?
+E	00:13:53.839	00:13:57.030	yes.
+F	00:13:57.040	00:13:59.680	and i need a lemon.
+F	00:13:59.680	00:14:02.550	oh, and do you have any coffee?
+E	00:14:08.560	00:14:10.959	do you have a recipe for this?
+F	00:14:10.959	00:14:13.829	go watch tv, please.
+F	00:14:58.000	00:14:58.720	come.
+F	00:14:58.720	00:14:59.230	have a taste.
+
+C	00:15:15.519	00:15:18.550	well, hello, dr. anderson! welcome back.
+J	00:15:18.560	00:15:19.839	thank you very much.
+C	00:15:19.839	00:15:21.600	how was your trip to london?
+J	00:15:21.600	00:15:23.120	it was fine, thank you.
+C	00:15:23.120	00:15:26.629	did you visit lots of museums?
+J	00:15:26.639	00:15:29.910	no. i didn't visit any.
+C	00:15:29.920	00:15:33.590	did you eat in some good restaurants?
+J	00:15:33.600	00:15:38.470	no. i ate in the same bad restaurant every day.
+C	00:15:38.480	00:15:42.710	did you see any plays or concerts?
+J	00:15:42.720	00:15:43.079	no.
+J	00:15:44.079	00:15:48.000	but i watch tv in the hotel room at night.
+C	00:15:48.000	00:15:52.240	did you take some nice walks around london?
+J	00:15:52.240	00:15:54.639	actually, no.
+J	00:15:54.639	00:15:57.399	i sat in a chair for four days.
+C	00:15:58.399	00:16:03.829	dr. anderson, that doesn't sound like a very nice vacation.
+J	00:16:03.839	00:16:05.279	vacation?
+J	00:16:05.279	00:16:08.880	i went to london for business, not for vacation.
+J	00:16:08.880	00:16:11.350	i met doctors from all over the world.
+J	00:16:11.360	00:16:15.430	we talked about new medicines, and i gave two speeches.
+J	00:16:15.440	00:16:18.240	i always ate at the hotel restaurant.
+J	00:16:18.240	00:16:21.030	so i actually never left the hotel.
+C	00:16:21.040	00:16:22.079	but,
+C	00:16:22.079	00:16:26.470	dr. anderson. you were in london and you didn't see the city.
+J	00:16:26.480	00:16:27.920	no.
+J	00:16:27.920	00:16:30.230	but it looked nice from the airplane.
+
+C	00:16:34.240	00:16:36.480	i'm meeting my sister for lunch.
+E	00:16:36.480	00:16:39.590	aren't you having lunch with mr. evans?
+C	00:16:39.600	00:16:41.440	oh, no!
+C	00:16:41.440	00:16:43.829	i forgot!
+C	00:16:43.839	00:16:48.829	tell him i don't feel well and i'm going to the doctor.
+F	00:16:48.839	00:16:50.110	ok.
+A	00:16:57.120	00:16:58.160	is marie here?
+E	00:16:58.160	00:17:00.470	uh, no.
+E	00:17:00.480	00:17:02.399	she's not feeling so well.
+F	00:17:02.399	00:17:05.839	if she went to the doctor.
+D	00:17:05.839	00:17:07.590	she has a fever.
+D	00:17:07.600	00:17:08.880	and a headache.
+D	00:17:08.880	00:17:10.710	and a stomachache.
+D	00:17:10.720	00:17:12.559	and a toothache.
+A	00:17:12.559	00:17:13.029	that sounds bad!
+C	00:17:17.039	00:17:18.240	i need my jacket.
+A	00:17:18.240	00:17:20.110	you do look awful!
+A	00:17:21.120	00:17:22.959	well, with your fever...
+C	00:17:22.959	00:17:24.789	fever?
+C	00:17:24.799	00:17:27.280	oh, yes, fever.
+A	00:17:27.280	00:17:28.789	and a headache!
+C	00:17:28.799	00:17:29.840	ohhh!
+A	00:17:29.840	00:17:30.840	and stomachache!
+A	00:17:30.840	00:17:32.310	oooh.
+A	00:17:32.320	00:17:35.830	and a toothache!
+A	00:17:35.840	00:17:37.120	you're not going anywhere.
+A	00:17:37.120	00:17:38.400	stay right here.
+A	00:17:38.400	00:17:39.990	i'm calling the doctor.
+C	00:17:40.000	00:17:40.480	yes.
+C	00:17:40.480	00:17:42.029	thank you, mr. evans.
+C	00:17:45.039	00:17:46.750	thank you very much.
+
+A	00:17:53.760	00:17:55.360	marie, could you do me a favor?
+A	00:17:55.360	00:17:59.190	i'm having lunch with a client in an hour, and i spilled coffee on my tie.
+A	00:17:59.200	00:18:01.600	could you go to the store and buy a new tie for me?
+C	00:18:01.600	00:18:03.510	sure, no problem.
+A	00:18:03.520	00:18:06.480	and can you get a newspaper for me at the store on the corner?
+C	00:18:06.480	00:18:07.789	yup.
+A	00:18:08.799	00:18:10.559	this coffee is cold.
+A	00:18:10.559	00:18:12.830	could you buy me a cup of coffee, too?
+C	00:18:12.840	00:18:14.130	sure.
+A	00:18:16.640	00:18:19.990	also, this shirt doesn't look very nice.
+A	00:18:20.000	00:18:21.760	can you buy me a new shirt?
+C	00:18:21.760	00:18:23.470	of course.
+A	00:18:24.480	00:18:26.840	could you get me a new suit, too?
+C	00:18:26.840	00:18:27.710	yes.
+A	00:18:28.720	00:18:31.360	and uh can you play the violin for me after lunch?
+C	00:18:31.360	00:18:32.950	certainly.
+A	00:18:32.960	00:18:34.720	could you fix my car tonight?
+C	00:18:34.720	00:18:36.190	yes, sir.
+A	00:18:37.200	00:18:39.390	you didn't hear me at all, did you?
+C	00:18:40.400	00:18:43.200	i'm sorry, what did you say?
+A	00:18:43.200	00:18:44.630	nothing.
+A	00:18:44.640	00:18:47.669	nothing i'm going to the store to buy a new tie.
+C	00:18:47.679	00:18:48.590	ok.
+C	00:18:53.600	00:18:56.710	can i fix his car tonight?
+C	00:18:56.720	00:19:58.160	yeah, right.
+
+C	00:19:02.640	00:19:05.909	i would like to live in china.
+D	00:19:05.919	00:19:08.680	i'd like to learn to play the guitar.
+C	00:19:12.960	00:19:18.270	if i can't live in china, i'm going to learn to speak chinese.
+D	00:19:19.280	00:19:21.310	i'm going to write a book.
+C	00:19:22.320	00:19:24.799	really? about what?
+D	00:19:24.799	00:19:26.789	i don't know.
+D	00:19:26.799	00:19:27.799	cooking.
+C	00:19:28.799	00:19:30.470	you don't cook.
+D	00:19:30.500	00:19:31.470	i'll learn.
+C	00:19:32.480	00:19:33.600	what about you two?
+C	00:19:33.600	00:19:35.120	what are your plans?
+F	00:19:36.640	00:19:39.230	we're going to go to a movie tonight.
+C	00:19:40.240	00:19:43.669	no, what are your plans for the future?
+E	00:19:43.679	00:19:48.039	well, i'd like to get married and have children.
+C	00:19:49.039	00:19:51.150	what about you bob?
+F	00:19:54.160	00:19:57.390	i'd like to get married and have children, too.
+C	00:19:58.400	00:19:59.440	really?
+C	00:19:59.440	00:20:00.559	you would?
+D	00:20:00.559	00:20:02.390	you want to get married?
+E	00:20:02.400	00:20:06.149	actually, we have some news for you.
+C	00:20:06.159	00:20:07.760	no!
+C	00:20:07.760	00:20:09.990	you're getting married?
+F	00:20:10.000	00:20:15.350	we want you to come to the movie with us.
+C	00:20:15.360	00:20:16.840	oh.
+F	00:20:17.840	00:20:20.070	and we're going to get married.
+C	00:20:20.080	00:20:22.600	i'm so happy for you!
+D	00:20:22.600	00:20:24.350	congratulations!
+D	00:20:25.360	00:20:28.789	can we still come to the movie with you?
+
+

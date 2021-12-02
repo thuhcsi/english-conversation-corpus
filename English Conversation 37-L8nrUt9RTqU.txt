@@ -1,0 +1,415 @@
+A	00:00:01.486	00:00:03.372	let's get miss novak's tickets ready.
+A	00:00:03.372	00:00:05.241	she may be stopping by this afternoon.
+B	00:00:10.262	00:00:12.671	paul, are you ok?
+C	00:00:12.960	00:00:13.569	no.
+C	00:00:13.840	00:00:15.056	i feel awful.
+A	00:00:15.136	00:00:16.157	what's wrong?
+C	00:00:16.394	00:00:18.222	i've got this horrible cold.
+C	00:00:18.606	00:00:21.790	i'm sneezing, my back is killing me.
+C	00:00:22.345	00:00:24.583	i've got this pain at my hip.
+C	00:00:25.309	00:00:27.358	my neck's been bothering me all day.
+C	00:00:28.403	00:00:29.758	and i have a stomachache.
+B	00:00:31.048	00:00:32.819	you may have to go see a doctor.
+C	00:00:32.848	00:00:35.019	no! i hate doctors.
+A	00:00:34.959	00:00:36.494	i wonder what could be wrong?
+D	00:00:37.200	00:00:39.180	maybe he's allergic to work.
+C	00:00:39.280	00:00:42.176	i'm not kidding here. i'm in pain.
+D	00:00:42.176	00:00:44.168	i used to want to be a doctor, you know.
+D	00:00:44.480	00:00:45.029	say "ahhh."
+C	00:00:45.029	00:00:45.866	ahhh-choo!
+D	00:00:47.744	00:00:50.579	now i remember why i didn't become a doctor.
+A	00:00:50.683	00:00:53.648	paul, you really must get some medical help.
+D	00:00:53.600	00:00:56.060	a little acupuncture might help you feel better.
+C	00:00:56.060	00:00:57.451	stay away from me.
+A	00:00:57.745	00:01:01.068	dr. anderson is meeting mr evans downstairs. in the cafe....
+A	00:01:01.696	00:01:02.831	should we ask her to come up?
+A	00:01:03.256	00:01:04.325	she may be able to help.
+B	00:01:04.652	00:01:05.623	great idea.
+B	00:01:05.623	00:01:05.538	i'll go get her.
+D	00:01:07.721	00:01:09.624	you might prefer an herbal remedy.
+C	00:01:10.252	00:01:11.175	stop it.
+A	00:01:11.360	00:01:13.167	how long have you been feeling this way?
+C	00:01:14.147	00:01:15.665	i got the cold last night.
+C	00:01:16.237	00:01:18.751	and the pain in my back started this morning.
+D	00:01:19.045	00:01:21.053	want to try a little spiritual healing?
+C	00:01:21.200	00:01:22.640	you're making me laugh.
+D	00:01:22.817	00:01:24.793	laughter is the best medicine, you know.
+C	00:01:25.250	00:01:26.210	but it hurts!
+
+E	00:01:29.773	00:01:30.271	say "ahhh."
+D	00:01:33.275	00:01:34.589	cover your face, doc.
+C	00:01:35.496	00:01:36.018	ahhh.
+E	00:01:38.884	00:01:42.680	well, you have a cold, that's for sure.
+B	00:01:43.399	00:01:44.672	what about the other stuff?
+B	00:01:44.720	00:01:47.228	the pain in the back and the side...?
+E	00:01:48.379	00:01:50.354	have you taken any medications lately?
+C	00:01:51.677	00:01:58.886	just some over-the-counter stuff pain killer, cold tablets, nasal spray.
+E	00:01:59.498	00:02:00.479	that sounds ok.
+C	00:02:00.543	00:02:05.189	and some cough medicine vitamins, antacid.
+E	00:02:05.752	00:02:06.830	that's a lot of medicine.
+C	00:02:07.238	00:02:09.090	and some decongestant.
+E	00:02:09.614	00:02:11.220	that's too much medicine in one day.
+B	00:02:12.022	00:02:14.039	that must be why you're feeling so bad.
+E	00:02:16.520	00:02:18.317	have you been around anyone else who's sick?
+C	00:02:19.500	00:02:21.745	my friend donna's had a cold all week.
+C	00:02:21.745	00:02:27.183	we lifted weights last night for about an hour ran five miles.
+C	00:02:28.064	00:02:29.428	he had to walk the last mile.
+E	00:02:30.065	00:02:32.147	is that your usual exercise routine?
+C	00:02:32.604	00:02:32.914	yep.
+C	00:02:33.567	00:02:35.118	i started it yesterday.
+E	00:02:36.890	00:02:38.784	well, that explains it.
+E	00:02:38.833	00:02:40.253	you exercised too much.
+C	00:02:41.339	00:02:41.960	that's all.
+E	00:02:42.131	00:02:42.646	that's all.
+D	00:02:44.303	00:02:47.389	a little chiropractic treatment might help you.
+C	00:02:47.462	00:02:49.040	stay away from me.
+
+A	00:02:56.092	00:02:58.835	marie, can i have that information for mr rashid's group?
+A	00:02:58.835	00:03:00.403	he'll be here in a few minutes.
+B	00:03:00.403	00:03:01.836	i'm working as fast as i can.
+B	00:03:10.005	00:03:12.100	mr. evans will be with you very soon.
+F	00:03:12.374	00:03:13.070	that's fine.
+F	00:03:17.948	00:03:19.447	i'm a little early, aren't i?
+B	00:03:20.043	00:03:21.384	just a few minutes.
+F	00:03:23.748	00:03:26.520	is your last name pronounced "le-paige"?
+B	00:03:27.390	00:03:29.291	it's "le-pahge," actually.
+F	00:03:30.886	00:03:32.223	oh, that's beautiful.
+B	00:03:33.689	00:03:34.511	thank you.
+F	00:03:35.188	00:03:40.021	now, is it ms. lepage or mrs. lerpage?
+B	00:03:40.843	00:03:44.871	um, it's ms., but you can call me by my first name.
+F	00:03:46.256	00:03:48.335	do you mind if i call you ms. lepage?
+F	00:03:48.953	00:03:50.445	i love the way it sounds.
+B	00:03:51.477	00:03:52.620	that's fine.
+F	00:03:54.377	00:03:56.246	i'm keeping you from your work, aren't i?
+B	00:03:57.280	00:03:58.405	i'm sorry.
+B	00:03:58.598	00:04:02.803	i'd love to talk, but i really have to get this done right away.
+F	00:04:04.205	00:04:05.075	i understand.
+F	00:04:09.519	00:04:10.843	you're not from here, are you?
+B	00:04:12.720	00:04:13.405	excuse me?
+F	00:04:14.226	00:04:14.935	your accent.
+F	00:04:15.628	00:04:17.191	you come from france, don't you?
+B	00:04:18.319	00:04:18.850	yes.
+B	00:04:19.479	00:04:21.025	paris, actually.
+F	00:04:21.718	00:04:22.620	that's nice.
+F	00:04:28.485	00:04:30.563	it sure is a beautiful day, isn't it?
+B	00:04:32.030	00:04:32.545	mmm-mmm.
+A	00:04:36.863	00:04:38.023	can i have that information?
+B	00:04:38.490	00:04:39.860	i'm not quite done.
+A	00:04:39.957	00:04:41.080	what's taking so long?
+A	00:04:45.402	00:04:48.647	mrs. beatty, i can take you to mr. evan's office.
+A	00:04:48.770	00:04:49.624	he'll be here shortly.
+F	00:04:49.847	00:04:50.655	why, thank you.
+F	00:04:53.780	00:04:55.040	beautiful day, isn't it?
+A	00:04:55.118	00:04:56.455	yes, it is.
+
+G	00:04:59.291	00:05:02.384	paul, we have our first group from india coming next week.
+G	00:05:02.481	00:05:07.475	since mr. rasheed has traveled to india many times, i've asked him to talk to you about etiquette in india.
+G	00:05:07.685	00:05:08.442	mr. rasheed.
+H	00:05:08.716	00:05:12.148	paul, why don't you greet me as if i were an indian tourist?
+H	00:05:12.260	00:05:14.838	ask me to come with you and show me to the tour bus.
+C	00:05:15.889	00:05:16.777	ok. hi, there!
+C	00:05:16.779	00:05:17.602	i'm paul.
+H	00:05:17.680	00:05:20.590	if i were an indian woman you would have just insulted me.
+H	00:05:21.090	00:05:23.266	women and men generally do not touch.
+C	00:05:23.942	00:05:25.891	ok. uh, hi, there.
+H	00:05:26.294	00:05:27.534	you just told me to go away.
+H	00:05:28.372	00:05:29.564	oh, too close.
+H	00:05:29.645	00:05:31.852	you should stand this far away from someone.
+H	00:05:32.416	00:05:35.961	instead of shaking hands do this and say "namaste."
+C	00:05:37.330	00:05:38.023	namaste.
+H	00:05:38.313	00:05:38.909	excellent.
+H	00:05:39.441	00:05:41.439	now tell me to come with you to the tour bus.
+C	00:05:41.906	00:05:42.986	ok. come with me.
+H	00:05:43.520	00:05:45.225	this is a rude gesture in india.
+H	00:05:45.483	00:05:46.288	do it like this.
+B	00:05:47.432	00:05:48.222	come with me.
+H	00:05:48.190	00:05:48.528	good.
+C	00:05:48.770	00:05:50.026	...to the bus over there.
+C	00:05:50.494	00:05:50.767	i know.
+C	00:05:50.945	00:05:52.346	i've just insulted you.
+H	00:05:52.604	00:05:54.973	pointing with your fingers is considered inpolite.
+H	00:05:55.150	00:05:56.680	use your chin instead.
+C	00:05:57.534	00:05:59.017	...to the bus over there.
+C	00:05:59.806	00:06:01.029	i'm never going to get this.
+H	00:06:01.039	00:06:02.400	you're doing wonderfully.
+C	00:06:02.036	00:06:02.980	thank you, mr. 
+H	00:06:02.932	00:06:03.963	oh, too close.
+
+G	00:06:08.136	00:06:10.907	now, about the travel documents for the australian group.
+G	00:06:11.084	00:06:12.953	we've had everything mailed to them, right?
+A	00:06:13.066	00:06:20.445	mr. evans, we gave you the package of travel documents to give to mr. wells the other night at dinner, before he flew home to sydney?
+G	00:06:21.154	00:06:22.878	a white envelope about this big?
+A	00:06:23.039	00:06:23.603	yes.
+G	00:06:24.811	00:06:27.115	i gave it to mr rasheed before he left for lebanon.
+A	00:06:27.164	00:06:32.029	oh, mr. wells needs those documents the day after tomorrow!
+A	00:06:32.642	00:06:35.316	his group is flying in on thursday.
+B	00:06:35.440	00:06:36.790	i'll call the courier.
+B	00:06:36.800	00:06:40.469	if they can pick up a package by five p.m., we should be ok.
+C	00:06:40.472	00:06:42.228	that gives us an hour.
+C	00:06:42.277	00:06:45.273	i'll reprint the tour information, but what about the travel guides?
+C	00:06:45.280	00:06:48.077	i can't print twenty-five copies that fast.
+A	00:06:48.044	00:06:51.428	i'll call copies to go and have them reprint the travel guides.
+B	00:06:51.895	00:06:53.168	they can't do a rest job.
+B	00:06:53.361	00:06:54.441	call harpers instead.
+B	00:06:54.521	00:06:56.648	they're faster and much more reliable.
+B	00:06:57.583	00:06:59.548	hello, national express?
+B	00:07:00.128	00:07:03.657	i need to get a package to australia a.s.a.p.
+C	00:07:03.673	00:07:07.217	if harper's can't make the color copies that fast, we'll take black and white.
+A	00:07:07.652	00:07:10.456	bob, are you reprinting the tickets?
+D	00:07:10.569	00:07:10.810	yep.
+A	00:07:12.019	00:07:12.695	hello.
+A	00:07:12.776	00:07:16.224	i need to get twenty-five color documents printed right away.
+G	00:07:16.465	00:07:17.626	yes, it's very much a hurry.
+A	00:07:18.077	00:07:19.462	who are you calling, mr. evans?
+G	00:07:19.833	00:07:20.397	what's that?
+G	00:07:21.283	00:07:22.233	oh, uh... my tailor.
+A	00:07:22.975	00:07:24.167	your tailor?
+G	00:07:25.424	00:07:27.270	these sleeves are too long they're driving me crazy.
+G	00:07:37.395	00:07:39.860	thank you, everyone, for fixing my mistake with mr. wells.
+G	00:07:40.891	00:07:44.258	now. i've asked cheryl to plan a party for his group next friday.
+G	00:07:44.532	00:07:45.773	and i'd like for everyone to help.
+G	00:07:46.288	00:07:47.368	cheryl, do you have a plan?
+A	00:07:47.416	00:07:48.383	yes, i do.
+A	00:07:49.108	00:07:53.426	marie, i'd like to have you choose the restaurant for the party.
+B	00:07:53.410	00:07:54.892	i'd love to!
+A	00:07:55.230	00:07:58.130	bob, i'll let you choose the menu.
+D	00:07:58.211	00:07:58.775	you will?
+A	00:07:59.741	00:08:01.755	paul, could you plan the music?
+C	00:08:01.820	00:08:02.400	yes!
+A	00:08:02.738	00:08:03.238	good.
+A	00:08:03.802	00:08:08.506	now, marie, i called ten restaurants and had them give us a prize for a party room.
+A	00:08:08.828	00:08:10.617	these two have the best prices.
+B	00:08:13.485	00:08:15.660	the green room is a nice restaurant.
+A	00:08:15.840	00:08:16.482	great!
+A	00:08:16.949	00:08:18.270	that's my favorite, too.
+A	00:08:18.657	00:08:20.944	now, bob, about the food...
+D	00:08:20.928	00:08:23.893	i was thinking steak and potatoes and
+A	00:08:23.248	00:08:25.601	well, the client asked for fish or chicken.
+A	00:08:26.294	00:08:29.371	so i had the restaurant put together a menu with each.
+A	00:08:30.257	00:08:31.190	which do you like better?
+D	00:08:32.770	00:08:34.945	i like chicken more than fish, i guess.
+A	00:08:35.961	00:08:36.428	great!
+A	00:08:37.121	00:08:37.894	chicken it is.
+A	00:08:38.555	00:08:39.779	now, paul...
+C	00:08:39.908	00:08:40.730	let me guess.
+C	00:08:40.730	00:08:42.760	you have a list of music choices.
+A	00:08:43.646	00:08:44.177	yes!
+C	00:08:47.126	00:08:48.109	these look fine.
+A	00:08:48.544	00:08:48.995	great!
+A	00:08:50.268	00:08:51.363	i think we're all done.
+G	00:08:52.572	00:08:55.810	you see how easy it is to plan something when we do it all together?
+B	00:08:57.744	00:08:59.757	so glad we could help.
+
+B	00:09:11.438	00:09:13.581	another wonderful dinner, cheryl.
+B	00:09:13.791	00:09:14.580	thank you.
+A	00:09:14.902	00:09:15.482	you're welcome.
+A	00:09:16.578	00:09:18.801	i really enjoy cooking, actually.
+A	00:09:19.559	00:09:22.040	when i was young, i thought i was going to be a chef.
+C	00:09:23.023	00:09:24.102	you could be a chef.
+C	00:09:24.231	00:09:25.665	these cookies are fantastic!
+B	00:09:27.018	00:09:28.952	why didn't you become a chef?
+A	00:09:29.935	00:09:31.288	my mother talked me out of it.
+A	00:09:32.480	00:09:34.623	she thought i would always have to work at night.
+A	00:09:35.606	00:09:38.796	she was afraid i would never meet a man and get married.
+C	00:09:39.569	00:09:40.638	she was probably right.
+C	00:09:40.923	00:09:43.150	if you were a chef, you wouldn't have met bob.
+A	00:09:44.548	00:09:45.402	how do you know?
+C	00:09:45.885	00:09:48.350	before he met you, bob only ate fast food.
+D	00:09:50.155	00:09:50.735	it's true.
+G	00:09:52.298	00:09:55.262	your mother must have been very happy when you and bob got engaged.
+A	00:09:56.116	00:09:56.664	she was.
+A	00:09:58.501	00:10:02.496	hey, you'll never guess what bob was going to be.
+D	00:10:02.738	00:10:03.495	cheryl...
+B	00:10:03.914	00:10:05.509	a rock musician?
+C	00:10:06.041	00:10:07.636	a basketball player?
+A	00:10:08.320	00:10:12.357	no, bob was going to be a dancer.
+A	00:10:13.420	00:10:16.401	he was actually in the state ballet when he was young.
+B	00:10:17.040	00:10:18.205	no kidding!
+C	00:10:18.656	00:10:19.833	you never told me this!
+D	00:10:20.735	00:10:22.475	i could have been a great dancer.
+G	00:10:23.361	00:10:25.552	what made you change your mind?
+D	00:10:25.971	00:10:27.888	the diet was too hard.
+D	00:10:28.098	00:10:33.760	i had to stop eating everything chocolate cake, fried chicken, potato chips.
+D	00:10:33.930	00:10:34.978	i tried.
+D	00:10:35.348	00:10:37.120	i might have been able to do it.
+D	00:10:37.652	00:10:41.116	but then they said no more bread and butter.
+D	00:10:41.471	00:10:42.695	bread and butter!
+D	00:10:42.800	00:10:43.566	can you believe?
+D	00:10:44.240	00:10:45.257	and that was the end.
+B	00:10:46.497	00:10:47.271	wow, bob.
+B	00:10:47.625	00:10:48.463	i never knew.
+B	00:10:49.704	00:10:51.782	do you enjoy watching ballet at all?
+D	00:10:52.136	00:10:52.894	i can't.
+D	00:10:53.490	00:10:58.211	i'd like to, but as soon as the music starts, i get very, very...
+D	00:11:02.464	00:11:02.980	hungry.
+B	00:11:07.120	00:11:08.812	what about you, mr. evans?
+B	00:11:09.440	00:11:12.050	what did you think you were going to be when you were younger?
+G	00:11:13.533	00:11:15.724	if i tell you, will you try not to laugh?
+B	00:11:16.175	00:11:16.981	of course.
+G	00:11:18.914	00:11:23.941	i always thought i would have my own television program to talk about etiquette.
+A	00:11:26.164	00:11:28.694	i didn't know you were so interested in etiquette.
+G	00:11:29.140	00:11:30.482	i have always loved etiquette.
+G	00:11:31.240	00:11:34.269	i think i would have made a great television etiquette teacher.
+A	00:11:35.783	00:11:38.425	well, i think you could still do it.
+A	00:11:39.150	00:11:40.246	it's perfect for you.
+G	00:11:41.342	00:11:41.809	really?
+G	00:11:42.228	00:11:42.534	why?
+A	00:11:43.919	00:11:47432	well, you're very polite, for one thing.
+D	00:11:48.946	00:11:52.160	you always know which fork to use at a restaurant.
+D	00:11:54.054	00:11:55.101	that's a real talent.
+C	00:11:55.778	00:11:59.048	you've taught me a lot about the customs of other cultures.
+G	00:12:01.578	00:12:03.511	maybe i could still give it a try.
+G	00:12:08.345	00:12:10.987	"today's topic: dinner conversation.
+G	00:12:11.535	00:12:22.330	if your international guests look offended and are leaving the table early, you've probably chosen a topic that's taboo in their home country.
+G	00:12:24.079	00:12:25.898	find out what's acceptable H	00:12:26.675	00:12:27.452	what's not...
+G	00:12:28.162	00:12:33.366	coming up on 'international etiquette with evans'."
+G	00:12:37.378	00:12:38.151	what do you think?
+D	00:12:40.181	00:12:40.584	wow.
+A	00:12:43.033	00:12:43.758	amazing.
+B	00:12:46.304	00:12:47.722	unforgettable.
+C	00:12:48.995	00:12:50.010	you have a real...
+C	00:12:50.863	00:12:52.410	talent, all right.
+G	00:12:54.537	00:12:54.940	thank you.
+
+D	00:12:59.161	00:13:00.692	i don't know.
+D	00:13:03.898	00:13:07.910	i didn't know that planning a wedding would be so hard.
+A	00:13:09.021	00:13:11.712	marie, could you give us your opinion on a few things?
+B	00:13:12.340	00:13:13.629	i'd love to!
+A	00:13:14.306	00:13:16.207	first, how many people should we invite?
+A	00:13:16.997	00:13:18.479	bob wants a small wedding.
+D	00:13:18.721	00:13:20.461	twenty guests would be nice.
+A	00:13:21.363	00:13:22.797	i want a large wedding.
+A	00:13:23.232	00:13:25.165	about three hundred people.
+D	00:13:25.487	00:13:26.164	three hundred?
+D	00:13:26.921	00:13:28.371	yesterday you said two hundred
+A	00:13:29.016	00:13:30.869	i have a lot of relatives who want to come.
+D	00:13:31.465	00:13:32.979	then there's the location.
+D	00:13:33.350	00:13:37.233	i always thought i'd get married in a park or at the beach.
+B	00:13:37.748	00:13:39.424	that's so romantic!
+A	00:13:39.714	00:13:43.661	i would like to get married indoors, where i won't get wet if it's raining.
+B	00:13:44.483	00:13:45.659	that makes sense.
+A	00:13:46.272	00:13:49.736	i prefer traditional music in the ceremony.
+D	00:13:50.573	00:13:52.313	contemporary music.
+A	00:13:53.006	00:13:55.939	i'd like a long ceremony, and a short reception.
+D	00:13:55.939	00:13:59.821	i want a short ceremony and a huge celebration afterwards.
+A	00:13:59.934	00:14:01.010	i want a white cake.
+D	00:14:01.010	00:14:01.771	and i want...
+B	00:14:01.755	00:14:03.801	a chocolate cake, i know.
+D	00:14:04.027	00:14:06.234	how we ever gonna agree on this.
+B	00:14:07.299	00:14:08.361	don't hurt yourself.
+B	00:14:08.941	00:14:10.729	here's an idea that might work.
+B	00:14:11.390	00:14:15.691	plan a wedding that's big enough to include all of cheryl's family...
+B	00:14:16.126	00:14:16.690	sorry, bob...
+B	00:14:17.335	00:14:21.911	in the park on oak street that has that building where you can go if it rains.
+B	00:14:22.781	00:14:33.656	you can have traditional music in the ceremony and contemporary music at the party, and you could have two cakes at the reception- one white and one chocolate.
+D	00:14:35.525	00:14:36.991	sounds ok to me.
+A	00:14:37.265	00:14:38.071	me too.
+D	00:14:38.747	00:14:39.295	hey!
+D	00:14:39.327	00:14:39.875	we did it!
+A	00:14:40.487	00:14:41.438	yeah!
+A	00:14:41.454	00:14:42.985	i'm so happy.
+B	00:14:43.871	00:14:44.709	excuse me.
+A	00:14:46.433	00:14:48.237	oh, marie, thank you so much.
+D	00:14:48.285	00:14:49.300	you're amazing!
+D	00:14:49.349	00:14:50.622	we couldn't have done it without you.
+
+C	00:15:05.912	00:15:06.202	hi.
+C	00:15:06.959	00:15:07.716	lunchtime is over.
+C	00:15:07.716	00:15:09.053	are you coming up to the office?
+D	00:15:09.617	00:15:11.873	i'm too tired to go back to the office.
+D	00:15:12.485	00:15:14.580	planning a wedding is hard work.
+D	00:15:15.562	00:15:17.834	i need a holiday.
+C	00:15:25.246	00:15:26.470	let's make today a holiday.
+C	00:15:26.937	00:15:29.257	we'll tell mr. evans we can't come back to work.
+D	00:15:29.225	00:15:30.627	that's a great idea.
+B	00:15:32.286	00:15:33.527	what are we celebrating?
+C 	00:15:35.074	00:15:36.105	you're getting married.
+C	00:15:36.637	00:15:38.683	how about national wedding day?
+D	00:15:39.166	00:15:41.357	what happens on national wedding day?
+C	00:15:42.678	00:15:43.339	i don't know.
+C	00:15:44.064	00:15:45.765	why am i the one who has to think about it?
+B	00:15:47.705	00:15:51.105	why don't we make it national singles day instead?
+B	00:15:51.653	00:15:55.117	all the married people give gifts to their single friends.
+D	00:15:56.634	00:15:57.353	no.
+D	00:15:57.904	00:16:59.773	buying gifts is hard work.
+D	00:16:00.466	00:16:03.318	i want to enjoy myself on our new holiday.
+A	00:16:03.914	00:16:06.056	what about a red day?
+D	00:16:12.711	00:16:16.030	how about national buy your friend another cup of coffee-day?
+C	00:16:16.948	00:16:17.576	nice try.
+G	00:16:19.284	00:16:22.394	how about national on time day?
+D	00:16:24.263	00:16:26.744	what happens on national on time day?
+G	00:16:27.388	00:16:31.481	you remind one another to come back to work on time.
+C	00:16:35.799	00:16:36.604	happy holiday.
+G	00:16:42.050	00:16:42.727	waitress!
+G	00:16:46.481	00:16:49.719	so, mrs. beatty, you're looking for an exciting place for your next vacation.
+F	00:16:50.605	00:16:59.612	i usually travel to major cities in europe, but this time i want to go someplace different someplace away from the city as long as it's safe.
+G	00:17:04.091	00:17:05.718	how about california?
+G	00:17:06.234	00:17:08.570	the big sur area is spectacular.
+F	00:17:10.439	00:17:12.662	california has lots of earthquakes, doesn't it?
+G	00:17:13.983	00:17:17.351	well, they have earthquakes occasionally, but not very often.
+F	00:17:17.947	00:17:19.494	but it does have earthquakes.
+G	00:17:20.090	00:17:20.621	yes.
+F	00:17:22.023	00:17:22.909	i'm not going.
+G	00:17:24.601	00:17:25.009	ok.
+G	00:17:28.741	00:17:30.369	how about some place in asia?
+G	00:17:30.562	00:17:32.012	a beach in thailand?
+G	00:17:33.301	00:17:36.959	kochang has beautiful beaches, and it's very quiet there.
+F	00:17:37.490	00:17:39.101	a quiet beach sounds nice.
+F	00:17:40.648	00:17:43.838	but they said on the news there's a monsoon in thailand.
+G	00:17:44.918	00:17:47.061	but the monsoon will be over by the time you go.
+F	00:17:48.720	00:17:49.977	what else can you recommend?
+G	00:17:53.070	00:17:54.021	australia.
+G	00:17:55.052	00:17:57.453	the australian outback is amazing.
+F	00:17:58.274	00:18:00.594	i've heard they have tornadoes in australia.
+G	00:18:01.353	00:18:02.446	some parks.
+F	00:18:03.817	00:18:04.543	where else?
+G	00:18:09.456	00:18:10.020	jamaica?
+F	00:18:11.019	00:18:11.889	hurricanes.
+G	00:18:16.916	00:18:17.770	south africa?
+F	00:18:18.205	00:18:18.897	floods.
+G	00:18:20.400	00:18:21.282	hawaii?
+F	00:18:22.297	00:18:23.215	landslides.
+G	00:18:23.409	00:18:26.599	you know a lot about natural disasters, don't you, mrs. beatty?
+G	00:18:27.549	00:18:28.484	let's see.
+G	00:18:30.546	00:18:32.931	what about finland?
+F	00:18:33.575	00:18:34.558	finland?
+G	00:18:35.267	00:18:39.295	it's wild, beautiful, and very different from other parts of europe.
+G	00:18:39.504	00:18:41.776	and nothing bad ever happens in finland.
+F	00:18:43.290	00:18:44.322	finland sounds good.
+F	00:18:45.804	00:18:46.835	i'll go to finland.
+G	00:18:47.206	00:18:47.760	great.
+G	00:18:47.947	00:18:49.070	i'll book your tickets.
+G	00:18:54.714	00:18:58.516	ok, i just booked your tickets to helsinki, finland.
+G	00:18:58.032	00:19:00.627	you'll be staying at the palace hotel.
+F	00:19:00.675	00:19:01.545	that's great.
+B	00:19:03.865	00:19:05.815	excuse me, mr. evans?
+G	00:19:05.992	00:19:06.588	yes, marie?
+B	00:19:06.862	00:19:08.537	mr. woods is on the phone.
+B	00:19:08.795	00:19:10.841	he told me to tell you it's urgent.
+G	00:19:11.373	00:19:11.889	urgent?
+B	00:19:12.340	00:19:13.629	he's traveling, you know.
+G	00:19:13.677	00:19:14.015	yes?
+B	00:19:14.757	00:19:16.754	he said there's some kind of epidemic.
+G	00:19:17.673	00:19:18.897	what kind of epidemic?
+B	00:19:19.348	00:19:22.120	it sounds like it's that new influenza.
+G	00:19:22.683	00:19:24.955	but he was vaccinated for that before he left.
+B	00:19:25.680	00:19:26.389	i know.
+B	00:19:26.921	00:19:30.610	but he told me to tell you that he wants to fly home today.
+G	00:19:32.205	00:19:34.864	on the internet it says only three people are sick.
+G	00:19:35.138	00:19:36.765	that is not an epidemic.
+G	00:19:37.200	00:19:39.665	and it's not like anybody's dying from this flu.
+B	00:19:41.292	00:19:43.161	he said he didn't want to be the first.
+F	00:19:44.595	00:19:46.625	where is he traveling, may i ask?
+B	00:19:47.012	00:19:48.108	he's in finland.
+F	00:19:48.494	00:19:49.348	finland?
+F	00:19:49.783	00:19:51.991	i just booked tickets to finland!
+G	00:19:52.877	00:19:55.567	mrs. beatty, everything will be fine.
+G	00:19:55.954	00:19:59.031	you'll get vaccinated, and you'll have nothing to worry about.
+F	00:19:59.064	00:20:00.884	i'm not going to finland.
+F	00:20:01.255	00:20:04.107	you told me nothing bad ever happens in finland.
+G	00:20:04.848	00:20:10.390	mrs. beatty, i can't think of anywhere in the world you can go and be completely safe.
+G	00:20:10.986	00:20:14.869	right here in the city you could go outside and get hit by a bus.
+G	00:20:15.643	00:20:19.058	but you can't let that stop you from doing the things you want to do.
+G	00:20:20.009	00:20:23.215	look, why don't we go to lunch and we'll talk it over?
+B	00:20:27.630	00:20:30.191	i don't think she's going anywhere.
+

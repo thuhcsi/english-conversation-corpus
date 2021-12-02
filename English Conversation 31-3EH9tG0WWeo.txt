@@ -1,0 +1,408 @@
+A	00:00:00.799	00:00:08.070	thank you very much!
+B	00:00:08.320	00:00:10.880	hello, i don't think we've met.
+B	00:00:10.880	00:00:12.080	sam ericks.
+A	00:00:12.080	00:00:14.480	victor tang. pleased to meet you.
+B	00:00:14.480	00:00:16.640	and what company are you from mr tang?
+A	00:00:16.640	00:00:20.310	oceanwide. i'm the sales representative for this region.
+B	00:00:20.320	00:00:22.880	ah, yes. i know your company.
+B	00:00:23.119	00:00:25.589	your business is expanding very rapidly at the moment.
+A	00:00:25.599	00:00:28.230	yes, we're doing quite well. and yourself?
+A	00:00:28.240	00:00:29.509	who do you work for?
+B	00:00:29.519	00:00:34.640	actually, i work for myself, i'm the ceo of a small export and packaging company.
+B	00:00:34.640	00:00:36.709	we specialize in seafood.
+A	00:00:36.719	00:00:38.480	it's a growing market.
+B	00:00:38.480	00:00:41.670	yes, but a very competitive one mr tang.
+A	00:00:41.680	00:00:43.520	please call me victor.
+B	00:00:43.520	00:00:46.709	sam. victor, let me introduce you to someone.
+B	00:00:46.719	00:00:50.719	lin. this is victor tang. he's the regional rep. for ocean wide.
+B	00:00:50.719	00:00:52.960	this is lin chan, my sales manager.
+C	00:00:52.960	00:00:54.320	how do you do, mr tang?
+A	00:00:54.320	00:00:57.199	i'm very well thank you,nice to meet you miss chan.
+C	00:00:57.199	00:00:58.559	and you?
+A	00:00:58.559	00:01:00.069	can i get you another drink?
+C	00:01:00.079	00:01:03.830	thank you.
+A	00:01:03.840	00:01:08.320	well, it's been good to meet you sam, and very interesting to hear about your business.
+B	00:01:08.320	00:01:12.400	look! we are having a small dinner for some of our clients and friends after this.
+B	00:01:12.400	00:01:14.000	why don't you join us?
+A	00:01:14.000	00:01:15.360	that's very kind of you.
+A	00:01:15.360	00:01:18.720	i'll just check with my associate whether they have other arrangements for us.
+B	00:01:18.880	00:01:21.510	your associate is most welcome to join us, too.
+A	00:01:21.520	00:01:24.840	thank you. excuse me,walter.
+A	00:01:27.520	00:01:29.910	this is sam ericks from eric's imports.
+A	00:01:29.920	00:01:32.320	he has very kindly invited us to a dinner.
+B	00:01:32.320	00:01:34.149	yes, would you like to join us?
+D	00:01:34.159	00:01:37.840	unfortunately, i have another engagement, thank you for the invitation.
+B	00:01:37.840	00:01:41.670	well, perhaps you could join us after that for a drink?
+D	00:01:41.680	00:01:42.560	sounds great!
+D	00:01:42.560	00:01:46.069	i'd be happy to,where shall we meet?
+B	00:01:46.079	00:01:49.119	how about the lounge bar here at about ten?
+D	00:01:49.119	00:01:52.389	i'll see you then,excuse me.
+B	00:01:52.399	00:01:54.720	lin. victor's joining us for dinner.
+C	00:01:54.720	00:01:56.240	oh, wonderful!
+A	00:01:56.240	00:01:57.520	i hope you don't mind.
+C	00:01:57.520	00:02:00.310	of course not, you're most welcome.
+B	00:02:00.320	00:02:02.240	well, shall we make a move?
+C	00:02:02.240	00:02:05.119	would you mind if i just say goodbye to a few people?
+B	00:02:05.119	00:02:06.320	no problem.
+B	00:02:06.320	00:02:08.000	we'll see you outside in a few minutes.
+C	00:02:08.000	00:02:09.910	okay.
+
+E	00:02:09.920	00:02:11.360	another drinks, sir?
+D	00:02:11.360	00:02:15.270	no, thank you.
+F	00:02:15.280	00:02:18.309	excuse me, is anyone sitting here?
+D	00:02:18.319	00:02:21.120	no. please have a seat.
+F	00:02:21.120	00:02:22.309	that's better.
+F	00:02:22.319	00:02:25.200	my feet are killing me!
+D	00:02:25.200	00:02:26.790	have you been here long?
+F	00:02:26.800	00:02:28.720	no, but i just flew in this morning.
+F	00:02:28.720	00:02:31.680	and i haven't had a chance to sit down since then.
+D	00:02:31.680	00:02:34.400	oh, where have you come from?
+F	00:02:34.400	00:02:36.390	from manila.
+D	00:02:36.400	00:02:38.480	is this your first visit to australia?
+F	00:02:38.480	00:02:40.550	no, i have been once before.
+F	00:02:40.560	00:02:42.480	but it was a long time ago.
+D	00:02:42.480	00:02:44.710	and have you been to sydney before?
+F	00:02:44.720	00:02:48.070	no, it's an amazing city.
+D	00:02:48.080	00:02:50.160	yes, it has its points.
+D	00:02:50.160	00:02:53.760	but you're lucky to live in manila, it's a fascinating city.
+F	00:02:53.760	00:02:55.360	what about yourself?
+F	00:02:55.360	00:02:57.120	do you live in sydney?
+D	00:02:57.120	00:02:58.879	no, i live in melbourne.
+D	00:02:58.879	00:03:00.550	i'm just here for the conference.
+F	00:03:00.560	00:03:02.560	i'm going to melbourne later.
+F	00:03:02.560	00:03:04.550	what's the weather like there?
+D	00:03:04.560	00:03:10.710	not too good in winter, but at the moment it should be okay.
+D	00:03:10.720	00:03:13.360	so how's your hotel?
+F	00:03:13.360	00:03:17.350	it's good. very convenient. just near the harbour.
+D	00:03:17.360	00:03:19.040	have you seen the opera house yet?
+F	00:03:19.040	00:03:23.589	yes, we flew right over it!
+D	00:03:23.599	00:03:26.550	excuse me. there's someone i must talk to.
+D	00:03:26.560	00:03:29.430	it's been very nice to meet you,i'm walter by the way.
+F	00:03:29.440	00:03:32.390	you, too. i'm sue. perhaps we'll meet later.
+D	00:03:32.400	00:03:37.070	i hope so.
+
+G	00:03:38.080	00:03:41.830	has everybody got a copy of the agenda?
+G	00:03:41.840	00:03:43.920	would you mind taking minutes john?
+H	00:03:44.080	00:03:45.110	not at all.
+G	00:03:45.120	00:03:46.000	good.
+G	00:03:46.000	00:03:49.190	well, then let's get started.
+G	00:03:49.200	00:03:53.750	first of all, thank you everyone for attending at short notice.
+G	00:03:53.760	00:04:03.190	as you know, the objective of this meeting of the capital works committee is to discuss a proposal for some urgent building work at our southside plant.
+G	00:04:03.200	00:04:06.470	as we've got to reach a decision which may involve spending.
+G	00:04:06.480	00:04:09.040	we'll run it as a formal meeting.
+G	00:04:09.040	00:04:15.120	now, you've read the proposal, so without further ado, i'd like to open it up for discussion.
+G	00:04:15.280	00:04:17.590	perhaps, if we can start with you, tan.
+G	00:04:17.600	00:04:19.189	what's your view?
+H	00:04:19.199	00:04:24.550	well, i'm not convinced that the work is as urgent as this report suggests.
+H	00:04:24.560	00:04:26.000	so, to sum up.
+H	00:04:26.000	00:04:30.320	i think we are all aware that some urgent work does need to be done.
+G	00:04:30.320	00:04:35.749	and we will need to work on a longer term plan for a major refit.
+G	00:04:35.759	00:04:38.240	well, if there's no more discussion.
+G	00:04:38.240	00:04:40.150	we'll put it to a vote.
+G	00:04:40.160	00:04:44.629	we are recommending that tenders be called for the urgent work needed.
+G	00:04:44.639	00:04:47.199	all those in favor?
+G	00:04:47.199	00:04:49.430	all those against?
+G	00:04:49.440	00:04:51.120	then that's agreed.
+G	00:04:51.120	00:04:52.870	any other business?
+G	00:04:52.880	00:04:55.759	then we'll close the meeting,thank you everyone.
+G	00:04:55.759	00:05:01.830	the next meeting will be in two weeks at the same time.
+H	00:05:01.840	00:05:06.550	well, i'm not convinced that the work is as urgent as this report suggests.
+H	00:05:06.560	00:05:07.520	so perhaps...
+G	00:05:07.520	00:05:08.320	come on
+C	00:05:08.320	00:05:10.639	the building is practically falling down!
+G	00:05:10.639	00:05:11.600	sorry, lin.
+G	00:05:11.600	00:05:14.960	i don't think tan had finished. we'll get to you in a minute.
+C	00:05:14.960	00:05:16.080	sorry.
+H	00:05:16.080	00:05:21.909	as i was saying, perhaps we should get a second opinion before we spend any money.
+G	00:05:21.919	00:05:23.360	thank you, tan.
+G	00:05:23.360	00:05:25.590	what's your opinion, walter?
+D	00:05:25.600	00:05:28.400	well, as far as i'm concerned, it's a question of safety.
+D	00:05:28.400	00:05:30.230	so i think we should go ahead.
+H	00:05:30.240	00:05:32.479	are you suggesting that someone could get hurt?
+D	00:05:32.479	00:05:37.350	in my opinion, yes. if you ask me there is a serious risk of an accident.
+D	00:05:37.360	00:05:39.680	and it's not a recent problem.
+H	00:05:39.680	00:05:42.639	are you implying we should have done something earlier?
+D	00:05:42.639	00:05:45.120	much earlier. it's a real concern.
+C	00:05:45.120	00:05:47.270	here.
+H	00:05:47.280	00:05:49.600	in that case, i agree.
+H	00:05:49.600	00:05:51.270	we should do something now.
+I	00:05:51.280	00:05:53.520	i think so, too.
+G	00:05:53.520	00:05:55.270	thank you walter.
+G	00:05:55.280	00:05:56.720	well, if there's no.
+I	00:05:56.720	00:05:58.240	excuse me madam chairperson.
+G	00:05:58.240	00:05:59.350	yes, barbara.
+I	00:05:59.360	00:06:00.870	what about the problem with parking?
+I	00:06:00.880	00:06:03.430	there were no places again this morning.
+D	00:06:03.440	00:06:05.520	maybe if you got to work on time.
+G	00:06:05.520	00:06:08.710	all comments through the chair if you don't mind walter.
+G	00:06:08.720	00:06:11.360	parking isn't on the agenda for this meeting.
+G	00:06:11.360	00:06:15.189	perhaps, you could suggest it for our next meeting barbara.
+G	00:06:15.199	00:06:17.280	well, if there's no more discussion.
+G	00:06:17.280	00:06:18.790	we'll put it to a vote.
+J	00:06:18.800	00:06:21.280	here here!
+
+G	00:06:21.280	00:06:27.189	okay now we're looking at the options for handling our online orders.
+G	00:06:27.199	00:06:32.870	they're going through the roof and frankly the lead time for delivery is blowing out.
+G	00:06:32.880	00:06:38.000	we need to improve our performance in this area. any suggestions?
+H	00:06:38.000	00:06:40.870	well, as i see it, we have three options.
+H	00:06:40.880	00:06:44.309	the obvious one is to employ more people to do the job.
+H	00:06:44.319	00:06:49.599	another alternative is to automate the system more cut down on the physical handling.
+J	00:06:49.599	00:06:51.670	and the third option?
+H	00:06:51.680	00:06:53.599	we could outsource.
+G	00:06:53.599	00:06:55.599	what are the pros and cons?
+I	00:06:55.599	00:07:01.199	well, looking at increasing staff versus automation. we have to consider the cost.
+I	00:07:01.199	00:07:05.270	automating has a higher capital cost than putting on more staff.
+I	00:07:05.280	00:07:10.309	on the other hand, employing more people is more expensive over a long term.
+I	00:07:10.319	00:07:13.670	if we keep growing, it'll cost more in the long run.
+G	00:07:13.680	00:07:17.430	how likely is it that we'll see continued growth?
+H	00:07:17.440	00:07:19.599	i'd say it's a certainty.
+J	00:07:19.919	00:07:21.520	i'd say a high probability.
+J	00:07:21.520	00:07:23.360	nothing certain in business.
+G	00:07:23.360	00:07:25.510	so what about the third option?
+H	00:07:25.520	00:07:27.039	outsourcing?
+H	00:07:27.039	00:07:29.270	it does take the problem off our hands.
+H	00:07:29.280	00:07:31.350	but we lose contact with our customers.
+G	00:07:31.360	00:07:33.280	what about the bottom line?
+I	00:07:33.280	00:07:38.000	outsourcing is the cheapest option, and the easiest in the short term.
+I	00:07:38.000	00:07:44.309	but if we want to keep the operation in house, the best option is automating our system.
+I	00:07:44.319	00:07:48.710	the only downside is, we're taking a risk that our business will keep growing.
+J	00:07:48.720	00:07:50.240	which we hope it will.
+G	00:07:50.240	00:07:52.869	we certainly do.
+G	00:07:52.879	00:07:57.110	today we're looking at our new widget plant being built at southside.
+G	00:07:57.120	00:07:59.830	i've asked barbara to report on progress.
+G	00:07:59.840	00:08:03.280	and bring us up to date and up to speed.
+G	00:08:03.280	00:08:04.240	barbara?
+I	00:08:04.240	00:08:05.830	thanks denise.
+I	00:08:05.840	00:08:10.879	i'll just outline the process we've been through identify some problems.
+I	00:08:10.879	00:08:15.039	and give you an estimate on completion time and the outcome financially.
+J	00:08:15.039	00:08:17.029	is it good news or bad news?
+I	00:08:17.039	00:08:18.479	bear with me.
+I	00:08:18.479	00:08:25.029	now, if you recall, after a feasibility study, we put the project out to tender eighteen months ago.
+I	00:08:25.039	00:08:28.639	and selected easy build as our project manager.
+I	00:08:28.639	00:08:30.720	work commenced about fifteen months ago.
+I	00:08:30.720	00:08:34.800	and it's been progressing to schedule until recently.
+G	00:08:34.800	00:08:37.110	what's the problem?
+I	00:08:37.120	00:08:40.080	unfortunately, there are three.
+I	00:08:40.080	00:08:47.269	firstly, there's been a delay in materials, specifically steel because of industrial issues at the suppliers.
+I	00:08:47.279	00:08:50.959	secondly, we've lost days due to the weather.
+I	00:08:50.959	00:08:55.190	and finally, there's been a resulting cost blowout.
+J	00:08:55.200	00:08:56.720	so what are we going to do?
+I	00:08:56.720	00:08:59.430	well, they've managed to get another supplier now.
+I	00:08:59.440	00:09:02.000	i suggested moving the completion date back.
+I	00:09:02.000	00:09:03.829	that way, there's no penalty.
+I	00:09:03.839	00:09:08.870	and they agreed to redeploy their workers until building can start again.
+J	00:09:08.880	00:09:10.560	smart thinking.
+I	00:09:10.560	00:09:15.040	we've been waiting for the rain to stop but we can't control the weather!
+G	00:09:15.040	00:09:16.880	and the cost?
+I	00:09:16.880	00:09:19.279	at this stage, just a small overage.
+I	00:09:19.279	00:09:22.470	but i'll be watching it very closely over the next few months.
+I	00:09:22.480	00:09:24.080	with no more delays.
+I	00:09:24.080	00:09:28.880	we're expecting to complete the project just one month behind schedule.
+G	00:09:28.880	00:09:34.070	good work barbara.
+
+H	00:09:34.080	00:09:39.590	now, i'd like to refer to the first graph as you can see this is a bar graph.
+H	00:09:39.600	00:09:44.000	measuring net sales over the first ten months of the year.
+H	00:09:44.000	00:09:47.750	you'll notice that sales rose steadily in the first few months.
+H	00:09:47.760	00:09:51.519	then there was a marked increase in april.
+H	00:09:51.519	00:09:55.829	they peaked in may at around three point two million and levelled off.
+H	00:09:55.839	00:09:58.800	then there was a dramatic drop in the following month.
+H	00:09:58.800	00:10:02.240	followed by a significant increase in august.
+H	00:10:02.240	00:10:05.509	and this trend has continued up until the present.
+J	00:10:05.519	00:10:08.079	what was the reason for the sudden drop in july?
+H	00:10:08.079	00:10:13.839	this was mainly due to a drop off in air conditioner sales so it's a seasonal effect.
+G	00:10:13.839	00:10:19.430	could it be a consequence of the negative effect of the interest rate rise?
+H	00:10:19.440	00:10:21.920	possibly!
+H	00:10:21.920	00:10:26.079	now, if i could draw your attention to this next diagram.
+H	00:10:26.079	00:10:29.110	this is a line graph of sales.
+H	00:10:29.120	00:10:35.200	the blue line represents air conditioner sales, the red line shows heaters.
+H	00:10:35.200	00:10:42.480	as you'll note air conditioner sales dropped steadily from january to july, bottoming out then.
+H	00:10:42.480	00:10:47.990	while heater sales experienced a sharp increase from march to june.
+H	00:10:48.000	00:10:51.350	then dropped markedly from june to july.
+H	00:10:51.360	00:10:56.230	then declined through to september with a pronounced drop in october.
+J	00:10:56.240	00:10:58.880	does this explain the fluctuation in total sales?
+H	00:10:58.880	00:11:00.150	largely.
+H	00:11:00.160	00:11:10.320	if we look at this pie diagram, you can see that air conditioners and heaters together represent more than half of our total sales.
+H	00:11:10.320	00:11:16.000	but they vary seasonally, while other appliances are fairly steady through the year.
+J	00:11:16.000	00:11:20.389	well, we can't sell air conditioners when it's cold. what's the solution?
+H	00:11:20.399	00:11:22.640	export to europe and america!
+G	00:11:22.640	00:11:25.350	easier said than done.
+H	00:11:25.360	00:11:30.399	today i'm going to look at the results of our customer survey.
+H	00:11:30.399	00:11:35.200	first i'll go through the survey questions, then summarise the results.
+H	00:11:35.200	00:11:38.550	and finally, i'll outline the conclusions.
+H	00:11:38.560	00:11:42.069	after that, there'll be time for questions and discussion.
+H	00:11:42.079	00:11:47.190	so, let's start with the survey questions.
+H	00:11:47.200	00:11:51.430	turning to the results, as you can see from the diagram.
+H	00:11:51.440	00:11:56.949	most people decided what to buy when they saw the product at the showroom.
+H	00:11:56.959	00:12:01.839	about one-third made their decision based on what the salesperson said.
+H	00:12:01.839	00:12:05.030	the others knew what they wanted to buy already.
+H	00:12:05.040	00:12:10.310	most of those made their decision on the recommendation of a friend.
+H	00:12:10.320	00:12:16.389	only a few said they relied on advertising.
+H	00:12:16.399	00:12:19.279	let's move on to the conclusions.
+H	00:12:19.279	00:12:26.720	the first one is that it's very important that salespeople on the floor know about our products.
+H	00:12:26.720	00:12:31.440	another is that after sales service is critical.
+H	00:12:31.440	00:12:37.120	people who experience good after sales service are more likely to recommend a brand.
+H	00:12:37.120	00:12:40.790	and finally, advertising.
+H	00:12:40.800	00:12:45.590	it's expensive, so we need to make sure we're getting results.
+I	00:12:45.600	00:12:49.590	so, i'd like to end with a summary of what i've looked at today.
+I	00:12:49.600	00:12:52.949	and some recommendations.
+I	00:12:52.959	00:12:56.480	the figures show that sales are strongly seasonal.
+I	00:12:56.480	00:13:01.110	and that customers depend on good information on the showroom floor.
+I	00:13:01.120	00:13:09.829	so i'd like to recommend we concentrate on discounting. in the off seasons and spend more time on briefing our sales representatives.
+I	00:13:09.839	00:13:11.760	that's all i have for now.
+I	00:13:11.760	00:13:13.839	are there any questions?
+G	00:13:13.839	00:13:19.760	you mentioned that the sales figures may also reflect economic trends.
+G	00:13:19.760	00:13:21.990	can you expand on that?
+I	00:13:22.000	00:13:25.269	well, we are always going to depend on the economy.
+I	00:13:25.279	00:13:29.269	as i understand it we can look forward to an improvement this year.
+I	00:13:29.279	00:13:31.200	does that answer your question?
+H	00:13:31.200	00:13:34.710	are you saying we're in for a period of growth?
+I	00:13:34.720	00:13:38.069	well, i'm afraid that's a bit outside my area of expertise.
+I	00:13:38.079	00:13:40.959	but that's what the papers are suggesting.
+H	00:13:40.959	00:13:43.110	if you believe it.
+G	00:13:43.120	00:13:47.110	you suggested that we might be spending too much on advertising.
+G	00:13:47.120	00:13:49.199	can you clarify that?
+I	00:13:49.199	00:13:52.710	it's hard to quantify without better data.
+H	00:13:52.720	00:13:55.829	sorry, could you repeat that?
+I	00:13:55.839	00:14:00.720	we don't have the figures to really know how effective our advertising is.
+G	00:14:00.720	00:14:06.470	in my experience you can't do without advertising.
+I	00:14:06.480	00:14:08.959	time for one last question.
+J	00:14:08.959	00:14:09.990	i have one.
+I	00:14:10.000	00:14:11.040	yes, john.
+J	00:14:11.040	00:14:13.189	is it time for coffee?
+I	00:14:13.199	00:14:15.279	okay, we'll wrap up now.
+I	00:14:15.279	00:14:17.829	thank you for your input everyone.
+G	00:14:17.839	00:14:20.800	thank you.
+
+F	00:14:20.800	00:14:22.790	wilson& wilson, can i help you?
+C	00:14:22.800	00:14:25.920	yes, this is lynn chan from acme appliances.
+C	00:14:25.920	00:14:29.189	i'd like to speak to mr wilson if he's available please?
+F	00:14:29.199	00:14:32.550	would that be mr wilson senior or mr wilson junior?
+C	00:14:32.560	00:14:34.720	mr wilson senior.
+F	00:14:34.720	00:14:38.260	i'll just see if he's available, hold the line, please.
+F	00:14:40.000	00:14:45.430	it's a lin chan from acme.
+F	00:14:45.440	00:14:48.240	i'm sorry, mr wilson's in a meeting at the moment.
+F	00:14:48.240	00:14:50.069	may i take a message?
+C	00:14:50.079	00:14:52.790	yes. could you ask him to phone me, please?
+C	00:14:52.800	00:14:58.240	my number is two three double one five six five four.
+F	00:14:58.240	00:15:00.639	i'm sorry, i didn't catch your name.
+C	00:15:00.639	00:15:02.880	lin chan, acme appliances.
+F	00:15:02.880	00:15:07.670	let me check the number: two three double one five six five four.
+C	00:15:07.680	00:15:09.360	that's right.
+F	00:15:09.360	00:15:11.269	i'll pass that message on.
+F	00:15:11.279	00:15:12.240	thank you.
+C	00:15:12.240	00:15:20.949	thanks. bye.
+C	00:15:20.959	00:15:24.069	acme appliances, lin chan speaking.
+J	00:15:24.079	00:15:26.949	this is tom wilson returning your call.
+C	00:15:26.959	00:15:30.000	ah yes, mr wilson. thanks for calling back.
+C	00:15:30.000	00:15:34.310	i wanted to set up a meeting with you to discuss your requirements for next year.
+J	00:15:34.320	00:15:38.800	yes certainly. how about uh thursday at two-thirty?
+C	00:15:38.800	00:15:40.560	that would be fine!
+J	00:15:40.560	00:15:42.790	okay, i look forward to seeing you then.
+C	00:15:42.800	00:15:45.829	Thursday, two-thirty. see you then. goodbye!
+J	00:15:45.839	00:15:49.670	goodbye.
+
+C	00:15:49.680	00:15:53.189	hello, lin chan, sales manager for national sugar.
+C	00:15:53.199	00:15:55.251	and my associate john martin.
+A	00:15:55.040	00:15:56.160	very pleased to meet you.
+A	00:15:56.160	00:15:59.600	i'm victor tang, and this is my legal advisor, sue panay.
+J	00:15:59.600	00:16:01.189	i hope you had a pleasant flight over.
+F	00:16:01.199	00:16:02.399	yes, we did thanks.
+J	00:16:02.399	00:16:03.920	are you staying for a few days?
+A	00:16:03.920	00:16:06.790	unfortunately, we need to get back to manila tomorrow.
+C	00:16:06.800	00:16:14.230	well, we'd better get down to business.
+C	00:16:14.240	00:16:16.000	mr tang, to start off with.
+C	00:16:16.000	00:16:19.430	i just want to say we believe we can offer you a very good deal.
+C	00:16:19.440	00:16:22.079	and come up with a win-win result.
+A	00:16:22.079	00:16:27.759	well, from our point of view, we see it as an exploratory talk testing the water you might say.
+F	00:16:27.759	00:16:31.519	we don't intend to reach any agreements at this meeting in any case.
+F	00:16:31.519	00:16:33.990	we would need to run it, past our board first.
+J	00:16:34.000	00:16:39.030	you haven't heard our terms yet. you may find them hard to resist!
+C	00:16:39.040	00:16:42.710	of course. we understand you need time to consider any offer.
+C	00:16:42.720	00:16:46.949	my first priority is to keep the negotiations open.
+A	00:16:46.959	00:16:49.040	what's your proposal ms chan?
+C	00:16:49.040	00:16:55.440	we're prepared to offer a very attractive price for a minimum sale. in exchange for a two-year contract.
+C	00:16:55.440	00:17:01.189	john will clarify the terms.
+C	00:17:01.199	00:17:06.309	so that's our offer. we believe it's a fair one, with advantages for both sides.
+A	00:17:06.319	00:17:09.429	yes, well, we're prepared to consider your offer ms chan.
+A	00:17:09.439	00:17:11.679	if you can accept some conditions.
+F	00:17:11.679	00:17:14.549	and subject to consideration by the board.
+J	00:17:14.559	00:17:16.640	what are the conditions?
+A	00:17:16.640	00:17:19.679	well, firstly the price you're proposing.
+A	00:17:19.679	00:17:23.360	would that be variable depending on currency fluctuations?
+A	00:17:23.360	00:17:27.029	the issue is that we're in an unstable environment at the moment.
+A	00:17:27.039	00:17:29.440	the exchange rate could affect us negatively.
+J	00:17:29.440	00:17:30.470	us, too!
+A	00:17:30.480	00:17:33.830	true, but the problem is that we're tied to the us dollar.
+C	00:17:33.840	00:17:37.750	we could consider hedging against currency in both directions.
+F	00:17:37.760	00:17:40.080	that would be acceptable.
+A	00:17:40.080	00:17:43.280	another problem we may have is that of supply.
+A	00:17:43.280	00:17:46.310	our customers often need supply at short notice.
+A	00:17:46.320	00:17:51.120	if we do get large orders, we need to guarantee delivery so we need to stockpile.
+A	00:17:51.120	00:17:53.760	the difficulty there is the capital outlay.
+A	00:17:53.760	00:17:57.909	how would you feel about a partial offset against our sales?
+J	00:17:57.919	00:17:59.360	you mean a loan.
+A	00:17:59.360	00:18:00.799	i suppose so.
+F	00:18:00.799	00:18:03.350	would you be agreeable to a deferred payment?
+F	00:18:03.360	00:18:06.000	we can provide security of course.
+C	00:18:06.000	00:18:08.190	i think that would be acceptable.
+C	00:18:08.200	00:18:12.310	unfortunately, i would need to get board approval for it.
+F	00:18:12.320	00:18:13.760	of course.
+A	00:18:13.760	00:18:16.080	then i think we might have a deal.
+C	00:18:16.080	00:18:17.760	in principle.
+J	00:18:17.760	00:18:21.909	time to celebrate!
+
+G	00:18:21.919	00:18:26.950	our keynote speaker is a man who i'm sure is very well known to all of you.
+G	00:18:26.960	00:18:30.880	he's professor of fruitology at dubbo university.
+G	00:18:30.880	00:18:35.029	and has written many books on the subject of tropical fruit.
+G	00:18:35.039	00:18:36.880	so without further ado.
+G	00:18:36.880	00:18:39.590	i'd like to introduce our keynote speaker.
+G	00:18:39.600	00:18:46.230	dr sam erics.
+B	00:18:46.240	00:18:48.160	thank you, denise.
+B	00:18:48.160	00:18:58.480	the honourable judith bryant minister for trade, professor eric vogel, professor of economics at wagga university. distinguished guests, ladies and gentlemen.
+B	00:18:58.480	00:19:07.280	today's topic why bananas are bent is a very significant one in terms both of international trade and culture.
+B	00:19:07.280	00:19:14.789	in thinking about the topic i felt it would be appropriate to address briefly the history of bananas and banana farming.
+B	00:19:14.799	00:19:22.160	the many qualities of bananas both positive and negative, and of course examine the uses of the banana.
+B	00:19:22.160	00:19:27.750	but first let me tell you a story about a banana.
+B	00:19:27.760	00:19:29.039	ladies and gentlemen!
+B	00:19:29.039	00:19:39.120	i hope i've been able to clear up a few misconceptions and leave you with some new ideas about how we might view bananas in the future.
+B	00:19:39.120	00:19:45.280	we've seen in looking at their history that bananas have a significant role in many cultures.
+B	00:19:45.280	00:19:49.760	i've also noted their positive nutritional qualities.
+B	00:19:49.760	00:19:51.669	and in addressing the main question.
+B	00:19:51.679	00:19:53.600	why bananas are bent?
+B	00:19:53.600	00:19:57.919	we've learned that the reasons are many and complex.
+B	00:19:57.919	00:20:02.870	madam chair, thank you for the opportunity to address the conference today.
+B	00:20:02.880	00:20:09.029	and thank you ladies and gentlemen for your kind attention.
+
+A	00:20:09.039	00:20:12.870	well, it has been a great pleasure to meet you sam and lin.
+B	00:20:12.880	00:20:15.190	yes, we've enjoyed meeting you too victor.
+C	00:20:15.200	00:20:18.799	yes, it's been great. what a pity you have to go home?
+A	00:20:18.799	00:20:21.520	well, all good things must come to an end.
+A	00:20:21.520	00:20:23.280	but i'm sure we'll meet again.
+B	00:20:23.280	00:20:25.190	yes, i hope so.
+C	00:20:25.200	00:20:27.120	and good luck with your business.
+C	00:20:27.120	00:20:28.950	i'm sure it will go well.
+A	00:20:28.960	00:20:31.679	and i wish you every success too.
+B	00:20:31.679	00:20:36.240	well, i think we should drink a toast to the end of the conference, and to ourselves.
+B	00:20:36.240	00:20:37.520	here's to us.
+B	00:20:37.520	00:20:38.549	cheers!
+A	00:20:38.559	00:20:43.510	cheers!
+B	00:20:43.520	00:20:45.200	we should keep in touch.
+A	00:20:45.200	00:20:47.190	yes. have i given you my card?
+B	00:20:47.200	00:20:51.590	oh, no.
+B	00:20:51.600	00:20:52.559	thanks very much!
+B	00:20:52.559	00:20:55.430	here's mine.
+A	00:20:55.440	00:20:56.960	do you have a card, lin?
+C	00:20:56.960	00:20:58.710	yes.
+A	00:20:58.720	00:21:00.640	thank you.
+A	00:21:00.640	00:21:02.070	i'll send you an email.
+A	00:21:02.080	00:21:03.600	and if you're ever in singapore.
+A	00:21:03.600	00:21:04.720	you must look me up.
+B	00:21:04.720	00:21:07.440	we certainly will. and you have my number.
+B	00:21:07.440	00:21:09.350	when you're next in sydney, give me a call.
+B	00:21:09.360	00:21:10.720	we'll have a drink.
+E	00:21:10.720	00:21:14.070	may i take these?
+A	00:21:14.080	00:21:16.960	well, i'd better get going or miss my flight.
+B	00:21:16.960	00:21:20.000	have a good flight home. bon voyage.
+C	00:21:20.000	00:21:21.830	goodbye. until next time.
+A	00:21:21.840	00:21:25.430	goodbye!
+

@@ -1,0 +1,370 @@
+A	00:00:00.820	00:00:05.160	hello yeah this is the net cafe.
+A	00:00:05.160	00:00:07.696	you want to talk to Becca?
+A	00:00:07.696	00:00:10.129	sorry she's not here.
+A	00:00:10.139	00:00:12.459	sure no problem.
+A	00:00:12.459	00:00:13.230	bye.
+B	00:00:13.230	00:00:14.905	Aaron Harris.
+A	00:00:14.905	00:00:16.541	oh! hi Becca.
+B	00:00:16.541	00:00:19.650	do you always answer the phone like that?
+A	00:00:19.650	00:00:21.119	sometimes.
+B	00:00:21.119	00:00:24.391	that's not the way to answer the phone at work!
+B	00:00:24.391	00:00:28.127	you should say thank you for calling the net cafe.
+B	00:00:28.127	00:00:29.259	this is Aaron.
+A	00:00:29.259	00:00:30.246	I know.
+A	00:00:30.246	00:00:33.059	but what I said was okay right?
+A	00:00:33.059	00:00:34.350	I was friendly.
+B	00:00:34.350	00:00:37.660	yes but you were so informal!
+B	00:00:37.660	00:00:40.323	customers like friendly workers!
+B	00:00:40.323	00:00:44.475	we're supposed to be friendly and professional!
+A	00:00:44.475	00:00:46.659	oh okay.
+B	00:00:46.659	00:00:48.720	I mean it Aaron.
+B	00:00:48.720	00:00:53.070	I wouldn't want to have to tell our boss about this.
+A	00:00:53.070	00:00:57.253	you'd tell Ron I don't answer the phone well enough?
+B	00:00:57.253	00:00:59.253	I will if I have to.
+A	00:00:59.253	00:01:00.811	all right then!
+A	00:01:00.811	00:01:02.174	don't worry sis.
+A	00:01:02.174	00:01:05.941	I'll be so professional that everyone will be happy.
+B	00:01:05.941	00:01:09.170	I hope so.
+B	00:01:09.180	00:01:11.340	okay Aaron!
+A	00:01:11.340	00:01:13.921	thank you for calling the net cafe.
+A	00:01:13.921	00:01:14.834	this is Aaron.
+A	00:01:14.834	00:01:16.235	how may I help you?
+B	00:01:16.235	00:01:18.119	much better!
+A	00:01:18.119	00:01:20.896	yes Becca is available.
+A	00:01:20.896	00:01:23.330	may I ask who is calling?
+A	00:01:23.340	00:01:25.950	one moment please.
+A	00:01:25.950	00:01:27.373	here you go.
+A	00:01:27.373	00:01:28.649	it's a customer.
+A	00:01:28.649	00:01:31.380	she wants to talk to the manager.
+B	00:01:31.380	00:01:34.005	hello this is Becca Harris
+B	00:01:34.005	00:01:38.850	oh! hi mom!
+
+B	00:01:38.860	00:01:40.910	may I use your phone a minute?
+C	00:01:40.910	00:01:41.786	sure.
+A	00:01:49.200	00:01:52.875	thank you for calling the net cafe this is Erin.
+A	00:01:52.875	00:01:54.740	how may I help you?
+B	00:01:54.750	00:01:58.640	Aaron I'd like to speak to the manager.
+A	00:01:58.650	00:02:02.923	I'm sorry Becca is not available right now.
+A	00:02:02.923	00:02:04.970	may I take a message?
+B	00:02:04.980	00:02:06.828	no thanks.
+B	00:02:06.828	00:02:08.367	I'll call back later.
+B	00:02:08.367	00:02:10.740	goodbye.
+C	00:02:10.740	00:02:14.190	Becca why didn you call Aaron?
+C	00:02:14.190	00:02:18.231	and why did you use a different voice?
+B	00:02:18.231	00:02:21.560	I wanted to see how Erin answers the phone.
+B	00:02:21.570	00:02:24.562	sometimes he's not very professional.
+D	00:02:24.562	00:02:27.511	did he do a good job just now?
+B	00:02:27.511	00:02:31.573	yes he was very professional and polite!
+D	00:02:31.573	00:02:34.560	I want to call-him.
+C	00:02:34.560	00:02:35.965	Jeff!
+C	00:02:35.965	00:02:38.039	what are you going to do?
+D	00:02:38.039	00:02:40.030	don't worry Mia.
+D	00:02:40.030	00:02:42.989	Aaron won't even know it's me.
+C	00:02:42.989	00:02:47.503	honey aren't you a little old to make prank calls?
+D	00:02:47.503	00:02:49.269	these aren't prank calls.
+D	00:02:49.269	00:02:51.530	they're tests.
+D	00:02:51.540	00:02:53.199	hello.
+A	00:02:53.199	00:02:53.871	hello.
+A	00:02:53.871	00:02:55.230	net cafe.
+D	00:02:55.230	00:02:58.590	what specials will you have next week?
+B	00:02:58.590	00:03:00.871	put him on speakerphone!
+D	00:03:00.871	00:03:03.959	okay.
+A	00:03:03.959	00:03:06.270	I'll check for you sir.
+A	00:03:06.280	00:03:09.000	may I put you on hold?
+D	00:03:09.000	00:03:11.420	sure.
+A	00:03:11.430	00:03:14.776	Wow Becca he's very polite!
+B	00:03:14.776	00:03:15.843	yes he is.
+B	00:03:15.843	00:03:18.138	I guess he really listened to me!
+C	00:03:18.138	00:03:19.179	yeah.
+C	00:03:19.179	00:03:21.332	actually it's really cute.
+B	00:03:21.332	00:03:22.816	I know.
+C	00:03:22.816	00:03:24.788	I want to call him next!
+D	00:03:25.090	00:03:25.784	sure!
+D	00:03:25.784	00:03:27.028	hello!
+
+E	00:03:29.819	00:03:33.614	So you Jeff and Mia all called Aaron?
+E	00:03:33.614	00:03:35.421	but he didn't know it was you?
+B	00:03:35.421	00:03:36.650	right.
+F	00:03:36.650	00:03:41.129	Aaron told me the cafe phone rang a lot last night.
+F	00:03:41.129	00:03:43.213	now I know why!
+E	00:03:43.213	00:03:46.933	I can't believe you three made prank calls!
+B	00:03:46.933	00:03:48.920	they weren't prank calls.
+B	00:03:48.920	00:03:53.015	I wanted to test Erin to see how he answers the phone.
+E	00:03:53.015	00:03:58.969	I want to call him!
+E	00:03:58.969	00:04:01.709	hello? is Becca there.
+A	00:04:01.709	00:04:05.414	I'm sorry she's not available right now.
+A	00:04:05.414	00:04:07.609	would you like to leave a message?
+E	00:04:07.609	00:04:12.233	can you tell her Ella Pettis called?
+A	00:04:12.233	00:04:13.022	sure.
+A	00:04:13.022	00:04:16.489	can you spell your last name for me?
+A	00:04:16.489	00:04:18.056	hey!
+A	00:04:18.056	00:04:19.296	amber?
+A	00:04:19.296	00:04:20.596	is that you?
+E	00:04:20.596	00:04:22.152	uh no.
+E	00:04:22.152	00:04:25.311	Oops!
+
+A	00:04:27.230	00:04:31.342	I can't believe you had all those people call me!
+B	00:04:31.342	00:04:33.580	well you did a good job!
+A	00:04:33.590	00:04:34.802	great.
+A	00:04:38.560	00:04:41.250	thank you for calling the net cafe.
+A	00:04:41.260	00:04:42.681	what?
+A	00:04:42.681	00:04:43.360	Ron?
+A	00:04:43.360	00:04:44.976	Hah!
+A	00:04:44.976	00:04:46.347	is this Jeff?
+A	00:04:46.347	00:04:47.950	Nick?
+A	00:04:47.950	00:04:49.980	goodbye!
+B	00:04:49.990	00:04:52.633	you got another prank call?
+B	00:04:52.633	00:04:53.740	funny!
+A	00:04:53.750	00:05:02.440	I can't believe Becca told people to call me!
+B	00:05:02.440	00:05:05.768	Arron Ron just called my cell phone.
+A	00:05:05.768	00:05:07.270	no he didn't.
+B	00:05:07.280	00:05:08.642	yes he did.
+B	00:05:08.642	00:05:10.464	look at the caller ID!
+B	00:05:10.464	00:05:15.480	he wants to know why you just hung up on him.
+
+D	00:05:19.670	00:05:20.947	hi Claire!
+D	00:05:20.947	00:05:22.520	How was riding the bus?
+G	00:05:22.520	00:05:23.674	It was easy.
+G	00:05:23.674	00:05:27.340	catching the bus and transferring with no problem.
+D	00:05:27.350	00:05:29.990	how long did it take to get to school?
+G	00:05:29.990	00:05:32.293	it only took thirty minutes.
+G	00:05:32.293	00:05:35.952	when I drive is sometimes takes longer than that.
+D	00:05:35.952	00:05:39.604	so will you ride the bus all the time now.
+G	00:05:39.604	00:05:44.940	yes I will for the next two weeks.
+B	00:05:44.950	00:05:45.950	hi Rita.
+B	00:05:45.950	00:05:47.265	what can I get for you?
+H	00:05:47.265	00:05:52.093	I've been dreaming about a hot chocolate all day.
+B	00:05:52.093	00:05:54.903	well I'm glad I can make your dream come true.
+H	00:05:54.903	00:05:57.360	me too.
+B	00:05:57.360	00:05:59.580	so how have you been.
+H	00:05:59.580	00:06:01.042	good.
+H	00:06:01.042	00:06:04.724	it's been nice spending more time with Amber.
+B	00:06:04.724	00:06:05.551	yeah.
+B	00:06:05.551	00:06:08.726	it's good you and amber are becoming better friends.
+B	00:06:08.726	00:06:10.281	here's your hot chocolate.
+H	00:06:10.281	00:06:11.460	Thanks.
+H	00:06:11.460	00:06:14.688	amber and I have had our challenges.
+H	00:06:14.688	00:06:17.089	but things are looking up now.
+B	00:06:17.089	00:06:19.779	my mom and I weren't always close.
+B	00:06:19.779	00:06:22.717	I'm sad we didn't become friends sooner.
+H	00:06:22.717	00:06:24.889	but you're close now.
+B	00:06:24.889	00:06:26.177	oh yes.
+H	00:06:28.260	00:06:33.654	maybe one day amber will think of me as a good friend.
+B	00:06:33.654	00:06:37.480	maybe she already does.
+
+F	00:06:37.490	00:06:41.664	amber thanks for watching the store after school today.
+E	00:06:41.664	00:06:42.938	no problem.
+F	00:06:42.938	00:06:46.000	I should have gone to the post office yesterday.
+F	00:06:46.000	00:06:47.375	but I didn't.
+F	00:06:47.375	00:06:49.849	so thanks again for your help.
+E	00:06:49.849	00:06:50.740	sure.
+F	00:06:50.740	00:06:53.743	never wait till the last minute.
+F	00:06:53.743	00:06:56.133	so where are you going.
+E	00:06:56.133	00:06:59.353	I want to catch my mom before she leaves work.
+E	00:06:59.353	00:07:02.229	I hope we can go get some coffee together.
+F	00:07:02.229	00:07:03.790	sounds good.
+F	00:07:03.800	00:07:05.410	have fun.
+H	00:07:05.410	00:07:09.910	okay. see you tomorrow Greg.
+E	00:07:09.910	00:07:11.304	mom.
+H	00:07:11.304	00:07:11.796	oh.
+H	00:07:11.796	00:07:12.656	hi honey.
+H	00:07:12.656	00:07:13.908	what are you doing?
+E	00:07:13.908	00:07:17.060	I was just wondering if you'd like to get some coffee.
+H	00:07:17.060	00:07:22.240	sure.
+E	00:07:22.240	00:07:24.604	mom you're so funny.
+H	00:07:24.604	00:07:26.761	you're too nice.
+E	00:07:26.761	00:07:29.320	I'm glad we're friends mom.
+H	00:07:29.320	00:07:30.863	really?
+E	00:07:30.863	00:07:31.611	yes.
+E	00:07:31.611	00:07:35.020	I hope someday I can be a great mom like you.
+H	00:07:35.020	00:07:37.059	thanks amber.
+H	00:07:37.059	00:07:40.613	it's so nice to hear you say that.
+E	00:07:40.613	00:07:42.552	I like spending time with you.
+E	00:07:42.552	00:07:46.850	it's too bad we didn't spend more time together before now.
+H	00:07:46.850	00:07:50.979	I feel the same way.
+H	00:07:50.979	00:07:54.639	so how was school today.
+E	00:07:54.639	00:07:55.870	okay.
+E	00:07:55.880	00:07:57.261	I saw Ryan.
+E	00:07:57.261	00:07:59.722	he asked me to go see a movie with him.
+H	00:07:59.722	00:08:01.180	what did you say.
+E	00:08:01.180	00:08:05.500	well I remembered what Mia told me.
+E	00:08:05.500	00:08:10.659	but we need to be wise about what we try.
+E	00:08:10.659	00:08:13.405	I've tried being friends with Ryan.
+E	00:08:13.405	00:08:15.219	and it's not wise.
+E	00:08:15.219	00:08:17.327	so I told him no.
+H	00:08:17.327	00:08:22.219	I'm glad you haven't had second thoughts about breaking up with Ryan.
+E	00:08:22.219	00:08:26.889	I feel bad about not talking to him much anymore.
+E	00:08:26.889	00:08:31.149	but I know that's what is best for me.
+H	00:08:31.149	00:08:34.836	have you been able to make some new friends this year.
+E	00:08:34.836	00:08:36.159	oh yeah.
+E	00:08:36.169	00:08:37.529	there's this girl Judy.
+E	00:08:37.529	00:08:38.860	she's so much fun.
+H	00:08:38.870	00:08:41.452	I'm glad you're making new friends.
+H	00:08:41.452	00:08:45.975	I'm impressed with how much you've changed this year.
+E	00:08:45.975	00:08:50.019	well I've done some things I shouldn't.
+H	00:08:50.019	00:08:54.019	saying you're sick when you're not isn't wrong.
+F	00:08:54.019	00:08:56.138	oh that.
+E	00:08:56.138	00:09:00.346	I felt really guilty about that.
+H	00:09:00.346	00:09:04.907	but then you did the right thing and learned from your mistake.
+E	00:09:04.907	00:09:07.981	and now Liz and I are really good friends.
+H	00:09:07.981	00:09:11.606	working at the Stop 'n' Shop has been really good for you.
+H	00:09:11.606	00:09:16.491	I regret I didn't do something like that when I was your age.
+E	00:09:16.491	00:09:18.005	it's been fun.
+E	00:09:18.005	00:09:20.762	the break-in really shook me up though.
+H	00:09:20.762	00:09:25.346	I want you to know that I'm sorry I didn't trust you.
+E	00:09:25.346	00:09:26.744	I know Mom.
+H	00:09:26.744	00:09:33.610	but I was so impressed with how you responded.
+F	00:09:33.610	00:09:39.822	well you've all given me a second chance before
+F	00:09:39.822	00:09:41.776	I guess it's my turn.
+F	00:09:41.776	00:09:44.500	I forgive you.
+H	00:09:44.500	00:09:47.272	you're a great daughter amber.
+E	00:09:47.272	00:09:50.203	really no regrets huh?
+H	00:09:50.203	00:09:53.010	well maybe one.
+E	00:09:53.010	00:09:53.945	what.
+H	00:09:53.945	00:09:59.110	you're so special I regret we didn't have more children.
+E	00:09:59.110	00:10:00.471	yeah.
+E	00:10:00.471	00:10:02.410	a brother would have been cool.
+H	00:10:02.410	00:10:07.283	well maybe Jeff and Mia will have a little boy one day.
+H	00:10:07.283	00:10:09.116	you can play with him.
+E	00:10:09.116	00:10:13.130	Yeah right.
+
+D	00:10:13.140	00:10:15.924	Aaron can you give me that lemon.
+A	00:10:15.924	00:10:17.062	sure.
+A	00:10:17.062	00:10:18.697	what's the lemon for?
+D	00:10:18.697	00:10:21.150	I'm making a sauce for this salmon.
+A	00:10:21.160	00:10:23.085	oh that sounds great.
+A	00:10:23.085	00:10:24.704	Claire will love it.
+D	00:10:24.704	00:10:27.449	well let's hope she loves you.
+A	00:10:27.459	00:10:28.950	oh right.
+A	00:10:28.950	00:10:31.400	do you think she does.
+D	00:10:31.400	00:10:32.606	I hope so.
+D	00:10:32.606	00:10:35.460	you two would be cute together.
+F	00:10:39.470	00:10:41.762	Aaron the salmon is great.
+F	00:10:41.762	00:10:43.546	you have to give me the recipe.
+A	00:10:43.546	00:10:44.650	sure.
+A	00:10:44.650	00:10:46.439	Claire I.
+F	00:10:46.439	00:10:48.453	and how did you cook the vegetables.
+F	00:10:48.453	00:10:50.091	they're delicious.
+A	00:10:50.091	00:10:52.660	oh I just steamed them.
+A	00:10:52.660	00:10:54.829	Claire I.
+F	00:10:54.829	00:10:59.770	Aaron I'm glad you asked me over for dinner.
+F	00:10:59.770	00:11:01.299	thank you.
+A	00:11:01.299	00:11:02.500	thanks for coming.
+F	00:11:02.510	00:11:06.220	I need to talk to you about something.
+A	00:11:06.220	00:11:07.100	okay.
+A	00:11:07.100	00:11:07.881	what.
+F	00:11:07.881	00:11:10.297	there's this guy I really like.
+A	00:11:10.297	00:11:11.920	yes.
+F	00:11:11.920	00:11:14.614	we're becoming close friends.
+A	00:11:14.614	00:11:15.711	we are.
+F	00:11:15.711	00:11:19.832	I mean I'm sure you are.
+A	00:11:19.832	00:11:24.337	I think this guy likes me too.
+A	00:11:24.337	00:11:25.500	he does.
+A	00:11:25.500	00:11:30.070	I mean I'm sure he does.
+F	00:11:30.070	00:11:33.400	do you think I should tell him how I feel.
+A	00:11:33.410	00:11:34.568	yes.
+F	00:11:34.568	00:11:37.180	really.
+F	00:11:37.180	00:11:38.620	okay.
+F	00:11:38.620	00:11:44.860	I'll talk to Graham tomorrow.
+F	00:11:44.860	00:11:46.463	thanks Aaron.
+F	00:11:46.463	00:11:48.970	you're a great friend.
+A	00:11:48.970	00:11:51.160	Thanks.
+A	00:11:51.160	00:11:54.790	who's Graham.
+D	00:11:54.800	00:11:58.699	all of these universities look good Aaron.
+A	00:11:58.699	00:12:02.904	that's because these catalogs make them all look good.
+A	00:12:02.904	00:12:07.160	how can I know which university is best for me.
+D	00:12:07.160	00:12:10.568	you should talk to more people about this.
+D	00:12:10.568	00:12:12.629	they'll have some good ideas for you.
+A	00:12:12.629	00:12:16.091	I will but not yet.
+A	00:12:16.091	00:12:19.585	I don't know if I'll get into any of these schools.
+D	00:12:19.585	00:12:21.129	I'm sure you will.
+A	00:12:21.139	00:12:23.509	thanks Jeff.
+D	00:12:23.509	00:12:25.730	what about this school.
+A	00:12:25.740	00:12:27.644	West Side University.
+A	00:12:27.644	00:12:31.578	I like Westside because they have a new computer lab.
+D	00:12:31.578	00:12:34.759	are the academics good at Westside.
+A	00:12:34.759	00:12:36.597	they're OK.
+A	00:12:36.597	00:12:39.960	I also like the University of South Florida.
+A	00:12:39.960	00:12:41.673	it's close to home.
+D	00:12:41.673	00:12:45.291	and that's where Clair goes to school.
+A	00:12:45.291	00:12:46.467	yeah.
+D	00:12:46.467	00:12:51.500	I still can't believe she likes someone else.
+D	00:12:51.500	00:12:53.580	I'm sorry Aaron.
+A	00:12:53.580	00:13:02.329	I'll be ok. come in.
+A	00:13:02.329	00:13:04.129	hi Claire.
+F	00:13:04.139	00:13:05.456	hi guys.
+F	00:13:05.456	00:13:07.250	what are you two doing.
+A	00:13:07.250	00:13:08.480	nothing.
+D	00:13:08.480	00:13:12.139	we're just talking.
+F	00:13:13.002	00:13:14.755	are you looking at colleges.
+A	00:13:16.310	00:13:17.907	no.
+A	00:13:17.907	00:13:20.443	this catalog just came in the mail.
+F	00:13:20.443	00:13:24.620	this University has a beautiful campus.
+F	00:13:24.620	00:13:28.090	but I like my campus better.
+D	00:13:28.100	00:13:30.199	really why.
+F	00:13:30.199	00:13:32.698	we have a new Student Center.
+D	00:13:32.698	00:13:35.300	what do you do at the Student Center.
+F	00:13:35.310	00:13:39.792	my boyfriend grandma and I go there almost every day after class.
+F	00:13:39.792	00:13:41.839	we meet our friends and talk.
+D	00:13:41.839	00:13:45.127	you have a boyfriend?
+F	00:13:45.127	00:13:51.540	I do now thanks to Aaron.
+I	00:13:51.550	00:13:53.956	hey Claire are you ready to go.
+F	00:13:53.956	00:13:54.832	I am.
+F	00:13:54.832	00:13:55.662	let's go.
+F	00:13:55.662	00:13:57.214	bye boys.
+A	00:13:57.214	00:14:00.137	Claire really likes Graham huh.
+D	00:14:00.137	00:14:04.030	I think so.
+D	00:14:04.030	00:14:08.147	Aaron you need to hear the Brad Munroe story.
+A	00:14:08.147	00:14:09.570	huh.
+D	00:14:09.580	00:14:13.180	Brad Monroe was Mia's first boyfriend in college.
+A	00:14:13.180	00:14:15.300	okay.
+D	00:14:15.310	00:14:18.723	he and Mia were in student government together.
+D	00:14:18.723	00:14:20.610	she really liked him.
+A	00:14:20.620	00:14:23.470	why are you telling me this.
+D	00:14:23.470	00:14:26.890	because they weren't together very long.
+D	00:14:26.900	00:14:31.000	Brad graduated and Mia met me.
+A	00:14:31.000	00:14:32.470	so.
+D	00:14:32.470	00:14:36.010	so you don't know what will happen.
+D	00:14:36.020	00:14:42.490	give it time.
+
+D	00:14:42.500	00:14:44.004	morning Mia.
+C	00:14:44.004	00:14:45.860	hi honey.
+D	00:14:45.860	00:14:48.680	what would you like for dinner tonight.
+C	00:14:48.680	00:14:51.890	whatever you want I won't be here.
+D	00:14:51.890	00:14:54.050	where will you be.
+C	00:14:54.050	00:14:56.444	did I forget to tell you?
+C	00:14:56.444	00:14:59.589	the girls are having a sleepover at Becca's.
+C	00:14:59.589	00:15:00.949	I'm so excited.
+D	00:15:00.949	00:15:03.218	A sleepover?
+D	00:15:03.218	00:15:04.488	why.
+D	00:15:04.488	00:15:07.030	you're not thirteen anymore.
+C	00:15:07.040	00:15:09.951	sleepovers are fun at any age.
+C	00:15:09.951	00:15:10.760	bye honey.
+C	00:15:10.770	00:15:15.270	love you.
+A	00:15:15.280	00:15:16.830	Hey Becca.
+A	00:15:16.830	00:15:19.760	I invited Jeff and Nick to our place tonight.
+A	00:15:19.770	00:15:21.801	we're going to play xbox.
+B	00:15:21.801	00:15:25.103	sorry but I need the apartment tonight.
+B	00:15:25.103	00:15:26.843	I'm having a sleepover.
+A	00:15:26.843	00:15:29.660	what you didn't tell me.
+B	00:15:29.670	00:15:31.235	calm down Aaron.
+B	00:15:31.235	00:15:32.941	you can stay at Jeff's.
+B	00:15:32.941	00:15:34.767	Mia will be at our place.
+A	00:15:34.767	00:15:35.807	okay.
+A	00:15:35.807	00:15:39.005	so why are you having a sleepover?
+A	00:15:39.005	00:15:41.586	we got the idea yesterday.
+G	00:15:41.586	00:15:45.054	We girls should get together sometime soon.
+E	00:15:45.054	00:15:46.579	that would be fun.
+B	00:15:46.589	00:15:49.836	hey maybe we could have a sleepover.
+G	00:15:49.836	00:15:52.399	I love sleepovers.
+E	00:15:52.399	00:15:56.570	yeah great idea.
+H	00:15:56.570	00:16:00.559	what are you girls all smiling about?
+B	00:16:00.559	00:16:03.276	we want to have a girls sleepover.
+B	00:16:03.276	00:16:04.910	would you like to come.
+H	00:16:04.910	00:16:06.642	sure.
+H	00:16:06.642	00:16:08.802	that sounds like fun.
+E	00:16:08.802	00:16:09.640	really?
+E	00:16:09.640	00:16:10.745	great.
+E	00:16:10.745	00:16:14.240	we're going to have a wonderful time.
+B	00:16:14.240	00:16:17.570	so that's why we're having the sleepover.
+A	00:16:17.570	00:16:21.212	well I hope you girls have a good time.

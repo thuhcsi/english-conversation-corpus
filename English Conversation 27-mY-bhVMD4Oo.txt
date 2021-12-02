@@ -1,0 +1,484 @@
+A	00:00:03.199	00:00:04.677	Hi, I'm Mark Ryder.
+B	00:00:05.057	00:00:07.219	You're the new marketing director.
+A	00:00:07.268	00:00:07.844	That's right.
+B	00:00:08.039	00:00:10.545	I'm Nicole De la croix,I'm Allie's personal assistant.
+B	00:00:11.175	00:00:11.987	Welcome to Paris.
+A	00:00:12.074	00:00:12.518	Thank you.
+B	00:00:12.880	00:00:14.139	I'll just tell Allie, you're here.
+B	00:00:16.554	00:00:19.097	Allie, Mark Ryder's here.
+B	00:00:20.160	00:00:21.050	Okay.
+B	00:00:23.039	00:00:24.960	You're from San Francisco, aren't you?
+A	00:00:24.965	00:00:25.677	Yes, I am.
+C	00:00:26.000	00:00:26.906	Hello Mark.
+A	00:00:27.680	00:00:29.411	Allie, it's good to see you again.
+A	00:00:29.462	00:00:29.985	How are you?
+C	00:00:30.033	00:00:30.674	Very well.
+C	00:00:31.349	00:00:32.398	Did you have a good journey?
+A	00:00:32.754	00:00:34.044	Yes, fine. No problems.
+C	00:00:35.820	00:00:37.289	Let me introduce you to the team.
+C	00:00:37.440	00:00:39.780	You've met Nicole, my personal assistant.
+A	00:00:39.866	00:00:40.830	Yes, we've said hello.
+C	00:00:41.230	00:00:44.206	This is Jacques Lemaitre, our PR director.
+D	00:00:44.042	00:00:44.988	How do you do?
+A	00:00:44.988	00:00:46.214	Mark Ryder,how do you do?
+C	00:00:46.239	00:00:47.990	And this is Ben, our designer.
+E	00:00:48.177	00:00:48.705	Hi Mark.
+A	00:00:48.730	00:00:49.523	Great to meet you, Ben.
+E	00:00:49.643	00:00:50.520	Heard a lot about you.
+A	00:00:50.650	00:00:52.011	Really? All good, I hope.
+C	00:00:52.480	00:00:54.280	Okay, shall we go to my office?
+
+C	00:00:59.245	00:01:00.565	What a lovely view!
+C	00:01:01.062	00:01:02.580	The river's beautiful, isn't it?
+A	00:01:02.983	00:01:04.445	Paris is so romantic.
+A	00:01:04.559	00:01:06.390	I can't believe we're here together at last.
+C	00:01:06.448	00:01:07.700	Yes. It's weird.
+A	00:01:08.104	00:01:08.550	Weird?
+A	00:01:09.313	00:01:10.096	It's wonderful.
+A	00:01:10.880	00:01:11.860	I really missed you.
+C	00:01:12.353	00:01:12.889	Me, too.
+A	00:01:13.920	00:01:14.896	Why don't we sit down?
+C	00:01:21.300	00:01:22.705	So did you like the office?
+A	00:01:23.048	00:01:24.028	Yes, it's great.
+A	00:01:24.550	00:01:26.045	How do you get on with everyone?
+C	00:01:26.116	00:01:27.503	Ok,we'll see.
+C	00:01:27.750	00:01:29.355	I've only been here three weeks.
+C	00:01:30.120	00:01:31.186	What did you think of them?
+A	00:01:31.682	00:01:33.620	I thought shock was very nice.
+A	00:01:33.650	00:01:34.420	And Nicole.
+C	00:01:34.794	00:01:35.985	What about Nicole?
+A	00:01:37.034	00:01:38.600	She was very friendly.
+C	00:01:40.700	00:01:42.445	You know we have to keep things a secret.
+A	00:01:42.920	00:01:44.630	what're they?
+C	00:01:45.150	00:01:47.528	You know, us, our relationship.
+C	00:01:48.041	00:01:50.922	I don't want the people in the office to know we're together.
+A	00:01:50.760	00:01:51.900	Of course not.
+A	00:01:52.500	00:01:53.899	But it isn't going to be easy.
+C	00:01:54.320	00:01:55.500	No, it isn't.
+C	00:01:57.439	00:01:58.382	How's the hotel?
+A	00:01:58.850	00:02:00.169	Well it's ok, I guess.
+A	00:02:00.159	00:02:02.071	But it's not like having my own place.
+A	00:02:02.149	00:02:03.495	I have to find an apartment.
+C	00:02:04.276	00:02:04.898	Don't worry.
+C	00:02:04.898	00:02:05.595	won't take you long.
+C	00:02:09.679	00:02:10.535	What are you thinking?
+A	00:02:12.060	00:02:13.113	Do you really want to know?
+A	00:02:14.350	00:02:16.901	I was wondering what kind of boss you'll be.
+C	00:02:17.520	00:02:19.020	Well, you'll find out tomorrow.
+
+D	00:02:32.033	00:02:35.075	Mark, would you mind sending me those concert dates?
+A	00:02:35.145	00:02:35.980	Of course not.
+A	00:02:41.119	00:02:43.580	Ben, are you busy?
+E	00:02:44.213	00:02:44.658	Me?
+E	00:02:45.440	00:02:45.814	Never.
+A	00:02:46.239	00:02:47.361	Could you help me?
+A	00:02:48.250	00:02:49.656	I can't open this document.
+E	00:02:50.561	00:02:51.237	Sure.
+A	00:02:51.377	00:02:52.008	Thanks
+
+C	00:02:58.794	00:02:59.683	Hi, Nicole.
+B	00:02:59.840	00:03:01.468	Could you sign these, please?
+C	00:03:01.497	00:03:02.102	Sure.
+B	00:03:03.200	00:03:05.966	Is it Ok if i take tomorrow afternoon off?
+C	00:03:07.080	00:03:09.410	I'm sorry, but tomorrow is really difficult.
+B	00:03:09.990	00:03:11.650	What about friday afternoon?
+C	00:03:11.864	00:03:12.611	Friday?
+C	00:03:13.340	00:03:14.158	That's fine.
+C	00:03:14.460	00:03:16.558	Do you think you could send me the request by email?
+B	00:03:18.100	00:03:18.995	Yes, of course.
+C	00:03:21.199	00:03:21.821	Hello.
+C	00:03:22.604	00:03:23.422	Hi, Mark.
+C	00:03:24.165	00:03:25.310	Could you hold a moment, Mark?
+C	00:03:25.680	00:03:26.356	Thank you, Nicole.
+C	00:03:29.750	00:03:31.460	Can you come and see me when you have a moment?
+B	00:03:34.340	00:03:36.155	Have you started looking for an apartment?
+A	00:03:36.456	00:03:37.843	No, I haven't had time yet.
+E	00:03:38.300	00:03:40.090	Anyway it's best to get to know paris first.
+A	00:03:40.474	00:03:42.324	Yeah, it's a big city.
+B	00:03:46.627	00:03:47.355	Merci.
+E	00:03:49.347	00:03:49.988	Merci.
+A	00:03:52.637	00:03:53.920	Merci beaucoup.
+B	00:03:54.646	00:03:56.069	Very good, Mark.
+A	00:03:56.051	00:03:56.567	Thanks.
+A	00:03:56.580	00:03:58.540	That's nearly all the french I know.
+E	00:04:03.285	00:04:05.191	Hi, Beatrice.
+E	00:04:06.044	00:04:07.858	Yeah, just a minute.
+E	00:04:08.658	00:04:09.210	Sorry.
+
+B	00:04:13.246	00:04:14.775	How would you like the office?
+A	00:04:14.864	00:04:15.718	Oh, it's great!
+B	00:04:16.073	00:04:17.087	And the people?
+A	00:04:17.140	00:04:18.030	Really friendly.
+A	00:04:18.083	00:04:20.590	I like ben a lot he's amazing with computers.
+A	00:04:20.661	00:04:22.066	And Jacques's a really nice guy.
+B	00:04:23.399	00:04:25.426	Jacques is very charming.
+B	00:04:25.520	00:04:28.485	Everybody likes him and he has a lovely wife.
+B	00:04:28.520	00:04:31.099	She used to be a pop star when she was young
+B	00:04:31.330	00:04:33.037	Have you heard of Elisabeth?
+A	00:04:33.464	00:04:35.082	No, I'm sorry,I haven't.
+B	00:04:35.526	00:04:36.487	She's very pretty.
+B	00:04:38.016	00:04:39.812	Allie is very attractive, too.
+A	00:04:40.576	00:04:41.110	Allie?
+A	00:04:42.337	00:04:43.724	Yeah, I guess.
+B	00:04:45.502	00:04:47.920	Although her clothes are very English.
+B	00:04:48.951	00:04:50.356	And she's very formal.
+B	00:04:51.530	00:04:54.250	You know today I asked her if I could have a day off.
+B	00:04:54.588	00:04:56.829	And she wanted me to send her an email.
+A	00:04:57.398	00:04:59.869	Well, the English have their funny ways.
+B	00:05:01.570	00:05:02.626	Oh, hello, Allie.
+C	00:05:02.679	00:05:03.141	Hi!
+A	00:05:03.159	00:05:04.955	Allie! Hi,Let me get you a drink.
+C	00:05:05.559	00:05:07.836	Thanks, I'll have a diet coke.
+
+A	00:05:15.891	00:05:17.118	Where exactly is it?
+A	00:05:20.300	00:05:21.812	I'm sorry,I didn't catch that.
+A	00:05:24.017	00:05:24.764	OK.
+A	00:05:26.506	00:05:27.324	How far is it?
+A	00:05:30.632	00:05:31.396	OK.
+A	00:05:33.210	00:05:33.921	OK.
+A	00:05:35.450	00:05:36.073	Merci.
+D	00:05:39.611	00:05:40.643	Any luck?
+A	00:05:41.318	00:05:43.061	I think I found an apartment.
+A	00:05:43.399	00:05:45.510	How do i get to Belleville?
+D	00:05:46.137	00:05:49.249	The easiest way is to get the metro at Pyramids.
+D	00:05:50.049	00:05:52.930	Take line fourteen and change at Chatelet.
+A	00:05:52.948	00:05:53.463	OK.
+D	00:05:54.086	00:05:57.589	Then take line eleven towards MaIrie des Lilas.
+A	00:05:57.642	00:05:58.531	Where do I get off?
+D	00:05:59.171	00:06:00.060	At Dellvilla.
+A	00:06:01.530	00:06:02.567	And how many stops is it?
+D	00:06:04.274	00:06:05.839	Six, I think.
+A	00:06:06.799	00:06:08.738	Oh right, I found it on the map.
+A	00:06:09.502	00:06:11.245	How long does it take to get there?
+D	00:06:11.838	00:06:13.130	About half an hour.
+B	00:06:13.759	00:06:15.020	Have you found a flat?
+A	00:06:15.352	00:06:17.753	Yeah, in Belleville this time.
+B	00:06:17.788	00:06:19.150	When are you going to see it?
+A	00:06:19.193	00:06:20.047	This afternoon.
+B	00:06:20.349	00:06:22.790	If you can wait till six, I'll give you a lift.
+B	00:06:23.354	00:06:24.479	I live near Belleville.
+B	00:06:24.479	00:06:25.861	So I'm driving that way.
+A	00:06:26.199	00:06:26.839	That's great.
+A	00:06:26.910	00:06:27.479	Thanks.
+A	00:06:28.689	00:06:29.240	Thank you.
+
+F	00:06:35.499	00:06:37.775	This is the apartment.
+A	00:06:43.483	00:06:44.532	Merci madam.
+A	00:06:46.257	00:06:47.199	sorry, Nicole.
+A	00:06:47.250	00:06:48.106	What did she say?
+B	00:06:48.231	00:06:49.810	she said we can have a look at the flat.
+B	00:06:49.813	00:06:51.307	she's going to wait downstairs.
+A	00:06:51.375	00:06:51.947	thanks.
+A	00:06:58.099	00:06:59.202	So what do you think?
+B	00:06:59.966	00:07:01.674	it's a long way from the station.
+B	00:07:02.420	00:07:03.843	and it's on the fourth floor.
+B	00:07:03.940	00:07:05.560	it's a pity there isn't a lift.
+A	00:07:05.621	00:07:07.615	who needs one the stairs are good exercise?
+A	00:07:07.666	00:07:09.604	look, there's a great view from here.
+B	00:07:09.675	00:07:10.956	It's also very noisy
+A	00:07:11.151	00:07:13.339	Sure, but it has character.
+A	00:07:13.694	00:07:16.521	It's just how I imagine an apartment in Paris.
+B	00:07:16.575	00:07:17.908	Everything's old.
+B	00:07:18.122	00:07:19.384	Including the heating.
+B	00:07:19.473	00:07:21.483	it will be very cold in the winter.
+A	00:07:24.363	00:07:25.056	oh hi.
+C	00:07:25.359	00:07:26.586	well, what's it like?
+A	00:07:27.297	00:07:29.555	nice, really Parisian.
+C	00:07:29.875	00:07:30.924	are you going to take it?
+A	00:07:31.173	00:07:32.080	I think so, yeah.
+C	00:07:32.596	00:07:33.876	I can't wait to see it.
+A	00:07:34.000	00:07:34.712	yeah.
+C	00:07:36.028	00:07:36.774	are you Ok?
+C	00:07:37.592	00:07:38.446	are you on your own?
+A	00:07:38.784	00:07:41.327	no i'm with the woman who owns the apartment.
+A	00:07:41.330	00:07:41.950	I'll call you back.
+C	00:07:42.731	00:07:43.211	OK.
+C	00:07:43.567	00:07:44.456	speak later.
+C	00:07:44.705	00:07:45.541	love you.
+A	00:07:46.039	00:07:46.679	love you, too.
+A	00:07:46.710	00:07:47.052	Bye.
+A	00:07:49.239	00:07:50.804	Sorry about that.
+A	00:07:51.106	00:07:54.432	that was that was my my daughter.
+B	00:07:54.752	00:07:56.068	calling from America?
+A	00:07:56.725	00:07:58.966	you know she's just taking an interest. B	00:08:00.015	00:08:01.295	taking an interest.
+B	00:08:01.704	00:08:02.753	that's nice.
+
+C	00:08:06.434	00:08:08.420	I got a message this morning.
+C	00:08:08.426	00:08:09.261	it's from Jacques.
+D	00:08:11.075	00:08:13.938	Allie, it's jack i'm in Rome.
+D	00:08:14.450	00:08:16.267	my return flight's been cancelled.
+D	00:08:16.836	00:08:17.957	there's a small problem.
+D	00:08:18.401	00:08:22.046	Scarlett Scarpino is in Paris for her concert this evening.
+D	00:08:22.384	00:08:24.056	I was going to look after her today.
+D	00:08:24.571	00:08:26.350	could you possibly take care of her?
+D	00:08:27.505	00:08:25.110	thank you.
+D	00:08:29.266	00:08:30.297	and see you later.
+C	00:08:31.737	00:08:33.853	you've met scarlet scarpino, haven't you, Ben?
+E	00:08:35.294	00:08:36.645	the punk princess.
+E	00:08:36.965	00:08:39.206	Yeah, I met her in London last year.
+C	00:08:39.472	00:08:40.237	what's she like?
+E	00:08:40.699	00:08:43.367	let's say she's a bit difficult.
+C	00:08:43.544	00:08:45.287	what are we going to do with her?
+A	00:08:45.785	00:08:47.350	why don't you show her around Paris?
+C	00:08:47.456	00:08:48.559	I have a better idea.
+C	00:08:48.666	00:08:50.390	why don't you show her around Paris?
+A	00:08:50.550	00:08:51.208	what,me?
+A	00:08:51.333	00:08:52.115	i'm new here.
+C	00:08:52.613	00:08:54.516	you can't leave me to do this on my own?
+A	00:08:54.658	00:08:57.076	Ok, why don't we take her to Nootre Dame?
+A	00:08:57.130	00:08:58.872	I mean it's her first time in Paris, isn't it?
+E	00:08:59.317	00:09:01.860	i don't think churches are really her thing.
+A	00:09:02.055	00:09:03.709	how about taking her on a boat trip?
+C	00:09:03.993	00:09:04.740	brilliant!
+A	00:09:04.811	00:09:06.109	and then we can go up the eiffel tower.
+C	00:09:06.350	00:09:08.439	that's a good idea i'm sure she'll love the view.
+E	00:09:08.581	00:09:10.004	and she might fall off.
+A	00:09:10.590	00:09:11.657	thanks for your help, Ben.
+A	00:09:12.102	00:09:13.346	shall we have lunch after that?
+C	00:09:13.720	00:09:15.160	let's go somewhere really nice.
+C	00:09:15.516	00:09:17.134	Do you have any recommendations, Ben?
+E	00:09:17.596	00:09:20.850	What about La renaissance? That's Jacques' favorite.
+C	00:09:20.921	00:09:22.059	That sounds perfect!
+C	00:09:22.824	00:09:24.816	Ben, do you want to come, too?
+E	00:09:25.829	00:09:27.430	sorry Allie.
+E	00:09:27.500	00:09:28.710	i'm really busy.
+E	00:09:29.137	00:09:31.555	but i'm sure you'll have an unforgettable meal.
+
+A	00:09:44.713	00:09:47.274	so scarlett, what would you like?
+G	00:09:47.772	00:09:48.430	nothing.
+A	00:09:49.763	00:09:50.812	aren't you hungry?
+G	00:09:51.204	00:09:53.053	sure but this food's really horrible.
+C	00:09:53.640	00:09:56.060	this is one of the finest restaurants in Paris.
+G	00:09:56.147	00:09:57.130	well I can't eat this stuff.
+G	00:09:57.658	00:09:58.870	I never touch meat.
+C	00:09:59.241	00:10:00.414	the seafood looks good.
+G	00:10:01.161	00:10:01.695	hey.
+G	00:10:02.281	00:10:03.384	fish have feelings, too.
+A	00:10:04.184	00:10:05.589	what about the mushroom risotto?
+G	00:10:06.478	00:10:07.207	mushrooms.
+G	00:10:08.256	00:10:08.950	no way. 
+G	00:10:10.212	00:10:12.310	didn't they tell you guys about my allergies 
+G	00:10:14.622	00:10:17.200	i'm allergic to mushrooms strawberries nuts
+A	00:10:17.235	00:10:18.356	shall we go someplace else?
+G	00:10:20.561	00:10:20.480	whatever.
+G	00:10:20.480	00:10:21.770	i'm going to the restroom.
+C	00:10:28.687	00:10:30.537	well, that was a disastrous morning.
+C	00:10:30.820	00:10:33.897	the boat trip made her feel sick and she wouldn't go up the eiffel tower. 
+C	00:10:34.395	00:10:35.871	"I can't stand heights."
+A	00:10:35.940	00:10:37.597	it's a pity,we didn't just take her shopping.
+C	00:10:38.129	00:10:39.498	she's so spoilt.
+A	00:10:39.747	00:10:41.579	oh, come on,she's just a kid really.
+C	00:10:42.290	00:10:44.566	so, what are we going to do about lunch?
+C	00:10:44.869	00:10:45.758	shall we leave now?
+A	00:10:47.073	00:10:47.909	no, hang on.
+A	00:10:48.069	00:10:48.923	I have an idea.
+A	00:10:49.083	00:10:50.096	let me talk to the waiter.
+A	00:10:51.608	00:10:53.902	do you think you could possibly do me a favor?
+H	00:10:54.097	00:10:55.698	yes, of course, sir,what would you like?
+
+A	00:11:06.206	00:11:08.234	well, i think this place is great.
+A	00:11:09.051	00:11:09.887	more wine, Allie?
+C	00:11:10.012	00:11:11.079	No, thanks.
+H	00:11:13.280	00:11:13.888	Mademoiselle.
+G	00:11:15.645	00:11:16.240	what's this?
+A	00:11:17.107	00:11:18.316	it's your lunch, scarlett.
+G	00:11:19.310	00:11:20.556	but i didn't order anything.
+G	00:11:24.877	00:11:27.918	hey, pizza margarita.
+G	00:11:28.096	00:11:28.842	cool!
+C	00:11:38.267	00:11:40.290	that was a great concert last night, scarlett.
+G	00:11:40.294	00:11:40.827	thanks.
+C	00:11:41.698	00:11:44.580	As we know Scarlet's got a new CD coming out soon.so
+C	00:11:44.935	00:11:47.958	let's have a look at the best way we can promote it in france
+A	00:11:48.153	00:11:48.687	ok.
+A	00:11:49.220	00:11:52.403	well, I think scarlett should visit the major music stores.
+A	00:11:52.456	00:11:54.999	in my opinion, that's the best way to meet fans.
+C	00:11:55.533	00:11:56.546	I'm not so sure.
+C	00:11:56.831	00:11:57.798	what do you think, jacques?
+D	00:11:58.218	00:11:59.925	actually i don't agree with Mark.
+D	00:12:00.956	00:12:03.677	scarlet isn't commercial in that way.
+C	00:12:04.388	00:12:04.904	scarlett?
+C	00:12:06.344	00:12:06.824	scarlet?
+G	00:12:08.085	00:12:08.993	I agree with jacques.
+G	00:12:09.766	00:12:11.021	I don't have a commercial image.
+G	00:12:11.074	00:12:11.945	it isn't my style.
+A	00:12:12.532	00:12:14.879	ok, but scarlet needs more publicity.
+A	00:12:15.181	00:12:17.938	what about a series of TV and radio interviews?
+A	00:12:17.991	00:12:18.773	don't you agree?
+C	00:12:18.862	00:12:20.427	yes, that's what everybody does.
+C	00:12:21.014	00:12:22.614	what we want is something different.
+D	00:12:24.357	00:12:29.051	personally, i think scarlett should tour clubs and summer festivals.
+D	00:12:30.545	00:12:37.815	she can DJ, play her favorite music, play the new CD and meet her fans, too.
+C	00:12:38.173	00:12:40.894	yes, absolutely,that's a much better idea.
+C	00:12:41.552	00:12:42.138	mark?
+A	00:12:44.237	00:12:45.286	ok, why not?
+C	00:12:46.246	00:12:46.744	scarlet?
+G	00:12:47.828	00:12:48.931	I think.
+G	00:12:55.617	00:12:56.541	that's a great idea.
+G	00:12:57.733	00:12:58.871	thank you, jacques.
+C	00:13:57.238	00:13:14.910	it's great to be on our own again.
+A	00:13:14.839	00:13:15.568	yeah.
+C	00:13:15.692	00:13:17.684	this is the first time you've been to the Louvre?
+A	00:13:17.808	00:13:18.555	uh-huh.
+C	00:13:19.498	00:13:20.191	what's the matter?
+C	00:13:21.507	00:13:22.787	is this about the meeting?
+C	00:13:23.018	00:13:24.850	because i agreed with jacques and not with you.
+A	00:13:25.348	00:13:27.624	yeah, well, we knew it wouldn't be easy.
+A	00:13:27.748	00:13:28.957	working together, i mean.
+C	00:13:29.331	00:13:31.073	it's difficult for me as well.
+C	00:13:31.127	00:13:32.336	but if i don't agree with you.
+A	00:13:32.407	00:13:33.794	i know, i know, you're the boss.
+C	00:13:33.847	00:13:35.039	and i have to do my job.
+C	00:13:35.163	00:13:37.405	i really thought that jacques' idea was better.
+C	00:13:37.420	00:13:39.360	and so did scarlet.
+A	00:13:39.431	00:13:40.907	it's not a big deal, Allie.
+A	00:13:41.262	00:13:42.116	i'm fine, really.
+A	00:13:44.676	00:13:46.508	so who exactly was the Mona Lisa?
+C	00:13:47.468	00:13:48.482	i'm not sure.
+C	00:13:49.122	00:13:50.765	i think she was the wife of a banker.
+A	00:13:51.273	00:13:52.480	is that why she's smiling?
+A	00:13:52.500	00:13:54.332	because her husband has a good salary?
+C	00:13:54.687	00:13:58.297	i also read somewhere that she was a self-portrait of Leonardo.
+A	00:13:58.439	00:14:00.129	a self-portrait? you're kidding?
+A	00:14:01.720	00:14:05.250	now, i don't know much about art... ...but leonardo da vinci was a man, right?
+C	00:14:05.605	00:14:07.188	well, it's just a theory.
+C	00:14:09.073	00:14:10.229	why do you think she's smiling?
+A	00:14:11.864	00:14:16.150	well, in my opinion, she's the managing director of a music company.
+C	00:14:16.577	00:14:17.288	what?
+A	00:14:17.570	00:14:20.382	she lives in paris, she's in love with her marketing director...
+A	00:14:20.560	00:14:22.658	and she has a lot of fun telling him what to do.
+C	00:14:22.720	00:14:24.080	that's really unfair!
+A	00:14:24.292	00:14:25.634	hey, we're not in the office now.
+A	00:14:25.650	00:14:26.801	you can't tell me i'm wrong.
+A	00:14:27.810	00:14:28.550	let's get a coffee.
+C	00:14:28.590	00:14:29.290	good idea.
+A	00:14:30.091	00:14:30.873	don't turn around!
+C	00:14:31.085	00:14:31.478	what is it?
+A	00:14:32.349	00:14:33.914	i just seen ben from the office.
+C	00:14:33.985	00:14:34.447	where?
+A	00:14:34.518	00:14:35.514	i said don't look!
+A	00:14:36.680	00:14:38.180	I don't think he's seen us. let's get out of here.
+A	00:14:38.181	00:14:38.537	come on!
+
+E	00:14:41.250	00:14:42.075	hi.
+B	00:14:43.040	00:14:43.800	hi
+D	00:14:43.830	00:14:44.000	hello
+B	00:14:44.020	00:14:45.030	did you have a nice weekend?
+E	00:14:45.140	00:14:48.921	oh, yeah, you'll never guess who i saw on Saturday.
+B	00:14:48.970	00:14:49.419	who?
+E	00:14:49.775	00:14:54.505	Allie and mark in the Louvre together.
+B	00:14:55.279	00:14:55.920	really?
+D	00:14:56.514	00:14:57.510	you're joking.
+E	00:14:57.705	00:14:59.377	it was definitely them.
+E	00:15:00.100	00:15:01.279	and they looked really close.
+E	00:15:01.279	00:15:03.111	i think they were holding hands.
+D	00:15:03.199	00:15:05.174	no, i don't believe it.
+E	00:15:05.150	00:15:05.680	it's true.
+E	00:15:05.680	00:15:06.615	i'm telling you.
+E	00:15:07.468	00:15:12.235	and i think they saw me because they turned and left really quickly.
+D	00:15:12.678	00:15:14.207	are you serious?
+B	00:15:14.527	00:15:16.003	you know, i'm not surprised.
+B	00:15:16.287	00:15:19.064	i think they've been seeing each other ever since mark arrived.
+B	00:15:19.650	00:15:21.213	or maybe even before.
+D	00:15:21.728	00:15:22.831	that's incredible.
+D	00:15:23.115	00:15:24.147	what makes you say that?
+B	00:15:24.440	00:15:28.750	when i went to look at mark's new apartment, i'm sure Allie called them on his mobile.
+B	00:15:28.950	00:15:32.433	and i've seen her looking at him... in certain way...
+E	00:15:32.450	00:15:34.442	hey, quiet everyone. it's mark.
+A	00:15:37.910	00:15:38.354	hi.
+B	00:15:38.490	00:15:40.061	hi,good morning.
+
+A	00:15:53.040	00:16:04.031	dear all, please find attached a copy of the latest sales report from the USA. mark.
+A	00:16:06.396	00:16:08.210	so did you guys have a good weekend?
+E	00:16:08.654	00:16:09.685	yes, fine.
+D	00:16:10.183	00:16:11.766	not bad, very quiet.
+D	00:16:12.513	00:16:13.455	what about you, mark?
+A	00:16:14.060	00:16:16.194	oh, i spent most of the time at home.
+A	00:16:16.265	00:16:17.865	just being domestic, you know.
+A	00:16:18.221	00:16:20.248	the apartment's looking pretty nice now.
+A	00:16:20.639	00:16:22.328	you must come around for a meal one evening.
+D	00:16:22.879	00:16:24.285	that would be very nice.
+E	00:16:25.422	00:16:27.254	so didn't you go out at all?
+A	00:16:28.175	00:16:28.996	oh, sure.
+A	00:16:29.067	00:16:30.775	i went to the louvre on saturday.
+A	00:16:30.881	00:16:32.500	i felt like getting a bit of culture.
+D	00:16:33.050	00:16:34.082	on your own?
+A	00:16:35.273	00:16:36.000	yeah.
+A	00:16:36.714	00:16:42.866	i kind of prefer going to museums and galleries on my own. you can look at everything at your own pace.
+E	00:16:42.919	00:16:43.773	that's funny.
+E	00:16:44.804	00:16:46.849	i went to the louvre on saturday, too.
+A	00:16:47.169	00:16:47.809	really?
+A	00:16:48.681	00:16:50.014	I,I didn't see you.
+E	00:16:50.174	00:16:51.650	well, it's a big place.
+E	00:16:52.415	00:16:53.659	I didn't see you either.
+B	00:17:00.080	00:17:01.910	i've just had an email from Allie.
+D	00:17:04.257	00:17:05.218	So have I.
+A	00:17:07.156	00:17:07.938	me, too.
+B	00:17:10.054	00:17:13.895	dear mark, thank you for the information.
+B	00:17:14.233	00:17:17.505	and thank you, darling, for a wonderful weekend. Allie.
+A	00:17:27.338	00:17:28.050	mark ryder.
+C	00:17:28.316	00:17:29.312	mark, can you come in?
+A	00:17:30.716	00:17:31.339	sure.
+
+C	00:17:38.770	00:17:40.265	thanks for the sales report.
+A	00:17:40.310	00:17:42.808	i think there's something more important to talk about right now.
+C	00:17:43.146	00:17:43.910	what do you mean?
+A	00:17:43.981	00:17:45.262	that message you sent me.
+A	00:17:45.315	00:17:46.790	you hit 'reply to all'.
+A	00:17:46.850	00:17:48.711	you sent it to everyone in the office.
+C	00:17:48.782	00:17:51.094	oh, no. you're joking.
+C	00:17:51.890	00:17:55.522	oh, mark, i'm so sorry, i did it without thinking
+A	00:17:55.682	00:17:56.660	it's all right, Allie.
+A	00:17:56.661	00:17:57.869	it's an easy mistake to make.
+C	00:17:57.940	00:17:59.168	how could i be so stupid?
+C	00:17:59.789	00:18:01.372	i just wasn't concentrating.
+A	00:18:01.375	00:18:02.834	Allie.
+C	00:18:02.492	00:18:03.879	i'm really sorry.
+A	00:18:04.235	00:18:05.235	don't worry about it.
+A	00:18:05.240	00:18:05.900	it doesn't matter.
+A	00:18:06.440	00:18:08.100	but i think we should talk to the others.
+C	00:18:08.485	00:18:09.765	yes, you're right.
+C	00:18:10.730	00:18:12.108	i'll do it,it was my fault.
+
+C	00:18:14.335	00:18:15.615	listen, everybody.
+C	00:18:17.530	00:18:20.256	i just want to say that i'm terribly sorry.
+C	00:18:20.260	00:18:21.469	i haven't been honest with you.
+C	00:18:22.920	00:18:25.359	we, mark and I...
+C	00:18:26.080	00:18:26.515	well...
+B	00:18:26.585	00:18:27.671	that's ok, Allie.
+B	00:18:28.270	00:18:29.640	we had already guessed.
+B	00:18:29.840	00:18:31.476	it wasn't really a surprise.
+
+C	00:18:39.679	00:18:42.450	i still can't work out how they knew about us.
+C	00:18:42.650	00:18:45.150	i was always really careful not to treat you differently.
+A	00:18:44.919	00:18:47.480	but you were really hard on me.
+C	00:18:47.500	00:18:48.635	Mark, I wasn't.
+A	00:18:48.880	00:18:51.178	oh, you were just being fair and very British.
+C	00:18:51.230	00:18:52.512	so if it wasn't me.
+C	00:18:52.580	00:18:53.703	it must have been you.
+A	00:18:53.917	00:18:54.717	what?
+C	00:18:55.320	00:18:56.477	i've got my own office.
+C	00:18:56.480	00:18:58.060	you're with them all the time.
+C	00:18:58.000	00:18:59.461	you must have said something.
+C	00:18:59.462	00:19:01.080	you're hopeless at keeping secrets!
+A	00:19:01.081	00:19:02.328	don't blame me.
+A	00:19:02.329	00:19:03.450	this wasn't my fault.
+A	00:19:03.780	00:19:05.280	they probably just guess.
+C	00:19:05.510	00:19:06.280	how?
+A	00:19:06.980	00:19:09.689	you know the french, they're experts on love affairs.
+C	00:19:09.973	00:19:10.614	maybe.
+A	00:19:11.983	00:19:13.939	actually, i think it's great that everyone knows.
+A	00:19:13.949	00:19:15.486	now we don't have to pretend anymore.
+C	00:19:15.440	00:19:17.016	yeah, that's true.
+A	00:19:19.679	00:19:23.452	Allie, there's something i've been wanting to ask you for a long time.
+A	00:19:23.559	00:19:24.963	i just haven't said anything.
+A	00:19:26.170	00:19:27.542	but it's now or never.
+A	00:19:29.440	00:19:33.760	Allie, Will you ?
+C	00:19:35.686	00:19:37.517	sorry mark, i didn't hear a word you said.
+A	00:19:39.384	00:19:40.078	i said...
+A	00:19:41.580	00:19:42.496	will you marry me?
+C	00:19:45.020	00:19:45.260	Yes
+A	00:19:49.000	00:19:50.053	was that a 'yes'?
+C	00:19:50.249	00:19:51.138	yes!
+A	00:19:56.188	00:19:58.339	can you confirm that in an email for me?
+A	00:19:58.380	00:20:04.750	just don't send it to everyone in the office this time.
+

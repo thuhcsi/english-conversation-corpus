@@ -1,0 +1,331 @@
+A	00:00:06.799	00:00:11.200	jack! jack, i was waiting for you.
+A	00:00:11.200	00:00:12.950	have you got a minute?
+B	00:00:12.960	00:00:14.067	sure, edward!
+B	00:00:13.934	00:00:14.689	what's up?
+B	00:00:14.618	00:00:16.729	Do you want put some muscles in your film?
+A	00:00:16.560	00:00:18.800	oh, jack, you're quite a joker!
+A	00:00:18.800	00:00:20.480	i need some advice....
+A	00:00:20.480	00:00:23.509	about a rather delicate matter...
+A	00:00:23.519	00:00:25.760	well, it's about women.
+B	00:00:25.760	00:00:28.322	oh, well, then you've come to the right person.
+B	00:00:28.240	00:00:32.790	when it comes to women, in all modesty, i'm sort of an expert.
+B	00:00:32.800	00:00:35.680	go ahead, shoot! but make it fast, i have to get to the gym.
+A	00:00:35.680	00:00:38.227	oh, well, don' worry, it's like this.
+A	00:00:39.040	00:00:45.190	if a woman lets you mysteriously know that she's keen on you.
+A	00:00:45.200	00:00:50.009	and if you didn't expect it, but then you find that you don't mind the gesture...
+A	00:00:49.933	00:00:53.813	in fact, because of these you find that you are becoming fond of her.
+A	00:00:54.239	00:00:57.762	and if she acts as if nothing has happened...
+B	00:00:57.787	00:00:59.338	wow,wo,wo,what edward?
+B	00:00:59.440	00:01:00.628	what are you getting at?
+B	00:01:00.634	00:01:01.781	i don't understand!
+B	00:01:02.626	00:01:04.960	it is this a new idea for a film?
+B	00:01:04.960	00:01:06.390	because if it is.
+B	00:01:06.400	00:01:10.710	you should think about rewriting this script,it seems very convoluted to me.
+A	00:01:10.720	00:01:13.381	jack, stop joking it's a serious matter!
+A	00:01:13.280	00:01:15.184	i i just don't know how to behave...
+A	00:01:15.210	00:01:18.321	i i can't stand this situation?
+B	00:01:20.137	00:01:20.560	well.
+B	00:01:23.280	00:01:25.895	okay! Let's to this the top.
+B	00:01:27.680	00:01:34.390	so, a woman goes for you, however, she doesn't do it openly.
+B	00:01:34.400	00:01:38.720	but then she pretends as if nothing has happened.
+B	00:01:38.720	00:01:44.310	and as far as i can tell, you don't dislike the idea.
+B	00:01:44.379	00:01:45.109	have i got it?
+A	00:01:45.119	00:01:47.301	exactly! what should i do?
+B	00:01:48.640	00:01:49.739	well, the fact...
+B	00:01:50.720	00:01:57.520	her behavior leads me to believe that she's fond of games.
+B	00:01:57.520	00:02:03.438	so, use that,play the mysterious man.
+B	00:02:04.027	00:02:07.040	and then, surprise her with something special.
+B	00:02:07.040	00:02:10.710	you know, like... take her out to dinner or...
+B	00:02:10.720	00:02:13.680	write her a poem or...
+B	00:02:13.680	00:02:15.760	send her some red roses.
+B	00:02:15.760	00:02:17.920	women really go for that kind of thing!
+A	00:02:17.920	00:02:22.667	really, I got an idea.
+
+A	00:02:32.319	00:02:38.309	great, this spot should work well!
+A	00:02:38.319	00:02:41.040	maybe here would be better!
+A	00:02:41.040	00:02:42.758	and i'll put the card.
+A	00:02:44.425	00:02:44.936	here.
+A	00:02:45.864	00:02:46.976	next to this!
+A	00:02:50.080	00:02:51.928	Let's give it a quick once over again...
+A	00:02:57.840	00:03:03.040	anne, i should have done this long ago!
+A	00:03:03.040	00:03:07.509	now, i can't wait any longer...
+A	00:03:07.519	00:03:12.550	listen to my poetry written especially for you...
+A	00:03:12.560	00:03:34.309	you are perfume, the color of all flowers, the bread and scent of the sea, the warming strength of the sun, you, the shining star that lights my life.
+A	00:03:34.319	00:03:37.990	who knows if she'll like it...
+A	00:03:38.000	00:03:40.879	what about these roses?
+A	00:03:40.879	00:03:43.360	will she like them?
+A	00:03:43.360	00:03:46.159	what if she makes fun of me?
+A	00:03:46.159	00:03:51.350	perhaps i shouldn't have listened to jack! but of course, of course...
+A	00:03:51.360	00:03:55.830	it makes no sense to go on as if nothing has happened.
+A	00:03:55.840	00:03:58.906	somebody has to take the first step!
+A	00:04:03.280	00:04:10.000	i'll await you tomorrow night here in the living room.
+A	00:04:10.000	00:04:12.480	when everyone is asleep...
+A	00:04:12.480	00:04:18.479	we'll be able to be alone, finally alone.
+A	00:04:18.479	00:04:24.950	okay, that is done. there is nothing more to do now but wait!
+A	00:04:24.960	00:04:27.360	Anne'll be home soon...
+A	00:04:27.360	00:04:30.635	thank god alice won't be here at least for two hours.
+A	00:04:30.479	00:04:34.950	and jack is at the gym,yes, I calculate everything perfectly!
+A	00:04:34.960	00:04:39.428	now it's time for me to leave as well, i don't want him to see me here...
+A	00:04:40.560	00:04:41.423	here she is.
+A	00:04:42.800	00:04:44.019	it's time to go!
+A	00:04:48.240	00:04:51.590	excellent, great edward...
+A	00:04:51.600	00:04:54.571	the moment of truth approaches!
+A	00:04:56.479	00:04:59.427	they'll never call me and anateur to her again!
+C	00:05:00.560	00:05:02.479	right, fine.
+C	00:05:02.479	00:05:05.520	bye-bye! where's the door open!
+C	00:05:05.520	00:05:07.083	Allowing cats come in!
+C	00:05:10.880	00:05:12.489	what are these?
+C	00:05:13.440	00:05:14.468	for me?
+C	00:05:16.268	00:05:17.640	oh, beautiful!
+C	00:05:18.639	00:05:20.078	i wonder who sent them.
+C	00:05:24.560	00:05:28.841	oh what poetry! who could have written it?
+C	00:05:34.080	00:05:36.287	no no. Anne...
+C	00:05:38.080	00:05:39.600	what are you thinking?
+C	00:05:39.600	00:05:40.504	don't be silly.
+C	00:05:40.400	00:05:42.122	it can't have been jack.
+C	00:05:44.560	00:05:46.560	oh my god!
+C	00:05:46.720	00:05:52.374	then again, he's the only person i can imagine who would have written such lovely poetry!
+C	00:05:54.240	00:05:55.840	oh my god...
+C	00:05:55.840	00:05:57.581	oh, what if it were jack?
+C	00:05:59.919	00:06:02.197	now that sharon is out of the picture...
+C	00:06:06.000	00:06:08.970	Who would has ever thought.... That one day...
+C	00:06:15.520	00:06:16.825	oh, jack!
+
+D	00:06:21.280	00:06:22.160	hi anne.
+C	00:06:22.160	00:06:23.840	hi alice.
+D	00:06:23.840	00:06:27.360	my! aren't we feeling chirpy today?
+C	00:06:27.360	00:06:30.880	yes, we are feeling chirpy!
+C	00:06:30.880	00:06:36.880	i've just received a mysterious and completely unexpected surprise!
+D	00:06:36.880	00:06:38.400	so... what is it?
+D	00:06:38.400	00:06:41.600	what's all the suspense for?
+C	00:06:41.600	00:06:43.000	i'm sorry alice.
+C	00:06:44.000	00:06:46.178	i'd like to keep it a secret for the time being!
+C	00:06:48.080	00:06:51.520	there's something i have to check up on first.
+C	00:06:51.520	00:06:53.318	but don't worry, i'll tell you soon enough!
+C	00:06:55.280	00:07:01.360	now, why don't you tell me how's it going with eduard?
+C	00:07:01.360	00:07:05.599	by the look on your face i would guess things aren't going very well!
+D	00:07:05.599	00:07:10.950	you said it! a complete and utter disaster!
+D	00:07:10.960	00:07:14.870	i should never have written that card!
+D	00:07:14.880	00:07:15.680	why?
+D	00:07:15.680	00:07:17.909	what's the matter?
+D	00:07:17.919	00:07:19.520	that's the problem!
+D	00:07:19.520	00:07:21.830	nothing has happened!
+D	00:07:21.840	00:07:25.360	eduard acts as if he'd never read that card!
+D	00:07:25.360	00:07:27.360	and yet i know he read it!
+D	00:07:27.360	00:07:30.720	i'm absolutely certain!
+C	00:07:30.720	00:07:32.479	why are you so sure?
+D	00:07:32.479	00:07:37.199	well, he told me in no uncertain terms.
+D	00:07:37.199	00:07:39.599	i fished around, vaguely.
+D	00:07:39.599	00:07:48.550	and he admitted that something strange had happened. and he also said that he was very pleased and then nothing.
+D	00:07:48.560	00:07:52.309	no words, no actions.
+D	00:07:52.319	00:07:56.309	at this point, i think he was referring to something else entirely!
+D	00:07:56.319	00:08:03.280	or else, i just have to accept the fact that... he isn't interested in me!
+C	00:08:03.280	00:08:11.919	oh, don't get depressed, alice! if you want my opinion, i think you should have told him in person.
+C	00:08:11.919	00:08:16.160	face to face is always better than playing games.
+C	00:08:16.160	00:08:18.239	anyway, you've still got time.
+C	00:08:20.800	00:08:25.502	why don't you sit down and have an earnest word with him?
+D	00:08:26.080	00:08:30.240	no way! to be embarrassed further?
+D	00:08:30.240	00:08:34.800	anyway, there's something fishy about this whole story!
+D	00:08:34.800	00:08:38.560	either edward is acting like a complete fool.
+D	00:08:38.560	00:08:44.310	or else he hasn't truly understood what i feel for him.
+D	00:08:44.320	00:08:48.310	oh i need some clarity.
+D	00:08:48.320	00:08:54.540	from now on i'm going to scrutinize his every move!
+
+A	00:09:03.120	00:09:04.640	hi,Anne?
+A	00:09:04.640	00:09:07.360	i'm so happy you have accepted my invitation.
+C	00:09:07.360	00:09:09.200	what a strange voice you have!
+C	00:09:09.200	00:09:11.176	i almost wouldn't have recognized you.
+A	00:09:11.200	00:09:12.240	it's the thrill!
+A	00:09:12.240	00:09:15.180	you can't imagine how i've longed for this moment!
+C	00:09:15.164	00:09:21.642	oh, really. you don't say... to be truthful, i'm rather emotional myself.
+A	00:09:21.440	00:09:22.870	oh, i'm glad you feel that way!
+C	00:09:22.880	00:09:24.320	slow down boy...
+C	00:09:24.320	00:09:26.312	i really don't want to wake the others.
+A	00:09:26.207	00:09:27.951	or the others never mind.
+A	00:09:27.920	00:09:30.080	who cares if they find out...
+C	00:09:30.080	00:09:32.710	actually, i'd rather they didn't...
+C	00:09:32.720	00:09:35.907	you know how I am... I'm shy and reserved.
+A	00:09:35.839	00:09:37.190	oh, what a pity!
+A	00:09:37.200	00:09:43.040	i know... and that's why i'm crazy about you...
+A	00:09:43.040	00:09:49.600	reserved with the others, but you are a tiger when it comes to what you want!
+C	00:09:49.600	00:09:50.800	come again?
+A	00:09:50.800	00:09:55.279	ah, you know exactly what i'm speaking about!
+C	00:09:55.279	00:09:56.824	let's light a candle.
+C	00:09:57.921	00:09:59.782	i want to see your face...
+C	00:10:18.062	00:10:18.771	edwards?
+C	00:10:18.842	00:10:20.179	what are you doing here?
+A	00:10:20.352	00:10:23.101	anne it's me... don't worry!
+A	00:10:24.871	00:10:26.880	our date... you don't remember?
+A	00:10:28.560	00:10:29.920	you are a little nervous...
+A	00:10:29.920	00:10:30.900	come here, baby.
+C	00:10:31.032	00:10:32.552	oh! let go of me!
+C	00:10:32.861	00:10:34.520	and don't dare touch me!
+A	00:10:34.880	00:10:37.096	you should be ashamed of yourself!
+
+D	00:10:41.920	00:10:45.030	hey, what's going on in here?
+D	00:10:45.040	00:10:47.541	Edward? Anne!
+D	00:10:48.591	00:10:49.142	oh! 
+D	00:10:49.200	00:10:51.440	now, i understand everything!
+D	00:10:51.440	00:10:52.480	thanks a lot, anne!
+D	00:10:52.486	00:10:54.532	what a great friend you are!
+D	00:10:54.560	00:10:57.110	what an idiot i was to confide in you!
+C	00:10:57.120	00:10:58.800	no really, alice!
+C	00:10:58.800	00:11:00.389	it's not like you think!
+D	00:11:00.399	00:11:02.302	and what am i supposed to think then?
+D	00:11:02.160	00:11:04.310	it seems pretty clear to me!
+C	00:11:04.320	00:11:06.079	no, no really!
+C	00:11:06.079	00:11:07.990	let me explain!
+C	00:11:08.000	00:11:08.880	i thought it would be...
+C	00:11:08.880	00:11:10.800	i thought it would be jack!
+A	00:11:10.800	00:11:12.959	what does jack have to do with it?
+A	00:11:12.959	00:11:15.990	why did you leave me this note in my napkin the other day?
+D	00:11:16.000	00:11:17.040	edward!
+D	00:11:17.040	00:11:19.430	it was me who wrote you that note!
+D	00:11:19.440	00:11:21.306	i can't believe you don't get it!
+C	00:11:22.399	00:11:23.622	the poetry...
+C	00:11:24.183	00:11:25.142	and the roses...
+C	00:11:25.203	00:11:26.402	that was you?
+A	00:11:27.360	00:11:28.480	sorry about that...
+A	00:11:28.480	00:11:29.920	i thought?
+A	00:11:29.920	00:11:31.568	i'm so sorry!
+D	00:11:32.880	00:11:35.766	what amateur you are, edward!
+
+B	00:11:40.839	00:11:41.680	hey anne!
+C	00:11:41.680	00:11:42.391	hi.
+B	00:11:45.440	00:11:48.240	have you read the paper?
+B	00:11:48.240	00:11:50.069	there's an article about peter.
+B	00:11:50.079	00:11:52.000	our singer has become famous!
+C	00:11:52.000	00:11:53.829	i haven't read it.
+C	00:11:53.839	00:11:56.183	to tell you the truth, i'm really not interested!
+B	00:11:58.000	00:11:59.279	What a pity!
+B	00:11:59.279	00:12:00.661	so interesting!
+B	00:12:02.800	00:12:04.144	hey alice.
+B	00:12:05.920	00:12:07.040	hi alice.
+B	00:12:07.040	00:12:08.281	take a peek at the paper...
+B	00:12:08.306	00:12:09.643	there's an article about peter.
+D	00:12:10.240	00:12:10.959	whoopi!
+D	00:12:11.157	00:12:12.480	glad to hear it!
+D	00:12:12.480	00:12:13.514	who cares?
+B	00:12:17.120	00:12:18.752	how fun you girls are...
+B	00:12:19.600	00:12:21.807	it's quite the pleasure to hang out with you!
+B	00:12:22.880	00:12:25.430	edward, at least you'll be interested.
+B	00:12:25.440	00:12:28.470	would you like to read this article about our friend peter?
+A	00:12:28.480	00:12:30.008	actually, i wouldn't, jack.
+B	00:12:33.680	00:12:35.598	would somebody explain what's going on?
+B	00:12:36.320	00:12:39.189	i have never seen so many long faces...
+A	00:12:39.204	00:12:42.280	you and your expert advice!
+B	00:12:50.000	00:12:51.532	what's eating him is?
+B	00:12:52.185	00:12:53.506	has he gone start breathing mad?
+C	00:12:53.519	00:12:56.079	no jack, i've gone stark raving mad!
+C	00:12:56.079	00:12:58.069	yet again i played the fool!
+C	00:12:58.079	00:12:59.534	what an idiot!
+B	00:13:04.639	00:13:08.771	okay alice, at least you'll explain what's going on, i'm in the dark here!
+D	00:13:09.680	00:13:12.000	the long story, jack.
+D	00:13:12.000	00:13:14.310	horrible mess!
+D	00:13:14.320	00:13:16.381	all began with a misunderstanding.
+B	00:13:16.240	00:13:18.069	Now, i'm all ears.
+B	00:13:18.079	00:13:19.609	go on, alice! do tell!
+
+B	00:13:22.880	00:13:25.600	hi anne. have you got a minute?I.
+C	00:13:25.839	00:13:26.301	hi jack.
+B	00:13:26.160	00:13:27.839	i'd like to have a word.
+C	00:13:27.839	00:13:30.389	you've probably already heard the sordid story.
+B	00:13:30.399	00:13:31.600	yes!
+B	00:13:31.600	00:13:32.421	listen Anne.
+C	00:13:32.376	00:13:33.895	no i want you to listen jack!
+C	00:13:33.920	00:13:36.550	probably had a good laugh on my behalf!
+C	00:13:36.560	00:13:40.628	now, that said, i prefer no further comments on the story!
+B	00:13:43.120	00:13:45.545	it is not my intention to make fun of you, Anne,isn't it?
+B	00:13:46.160	00:13:49.269	although i must admit the whole misunderstanding was rather amusing!
+C	00:13:49.279	00:13:52.240	great! now, pretty please...
+C	00:13:52.240	00:13:53.981	let's not talk about it anymore!
+B	00:13:55.519	00:13:57.388	i would like to have a word about it.
+B	00:13:59.519	00:14:02.629	what i'm about to say is be sure to surprise you.
+C	00:14:02.639	00:14:04.931	nothing's bound to surprise me anymore, jack!
+C	00:14:06.560	00:14:10.949	anyway, listen: don't worry. you don't have to explain!
+C	00:14:10.959	00:14:12.480	i know how things are.
+C	00:14:12.480	00:14:13.839	i know that you like me.
+C	00:14:13.839	00:14:15.509	but just as a friend...
+C	00:14:15.519	00:14:16.320	a friend that...
+C	00:14:16.320	00:14:17.839	as well maybe,
+C	00:14:17.839	00:14:19.472	if we met at some other time.
+B	00:14:19.967	00:14:20.962	anne excuse me.
+C	00:14:20.800	00:14:22.915	things would have gone differently and then.
+C	00:14:22.720	00:14:24.389	well perhaps.
+C	00:14:24.399	00:14:25.360	blah blah blah blah!
+C	00:14:25.360	00:14:26.399	blah blah blah!
+B	00:14:26.399	00:14:29.586	anne, can i speak for one minute, please?
+C	00:14:33.440	00:14:37.360	yes. Certainly,jack.
+B	00:14:37.000	00:14:37.808	Thank you.
+C	00:14:37.854	00:14:39.279	go right ahead.
+B	00:14:39.279	00:14:39.889	now...
+B	00:14:41.199	00:14:43.440	you know how.
+B	00:14:43.440	00:14:45.680	how i suffered about sharon.
+B	00:14:45.680	00:14:46.428	and.
+B	00:14:47.760	00:14:48.830	after her i.
+B	00:14:49.760	00:14:52.389	i didn't think i'd ever feel anything about another woman.
+B	00:14:54.399	00:14:56.079	but then.
+B	00:14:56.079	00:14:58.480	you came back from your holiday and.
+B	00:14:58.480	00:15:00.720	and i started to feel better.
+B	00:15:00.720	00:15:02.470	i didn't think about sharing so much.
+C	00:15:02.480	00:15:03.902	what are you getting at, jack?
+B	00:15:05.519	00:15:07.680	anne, it was.
+B	00:15:07.680	00:15:12.959	it was because of you that that i managed to forget about shannon!
+C	00:15:12.959	00:15:15.898	well, that's what friends are for, nest pas?
+B	00:15:17.040	00:15:18.240	you really don't get it, do you?
+C	00:15:18.240	00:15:19.692	get what, jack?
+B	00:15:24.959	00:15:26.333	anne. I'm trying to tell you that.
+B	00:15:28.160	00:15:30.720	i'm in love with you,I.
+B	00:15:30.959	00:15:33.120	i didn't wanna believe it at first, i.
+B	00:15:33.120	00:15:38.710	i thought i was attracted to you because i felt so alone in the world.
+B	00:15:38.720	00:15:41.040	but then this feeling grew and.
+B	00:15:41.040	00:15:42.981	and when alice told me about edward.
+B	00:15:43.297	00:15:45.832	i realized it should have been me to bring you those flowers!
+C	00:15:45.760	00:15:48.132	jack, if this is some kind of a joke, it's not very amusing!
+B	00:15:48.079	00:15:49.040	no, no, no! no,
+B	00:15:49.040	00:15:49.881	it's the truth!
+B	00:15:49.912	00:15:50.631	i swear.
+B	00:15:55.033	00:15:56.389	we were made for each other.
+B	00:16:04.000	00:16:06.079	i should have realized that sooner.
+B	00:16:06.079	00:16:06.959	i'm sorry.
+C	00:16:07.064	00:16:07.850	well jack!
+
+B	00:16:20.000	00:16:23.921	so, edward, are you going to explain why you called us all here today?
+B	00:16:24.320	00:16:25.519	what's so urgent?
+A	00:16:25.519	00:16:30.629	well, listen: something marvelous has happened, to say the least!
+D	00:16:30.639	00:16:34.652	i must say i'm a little unsure about what you term marvelous!
+A	00:16:34.160	00:16:36.880	let's put aside our differences, alice.
+A	00:16:36.880	00:16:38.921	we should all be happy today!
+A	00:16:39.440	00:16:40.951	oh! just a moment.
+A	00:16:42.480	00:16:46.949	yep? oh great, great.
+A	00:16:46.959	00:16:49.749	don't worry, they are certain to accept.
+A	00:16:49.759	00:16:51.990	i've already spoken with the group.
+A	00:16:52.000	00:16:52.959	yeah.
+A	00:16:52.959	00:16:55.237	they are bound to be here any moment.
+B	00:16:55.839	00:16:58.629	we'll be sure to get the details later.
+A	00:16:58.639	00:16:59.522	bye bye.
+C	00:17:01.199	00:17:04.390	edward, do you plan on telling us what's going on?
+A	00:17:04.400	00:17:05.360	well.
+A	00:17:05.360	00:17:10.679	you all remember that i was in touch with the producer to propose whatever filming you in this house?
+B	00:17:11.679	00:17:13.439	yes, and?
+A	00:17:13.439	00:17:14.870	he ate it up!
+A	00:17:14.880	00:17:19.291	he loved you all the house, your daily gossip, your relationships.
+A	00:17:20.400	00:17:22.640	oh, great, they have already arrived.
+A	00:17:22.640	00:17:25.365	um, excuse me for a moment, i'll get it.
+D	00:17:26.559	00:17:27.590	who's arrived?
+D	00:17:27.600	00:17:28.191	Uh?
+A	00:17:30.027	00:17:31.220	come, come in, here come in.
+A	00:17:32.230	00:17:32.842	this way.
+D	00:17:34.400	00:17:35.290	what's going on?
+D	00:17:35.200	00:17:36.402	who are these people?
+A	00:17:36.240	00:17:37.200	hold on now.
+A	00:17:37.200	00:17:41.760	mr martin, the producer, has accepted my proposal.
+A	00:17:41.760	00:17:44.240	we are going to make some tv shows!
+A	00:17:44.240	00:17:44.960	here!
+A	00:17:45.200	00:17:47.822	and you,you are going to be the stars!
+A	00:17:48.559	00:17:50.637	you are bound to become famous!
+A	00:17:51.280	00:17:53.647	and i've already come up with the title.
+A	00:17:54.320	00:17:56.518	at home with anne!
+A	00:17:56.720	00:17:57.696	what do you think?
+B	00:17:58.000	00:17:59.568	oh my god!
+

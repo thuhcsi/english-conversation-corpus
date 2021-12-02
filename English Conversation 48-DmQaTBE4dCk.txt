@@ -1,0 +1,361 @@
+A	00:00:02.615	00:00:07.962	okay everyone if you haven't already please put your math homework on my desk.
+A	00:00:11.450	00:00:13.070	hi Mandy.
+B	00:00:13.080	00:00:14.615	hi mrs. black
+A	00:00:14.615	00:00:17.500	this is an interesting article you wrote for the school paper.
+B	00:00:17.510	00:00:19.811	Thanks you really like it?
+A	00:00:20.381	00:00:23.359	well I'd like to talk to you about it sometime.
+B	00:00:23.703	00:00:24.965	oh okay.
+C	00:00:27.952	00:00:30.567	oh sorry Mandy I didn't mean to bump into you.
+B	00:00:30.567	00:00:33.980	oh that's okay Trina.
+C	00:00:33.980	00:00:35.962	great article Mandy.
+B	00:00:36.084	00:00:36.880	thanks Chris.
+C	00:00:36.880	00:00:38.969	you really made Trina look bad I love it.
+A	00:00:38.969	00:00:42.496	Chris please raise your hand if you want to say something.
+C	00:00:42.496	00:00:45.829	sorry mrs. black I was just talking to Mandy.
+A	00:00:45.829	00:00:49.700	next time please wait till after class to talk to Mandy.
+C	00:00:49.710	00:00:51.410	yes mrs. black.
+D	00:00:51.410	00:00:59.598	excuse me mrs. black could you please explain that math problem again I couldn't hear you because Chris was talking.
+A	00:00:59.598	00:01:02.279	sure Trina okay so.
+
+D	00:01:08.840	00:01:12.130	hey Mandy will cost you have next period?
+B	00:01:12.140	00:01:13.436	biology.
+D	00:01:13.436	00:01:16.423	with mr. Thompson in room two hundred and four?
+B	00:01:16.423	00:01:17.480	yes.
+D	00:01:17.480	00:01:19.853	okay I'll tell my boyfriend.
+B	00:01:19.853	00:01:21.035	why?
+D	00:01:21.035	00:01:23.659	he didn't like what you wrote about me in the paper.
+B	00:01:23.659	00:01:27.950	I'm sorry but what I wrote was the truth?
+D	00:01:27.950	00:01:32.460	well I didn't like it either. so my boyfriend is gonna do something about it.
+B	00:01:32.460	00:01:34.400	like what?
+D	00:01:34.400	00:01:37.670	you'll see.
+A	00:01:37.670	00:01:40.910	and then we'll go on from there.
+B	00:01:40.920	00:01:43.117	I'm sorry I'm late mrs. black.
+A	00:01:43.117	00:01:44.750	that's okay Mandy.
+D	00:01:44.750	00:01:46.640	teacher's pet.
+A	00:01:46.650	00:01:48.771	do you have something to say Trina?
+D	00:01:48.771	00:01:49.270	no.
+A	00:01:49.280	00:02:07.197	okay class please open your books to page twenty five. all right everyone please write down the problem I have on the board. is something wrong Mandy?
+B	00:02:08.535	00:02:10.040	I can't find my pencil.
+A	00:02:10.040	00:02:13.550	who would like to lend Mandy a pencil?
+B	00:02:13.550	00:02:15.739	jenny has an extra pencil.
+A	00:02:15.739	00:02:17.000	Jenny?
+E	00:02:17.010	00:02:20.090	oh sure here you go Mandy.
+A	00:02:20.090	00:02:22.542	this is my pencil.
+E	00:02:22.542	00:02:25.025	are you saying I stole your pencil?
+B	00:02:25.025	00:02:27.890	or maybe you borrowed it?
+E	00:02:27.900	00:02:33.298	oh that's right I borrowed it and forgot to give it back sorry.
+B	00:02:33.298	00:02:35.587	oh no problem.
+A	00:02:35.587	00:02:38.330	can we get back to the lesson girls?
+BE	00:02:38.340	00:02:40.250	yes mrs. black.
+A	00:02:40.250	00:02:43.978	okay so as we approach a math problem we have to remember.
+B	00:02:43.978	00:02:47.097	mrs. black may I please go to the restroom?
+A	00:02:47.368	00:02:48.314	yes.
+A	00:02:56.908	00:03:00.306	Mandie. the restroom is this way.
+B	00:03:00.374	00:03:07.233	oh I remembered I forgot something in my locker.
+A	00:03:07.233	00:03:09.255	Mandy are you okay?
+B	00:03:10.618	00:03:11.563	sure.
+A	00:03:11.519	00:03:20.879	well you've come late and left my class early the past two days I'm just wondering what's going on?
+B	00:03:22.555	00:03:24.204	I need to go now.
+A	00:03:24.204	00:03:28.500	I still want to talk to you about your article.
+A	00:03:28.500	00:03:32.039	you have biology next right? how do you like it?
+B	00:03:32.049	00:03:35.450	I don't it's my least favorite subject.
+C	00:03:35.450	00:03:37.056	really? why?
+B	00:03:37.056	00:03:43.789	I just don't like biology I think it's because mr. Thompson doesn't explain things very well.
+C	00:03:43.789	00:03:47.520	I know what you mean have you done your English homework?
+B	00:03:47.520	00:03:50.709	not yet. I'm going to do it and study hall.
+C	00:03:50.709	00:03:53.250	me too oh I better go.
+B	00:03:53.250	00:03:55.280	me too.
+A	00:03:55.290	00:03:58.709	Mandy may I talk to you for a minute?
+B	00:03:58.709	00:04:02.521	I'm going to be late for biology.
+A	00:04:02.521	00:04:05.065	that's okay I'll write a note for your teacher.
+B	00:04:05.065	00:04:06.639	okay.
+A	00:04:06.639	00:04:12.209	come into my classroom I don't have a class this period.
+
+A	00:04:12.209	00:04:16.514	Mandy I've been wanting to talk to you about your article.
+B	00:04:16.514	00:04:20.070	you mean the one that has made me a few enemies?
+A	00:04:20.070	00:04:24.853	right well I'm not surprised the truth can hurt.
+B	00:04:24.853	00:04:27.237	you think what I wrote was the truth?
+B	00:04:27.237	00:04:30.798	yes we all know why Trina got the biggest part.
+B	00:04:30.798	00:04:33.088	well it's not right.
+A	00:04:33.088	00:04:38.310	no it's not do you think the way you wrote your article was right?
+B	00:04:39.022	00:04:40.052	I don't know.
+A	00:04:40.500	00:04:50.520	Mandy I'm not good with words that's why I teach math but I do know that words have the power to hurt or to heal.
+B	00:04:50.520	00:04:56.600	and I use them to hurt mm-hmm what should I do?
+A	00:04:56.610	00:05:03.809	that's for you to decide.
+
+F	00:05:03.819	00:05:07.659	hey. are you really busy right now?
+B	00:05:07.659	00:05:11.721	sort of I'm studying for a test.
+F	00:05:11.721	00:05:13.119	why? what's up?
+B	00:05:13.129	00:05:17.649	I need to go to the mall to exchange something can you take me?
+F	00:05:17.649	00:05:20.908	I'd love to but.
+B	00:05:20.908	00:05:23.000	you have a lot of studying to do?
+F	00:05:23.000	00:05:25.902	right can mom take you?
+B	00:05:25.902	00:05:32.529	maybe but you've seemed a little sad lately I thought shopping would cheer you up.
+F	00:05:32.539	00:05:41.337	you're right it would okay I'll take you thanks Mandy. what do you need to exchange?
+B	00:05:41.337	00:05:43.579	my new basketball shoes.
+F	00:05:43.853	00:05:48.013	the ones I helped you pick out,why are you exchanging them?
+F	00:05:48.127	00:05:50.102	they're such cool shoes! 
+B	00:05:50.166	00:05:55.980	I know but they're white and my changes decided to get black shoes this year.
+F	00:05:55.980	00:05:58.382	oh do you have the receipt?
+B	00:05:58.382	00:06:00.201	right here.
+F	00:06:00.201	00:06:01.699	great let's go.
+
+B	00:06:06.030	00:06:11.370	let's go exchange my shoes first then we can shop wherever you want.
+F	00:06:11.370	00:06:15.136	okay so you don't want to do any shopping?
+B	00:06:15.136	00:06:21.967	no I can look at clothes with you or whatever you want but then can we go to the ice rink?
+F	00:06:21.967	00:06:26.190	sure let's go to the food court first and get a drink.
+B	00:06:26.190	00:06:29.882	okay then we can talk about guys.
+F	00:06:29.882	00:06:30.966	what?
+B	00:06:30.966	00:06:33.529	that's what you're sad about right?
+F	00:06:33.529	00:06:35.291	well.
+B	00:06:35.291	00:06:39.750	never mind we'll talk when we get our drinks.
+B	00:06:39.750	00:06:44.099	so how are things going with men?
+F	00:06:44.099	00:06:51.569	okay it's still awkward when we see each other but it's getting better.
+B	00:06:51.569	00:06:55.580	are you still sad about breaking up?
+F	00:06:55.590	00:07:04.090	sort of I know it was the right thing to do but it's still hard.
+B	00:07:04.090	00:07:06.820	you really miss him don't you?
+F	00:07:06.820	00:07:11.650	yeah I feel like I lost my best friend.
+B	00:07:11.660	00:07:14.550	you're so good friends with Jake right?
+F	00:07:14.560	00:07:23.110	yes we don't hang out that much but he's been helping me get to know other people at NPC.
+B	00:07:23.110	00:07:26.126	he's a really nice guy.
+F	00:07:26.126	00:07:28.067	yes he is.
+B	00:07:31.020	00:07:33.730	I wonder how Matt's doing?
+F	00:07:33.740	00:07:43.455	he seems fine whenever I see him he's with a big group of friends he's always laughing and having a great time.
+B	00:07:43.455	00:07:45.947	that sounds like Matt.
+F	00:07:45.947	00:07:50.830	let's talk about something else there's more to life than guys.
+B	00:07:50.830	00:07:55.540	Wow Olli I never thought I'd hear you say that.
+F	00:07:55.550	00:08:06.700	very funny yeah I guess I've learned a lot from my relationship with Matt. are you ready to go?
+B	00:08:06.700	00:08:15.553	sure. hey maybe you should buy something at the sporting goods store.
+F	00:08:15.553	00:08:18.606	why? I don't play sports.
+B	00:08:19.025	00:08:26.439	well, maybe you should start. don't forget your good friend Jake like sports!
+F	00:08:26.439	00:08:27.845	Mandy.
+
+G	00:08:36.404	00:08:38.643	try can I help you find anything?
+F	00:08:38.643	00:08:41.120	no thank you I'm just looking.
+G	00:08:41.120	00:08:45.244	well if you need anything just let me know.
+F	00:08:45.244	00:08:46.304	thanks.
+H	00:08:49.000	00:08:50.350	Ali.
+F	00:08:50.360	00:08:52.146	oh hi Jake.
+H	00:08:52.146	00:08:55.990	what are you doing here? I didn't know you played sports.
+F	00:08:56.000	00:08:59.463	oh I don't I'm just here with Mandy.
+B	00:08:59.463	00:09:03.350	hi Jake what are you shopping for?
+H	00:09:03.350	00:09:05.503	I'm looking for a new football.
+B	00:09:05.503	00:09:07.015	you play football?
+H	00:09:07.015	00:09:12.744	not on the school team or anything Matt and I just play with some of the guys in his dorm.
+B	00:09:12.744	00:09:16.090	I've been telling Alli she should try a sport.
+H	00:09:16.090	00:09:18.906	have you ever played any sports Alli?
+F	00:09:18.906	00:09:27.109	well I was on the track team in junior high and I played on the volleyball team my sophomore year.
+H	00:09:27.109	00:09:34.096	I didn't know you liked volleyball a group of us play volleyball on Thursday nights you should join us.
+F	00:09:34.096	00:09:39.377	but I'm not very good Mandy is the real athlete in our family.
+H	00:09:39.377	00:09:42.072	that's okay we just play for fun.
+F	00:09:42.072	00:09:47.938	well I know playing sports is a good way to get to know people but.
+H	00:09:47.938	00:09:52.126	and you told me you want to make more friends at NPC right?
+F	00:09:52.126	00:09:53.285	right.
+H	00:09:53.285	00:09:56.936	so you should take Mandy's advice and try a sport.
+F	00:09:56.936	00:09:58.906	I don't know.
+H	00:09:58.906	00:10:06.496	it doesn't have to be volleyball what about tennis these racquets are on sale.
+B	00:10:06.496	00:10:12.610	good idea you look cute in one of those little tennis skirts Alli.
+F	00:10:12.610	00:10:14.380	very funny.
+H	00:10:14.390	00:10:20.050	I'm sorry Ally we won't push you if you don't like sports that's fine.
+F	00:10:20.060	00:10:28.761	oh that's okay actually maybe you guys are right I could try a new sport just for fun.
+H	00:10:28.761	00:10:30.700	are you sure?
+F	00:10:30.700	00:10:37.450	yes which sport do you think I'd like best?
+B	00:10:37.460	00:10:41.740	how about badminton? I bet you'd be good at it.
+F	00:10:41.750	00:10:52.300	hmm maybe we already have badminton rackets at home though so I don't need to buy one.
+
+F	00:10:52.310	00:10:55.409	hey what about softball?
+H	00:10:55.409	00:10:58.910	well you'd need to wait till spring.
+B	00:10:58.910	00:11:03.239	that's true what about soccer?
+F	00:11:03.239	00:11:09.105	I haven't really played soccer before,I just played in PE class.
+H	00:11:09.105	00:11:17.670	next time my friends and I play soccer I'll let you know okay? we'll teach you how to play it's a lot of fun.
+F	00:11:17.670	00:11:20.010	okay thanks Jake.
+F	00:11:20.010	00:11:23.239	I don't need to buy anything for soccer do i?
+H	00:11:23.239	00:11:26.235	no not if you're just playing for fun.
+F	00:11:26.235	00:11:34.164	okay although I could get one of these cute jerseys just for fun.
+G	00:11:40.660	00:11:43.073	what kind of Jersey are you looking for?
+F	00:11:43.073	00:11:46.739	I'm not sure do you have this in blue?
+G	00:11:51.931	00:11:52.887	here's a blue one.
+F	00:11:54.480	00:12:00.760	Thanks does this come in other sizes I need a medium.
+G	00:12:05.850	00:12:08.160	here's a medium
+B	00:12:08.160	00:12:16.379	Thanks I'm sorry this is too big can I get a smaller one?
+G	00:12:16.389	00:12:21.590	sure here's a small for you.
+F	00:12:21.600	00:12:26.220	Thanks I'll take this one.
+G	00:12:26.220	00:12:28.967	will this be cash or credit?
+F	00:12:28.967	00:12:30.521	credit card please.
+G	00:12:33.520	00:12:35.732	okay may I see your ID?
+F	00:12:38.410	00:12:40.540	here you go.
+B	00:12:43.553	00:12:48.730	Wow that Jersey is thirty percent off what a good deal.
+F	00:12:48.730	00:12:50.092	it is.
+B	00:12:50.092	00:12:51.750	maybe I'll get one.
+H	00:12:51.750	00:12:55.741	well I'd better go see you girls later.
+F	00:12:55.741	00:13:01.687	oh hey we're almost done here want to go to the ice rink with us?
+H	00:13:01.687	00:13:05.409	oh sure that would be fun.
+H	00:13:16.630	00:13:20.424	that was fun I'm glad I ran into you girls.
+B	00:13:20.424	00:13:21.420	me too.
+B	00:13:21.430	00:13:25.705	I'd really better go now though I have a paper to write.
+F	00:13:25.705	00:13:27.660	okay see you Jake.
+H	00:13:29.870	00:13:36.155	oh hey Ally I wanted to ask you did you hear about Brad's concert at school next month?
+F	00:13:36.155	00:13:38.727	yes are you going?
+H	00:13:38.727	00:13:44.659	of course Brad's a good friend of mine so I'm making sure everyone knows about it.
+F	00:13:44.659	00:13:47.080	okay sure I'll be there.
+H	00:13:47.090	00:13:48.763	great see you later.
+BF	00:13:48.763	00:13:49.807	bye.
+B	00:13:50.223	00:13:53.662	oh now what Ally where do you want to shop?
+F	00:13:53.662	00:13:56.060	I don't know.
+B	00:13:56.060	00:14:00.649	I know most of your favorite stores are upstairs.
+F	00:14:01.540	00:14:04.979	yeah let's go upstairs now
+B	00:14:04.979	00:14:09.990	do you want to take the escalator or the elevator?
+F	00:14:10.000	00:14:12.390	whatever you want Mandy.
+B	00:14:12.390	00:14:15.951	this shopping trip sure did its job.
+F	00:14:17.916	00:14:19.542	what do you mean?
+B	00:14:19.542	00:14:23.193	you're more cheered up than i've seen you in a month!
+
+I	00:14:26.950	00:14:32.823	come on Jake the concert starts in thirty minutes we need to hurry.
+H	00:14:32.823	00:14:39.687	I'm coming Matt just give me a minute I'm trying to decide what to wear.
+I	00:14:39.687	00:14:45.591	what to wear I'm wearing my work shirt it doesn't matter what you wear.
+H	00:14:45.591	00:14:47.433	yes it does.
+I	00:14:49.390	00:14:52.286	okay how about this?
+H	00:14:52.286	00:14:57.826	yeah that will look good thanks.
+I	00:14:57.826	00:14:59.437	now can we go?
+H	00:14:59.437	00:15:03.612	wait I need to do something with my hair.
+I	00:15:06.430	00:15:11.809	Jake what's going on you never spend this much time on your hair.
+H	00:15:11.809	00:15:15.385	is it wrong to want to look nice?
+I	00:15:15.385	00:15:18.960	no but I think you already look good.
+H	00:15:18.970	00:15:20.370	thanks Matt.
+I	00:15:20.370	00:15:23.870	you're actually very cute.
+H	00:15:23.870	00:15:31.440	Matt you mixed up my hair okay let's go.
+I	00:15:31.450	00:15:35.116	ha ha ha great this is going to be a fun concert.
+H	00:15:35.116	00:15:38.226	we'd better hurry if we want to get there on time.
+
+B	00:15:43.709	00:15:49.820	whoa Alli it looks like a tornado hit your room.
+F	00:15:49.820	00:15:56.558	huh I'm trying to decide what to wear to the coffeehouse concert at school.
+B	00:15:56.558	00:16:00.680	why are you so worried about how you look.
+F	00:16:00.680	00:16:01.754	I'm not.
+B	00:16:01.754	00:16:07.243	you look worried are Matt and Jake going to the concert?
+F	00:16:07.243	00:16:09.453	yeah Jake will be there.
+B	00:16:09.453	00:16:16.529	I asked about Matt too you're dressing up for Jake aren't you?
+F	00:16:16.529	00:16:21.920	um I have to go bye Mandy.
+B	00:16:21.930	00:16:25.881	mission accomplished Ali likes Jake.
+
+F	00:16:34.850	00:16:37.910	daddy my car won't start.
+J	00:16:37.920	00:16:41.019	oh let me take a look at it.
+F	00:16:41.019	00:16:46.960	we don't have time to fix it right now I'm late for a concert at school.
+J	00:16:47.570	00:16:48.872	okay.
+F	00:16:48.872	00:16:51.590	can I borrow your car?
+J	00:16:51.590	00:16:57.084	sorry but I need to run some errands this afternoon I could give you a ride though.
+F	00:16:57.084	00:16:58.926	great thanks. 
+J	00:16:58.926	00:17:00.717	great thanks can one of your friends bring you home?
+F	00:17:00.717	00:17:02.738	probably thanks dad.
+I	00:17:06.730	00:17:10.742	Oh Jake turn left here I know a shortcut.
+H	00:17:13.620	00:17:17.546	okay now which way do I go?
+I	00:17:18.810	00:17:20.523	let me see.
+H	00:17:25.170	00:17:28.165	Matt do you hear something?
+I	00:17:28.165	00:17:29.178	yeah.
+H	00:17:30.930	00:17:32.716	what do you see?
+I	00:17:32.716	00:17:38.820	I see red and blue lights may be taking this shortcut wasn't the best idea.
+I	00:17:38.830	00:17:43.449	Oh No you'd better pull over.
+H	00:17:43.449	00:17:47.130	okay I'm just trying to find a safe place.
+
+F	00:17:53.130	00:17:59.773	dad the concert starts in five minutes could you drive a little faster?
+J	00:17:59.773	00:18:04.098	Ali I shouldn't drive any faster than this.
+F	00:18:03.750	00:18:09.210	but you always speed when you're late for something.
+J	00:18:09.210	00:18:10.977	well.
+F	00:18:14.540	00:18:16.876	thanks dad you're the best.
+J	00:18:19.589	00:18:21.069	oh no.
+F	00:18:21.069	00:18:26.449	a police car where did that come from?
+J	00:18:26.570	00:18:34.576	calm down Allie I'll pull over this will just take a minute.
+F	00:18:34.576	00:18:38.260	I can't believe this is happening.
+
+B	00:18:38.260	00:18:42.656	hey Allie dad wants to know if you're ready to go.
+F	00:18:42.656	00:18:49.840	almost let me just finish wrapping this gift hey I have a question for you.
+B	00:18:49.850	00:18:51.520	what is it?
+F	00:18:51.520	00:18:58.792	what do you think I should get Jake for Christmas isn't it a little late to be thinking about that?
+B	00:18:59.311	00:19:02.533	Christmas is the day after tomorrow.
+F	00:19:02.533	00:19:10.104	I know but I've been thinking about it for weeks and I just don't know what to get.
+B	00:19:10.104	00:19:17.562	whoa Jake likes to play the guitar how about giving him something for his guitar?
+F	00:19:17.562	00:19:21.214	I thought about that but what could I get?
+B	00:19:21.214	00:19:30.010	don't ask me I don't know anything about guitars so what did you get for me?
+F	00:19:30.010	00:19:34.900	none of your business you'll find out on Christmas.
+B	00:19:34.900	00:19:40.318	okay well you better hurry mom and dad are waiting for us.
+F	00:19:40.318	00:19:42.589	okay I'll be right there.
+
+H	00:19:42.589	00:19:47.420	Matt what are you doing here?
+I	00:19:47.420	00:19:49.727	well hi to you too.
+H	00:19:49.727	00:19:54.520	I thought your family was going to Hawaii for Christmas.
+I	00:19:54.520	00:20:01.618	we are we're leaving in a few hours I wanted to give you your present before we leave.
+H	00:20:01.618	00:20:03.964	you didn't have to do that.
+I	00:20:03.964	00:20:08.080	I know that's what makes me such a great friend.
+H	00:20:08.080	00:20:12.700	I'm glad you're here I've got a question for you.
+I	00:20:12.700	00:20:14.362	what is it?
+H	00:20:14.362	00:20:25.419	well I've been trying to think of something to get a lead for Christmas and I was wondering if you had any ideas.
+I	00:20:25.419	00:20:29.486	isn't it a little late to be buying Christmas presents?
+H	00:20:29.486	00:20:33.848	Halil I just really want to get her something special.
+I	00:20:33.848	00:20:42.126	I understand why don't you write her a song write her a song?
+I	00:20:42.126	00:20:51.100	sure you're really creative you've got a great voice and you play the guitar why not?
+H	00:20:51.100	00:20:57.919	hmm okay great idea thanks Matt.
+I	00:20:57.919	00:21:03.049	what are friends for so are you going to open your present?
+H	00:21:03.049	00:21:06.908	oh right and I have a gift for you too.
+I	00:21:08.880	00:21:13.770	you know I've been doing a lot of thinking about you and Ally.
+H	00:21:13.770	00:21:15.596	you have?
+I	00:21:15.596	00:21:20.137	yes and it's okay with me if you want to date her.
+H	00:21:20.137	00:21:21.650	it is?
+I	00:21:21.650	00:21:28.040	yes just be careful okay don't rush into anything.
+H	00:21:28.050	00:21:31.710	thanks Matt you're a great friend.
+I	00:21:31.710	00:21:40.800	so are you well I'd better go.
+H	00:21:40.800	00:21:42.478	bye.
+F	00:21:49.230	00:21:50.554	hello?
+H	00:21:50.554	00:21:52.933	hi Ally its Jake.
+F	00:21:52.933	00:21:56.014	oh hi Jake Merry Christmas.
+H	00:21:56.014	00:22:00.810	Merry Christmas hey do you have any plans for tomorrow?
+F	00:22:00.810	00:22:08.805	well our family always spends Christmas Day together but I'm free all day on the twenty sixth.
+H	00:22:08.805	00:22:14.360	great would you want to have lunch with me I want to give you a Christmas present.
+F	00:22:14.370	00:22:18.390	sure I have something to give you too.
+H	00:22:18.400	00:22:22.490	great so I'll pick you up around twelve thirty?
+B	00:22:22.500	00:22:24.028	sounds good.
+H	00:22:24.028	00:22:25.502	see you then.
+F	00:22:25.502	00:22:26.577	bye.
+
+F	00:22:30.899	00:22:37.479	thanks for lunch Jake it was really sweet of you to pay for me you didn't have to do that.
+H	00:22:37.479	00:22:42.534	it's my pleasure here have a seat I want to give you your present.
+F	00:22:42.534	00:22:43.519	okay.
+H	00:22:46.829	00:22:52.908	no it's not fancy or anything but I hope it shows you how special you are to me.
+F	00:22:52.908	00:22:56.399	thanks Jake I think you're special too.
+H	00:22:56.399	00:23:00.569	not the best present ever but I wrote you a song.
+F	00:23:00.569	00:23:09.539	you did Jake that's wonderful no one's ever written a song for me before.
+H	00:23:09.539	00:23:13.676	don't get too excited you haven't heard the song yet.
+I	00:23:13.676	00:23:15.735	I'm sure I'll love it.
+H	00:23:15.735	00:23:20.790	now remember it's not perfect I haven't really had time to.
+F	00:23:20.790	00:23:25.139	Jake it'll be great please just play the song.
+H	00:23:25.139	00:23:26.062	okay.
+F	00:23:36.500	00:23:42.560	Thank You Jake that was beautiful.
+H	00:23:42.570	00:23:43.909	you're welcome.
+F	00:23:43.909	00:23:46.128	okay it's my turn.
+H	00:23:48.020	00:23:49.600	what's this?
+F	00:23:49.600	00:23:51.668	open it you'll find out.
+H	00:23:54.250	00:24:00.361	a drawing of me playing the guitar Wow Ali did you draw this?
+F	00:24:00.361	00:24:02.627	yes do you like it?
+H	00:24:02.627	00:24:07.781	it's great thank you I didn't know you could draw.
+F	00:24:07.781	00:24:10.707	I didn't know you could write songs.
+H	00:24:10.707	00:24:14.363	I guess there are lots of things we don't know about each other.
+F	00:24:14.363	00:24:23.319	Hey in your song you promise to always be honest with me did you really mean that?
+H	00:24:23.319	00:24:25.540	yes I did
+F	00:24:25.550	00:24:30.070	good then may I ask you a question?
+H	00:24:30.070	00:24:31.900	sure.
+F	00:24:31.910	00:24:34.910	how do you feel about me?
+H	00:24:34.910	00:24:43.450	well you're a great girl and if I'm going to be honest I like you a lot.
+F	00:24:43.450	00:24:47.360	I like you too Jake except.
+H	00:24:47.360	00:24:51.323	except you are not ready to date anyone right now.
+F	00:24:51.323	00:24:52.477	right.
+H	00:24:52.477	00:24:57.971	that's okay Ali I understand I'm not sure I'm ready to date either.
+F	00:24:57.971	00:24:59.643	you're not?
+H	00:24:59.643	00:25:09.230	no I like you a lot and I do want to date you but I don't want to rush into anything.
+F	00:25:09.230	00:25:12.920	I'm so glad to hear you say that.
+H	00:25:12.920	00:25:18.710	it's better to take things slowly that way we can be careful not to hurt each other.
+F	00:25:18.710	00:25:22.517	right so what do we do now?
+H	00:25:22.517	00:25:27.139	well let's keep getting to know each other better as friends.
+F	00:25:27.139	00:25:28.530	that's a good idea.
+H	00:25:28.530	00:25:33.377	and then maybe in a few months if we're still interested.
+F	00:25:33.377	00:25:35.290	we can start dating?
+H	00:25:35.300	00:25:36.590	exactly.
+I	00:25:36.590	00:25:45.420	that sounds good to me and in case you're wondering don't worry I'll still be interested.
+H	00:25:45.430	00:25:48.420	I hope so.

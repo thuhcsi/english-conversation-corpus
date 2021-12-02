@@ -1,0 +1,381 @@
+A	00:00:07.520	00:00:09.309	hello, mr rashid!
+B	00:00:09.280	00:00:10.320	hi, how are you?
+A	00:00:10.320	00:00:11.509	fine,thank you.
+A	00:00:11.519	00:00:12.639	how was your vacation?
+B	00:00:12.639	00:00:13.669	it was wonderful!
+A	00:00:13.679	00:00:15.190	i'm so happy to hear that.
+A	00:00:15.200	00:00:16.480	was your flight okay?
+B	00:00:16.480	00:00:18.000	no, pretty bad, actually.
+B	00:00:18.000	00:00:19.249	it was so bumpy.
+B	00:00:19.029	00:00:20.880	it was very scary.
+A	00:00:20.880	00:00:22.560	that's too bad.
+A	00:00:22.560	00:00:24.870	did you have nice weather after you arrive?
+B	00:00:24.880	00:00:26.720	no, the weather was terrible.
+B	00:00:26.720	00:00:27.519	very rainy.
+B	00:00:27.519	00:00:30.390	i actually never saw the sun.
+A	00:00:30.400	00:00:32.160	that's awful!
+A	00:00:32.160	00:00:33.430	so what did you do?
+B	00:00:33.440	00:00:35.280	i stayed inside the hotel.
+A	00:00:35.280	00:00:37.270	was the hotel room nice?
+B	00:00:37.280	00:00:40.660	the room was fine, but it was right next to the caf? 
+B	00:00:40.705	00:00:43.512	and the music was very loud,i didn't sleep much.
+A	00:00:44.079	00:00:46.155	i'll bet the food was great.
+B	00:00:46.105	00:00:46.806	no.
+B	00:00:46.836	00:00:50.219	it was too salty for me, and the waiters were very unfriendly.
+A	00:00:50.559	00:00:52.480	did you go shopping at all?
+B	00:00:52.480	00:00:55.189	a little bit until someone stole my wallet.
+B	00:00:55.199	00:00:58.549	after that i stayed in the hotel and read the book.
+A	00:00:58.559	00:01:00.640	was the flight home okay?
+B	00:01:00.640	00:01:02.869	actually, they cancelled my flight.
+B	00:01:02.879	00:01:04.768	i had to stay for two more days.
+A	00:01:05.519	00:01:07.680	that's terrible!
+A	00:01:07.680	00:01:12.640	but mr rasheed, you said that your vacation was wonderful.
+B	00:01:12.640	00:01:13.510	yes, i did.
+B	00:01:13.520	00:01:15.119	and it was wonderful.
+B	00:01:15.119	00:01:17.840	i met a very nice person a woman actually.
+B	00:01:17.840	00:01:19.119	her name is basma.
+B	00:01:19.119	00:01:20.363	she's from lebanon.
+B	00:01:20.240	00:01:22.640	just like me, but she lives here.
+B	00:01:22.640	00:01:24.092	i'm seeing her tonight.
+B	00:01:24.162	00:01:26.960	so, yes, it was a wonderful vacation.
+A	00:01:26.960	00:01:29.280	that's great, mr rasheed.
+
+C	00:01:32.079	00:01:34.880	yes mr rasheed.
+C	00:01:34.880	00:01:36.390	welcome back.
+C	00:01:36.400	00:01:38.086	come tell me about your vacation.
+A	00:01:43.759	00:01:46.870	what a terrible vacation mr rashid had.
+D	00:01:46.880	00:01:48.960	oh.
+D	00:01:48.960	00:01:53.670	you know, on my vacation last year someone stole my car.
+D	00:01:53.680	00:01:56.399	that was a horrible vacation.
+A	00:01:56.399	00:02:00.550	i went on a cruise and there was an outbreak of illness.
+D	00:02:00.560	00:02:02.960	i was in my room for a week.
+A	00:02:02.960	00:02:05.109	that was a really bad vacation.
+E	00:02:05.119	00:02:08.270	i went to disney world and someone stole my map.
+A	00:02:09.599	00:02:11.798	that's your worst vacation?
+E	00:02:12.319	00:02:14.949	it took ten minutes to get another map.
+D	00:02:14.959	00:02:18.400	all right, what was your favorite vacation?
+A	00:02:18.400	00:02:24.879	i spent two weeks in the caribbean last year, diving, snorkeling, and swimming with dolphins.
+A	00:02:24.879	00:02:26.480	it was amazing.
+D	00:02:26.480	00:02:29.510	i went to china a few years ago.
+D	00:02:29.520	00:02:30.879	it was incredible.
+D	00:02:30.879	00:02:36.470	the people there were so friendly, and everyone wanted to practice their english with me.
+E	00:02:36.480	00:02:39.816	i went to the beach and ate shrimp.
+A	00:02:41.519	00:02:43.244	that's your best vacation?
+E	00:02:43.840	00:02:45.816	i really like shrimp.
+A	00:02:47.040	00:02:50.000	you need to go on more exciting vacations.
+E	00:02:50.000	00:02:52.319	i don't like exciting vacations.
+E	00:02:52.319	00:02:55.030	in fact, i don't like to travel very much.
+A	00:02:55.040	00:02:58.959	then why do you work in a travel agency?
+E	00:02:58.959	00:03:03.740	it's across the street from my apartment, so i don't have to travel far to go to work.
+F	00:03:15.040	00:03:16.879	that is so cute.
+D	00:03:16.879	00:03:19.654	thank you,i love that color.
+D	00:03:21.680	00:03:26.760	bob, what do you think of our new clothes for the party tomorrow?
+E	00:03:27.760	00:03:29.084	there's a party tomorrow?
+D	00:03:31.040	00:03:33.200	it's mr evans birthday.
+D	00:03:33.200	00:03:34.309	remember?
+E	00:03:34.319	00:03:34.969	all right.
+E	00:03:36.319	00:03:37.161	am i going?
+D	00:03:38.080	00:03:39.244	yes, you are.
+E	00:03:39.894	00:03:40.355	okay.
+D	00:03:42.239	00:03:44.764	so tell us what you think of our new clothes.
+E	00:03:46.000	00:03:47.767	all those clothes are for one party?
+D	00:03:48.480	00:03:51.520	no, we have to decide what to wear.
+D	00:03:52.799	00:03:54.924	what do you think of these blouses?
+E	00:03:55.940	00:03:57.271	they're very flattering.
+F	00:03:58.080	00:04:00.079	which one do you like more?
+E	00:04:01.360	00:04:02.879	what do you mean?
+D	00:04:02.879	00:04:04.750	which one do you prefer?
+E	00:04:05.760	00:04:07.491	i like them both the same.
+F	00:04:09.760	00:04:11.519	no you don't.
+F	00:04:11.519	00:04:13.030	you're just saying that.
+F	00:04:13.040	00:04:14.480	you need to have an opinion.
+F	00:04:14.480	00:04:16.000	you have to choose.
+E	00:04:16.000	00:04:17.430	no, no, no.
+E	00:04:17.440	00:04:19.440	i'm not doing that.
+D	00:04:19.440	00:04:22.000	bob, please.
+D	00:04:22.000	00:04:23.857	help us decide what to wear.
+E	00:04:25.489	00:04:26.109	okay.
+F	00:04:29.680	00:04:31.750	which skirt do you like?
+E	00:04:34.000	00:04:34.708	the red one.
+D	00:04:36.000	00:04:38.817	great, that's not so hard, is it?
+F	00:04:41.680	00:04:43.676	which shoes look better?
+E	00:04:45.280	00:04:45.838	those.
+F	00:04:50.800	00:04:53.010	which sweater do you prefer?
+E	00:04:54.880	00:04:56.033	i like the purple one.
+D	00:04:58.080	00:05:01.604	bob, you like marie's clothes more than mine.
+E	00:05:02.080	00:05:02.970	no,i don't.
+E	00:05:04.000	00:05:05.057	that's not true.
+D	00:05:10.960	00:05:13.390	then which dress do you prefer?
+E	00:05:14.400	00:05:15.007	that one.
+D	00:05:16.639	00:05:18.595	this is marie's dress, too!
+D	00:05:19.600	00:05:21.038	what's wrong with my clothes?
+E	00:05:21.043	00:05:21.633	nothing!
+E	00:05:22.160	00:05:22.849	nothing!
+E	00:05:22.720	00:05:24.560	i like your clothes.
+E	00:05:24.560	00:05:25.919	i like marie's clothes.
+E	00:05:25.919	00:05:27.199	i like everything.
+E	00:05:27.199	00:05:32.910	i like all dresses and all sweaters and all skirts and all shoes!
+D	00:05:34.160	00:05:35.842	who asked you anyway?
+D	00:05:44.479	00:05:47.829	so what are you going to wear to the party tomorrow night?
+E	00:05:49.520	00:05:52.320	a t-shirt and jeans.
+D	00:05:52.320	00:05:54.710	a t-shirt and jeans?
+D	00:05:54.720	00:05:55.840	no way.
+D	00:05:55.840	00:05:58.230	you have to wear something nicer.
+E	00:05:58.240	00:06:00.226	i don't have anything nicer.
+D	00:06:04.080	00:06:05.440	you do now.
+E	00:06:05.440	00:06:06.607	all that's for me?
+D	00:06:08.880	00:06:11.597	what do you think of these?
+E	00:06:13.199	00:06:14.675	do you have anything looser?
+D	00:06:15.576	00:06:16.467	yep.
+E	00:06:22.880	00:06:24.880	too wild for me.
+E	00:06:24.880	00:06:25.886	anything else?
+D	00:06:29.360	00:06:31.000	here you go.
+E	00:06:31.280	00:06:32.457	i don't know.
+E	00:06:34.400	00:06:37.039	those look pretty warm.
+E	00:06:37.039	00:06:38.563	something cooler would be good.
+D	00:06:39.919	00:06:41.371	why don't we look at shirts?
+E	00:06:44.960	00:06:45.805	not bad.
+E	00:06:47.440	00:06:50.645	but it's pretty conservative, isn't it?
+D	00:06:53.759	00:06:56.629	i love this one.
+E	00:06:58.639	00:07:00.645	that doesn't look very comfortable.
+D	00:07:05.280	00:07:06.390	try this.
+E	00:07:08.400	00:07:09.764	that looks a little cheap.
+E	00:07:10.960	00:07:12.802	do you have anything more expensive?
+D	00:07:14.400	00:07:15.280	that's it.
+D	00:07:15.280	00:07:17.520	i'm taking it all back to the store.
+E	00:07:17.520	00:07:19.479	but what am i wearing tomorrow?
+D	00:07:20.479	00:07:23.557	just wear a t-shirt and jeans.
+D	00:07:34.319	00:07:39.029	so, mrs beatty, we should talk about your safari trip to botswana.
+G	00:07:39.039	00:07:40.560	i'm so excited!
+G	00:07:40.560	00:07:42.035	my first time in africa!
+D	00:07:42.639	00:07:46.629	you're going to be flying into johannesburg, south africa.
+D	00:07:46.639	00:07:48.960	would you like a window or an aisle?
+G	00:07:48.960	00:07:50.080	a window.
+G	00:07:50.080	00:07:51.919	i want to see everything!
+D	00:07:51.919	00:07:56.479	in johannesburg you should take a taxi or a limo to your hotel.
+D	00:07:56.479	00:08:02.950	the next day you could fly or you could take a train to francis town in botswana.
+G	00:08:04.160	00:08:06.080	is it an express train?
+D	00:08:06.080	00:08:07.039	yes.
+G	00:08:07.039	00:08:08.400	i'll take the train.
+G	00:08:08.400	00:08:09.919	i'd like to see the country.
+D	00:08:09.919	00:08:11.199	great.
+D	00:08:11.199	00:08:18.950	then after you see francis town, you can take a small plane or a bus to the okavanga delta.
+G	00:08:18.960	00:08:20.800	how small is the airplane?
+D	00:08:20.800	00:08:23.520	it's pretty small.
+G	00:08:23.520	00:08:25.039	i'll take the bus.
+G	00:08:25.039	00:08:26.950	is it an express bus?'
+D	00:08:26.960	00:08:28.800	i think so.
+D	00:08:28.800	00:08:34.159	when you get to gumare you're going to be taking a boat to your hotel.
+G	00:08:34.159	00:08:35.200	a boat?
+D	00:08:35.200	00:08:43.440	the hotel is on an island when you get to the island, a man with a donkey can take your luggage to the hotel.
+G	00:08:44.320	00:08:45.217	a donkey?
+D	00:08:45.920	00:08:47.734	there are no cars on the island.
+G	00:08:48.399	00:08:50.171	is it an express donkey?
+D	00:08:51.040	00:08:54.420	i think it's probably a local donkey.
+D	00:08:55.120	00:09:02.230	of course, if you don't want the donkey, you could take a small plane it goes straight to the hotel.
+G	00:09:02.240	00:09:04.480	i think i should take the donkey.
+G	00:09:04.480	00:09:07.123	donkeys never have mechanical problems, right?
+D	00:09:08.080	00:09:08.980	right.
+
+H	00:09:17.680	00:09:19.590	hello, mrs beatty!
+G	00:09:19.600	00:09:21.040	why hello paul.
+H	00:09:21.040	00:09:22.630	where are you traveling to now?
+D	00:09:22.640	00:09:27.519	mrs beatty is going on a safari in the okavanga delta in botswana.
+H	00:09:27.519	00:09:28.560	nice.
+H	00:09:28.560	00:09:33.120	are you flying in are you taking the train bus boat dunky route?
+G	00:09:33.120	00:09:34.949	i'm going to be taking the donkey.
+H	00:09:34.959	00:09:36.461	i did that once myself.
+D	00:09:36.496	00:09:37.087	you did?
+G	00:09:37.092	00:09:38.133	was it very exciting?
+H	00:09:38.080	00:09:39.279	oh, it was.
+H	00:09:39.279	00:09:42.470	on the way there the plane had mechanical problems.
+G	00:09:42.480	00:09:43.839	that sounds scary.
+H	00:09:43.839	00:09:49.509	we got in late and i missed the train to francis town so i decided to take a bus.
+H	00:09:49.519	00:09:52.949	but i got on the local bus by mistake.
+G	00:09:52.959	00:09:55.360	i don't like local buses.
+H	00:09:55.360	00:09:57.509	then the bus had an accident.
+H	00:09:57.519	00:10:00.790	so i rented a car but it broke down.
+G	00:10:00.800	00:10:01.920	oh, dear!
+H	00:10:01.920	00:10:04.550	i got to gomari two days late.
+H	00:10:04.560	00:10:07.200	then i got seasick on the boat to the island.
+G	00:10:07.200	00:10:08.790	oh, my!
+G	00:10:08.800	00:10:11.120	did you have any problems with the donkey?
+H	00:10:11.120	00:10:12.912	i got bumped from the donkey.
+G	00:10:13.440	00:10:16.000	you mean they overbooked the donkey?
+H	00:10:16.000	00:10:16.550	no.
+H	00:10:16.560	00:10:20.179	i mean the donkey bumped me off the road to the hotel.
+H	00:10:24.399	00:10:26.480	but it was a very exciting trip.
+H	00:10:26.480	00:10:28.399	you'll love africa.
+D	00:10:28.399	00:10:29.279	so.
+D	00:10:29.279	00:10:31.350	any questions, mrs beatty?
+G	00:10:31.360	00:10:32.800	just one.
+G	00:10:32.800	00:10:34.693	how much is a ticket to paris?
+A	00:10:43.040	00:10:46.550	hey here comes, bob.
+H	00:10:46.560	00:10:49.839	yeah, he wants to sell me his digital camera.
+E	00:10:49.839	00:10:50.880	hi.
+E	00:10:50.880	00:10:52.000	how was dinner?
+A	00:10:52.000	00:10:53.269	great.
+A	00:10:53.279	00:10:54.800	what do you have there?
+E	00:10:54.800	00:10:57.936	the best digital camera money can buy.
+A	00:11:01.040	00:11:05.519	paul, that's the same camera you looked...
+H	00:11:05.519	00:11:07.440	why are you selling it?
+E	00:11:07.440	00:11:08.630	i have two.
+E	00:11:08.640	00:11:10.963	cheryl gave me another one for my birthday.
+H	00:11:12.560	00:11:13.506	it's not bad.
+H	00:11:14.399	00:11:15.823	how much do you want?
+E	00:11:15.723	00:11:17.725	two hundred and fifty dollars.
+A	00:11:17.760	00:11:19.990	wow, that's a great.
+H	00:11:20.000	00:11:21.839	that's more than i want to pay.
+A	00:11:21.894	00:11:23.060	but that's less than.
+H	00:11:23.556	00:11:25.839	i can give you two hundreds for it.
+E	00:11:25.839	00:11:27.110	no.
+E	00:11:27.120	00:11:29.680	i need at least two hundred and fourty-five.
+H	00:11:29.680	00:11:32.480	sorry, all i have is two hundred and ten.
+A	00:11:32.480	00:11:34.401	there's an atm right...
+E	00:11:37.360	00:11:40.949	i could go as low as two thirty, but that's it.
+H	00:11:40.959	00:11:42.320	sorry.
+H	00:11:42.320	00:11:43.125	thanks anyway.
+E	00:11:44.160	00:11:47.274	alright,i'll sell it to somebody else.
+A	00:11:49.839	00:11:51.760	what are you doing?
+A	00:11:51.760	00:11:54.000	you almost bought that camera yesterday.
+A	00:11:54.040	00:11:55.707	for three hundred dollars!
+H	00:11:55.600	00:11:57.990	you don't know how to bargain, do you?
+A	00:11:58.000	00:11:59.440	bargain?
+A	00:11:59.440	00:12:01.360	of course i know how to bargain.
+A	00:12:01.360	00:12:03.110	you don't know how to bargain.
+A	00:12:03.120	00:12:07.994	you could buy that camera for two hundred and thirty dollars, but now it's gone!
+E	00:12:09.120	00:12:10.560	all right.
+E	00:12:10.560	00:12:13.350	you can have it for two hundred and twenty-five
+H	00:12:13.360	00:12:14.480	two twenty.
+E	00:12:14.480	00:12:15.600	two twenty-four.
+H	00:12:15.600	00:12:16.629	two twenty-one.
+E	00:12:16.639	00:12:18.079	two twenty-three.
+H	00:12:18.079	00:12:20.720	two hundred and twenty-two not a dollar more.
+E	00:12:20.720	00:12:25.911	i'm not selling this for less than two hundred and twenty-three dollars.
+A	00:12:27.393	00:12:27.863	here.
+A	00:12:29.680	00:12:31.332	here's one dollar!
+A	00:12:32.160	00:12:34.230	now you both get what you want.
+E	00:12:34.240	00:12:35.360	it's a deal.
+E	00:12:35.360	00:12:37.097	i'll get some money from the atm.
+H	00:12:36.959	00:12:37.408	great.
+H	00:12:59.360	00:13:00.025	thanks.
+A	00:13:05.600	00:13:07.200	thanks for dinner.
+H	00:13:07.200	00:13:08.399	my pleasure.
+H	00:13:08.399	00:13:10.420	i saved a lot of money on the camera.
+A	00:13:13.200	00:13:15.440	should i leave the tip?
+H	00:13:15.440	00:13:17.692	no,i'll put it on the credit card.
+A	00:13:20.639	00:13:21.771	five dollars?
+A	00:13:22.160	00:13:23.663	that's not enough.
+H	00:13:24.160	00:13:25.059	sure it is.
+A	00:13:26.079	00:13:28.470	the bill was fifty dollars.
+A	00:13:28.480	00:13:30.800	that's only ten percent!
+H	00:13:30.800	00:13:32.389	so?
+A	00:13:32.399	00:13:34.320	didn't you like the food?
+H	00:13:34.320	00:13:35.670	it was good.
+A	00:13:35.680	00:13:38.320	was there a problem with the service?
+H	00:13:38.320	00:13:39.269	no.
+A	00:13:39.279	00:13:42.959	then you need to leave at least fifteen percent.
+H	00:13:42.959	00:13:44.639	no i don't.
+A	00:13:44.639	00:13:47.360	paul,we come here all the time.
+A	00:13:47.360	00:13:51.670	the waitress gives us great service because we usually tip well.
+H	00:13:51.680	00:13:53.400	i always leave ten percent.
+I	00:13:55.279	00:13:56.480	have a nice evening.
+A	00:13:56.480	00:13:58.480	we're not quite ready.
+I	00:13:58.480	00:13:59.538	no problem.
+H	00:14:01.440	00:14:07.500	look,i'm paying tonight, so i get to decide how much to tip.
+A	00:14:07.839	00:14:10.268	oh,all right.
+A	00:14:11.519	00:14:15.430	hey, isn't that mr evans over there?
+H	00:14:15.440	00:14:16.004	where?
+A	00:14:19.519	00:14:21.199	never mind.
+A	00:14:21.199	00:14:23.030	it's someone else.
+A	00:14:23.040	00:14:24.031	shall we go?
+I	00:14:50.560	00:14:52.720	thank you very much!
+H	00:14:52.720	00:14:53.765	you're welcome.
+
+J	00:15:01.839	00:15:04.560	marie, this is ms novak.
+J	00:15:04.560	00:15:06.079	she's from chicago.
+J	00:15:06.079	00:15:07.760	marie is our receptionist.
+L	00:15:07.760	00:15:08.880	it's nice to meet you.
+K	00:15:08.880	00:15:10.150	it's nice to meet you, too.
+J	00:15:10.160	00:15:11.308	i'll get your tickets.
+L	00:15:18.079	00:15:20.720	you look very familiar to me, marie.
+L	00:15:20.720	00:15:22.230	have we met before?
+K	00:15:22.240	00:15:23.440	i don't think so.
+K	00:15:23.440	00:15:24.800	no.
+L	00:15:24.800	00:15:26.928	well, i never forget a face.
+L	00:15:27.760	00:15:30.171	i'm sure i know you from somewhere.
+L	00:15:31.360	00:15:32.949	i don't look familiar to you?
+K	00:15:33.600	00:15:35.160	i'm sorry, no.
+L	00:15:36.160	00:15:37.430	i know.
+L	00:15:37.440	00:15:39.440	we met in chicago.
+L	00:15:39.440	00:15:44.069	you were a waitress in a restaurant near the art institute.
+K	00:15:44.079	00:15:46.000	i've never been to chicago.
+L	00:15:46.000	00:15:50.320	oh,have you ever driven a taxi in egypt?
+K	00:15:50.320	00:15:50.986	no.
+L	00:15:52.639	00:15:58.103	oh, you were the pilot on a small airplane in china.
+L	00:15:58.113	00:16:00.285	you flew me over the great wall.
+K	00:16:00.639	00:16:01.416	no.
+L	00:16:03.519	00:16:06.396	have you ever gone snorkeling in australia?
+K	00:16:08.000	00:16:08.613	no.
+L	00:16:09.600	00:16:11.246	driven a bus in peru?
+K	00:16:12.800	00:16:16.000	ms novak,i'm quite sure we've never met before.
+K	00:16:16.000	00:16:18.658	i came here only a year ago from paris.
+L	00:16:19.360	00:16:20.560	paris?
+L	00:16:20.560	00:16:23.438	well my sister katarina lived there for a year.
+K	00:16:24.959	00:16:26.720	katharina?
+K	00:16:26.720	00:16:28.310	katarina novak?
+L	00:16:28.320	00:16:28.938	yes.
+K	00:16:29.759	00:16:31.430	she lived with me.
+L	00:16:31.440	00:16:32.680	of course.
+L	00:16:32.707	00:16:35.429	you were in all the pictures she sent home.
+K	00:16:36.480	00:16:38.480	what a coincidence!
+L	00:16:38.480	00:16:41.911	you see, i never forget a face.
+
+J	00:16:47.279	00:16:48.560	i have your tickets.
+L	00:16:48.560	00:16:50.079	oh. thank you.
+L	00:16:50.079	00:16:53.269	did you know that marie knows my sister, katarina?
+J	00:16:53.279	00:16:54.320	really?
+J	00:16:54.320	00:16:56.790	it's a small world isn't it?
+J	00:16:56.800	00:16:59.839	so are you going sightseeing before you leave?
+L	00:16:59.839	00:17:02.470	no i'm going back to the hotel to read.
+J	00:17:02.480	00:17:03.199	what?
+J	00:17:03.199	00:17:06.710	you're visiting our great city and you're not even going to see it?
+L	00:17:06.720	00:17:09.439	i've come here once a month for eight years.
+L	00:17:09.439	00:17:11.669	i've seen it all before.
+J	00:17:11.679	00:17:14.452	i'm sure i can think of something you haven't seen.
+L	00:17:14.720	00:17:16.249	i think you're wrong.
+J	00:17:19.199	00:17:22.069	have you visited the riley museum of art?
+L	00:17:22.079	00:17:23.396	twenty times.
+J	00:17:25.839	00:17:28.319	have you ever been to the top of the olsen building?
+L	00:17:28.319	00:17:29.432	just last month.
+J	00:17:31.039	00:17:33.200	have you eaten at andre's caf?
+L	00:17:33.200	00:17:34.042	twice.
+J	00:17:36.880	00:17:38.240	ever been to cold beach?
+L	00:17:38.240	00:17:38.876	yes.
+J	00:17:40.240	00:17:41.760	seen the city opera?
+L	00:17:41.760	00:17:42.295	yes.
+J	00:17:43.760	00:17:45.600	toured the japanese gardens?
+L	00:17:45.600	00:17:46.459	yes.
+J	00:17:47.280	00:17:49.840	you can't have done everything in this city.
+L	00:17:49.840	00:17:51.699	i'm afraid it's true.
+J	00:17:57.280	00:17:59.817	have you ever visited the museum of cheese?
+L	00:18:00.640	00:18:02.830	there's no museum of cheese.
+J	00:18:04.400	00:18:06.720	it is really amazing.
+J	00:18:06.720	00:18:07.909	everyone goes there.
+J	00:18:07.919	00:18:10.622	i can't believe you haven't been there yet!
+J	00:18:12.000	00:18:16.688	marie, could you call the museum of cheese and reserve tickets for ms novak and me?
+L	00:18:17.840	00:18:19.280	you're not serious.
+J	00:18:19.280	00:18:20.160	i am.
+J	00:18:20.160	00:18:22.390	it's at the corner of seven and oak.
+J	00:18:22.400	00:18:24.960	i'll see you there at four.
+L	00:18:24.960	00:18:25.990	okay.
+L	00:18:26.000	00:18:27.679	i'll see you there.
+L	00:18:27.679	00:18:28.960	thank you.
+L	00:18:28.960	00:18:29.840	goodbye marie.
+K	00:18:29.840	00:18:32.029	say hello to katarina for me.
+J	00:18:33.244	00:18:33.585	goodbye.
+K	00:18:38.480	00:18:43.919	mr evans, is there really a museum of cheese at seven and oak?
+J	00:18:43.919	00:18:45.909	it's a wonderful little cheese shop.
+J	00:18:45.919	00:18:48.000	they have every kind of cheese.
+J	00:18:48.000	00:18:52.653	some of it's very old, so, yes i'd say it's a museum of cheese.
+

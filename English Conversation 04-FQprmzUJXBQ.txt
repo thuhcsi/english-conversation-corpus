@@ -1,0 +1,593 @@
+A	00:00:10.303	00:00:10.982	good evening!
+B	00:00:11.035	00:00:11.695	good evening!
+A	00:00:11.959	00:00:13.159	boarding pass please!
+B	00:00:13.495	00:00:14.214	here it is.
+A	00:00:16.477	00:00:18.667	go straight ahead and then take a left.
+B	00:00:18.709	00:00:18.983	okay.
+A	00:00:19.274	00:00:20.514	enjoy your flight.
+A	00:00:26.054	00:00:27.103	good evening!
+C	00:00:28.831	00:00:29.972	oh,good evening.
+A	00:00:30.269	00:00:31.628	boarding pass please.
+C	00:00:32.030	00:00:33.053	certainly here it is.
+A	00:00:37.070	00:00:39.154	go straight ahead and take a left.
+C	00:00:39.715	00:00:40.598	okay,thank you.
+A	00:00:40.658	00:00:41.746	enjoy your flight.
+
+C	00:00:55.143	00:00:57.972	hi! my name is Chris.
+B	00:00:59.192	00:01:00.419	my name is Jane.
+C	00:01:01.066	00:01:03.150	have you been on holiday in Bangkok?
+B	00:01:03.717	00:01:04.951	no,i work there.
+C	00:01:06.230	00:01:07.174	where are you from?
+B	00:01:07.411	00:01:08.499	I'm from America.
+C	00:01:08.664	00:01:09.179	really?
+C	00:01:09.383	00:01:10.181	me too.
+B	00:01:11.092	00:01:12.675	do you work in Bangkok, too?
+C	00:01:12.879	00:01:14.680	yes. I do work in Bangkok.
+B	00:01:14.825	00:01:15.768	where do you live?
+C	00:01:16.118	00:01:17.529	I live on Sukhumvit road.
+C	00:01:17.615	00:01:18.420	and where do you live?
+B	00:01:19.112	00:01:20.577	I live on Sukhumvit road, too.
+C	00:01:21.705	00:01:22.892	and which side do you live?
+B	00:01:23.453	00:01:24.930	I live on side fifty-five.
+B	00:01:25.174	00:01:26.045	Where do you live?
+C	00:01:26.414	00:01:28.406	i live on side seventy-one.
+B	00:01:30.359	00:01:32.014	so why are you going to England?
+C	00:01:32.502	00:01:34.145	I'm going to visit my friend.
+C	00:01:34.257	00:01:35.391	he works in London.
+B	00:01:35.794	00:01:38.551	i am going to stay with my friends in London, too.
+C	00:01:38.920	00:01:40.483	so how long will you be staying?
+B	00:01:40.668	00:01:42.522	i will be staying for two weeks.
+C	00:01:43.768	00:01:45.635	we have a lot in common.
+B	00:01:45.674	00:01:47.871	yes,we do have a lot in common.
+
+D	00:01:58.523	00:01:59.500	good morning, sir.
+C	00:01:59.704	00:02:00.252	hello.
+D	00:02:00.515	00:02:03.167	could i see your passport and visa documentation?
+C	00:02:03.523	00:02:04.018	yes.
+C	00:02:04.117	00:02:04.961	here they are.
+D	00:02:07.303	00:02:09.611	is this your first visit to the united kingdom?
+C	00:02:09.862	00:02:10.997	yes, it is.
+D	00:02:12.355	00:02:14.222	and where will you be staying?
+C	00:02:14.763	00:02:16.702	with my friend in London.
+D	00:02:17.560	00:02:19.044	and how long will you be staying?
+C	00:02:19.749	00:02:21.900	i will be staying for two weeks.
+D	00:02:23.951	00:02:25.541	do you have anything to declare?
+C	00:02:26.002	00:02:28.496	no,i do not have anything to declare.
+D	00:02:29.446	00:02:29.973	good!
+D	00:02:30.151	00:02:31.596	everything seems to be in order.
+D	00:02:32.414	00:02:33.614	please enjoy your stay!
+C	00:02:33.759	00:02:34.432	thank you.
+C	00:02:35.468	00:02:37.710	could you tell me where is the baggage claim?
+D	00:02:38.304	00:02:40.237	follow the signs to your left, please.
+C	00:02:40.665	00:02:41.740	okay, thank you.
+
+E	00:02:42.921	00:02:45.546	yes, okay.
+E	00:02:45.804	00:02:46.608	no problem.
+E	00:02:47.512	00:02:49.464	okay,thanks for calling,byebye!
+C	00:02:50.698	00:02:51.694	dan!
+E	00:02:51.898	00:02:52.307	yes.
+E	00:02:53.646	00:02:54.451	how are you?
+C	00:02:54.721	00:02:55.328	i'm fine.
+C	00:02:55.355	00:02:56.166	how are you doing?
+E	00:02:56.199	00:02:56.931	doing great.
+E	00:02:57.452	00:02:58.283	you look great!
+C	00:02:58.376	00:02:59.035	oh, thanks.
+E	00:02:59.246	00:03:00.776	yeah! how was your flight over?
+C	00:03:01.634	00:03:03.217	it was quite a long flight.
+E	00:03:03.639	00:03:05.156	how many hours did it take?
+C	00:03:05.268	00:03:07.927	it took twelve hours.
+E	00:03:08.441	00:03:10.380	did you have to stop anywhere on the way?
+C	00:03:10.631	00:03:12.465	no,it was a direct flight.
+C	00:03:13.118	00:03:15.110	is your home far from the airport?
+E	00:03:15.281	00:03:17.451	no, only forty minutes.
+C	00:03:18.216	00:03:20.334	how long would the journey be by bus?
+E	00:03:20.525	00:03:23.144	it would take about sixty minutes.
+C	00:03:23.302	00:03:24.179	oh okay.
+C	00:03:24.924	00:03:26.719	is there going to be a lot of traffic?
+E	00:03:27.042	00:03:28.829	Oh, no. the traffic should be light.
+C	00:03:29.746	00:03:32.411	in Bangkok the traffic is very bad.
+E	00:03:32.391	00:03:32.833	really?
+E	00:03:33.123	00:03:35.076	how bad is the traffic in Bangkok?
+C	00:03:35.181	00:03:37.675	it is very bad!
+E	00:03:38.196	00:03:40.234	has the new Skytrain made it any better?
+C	00:03:40.953	00:03:43.307	yes,it has helped to make it better.
+E	00:03:44.607	00:03:47.107	is the pollution bangkok still really bad?
+C	00:03:47.390	00:03:50.260	yeah!pollution is really bad there.
+E	00:03:51.275	00:03:51.981	hey, alright.
+E	00:03:52.074	00:03:52.806	are you ready to go?
+C	00:03:53.175	00:03:53.610	yes.
+C	00:03:53.670	00:03:54.270	i'm ready.
+E	00:03:54.316	00:03:54.798	right.
+
+E	00:04:07.277	00:04:08.867	do you need to buy anything today?
+C	00:04:09.612	00:04:11.591	yes.i need to buy some clothes.
+E	00:04:12.541	00:04:14.421	what kind of clothes do you want to buy?
+C	00:04:15.219	00:04:20.377	i need to get some shirts, trousers and a warm jacket.
+E	00:04:21.426	00:04:23.108	is there anything else you want to buy?
+C	00:04:24.051	00:04:24.744	oh, yes.
+C	00:04:24.796	00:04:27.995	i need to buy a guidebook about London.
+E	00:04:29.908	00:04:31.241	would you like to buy first?
+C	00:04:32.810	00:04:35.455	i think i would like to buy the clothes first.
+E	00:04:36.590	00:04:38.813	we have many different places to choose from.
+C	00:04:40.264	00:04:41.319	what are the choices?
+E	00:04:41.985	00:04:45.125	well,we can go to Kensington high street.
+C	00:04:46.088	00:04:49.584	is it a very expensive place to buy clothes?
+E	00:04:49.894	00:04:50.277	yes.
+E	00:04:50.323	00:04:52.974	it is an expensive place to buy clothes.
+C	00:04:54.155	00:04:56.734	can we go somewhere a little bit cheaper?
+E	00:04:57.658	00:04:58.528	yes, we can.
+C	00:04:59.801	00:05:00.619	where can we go?
+E	00:05:01.595	00:05:03.620	we can go to the king's road.
+C	00:05:04.372	00:05:06.813	is it cheaper than kensington high street?
+E	00:05:06.991	00:05:08.158	yes it is cheaper.
+C	00:05:09.623	00:05:10.869	is it far from here?
+E	00:05:11.153	00:05:12.947	no.it's quite near.
+C	00:05:13.277	00:05:15.724	well, can we go there, please?
+E	00:05:16.107	00:05:17.287	sure, we'll go there.
+C	00:05:18.132	00:05:18.653	okay.
+
+C	00:05:31.508	00:05:34.325	London is very expensive, isn't it?
+E	00:05:35.406	00:05:38.361	yes. London is very expensive.
+C	00:05:40.017	00:05:42.128	I think Bangkok is much better.
+E	00:05:43.691	00:05:46.310	why is Bangkok better than London?
+C	00:05:47.517	00:05:49.713	because the shops are much cheaper.
+E	00:05:51.224	00:05:54.456	does bangkok have many shops to choose from?
+C	00:05:54.871	00:05:58.044	yes. there are a lot of different shops.
+E	00:05:59.403	00:06:01.157	are the thai people helpful?
+C	00:06:01.652	00:06:03.420	yes, they're very helpful.
+E	00:06:04.983	00:06:07.318	maybe, I should live in Bangkok, too.
+C	00:06:08.604	00:06:12.060	yes. i think you would like living in Bangkok.
+E	00:06:14.442	00:06:16.625	have we forgotten to buy anything?
+C	00:06:17.852	00:06:20.108	yes,we forgot one item.
+E	00:06:21.618	00:06:22.911	did we forget to buy?
+C	00:06:23.617	00:06:26.070	we forgot to buy a guidebook.
+E	00:06:27.205	00:06:29.342	do you really need a guidebook?
+C	00:06:29.837	00:06:33.207	yes,i really need a guidebook.
+
+C	00:06:39.091	00:06:42.290	excuse me,I would like to buy a guidebook.
+F	00:06:42.810	00:06:44.697	what kind of guidebook would you like?
+C	00:06:45.265	00:06:48.253	I would like a color guidebook of London.
+F	00:06:48.820	00:06:50.944	will you be traveling outside of London?
+C	00:06:51.452	00:06:53.912	no,I'll be staying in London.
+F	00:06:54.453	00:06:56.570	what activities are you interested in?
+C	00:06:57.698	00:07:00.858	I'm interested in shopping and the museums.
+F	00:07:07.394	00:07:09.294	I recommend you buy this one.
+C	00:07:10.072	00:07:11.154	okay. thanks.
+C	00:07:11.398	00:07:12.955	how much does it cost?
+F	00:07:13.568	00:07:14.604	five pounds.
+C	00:07:15.296	00:07:15.738	thanks.
+C	00:07:15.929	00:07:17.084	i will buy this one.
+
+E	00:07:21.160	00:07:22.486	did you buy your guidebook?
+C	00:07:22.875	00:07:24.267	yes, I bought one.
+E	00:07:24.907	00:07:26.094	can I have a look at it?
+C	00:07:26.523	00:07:27.875	yes, here it is.
+E	00:07:32.525	00:07:33.026	so?
+E	00:07:33.844	00:07:35.724	which places would you like to visit?
+C	00:07:36.377	00:07:39.675	oh! there are many interesting places I wish to visit.
+E	00:07:41.054	00:07:43.019	which place is in particular?
+C	00:07:44.213	00:07:46.350	i want to visit the museums.
+E	00:07:47.551	00:07:50.130	do you know which museums you would like to visit?
+C	00:07:51.132	00:07:54.523	I want to visit the natural history museum.
+C	00:07:55.189	00:07:56.739	and the science museum.
+E	00:07:58.051	00:08:00.162	are they included in the guidebook?
+C	00:08:00.644	00:08:02.214	yes, they are included.
+E	00:08:03.566	00:08:08.170	what about Buckingham palace,would you like to visit the palace?
+C	00:08:09.535	00:08:11.685	yes.i would like to visit it soon.
+
+E	00:08:24.125	00:08:25.313	are you enjoying your trip?
+C	00:08:25.794	00:08:26.296	yes.
+C	00:08:26.447	00:08:27.872	i am enjoying my trip.
+E	00:08:29.105	00:08:31.447	have you finished reading your guidebook yet?
+C	00:08:31.797	00:08:33.485	yes.i finished reading it.
+E	00:08:34.804	00:08:37.436	are there any questions you want to ask me about London?
+C	00:08:38.083	00:08:40.457	yes I have many questions.
+C	00:08:41.381	00:08:43.650	is it always cold in London?
+C	00:08:44.487	00:08:47.581	yes. it is cold especially in the winter.
+C	00:08:48.161	00:08:50.094	is it cold in the summertime, too?
+E	00:08:50.945	00:08:53.603	no. it can be quite warm in the summer.
+C	00:08:55.100	00:08:57.640	what do you like about the weather in London?
+E	00:08:58.491	00:09:02.785	I like the cold mornings and the bright sunshine.
+C	00:09:04.348	00:09:07.112	the weather in Bangkok is quite different.
+E	00:09:08.385	00:09:10.469	is the weather in Bangkok always hot?
+C	00:09:11.520	00:09:12.310	yes.
+C	00:09:11.115	00:09:13.028	it's always hot.
+E	00:09:14.413	00:09:16.775	is the weather in Bangkok always the same?
+C	00:09:17.903	00:09:18.503	yes.
+C	00:09:19.037	00:09:21.418	but sometimes it can be cool.
+E	00:09:23.318	00:09:25.528	do you think i would like the weather in Thailand?
+C	00:09:27.282	00:09:29.723	yes, i think you would like it a lot.
+C	00:09:31.213	00:09:31.959	hey dan.
+C	00:09:32.579	00:09:34.901	where are all the museums located?
+E	00:09:35.600	00:09:37.888	oh, they're not far from here.
+C	00:09:39.023	00:09:40.613	do you know the name of the road?
+E	00:09:41.840	00:09:44.682	yes.the road is called exhibition road.
+C	00:09:45.302	00:09:47.057	exhibition road?
+C	00:09:48.040	00:09:48.403	oh.
+C	00:09:51.311	00:09:53.679	why is it called exhibition road?
+E	00:09:54.385	00:09:59.424	it's called exhibition road because the museums are always having exhibitions.
+C	00:10:00.869	00:10:02.736	which museum is your favorite?
+E	00:10:03.369	00:10:06.403	my favorite is the science museum.
+C	00:10:06.931	00:10:08.837	is it an interesting place to visit?
+E	00:10:09.272	00:10:12.142	yes, they have many interesting things to see.
+C	00:10:12.860	00:10:14.166	do you think I would like it?
+E	00:10:15.195	00:10:16.125	I'm not sure.
+C	00:10:16.343	00:10:16.983	why?
+E	00:10:17.425	00:10:20.103	I think you would like the natural history museum more.
+
+E	00:10:30.142	00:10:31.342	are you ready to leave?
+C	00:10:32.523	00:10:32.952	yes!
+E	00:10:34.555	00:10:38.150	would you like me to show you the public transport system?
+C	00:10:39.330	00:10:40.392	that's a good idea.
+E	00:10:42.068	00:10:43.070	are you tired?
+C	00:10:44.350	00:10:45.887	i am a little tired.
+E	00:10:46.526	00:10:47.740	you can rest later.
+C	00:10:48.505	00:10:49.448	okay, dan.
+C	00:10:49.923	00:10:50.827	let's go out!
+
+C	00:10:53.815	00:10:56.190	is the train station far away from here?
+E	00:10:57.205	00:10:59.613	no, but we can take the bus there.
+C	00:11:00.160	00:11:02.291	what color are London buses?
+E	00:11:03.069	00:11:05.437	London buses are colored red.
+C	00:11:06.064	00:11:07.792	are they expensive to ride on?
+E	00:11:08.557	00:11:11.288	they are really not that expensive.
+C	00:11:12.033	00:11:13.834	how much does a ticket cost?
+E	00:11:14.883	00:11:18.708	the price depends on how far we want to travel.
+C	00:11:19.876	00:11:21.584	how far are we going on the bus?
+E	00:11:22.646	00:11:25.535	we are going as far as the train station.
+C	00:11:26.927	00:11:29.334	where is the London underground station?
+E	00:11:29.994	00:11:33.140	oh, it's about ten minutes from here.
+C	00:11:33.668	00:11:35.416	is it cheaper than the bus?
+E	00:11:35.957	00:11:37.936	no, it's more expensive.
+C	00:11:39.031	00:11:40.740	so why are we taking it?
+E	00:11:41.649	00:11:45.904	because it's faster and i want to show you how to use it.
+C	00:11:46.537	00:11:48.199	okay, i understand.
+
+C	00:12:01.074	00:12:02.374	i'm feeling hungry.
+C	00:12:02.882	00:12:04.109	can we have lunch now?
+E	00:12:04.775	00:12:05.355	okay.
+E	00:12:05.810	00:12:07.228	what do you feel like eating?
+C	00:12:09.352	00:12:10.711	some english food.
+E	00:12:11.292	00:12:12.452	are you sure?
+E	00:12:12.644	00:12:13.633	that's what you want.
+C	00:12:14.108	00:12:15.566	yes. i'm sure.
+E	00:12:16.476	00:12:18.494	have you ever eaten english food?
+C	00:12:19.213	00:12:21.423	no. this is my first time.
+E	00:12:22.201	00:12:24.418	it's quite different from thai food.
+C	00:12:25.717	00:12:26.944	where should we go to eat?
+E	00:12:27.927	00:12:30.611	let's go to my favorite pub.
+C	00:12:31.416	00:12:31.871	okay.
+E	00:12:31.891	00:12:32.366	okay.
+E	00:12:33.876	00:12:34.978	what would you like to eat?
+C	00:12:37.491	00:12:40.030	could i have some fish and chips, please?
+E	00:12:41.923	00:12:44.219	and what would you like to drink?
+C	00:12:47.293	00:12:52.286	oh! i would like a pint of real English beer, please.
+F	00:12:57.971	00:12:59.568	are you ready to order your food?
+E	00:12:59.911	00:13:09.073	yes.could we have one plate of fish and chips and one roast beef sandwich?
+F	00:13:10.609	00:13:12.166	would you like something to drink?
+E	00:13:13.347	00:13:17.832	yes. could we have two pints of beer, please?
+F	00:13:19.059	00:13:20.609	can i get you anything else?
+E	00:13:21.480	00:13:22.271	no, thank you.
+E	00:13:26.796	00:13:28.293	are you enjoying your lunch?
+C	00:13:29.514	00:13:30.760	yes, it's fine.
+E	00:13:32.838	00:13:34.883	is it better than thai food?
+C	00:13:35.984	00:13:37.930	no. i don't think so.
+E	00:13:39.388	00:13:40.113	why not?
+C	00:13:41.287	00:13:44.216	because thai food has more taste.
+E	00:13:46.149	00:13:48.701	is all thai food spicy?
+C	00:13:49.664	00:13:55.601	no, not all thai food is spicy but it's all delicious.
+E	00:13:57.335	00:14:00.284	what is your favorite thai food?
+C	00:14:01.504	00:14:05.963	my favorite dish is dongyang gong.
+E	00:14:07.216	00:14:08.601	what is that?
+C	00:14:10.204	00:14:12.355	it's a spicy prawn soup.
+C	00:14:13.469	00:14:15.573	what's your favorite english dish?
+E	00:14:17.203	00:14:23.937	my favorite dish is sausages and mashed potatoes.
+
+E	00:14:34.886	00:14:36.357	what shall we do tonight, chris?
+C	00:14:40.539	00:14:43.705	maybe i'll call jane and invite her to meet us.
+E	00:14:45.005	00:14:46.581	who is jane?
+C	00:14:47.445	00:14:50.882	oh! jane is the girl that i met on the airplane.
+E	00:14:51.891	00:14:54.107	okay. ask her to bring a friend.
+C	00:14:54.714	00:14:55.519	okay.
+C	00:14:56.660	00:14:58.263	do you have a theater guide?
+E	00:14:58.771	00:15:00.894	yes. the theater guide is in the newspaper.
+C	00:15:05.433	00:15:06.739	what do you want to see?
+E	00:15:08.130	00:15:08.988	i don't know.
+C	00:15:10.650	00:15:14.476	would you like to see mission impossible three.
+E	00:15:14.990	00:15:16.454	I've seen that already.
+C	00:15:18.084	00:15:22.345	would you like to see gladiator, too?
+E	00:15:23.506	00:15:24.752	i've seen that too.
+C	00:15:29.317	00:15:30.649	oh. i don't know what to do now.
+E	00:15:31.751	00:15:34.534	why don't you call jane and ask her what she would like to do?
+C	00:15:35.721	00:15:36.407	okay.
+
+B	00:15:37.766	00:15:39.422	hello jane speaking.
+C	00:15:39.982	00:15:43.439	hello jane. it's chris from the airplane.
+C	00:15:43.656	00:15:44.797	do you remember me?
+B	00:15:45.371	00:15:48.735	oh, hi chris,yes of course,i remember you.
+C	00:15:48.940	00:15:50.417	so how are you feeling today?
+B	00:15:50.655	00:15:52.257	i'm feeling a little tired.
+C	00:15:52.911	00:15:53.821	are you sick?
+B	00:15:54.203	00:15:55.971	no, not sick.
+B	00:15:56.136	00:15:57.303	just a little tired.
+C	00:15:59.546	00:16:02.191	are you free to go out tonight?
+B	00:16:02.956	00:16:04.691	no. i don't think so.
+C	00:16:06.096	00:16:10.060	well,are you free tomorrow afternoon?
+B	00:16:10.779	00:16:12.534	no. i'm sorry.
+B	00:16:12.903	00:16:14.908	tomorrow afternoon i'm going to a party.
+C	00:16:15.686	00:16:16.498	okay.
+C	00:16:17.263	00:16:19.426	how about tomorrow night?
+C	00:16:19.961	00:16:20.812	are you free?
+B	00:16:21.874	00:16:23.951	yes. i am free tomorrow night.
+C	00:16:25.825	00:16:26.418	great.
+C	00:16:27.269	00:16:29.050	so, what would you like to do?
+B	00:16:30.066	00:16:31.702	i would like to see a movie.
+C	00:16:32.678	00:16:33.245	okay.
+C	00:16:34.122	00:16:36.075	do you know what movie you would like to see?
+B	00:16:37.605	00:16:38.845	the perfect storm.
+C	00:16:39.729	00:16:41.721	oh, do you know where it's showing?
+B	00:16:42.987	00:16:46.615	i think it's showing at star square at seven o'clock.
+C	00:16:47.037	00:16:48.620	oh that sounds fine.
+C	00:16:49.610	00:16:50.955	can you bring a friend?
+B	00:16:51.628	00:16:54.412	yes. i will bring my best friend, lisa.
+C	00:16:54.966	00:16:59.332	okay. so we'll see you tomorrow about six thirty.
+B	00:17:00.071	00:17:02.103	okay. that sounds fine.
+C	00:17:02.551	00:17:04.108	okay. then see you tomorrow.
+C	00:17:04.200	00:17:04.873	bye jane.
+B	00:17:05.335	00:17:06.001	bye chris.
+
+E	00:17:15.921	00:17:17.511	yes, no problem.
+E	00:17:18.599	00:17:21.158	okay. thanks for calling.
+E	00:17:21.719	00:17:22.121	bye bye.
+E	00:17:25.921	00:17:27.840	what time are we meeting the girls?
+C	00:17:28.928	00:17:31.362	six thirty at leicester square.
+E	00:17:32.391	00:17:33.598	are you ready to leave now?
+C	00:17:34.021	00:17:35.742	yes i am ready to leave now.
+E	00:17:36.085	00:17:37.675	okay let's go.
+B	00:17:40.498	00:17:41.527	hello, chris.
+C	00:17:41.613	00:17:43.525	oh, hello jane,how are you?
+B	00:17:43.776	00:17:44.845	a little sleepy.
+C	00:17:45.636	00:17:47.740	this is my friend his name is dan.
+B	00:17:48.090	00:17:49.106	nice to meet you.
+E	00:17:49.172	00:17:50.141	nice to meet you too.
+B	00:17:50.425	00:17:51.968	and this is my friend lisa.
+G	00:17:52.193	00:17:53.571	hello. nice to meet you.
+E	00:17:53.855	00:17:54.870	have we met before?
+G	00:17:55.293	00:17:57.397	i don't believe we've met before.
+E	00:17:57.885	00:17:59.296	you do look quite familiar.
+G	00:17:59.428	00:17:59.956	do i?
+E	00:18:00.622	00:18:02.660	yes, maybe i've seen you at a party before.
+G	00:18:02.970	00:18:03.795	yes, maybe.
+E	00:18:04.804	00:18:06.552	shall we go inside and buy the tickets?
+C	00:18:06.730	00:18:08.313	yes let's go inside.
+C	00:18:09.467	00:18:12.535	wow, that was an exciting movie don't you think?
+E	00:18:13.122	00:18:16.077	yes. it certainly was action-packed.
+G	00:18:16.354	00:18:17.732	did you like the movie, jane?
+B	00:18:17.792	00:18:18.563	yes, i did.
+G	00:18:18.708	00:18:19.704	did you like it chris?
+C	00:18:19.823	00:18:21.683	oh, yes i did very much.
+C	00:18:22.330	00:18:23.979	what was your favorite part, Jane?
+B	00:18:24.862	00:18:26.188	i liked a bit in the park.
+C	00:18:26.953	00:18:28.352	why did you like that bit?
+G	00:18:28.939	00:18:31.524	because everyone seemed very happy.
+E	00:18:32.910	00:18:35.073	lisa, did you think the acting was good?
+G	00:18:35.179	00:18:36.973	i thought the acting was very good.
+C	00:18:37.955	00:18:41.498	so, do you often go to see movies like this?
+B	00:18:42.474	00:18:45.238	yes. i like action movies the most.
+C	00:18:45.891	00:18:47.474	who's your favorite movie star?
+B	00:18:49.663	00:18:51.669	my favorite star is bruce willis.
+G	00:18:52.295	00:18:54.472	what kind of movies do you like to watch, dan?
+E	00:18:55.112	00:18:57.526	i like romantic comedies.
+G	00:18:57.691	00:18:59.604	oh, and who's your favorite comedy star?
+E	00:18:59.841	00:19:01.503	i like make ryan a lot.
+G	00:19:01.833	00:19:03.363	she's pretty funny isn't she?
+E	00:19:03.489	00:19:04.643	yes, she's funny.
+
+G	00:19:20.467	00:19:21.153	hello.
+C	00:19:21.872	00:19:24.853	hello, could i speak to jane, please?
+G	00:19:25.440	00:19:26.528	she's in the shower.
+G	00:19:27.452	00:19:28.553	may i ask who's calling?
+C	00:19:30.090	00:19:31.119	it's chris.
+G	00:19:31.456	00:19:32.814	oh! good morning, chris.
+G	00:19:33.296	00:19:35.057	i'll get jane to call you back, okay?
+C	00:19:36.086	00:19:38.408	okay, thanks. bye.
+G	00:19:38.626	00:19:39.133	bye.
+C	00:19:50.538	00:19:51.217	hello.
+B	00:19:52.906	00:19:54.284	hello! is that chris?
+C	00:19:54.885	00:19:56.461	oh! hi jane.
+C	00:19:56.527	00:19:57.866	how are you feeling?
+B	00:19:58.493	00:20:00.511	i'm feeling much better,thank you.
+C	00:20:02.424	00:20:04.528	i really enjoyed myself last night.
+B	00:20:05.333	00:20:06.579	yes. so did i.
+C	00:20:07.674	00:20:10.774	so what are you doing today?
+B	00:20:11.645	00:20:13.149	i haven't decided yet.
+C	00:20:16.308	00:20:20.114	would you like to go see another movie with me today?
+B	00:20:21.935	00:20:24.296	no. i don't think so.
+C	00:20:28.082	00:20:30.173	would you like to go shopping with me today?
+B	00:20:31.413	00:20:32.739	i don't like shopping.
+C	00:20:37.132	00:20:38.464	what do you like to do?
+B	00:20:39.856	00:20:42.917	i was thinking i'll visit the museum today.
+C	00:20:43.972	00:20:45.021	which museum?
+B	00:20:45.740	00:20:47.468	the natural history museum.
+C	00:20:48.391	00:20:49.770	is it in kensington?
+B	00:20:50.251	00:20:51.089	yes it is.
+C	00:20:54.994	00:20:57.078	can i go to the museum with you today?
+B	00:20:58.516	00:20:59.611	yes, you can.
+C	00:21:00.528	00:21:04.519	oh! great! well,what time shall we meet there?
+B	00:21:05.244	00:21:08.054	why don't we meet at the main door at two.
+C	00:21:08.938	00:21:12.249	okay. i'll meet you at the main door at two p.m.
+B	00:21:13.113	00:21:14.736	ok. i'll see you then.
+B	00:21:15.237	00:21:16.009	goodbye, chris.
+C	00:21:16.226	00:21:17.889	okay, thanks a lot. goodbye, jane.
+C	00:21:19.854	00:21:21.523	that was really incredible.
+B	00:21:21.754	00:21:23.080	you really had a good time.
+C	00:21:23.139	00:21:24.880	yes. i had a great time.
+B	00:21:25.078	00:21:26.345	do you think you'll visit again?
+C	00:21:26.675	00:21:29.141	maybe, i'll try another one next time.
+B	00:21:30.217	00:21:32.519	there aren't many places like this in Bangkok.
+C	00:21:32.677	00:21:35.592	no. the museums in Bangkok are much smaller.
+C	00:21:36.964	00:21:40.388	i had a lovely day and thanks for seeing me.
+B	00:21:40.744	00:21:43.184	so did I, it was really good to see you again.
+B	00:21:43.976	00:21:44.741	i better go.
+C	00:21:45.229	00:21:46.984	okay, i'll call you later.
+B	00:21:47.069	00:21:48.408	okay, i'll wait for your call.
+C	00:21:48.765	00:21:49.180	bye.
+B	00:21:49.233	00:21:49.675	bye.
+
+C	00:21:59.305	00:22:03.632	excuse me, could you tell me how to get to the underground station?
+H	00:22:04.245	00:22:08.421	you take that street turn left then turn right.
+C	00:22:09.786	00:22:11.250	okay, thank you very much!
+H	00:22:11.323	00:22:12.161	no worries.
+C	00:22:15.069	00:22:15.966	excuse me,
+I	00:22:16.606	00:22:17.991	yes, what is it?
+C	00:22:18.592	00:22:21.527	i'm lost and i'm looking for the underground station.
+I	00:22:22.727	00:22:24.317	which station are you looking for?
+C	00:22:26.111	00:22:27.364	the nearest one.
+I	00:22:28.149	00:22:28.967	all right.
+I	00:22:29.350	00:22:33.208	you go down to the end of the street turn left and left again.
+C	00:22:33.954	00:22:35.411	are you sure that's correct?
+I	00:22:35.524	00:22:36.480	yes, i'm sure.
+C	00:22:37.067	00:22:39.059	okay. thanks for your kind help.
+C	00:22:41.915	00:22:45.365	excuse me, do you know where there is a public telephone?
+J	00:22:46.743	00:22:49.639	there should be one near that pub over there.
+C	00:22:49.962	00:22:50.622	where?
+J	00:22:51.314	00:22:52.620	right there on the corner.
+C	00:22:53.043	00:22:54.349	oh. thanks.
+J	00:22:55.028	00:22:55.958	don't mention it.
+E	00:22:58.398	00:22:59.071	hello,
+C	00:22:59.995	00:23:01.043	hi dan.
+E	00:23:01.301	00:23:04.704	chris, where are you?
+E	00:23:05.126	00:23:07.468	it's getting dark and i was worried.
+C	00:23:08.220	00:23:13.081	i got lost outside the museum and then i took the wrong train.
+E	00:23:13.827	00:23:15.528	where are you now?
+C	00:23:18.391	00:23:19.941	in front of a pub.
+E	00:23:21.860	00:23:23.338	do you know which one?
+C	00:23:24.182	00:23:24.980	no.
+E	00:23:26.623	00:23:29.413	can you ask somebody where you are?
+E	00:23:30.119	00:23:31.543	yes. hold on, please.
+C	00:23:34.393	00:23:38.007	excuse me, could you tell me where i am?
+K	00:23:38.456	00:23:41.497	yes. you're at the huntsman pub on bays water road.
+C	00:23:42.367	00:23:43.317	thank you for your help!
+D	00:23:44.973	00:23:46.905	where are you calling from?
+C	00:23:48.719	00:23:54.042	i'm in front of the huntsman pub on bayswater road.
+D	00:23:55.487	00:23:59.003	okay wait there and i will come to meet you.
+C	00:23:59.820	00:24:01.370	okay, bye.
+
+E	00:24:15.512	00:24:17.102	shall we rent a radio tonight?
+C	00:24:19.721	00:24:21.778	i don't want to stay at home tonight.
+E	00:24:23.052	00:24:24.107	are you tired?
+C	00:24:24.674	00:24:27.675	yes, but i want to see other things.
+E	00:24:29.337	00:24:31.052	why don't we relax first?
+C	00:24:32.385	00:24:32.985	okay.
+E	00:24:33.618	00:24:35.472	and maybe we'll go out afterwards.
+C	00:24:36.725	00:24:40.643	hey! why don't i cook dinner for you tonight?
+E	00:24:41.857	00:24:42.952	that sounds nice.
+C	00:24:44.086	00:24:46.652	can i invite lisa and jane for dinner, too?
+E	00:24:47.582	00:24:49.191	that's a great idea.
+E	00:24:49.858	00:24:50.946	what are you going to cook?
+C	00:24:52.470	00:24:54.561	something simple i think.
+E	00:24:55.623	00:24:56.638	any ideas?
+C	00:24:58.089	00:24:59.791	i'm thinking about it.
+E	00:25:01.368	00:25:02.964	i didn't know you could cook.
+C	00:25:04.145	00:25:06.506	that's because i'm not very good at it.
+E	00:25:07.502	00:25:08.346	oh, no.
+B	00:25:10.404	00:25:12.706	wow! that was a lovely meal.
+C	00:25:13.227	00:25:14.764	please don't mention it.
+G	00:25:15.345	00:25:17.403	yeah! it tasted very good.
+C	00:25:18.293	00:25:20.193	thanks, i'm glad you liked it.
+E	00:25:22.422	00:25:24.975	jane, when are you returning to bangkok?
+B	00:25:25.674	00:25:27.297	i'm returning next Friday.
+C	00:25:28.114	00:25:30.476	oh! that's the same day as me.
+E	00:25:31.307	00:25:32.415	what time is your flight?
+B	00:25:33.615	00:25:35.126	it leaves at six pm.
+C	00:25:35.997	00:25:37.969	my flight leaves at eleven pm.
+B	00:25:39.242	00:25:41.062	well why don't you fly back with me?
+C	00:25:41.709	00:25:44.618	yeah, it would be fun to fly back together.
+G	00:25:45.383	00:25:48.707	you should call the airline to see if you can change your tickets first.
+C	00:25:49.255	00:25:50.666	yes i will.
+B	00:25:51.339	00:25:52.942	i'll call them tomorrow morning.
+
+C	00:26:05.355	00:26:07.684	hello! is that thai international?
+A	00:26:08.231	00:26:09.142	yes it is.
+A	00:26:09.412	00:26:10.830	how may i help you, sir?
+C	00:26:11.298	00:26:14.709	i would like to change the time of my departure, please.
+A	00:26:15.071	00:26:16.133	certainly, sir.
+A	00:26:16.720	00:26:19.181	can i have your name and flight number, please?
+C	00:26:19.405	00:26:26.568	yes, my name is chris smith and my flight number is TG nine one one.
+A	00:26:27.036	00:26:29.167	please hold on the line one moment.
+C	00:26:29.919	00:26:30.374	okay.
+A	00:26:34.206	00:26:37.333	and what time would you like to change it to, please?
+C	00:26:38.230	00:26:41.937	i would like to leave on the six pm flight, please.
+A	00:26:46.178	00:26:49.186	i'm afraid the six pm flight is fully booked, sir.
+C	00:26:51.719	00:26:54.509	can you place me on the waiting list, please?
+A	00:26:54.773	00:26:55.617	certainly sir.
+C	00:26:58.453	00:27:01.263	when will i know if i can change my flight?
+A	00:27:02.008	00:27:05.583	if a seat is available we will call you back this evening.
+C	00:27:06.639	00:27:07.714	thank you for your help.
+A	00:27:08.697	00:27:09.957	thank you, goodbye.
+C	00:27:10.405	00:27:10.953	goodbye.
+C	00:27:16.737	00:27:17.291	hello.
+A	00:27:18.446	00:27:21.612	good evening,could i speak to mr chris smith, please?
+C	00:27:22.232	00:27:23.835	this is christmas speaking.
+A	00:27:24.408	00:27:29.204	i'm calling from thai international regarding your flight change request.
+C	00:27:29.982	00:27:30.714	oh, yes.
+C	00:27:31.090	00:27:32.983	do you have some good news for me?
+A	00:27:33.465	00:27:34.692	yes, we do.
+A	00:27:35.101	00:27:38.676	we have one seat available for the six pm flight.
+C	00:27:39.724	00:27:40.945	excellent news.
+C	00:27:41.208	00:27:42.336	i'll take it please.
+A	00:27:42.910	00:27:43.768	ok, sir.
+A	00:27:44.084	00:27:49.381	your ticket is now valid for the flight back to bangkok departing at six pm.
+C	00:27:50.166	00:27:51.683	thank you, bye
+A	00:27:52.006	00:27:52.593	goodbye.
+
+E	00:28:02.514	00:28:04.057	chris! hurry.
+E	00:28:04.657	00:28:05.831	or you'll miss the plane.
+C	00:28:12.058	00:28:13.575	i don't want to miss the plane.
+E	00:28:14.505	00:28:18.100	are we meeting jane and lisa at the airport?
+C	00:28:18.634	00:28:19.650	yes, we are.
+E	00:28:20.560	00:28:22.262	what time did you arrange?
+C	00:28:22.836	00:28:24.399	foue thirty p.m.
+E	00:28:25.593	00:28:26.609	we should leave now?
+C	00:28:27.070	00:28:27.618	okay,
+B	00:28:28.772	00:28:29.735	hello chris.
+C	00:28:29.755	00:28:31.351	oh, hello jane. hello lisa.
+G	00:28:31.351	00:28:31.727	hi.
+B	00:28:32.196	00:28:33.409	did you pack everything?
+C	00:28:33.673	00:28:35.230	yes, i think so.
+B	00:28:35.784	00:28:38.409	did you remember your passport and plane ticket?
+C	00:28:38.693	00:28:39.095	yes.
+C	00:28:41.384	00:28:42.545	i have them right here.
+B	00:28:43.409	00:28:44.807	why don't we check in together?
+C	00:28:45.117	00:28:48.798	okay. will we be able to sit together?
+B	00:28:49.200	00:28:50.071	i hope so.
+E	00:28:50.724	00:28:51.390	hi jane
+B	00:28:51.482	00:28:51.878	hi.
+E	00:28:51.931	00:28:52.551	hello lisa.
+G	00:28:52.577	00:28:53.230	hi dan.
+E	00:28:53.290	00:28:54.741	have you been waiting long for us?
+G	00:28:54.754	00:28:56.469	no. we only just arrived here.
+E	00:28:56.917	00:28:59.265	okay. where did you park your car?
+G	00:28:59.391	00:29:00.420	on the first level.
+E	00:29:01.356	00:29:02.972	we had to park on level six.
+G	00:29:03.032	00:29:05.868	oh. so will you miss chris?
+E	00:29:06.646	00:29:08.493	yes. i will miss him a lot.
+E	00:29:09.192	00:29:10.109	will you miss jane?
+G	00:29:10.208	00:29:12.457	oh, yes. i will miss her a lot too.
+C	00:29:15.505	00:29:18.625	it is nearly time for us to go to our gate.
+E	00:29:19.337	00:29:21.303	please call me when you arrive in bangkok.
+C	00:29:21.395	00:29:22.853	yes. i will call.
+G	00:29:23.334	00:29:24.245	i'll miss you. jane.
+B	00:29:24.423	00:29:25.386	i'll miss you, too.
+C	00:29:26.975	00:29:29.996	hey! i have an idea.
+B	00:29:30.379	00:29:30.966	what is it?
+C	00:29:31.962	00:29:36.553	why don't lisa and dan come to visit us for christmas in bangkok?
+E	00:29:37.140	00:29:38.749	that is a good idea!
+E	00:29:39.184	00:29:40.207	what do you think lisa?
+G	00:29:40.240	00:29:41.717	yeah. it is a good idea.
+B	00:29:42.390	00:29:43.617	what a good idea!
+C	00:29:43.927	00:29:47.113	listen! you are welcome to stay in my home anytime.
+E	00:29:47.720	00:29:48.881	thank you very much, chris.
+C	00:29:48.953	00:29:50.424	sure, okay.
+B	00:29:52.568	00:29:53.069	Bye.
+

@@ -1,0 +1,262 @@
+A	00:00:01.760	00:00:03.030	i can't believe i'm eating this.
+B	00:00:03.040	00:00:04.881	i can't believe you're eating it either.
+A	00:00:05.920	00:00:07.854	you know, that man looks like someone i know.
+A	00:00:10.604	00:00:12.530	that man just left something at his table.
+B	00:00:13.040	00:00:15.868	that's david doolittle..... see actor!
+B	00:00:20.960	00:00:27.640	he left his hat and his gloves and his cell phone.
+B	00:00:28.725	00:00:31.427	and his keys,hold these.
+A	00:00:31.279	00:00:32.559	what are you doing?
+B	00:00:32.559	00:00:34.345	i'm giving him back his hat.
+A	00:00:34.480	00:00:36.559	what about these?
+B	00:00:36.559	00:00:38.618	sir,excuse me, sir!
+B	00:00:41.200	00:00:42.557	is this hat yours?
+C	00:00:42.399	00:00:44.261	that's mine, yes, thank you. 
+C	00:00:44.322	00:00:45.191	did i leave it here?
+B	00:00:45.440	00:00:48.630	i saw it under your table.
+C	00:00:48.640	00:00:49.280	thanks again.
+B	00:00:49.280	00:00:50.269	you're welcome.
+A	00:00:50.719	00:00:53.039	if you don't give him back the rest of his things i will.
+B	00:00:53.039	00:00:54.879	just wait.
+B	00:00:54.879	00:00:57.085	sir! excuse me, sir!
+C	00:00:58.879	00:00:59.670	yes?
+B	00:00:59.680	00:01:01.199	are these gloves yours?
+C	00:01:01.199	00:01:03.761	they're mine,i'm forgetting everything, aren't i?
+B	00:01:04.879	00:01:07.910	aren't you david dolittle?
+C	00:01:07.920	00:01:09.680	well, i am, yes.
+B	00:01:09.680	00:01:11.207	i'm marie le page. 
+B	00:01:11.256	00:01:12.404	i'm a big fan.
+C	00:01:12.640	00:01:16.080	thank you and thanks for these.
+B	00:01:16.080	00:01:17.105	my pleasure.
+B	00:01:22.715	00:01:24.015	mr doolittle?
+C	00:01:27.280	00:01:29.235	what would i do without you? 
+C	00:01:30.616	00:01:32.905	you know, i'm missing my mobile.
+C	00:01:32.928	00:01:33.573	have you seen it?
+B	00:01:34.960	00:01:36.928	i don't see it under your table.
+C	00:01:37.680	00:01:38.620	i'm in a hurry. 
+C	00:01:38.676	00:01:42.538	if you do find it, would you be so kind as to call me my office?
+B	00:01:43.920	00:01:45.670	i'd be happy to.
+C	00:01:45.680	00:01:47.204	thank you. bye.
+B	00:01:56.159	00:02:01.744	i have david doolittle's phone number and his cell phone.
+
+A	00:02:10.640	00:02:12.263	well, i still think it's wrong.
+B	00:02:14.400	00:02:15.583	cheryl......
+D	00:02:18.160	00:02:19.920	what's going on?
+A	00:02:19.920	00:02:23.200	marie just stole david doolittle's cell phone.
+E	00:02:23.200	00:02:24.949	david doolittle was here?
+B	00:02:24.959	00:02:30.470	i didn't steal it,he left it, and i'm waiting to return it until tonight.
+A	00:02:30.480	00:02:34.070	he asked if it was under the table,you said it wasn't.
+B	00:02:34.080	00:02:38.080	it wasn't under the table because it was in my pocket.
+A	00:02:38.959	00:02:40.409	well, i think that's wrong.
+B	00:02:41.120	00:02:44.598	it's not wrong,he'll get his phone back.
+A	00:02:45.374	00:02:46.365	what do you two think?
+D	00:02:47.524	00:02:49.348	oh,no...
+A	00:02:50.720	00:02:52.400	what are you going to do now?
+B	00:02:52.400	00:02:58.605	i'm going to call him tonight,tell him i found his phone, and asked him to meet me for dinner.
+A	00:02:58.801	00:03:00.419	you're going to ask him to dinner?
+B	00:03:00.620	00:03:01.835	sure, why not?
+A	00:03:02.420	00:03:04.926	women don't ask men to dinner.
+A	00:03:05.552	00:03:06.366	do they?
+B	00:03:08.640	00:03:10.000	oh.
+B	00:03:10.000	00:03:14.912	don't be so old-fashioned, cheryl. this is the twenty-first century.
+B	00:03:15.040	00:03:19.092	women ask men out to dinner all the time, don't they?
+A	00:03:22.080	00:03:25.974	well, i still think it's wrong,you should have given him the phone.
+D	00:03:26.959	00:03:31.589	cheryl, i have to tell you something.
+B	00:03:31.599	00:03:33.280	what?
+D	00:03:33.280	00:03:35.670	do you remember when we met?
+B	00:03:35.680	00:03:41.814	of course. i was at the park. i'd lost my bag and you helped me find it.
+B	00:03:42.720	00:03:44.348	took us two hours.
+B	00:03:45.040	00:03:51.548	we talked and talked and i became more interested in bob than in finding the bag.
+D	00:03:53.120	00:04:00.122	well, actually... i found your bag in two minutes, but i waited two hours to tell you.
+D	00:04:01.360	00:04:08.309	i thought you were the most amazing woman i had ever met and if you had found your bag right away.
+D	00:04:08.319	00:04:12.577	you would have left and we wouldn't be here right now.
+A	00:04:14.400	00:04:17.318	that is so romantic!
+A	00:04:18.560	00:04:20.413	that's why i love this man!
+B	00:04:21.652	00:04:25.510	see? if it works for bob, it might work for me.
+A	00:04:25.520	00:04:33.160	oh you and david dolittle! fantastic call! call him!
+
+F	00:04:43.840	00:04:46.160	hello, everyone. you remember ms. novak.
+G	00:04:46.160	00:04:46.870	hello.
+A	00:04:46.880	00:04:47.919	hi!
+F	00:04:47.919	00:04:51.030	ms. novak has just opened an art gallery here.
+F	00:04:51.040	00:04:54.390	i've asked her to find some pieces to decorate our office.
+F	00:04:54.400	00:04:57.120	she's brought some things for us to look at today.
+G	00:04:57.120	00:05:01.340	i have a painting, a sculpture and a photograph that i think you'll like.
+G	00:05:03.360	00:05:05.632	here's the painting.
+G	00:05:09.550	00:05:13.197	this was painted by a russian artist that i really like.
+G	00:05:13.520	00:05:19.433	it's called "sun on the water." the artist was inspired by looking at the sea.
+G	00:05:20.720	00:05:22.400	what do you think?
+E	00:05:22.400	00:05:25.280	i think i can do that.
+A	00:05:25.280	00:05:28.629	it's... fantastic.
+B	00:05:28.639	00:05:33.680	how... interesting!
+D	00:05:33.680	00:05:37.737	it's... very blue.
+G	00:05:37.798	00:05:38.822	yes!
+F	00:05:39.759	00:05:40.692	it's gorgeous.
+G	00:05:40.767	00:05:54.870	oh, good,here's the sculpture,it was made by a british sculptor,it's called "city of gold."
+E	00:05:54.880	00:05:57.120	is it really gold?
+G	00:05:57.120	00:06:04.800	no, it's made of wood,it was painted gold,what do you think?
+A	00:06:04.800	00:06:07.600	it's... cool.
+D	00:06:07.600	00:06:14.150	mr. evans, i think it would look good in your office.
+B	00:06:14.639	00:06:18.790	i prefer the painting.
+F	00:06:18.800	00:06:21.280	i'm fascinated by it!
+G	00:06:21.280	00:06:26.514	good, and here's the photograph.
+G	00:06:30.639	00:06:36.390	it's called "winter." it was photographed in paris.
+E	00:06:36.400	00:06:38.319	there's nothing there.
+G	00:06:38.319	00:06:43.110	it's a photograph of snow in a park.
+F	00:06:43.120	00:06:46.160	maybe i should buy them all, what do you think?
+A	00:06:46.160	00:06:48.270	great!
+G	00:06:48.270	00:06:55.280	excellent!
+E	00:06:55.280	00:06:58.550	hey, look. i'm an artist.
+E	00:06:58.560	00:07:11.510	here's my latest work, it's called "office wall." it was inspired by looking at the walls of the office.
+G	00:07:11.520	00:07:13.360	are you a photographer?
+E	00:07:13.360	00:07:19.350	yes, well, no, i... i take a lot of pictures.
+G	00:07:19.360	00:07:31.670	hmm. i'm not so crazy about that one but i do like what you've done here.
+G	00:07:32.560	00:07:35.589	i'm very moved by it, actually.
+G	00:07:35.599	00:07:42.160	it's a fascinating mixture of eastern and western traditions you have talent.
+E	00:07:42.160	00:07:43.919	i do?
+G	00:07:43.919	00:07:46.469	i think i could sell this.
+E	00:07:46.479	00:07:48.479	really?
+G	00:07:48.479	00:07:50.150	it's very good.
+E	00:07:50.160	00:07:53.830	i'm crazy about photography.
+G	00:07:53.840	00:07:56.479	well do you have any more of your work here?
+E	00:07:56.479	00:08:00.790	uh, no.
+G	00:08:00.800	00:08:08.400	here's my card,why don't you bring me some pieces on Friday?
+E	00:08:08.400	00:08:10.840	ok.
+G	00:08:10.840	00:08:11.130	bye-bye.
+E	00:08:11.130	00:08:12.940	bye-bye.
+A	00:08:24.840	00:08:29.520	so... where are we going to put this thing?
+E	00:08:29.520	00:08:31.270	hang it by my desk.
+A	00:08:31.270	00:08:32.479	really?
+E	00:08:32.479	00:08:38.159	yeah. as an artist, i'm really starting to like it.
+E	00:08:38.159	00:09:02.389	as a matter of fact, i think it's... one of the most interesting works i've ever seen.
+
+B	00:09:02.399	00:09:03.898	bob, can you help me with something?
+D	00:09:03.921	00:09:04.630	sure.
+B	00:09:04.640	00:09:07.509	i'm trying to print a file but the printer won't work.
+D	00:09:07.519	00:09:09.519	push the green button on the printer.
+B	00:09:09.519	00:09:10.310	why?
+D	00:09:10.320	00:09:13.519	to turn it on. it won't print unless it's on.
+B	00:09:13.519	00:09:18.550	oh, right. silly me, thank you.
+E	00:09:18.560	00:09:22.070	hey, bob. my laptop crashed and i can't get it to do anything.
+E	00:09:22.080	00:09:26.230	i type on the keyboard and nothing happens.
+D	00:09:26.240	00:09:28.880	stick this here.
+E	00:09:28.880	00:09:29.990	why?
+D	00:09:30.000	00:09:32.320	to restart the computer.
+E	00:09:32.320	00:09:42.470	you sure? okay. thanks.
+A	00:09:42.480	00:09:44.404	bob, i could use a hand with something.
+D	00:09:44.437	00:09:44.959	what is it?
+A	00:09:44.959	00:09:48.240	somebody sent me an email, but i think it has a virus in it.
+D	00:09:48.240	00:09:52.959	don't open the attachment click on the no virus icon on the toolbar.
+A	00:09:52.959	00:09:53.350	why?
+D	00:09:53.360	00:09:56.247	to clean the computer and stop the virus.
+A	00:09:56.845	00:09:57.556	thanks!
+B	00:10:04.079	00:10:05.600	bob, can i ask you another question?
+D	00:10:05.600	00:10:09.360	i'm sorry, but i can't get any work done with all these questions!
+D	00:10:09.360	00:10:19.110	please. i have some very important stuff i need to finish right now.
+A	00:10:19.120	00:10:27.590	very important stuff.
+D	00:10:27.600	00:10:38.949	how can i help you?
+
+D	00:10:38.959	00:10:41.279	hey, mr. evans?
+F	00:10:41.279	00:10:41.990	yes?
+D	00:10:42.000	00:10:44.640	you asked me to build a website for the company.
+F	00:10:44.640	00:10:45.990	oh, yes. how's it coming along?
+D	00:10:46.000	00:10:49.200	well, sir i i think i need some new technology.
+F	00:10:49.200	00:10:50.160	what do you need?
+D	00:10:50.160	00:10:53.190	a new scanner.
+F	00:10:53.200	00:10:54.240	what's that?
+D	00:10:54.240	00:11:00.069	it's a scanner, sir. but it's not nearly as good.
+D	00:11:00.069	00:11:00.959	as this one.
+D	00:11:00.959	00:11:04.470	this one would give us much better photos.
+F	00:11:04.480	00:11:05.360	okay.
+D	00:11:05.360	00:11:08.710	and a digital camera would be good.
+F	00:11:08.720	00:11:10.079	what's that?
+D	00:11:10.079	00:11:15.021	it's not a digital camera,sir,it won't take pictures as easily as this one.
+F	00:11:18.079	00:11:18.880	okay.
+D	00:11:18.880	00:11:23.750	and also a new laptop.
+D	00:11:23.760	00:11:28.310	it's not as fast as this one.
+F	00:11:28.320	00:11:29.519	i see.
+F	00:11:29.519	00:11:30.800	anything else?
+D	00:11:30.800	00:11:37.350	a new dvd drive and i could also use a new joystick.
+F	00:11:37.360	00:11:38.720	a joystick?
+F	00:11:38.720	00:11:43.030	isn't that for computer games?
+D	00:11:43.040	00:11:46.710	well, i don't really need the joystick.
+F	00:11:46.720	00:11:55.279	what's all this gonna cost me? what?
+D	00:11:55.519	00:12:00.629	well, actually we could do without the dvd drive...
+D	00:12:00.639	00:12:09.200	and the laptop... and the camera... and the scanner.
+F	00:12:09.200	00:12:25.750	great!
+
+A	00:12:25.760	00:12:29.910	what do you think about this color?
+E	00:12:29.920	00:12:31.519	what is that color?
+A	00:12:31.519	00:12:34.230	it's tomato red.
+A	00:12:34.240	00:12:38.870	how does this color make you feel?
+E	00:12:38.880	00:12:40.399	happy.
+B	00:12:40.399	00:12:41.910	sad.
+D	00:12:41.920	00:12:43.279	tired.
+D	00:12:43.279	00:12:46.949	i don't feel like looking at any more colors.
+A	00:12:46.959	00:12:50.150	quit complaining.
+A	00:12:50.160	00:12:53.990	how about this one?
+E	00:12:54.000	00:12:56.560	happy.
+B	00:12:56.560	00:12:57.590	sad.
+D	00:12:57.600	00:13:01.110	awful. i can't stand looking at it.
+D	00:13:01.120	00:13:04.710	do you plan to do this all night?
+A	00:13:04.720	00:13:06.240	this one?
+A	00:13:06.240	00:13:11.990	be sure to look carefully.
+B	00:13:12.000	00:13:12.800	sad.
+E	00:13:12.800	00:13:15.110	happy.
+D	00:13:15.120	00:13:17.760	very very nervous.
+A	00:13:17.760	00:13:18.959	nervous about what?
+D	00:13:18.959	00:13:23.190	i'm nervous you're gonna paint the whole wall that color.
+A	00:13:23.200	00:13:24.639	it's my apartment, bob.
+D	00:13:24.639	00:13:30.710	yeah, but we come here a lot,can we discuss leaving the walls just like this?
+A	00:13:30.720	00:13:34.470	i'm tired of looking at yellow walls.
+D	00:13:34.480	00:13:39.430	fine. can you at least choose a color we'll all be excited about?
+A	00:13:39.440	00:13:42.000	there is no color you all like.
+A	00:13:42.000	00:13:44.310	paul's feeling happy about everything.
+A	00:13:44.320	00:13:47.040	marie's feeling sad about everything.
+A	00:13:47.040	00:13:49.760	and you just seem to hate color, don't you bob?
+D	00:13:49.760	00:13:54.800	i love color, just not those colors.
+A	00:13:54.800	00:13:55.680	okay.
+A	00:13:55.680	00:14:02.310	then why don't you find a color that everybody likes?
+D	00:14:02.320	00:14:05.040	what do you think of this color?
+E	00:14:05.040	00:14:07.519	i like it.
+B	00:14:07.519	00:14:09.040	i like it too, actually.
+D	00:14:09.040	00:14:11.509	i love it.
+A	00:14:11.519	00:14:15.509	i'm not painting the walls the same color as my sofa.
+A	00:14:15.519	00:14:17.839	the whole room would be green.
+D	00:14:17.839	00:14:20.230	you could change the color of the sofa.
+A	00:14:20.240	00:14:22.720	to what?
+D	00:14:22.720	00:14:35.189	the color of the walls would be a nice color.
+
+A	00:14:35.199	00:14:39.910	marie, you've been so quiet. are you okay?
+B	00:14:39.920	00:14:43.030	i'm just a little down in the dumps.
+A	00:14:43.040	00:14:46.870	oh, i'm sorry.
+A	00:14:46.880	00:15:03.750	we've been arguing about colors and you're feeling blue. hmm, blue...
+E	00:15:03.760	00:15:06.000	what's wrong, marie?
+B	00:15:06.000	00:15:07.350	don't know.
+B	00:15:07.360	00:15:09.760	i can't put my finger on it.
+B	00:15:09.760	00:15:13.519	i've just been feeling... out of sorts.
+E	00:15:13.519	00:15:15.839	don't worry, i can help.
+E	00:15:15.839	00:15:18.710	dr. cheer is here.
+B	00:15:18.720	00:15:20.000	doctor who?
+E	00:15:20.000	00:15:25.430	at school, people call me dr. cheer. because i'm always happy and i enjoy cheering people up.
+D	00:15:25.440	00:15:26.639	you know that's true.
+D	00:15:26.639	00:15:34.790	you're always cheering me up.
+B	00:15:34.800	00:15:36.560	how do you do that?
+E	00:15:36.560	00:15:39.360	i practice laughing every day.
+B	00:15:39.360	00:15:41.749	laughing at what?
+E	00:15:41.759	00:15:47.509	nothing. i just choose to laugh.
+B	00:15:47.519	00:15:50.480	you just decide to laugh?
+B	00:15:50.480	00:15:51.749	i can't do that.
+B	00:15:51.759	00:15:53.759	it's not in my nature.
+E	00:15:53.759	00:15:57.360	how do you know? just try.
+E	00:15:57.360	00:16:01.189	let me hear you laugh.
+B	00:16:01.199	00:16:01.970	ha ha.
+E	00:16:02.470	00:16:04.111	louder.
+B	00:16:04.621	00:16:05.434	ha ha.
+E	00:16:05.270	00:16:07.000	come on, keep laughing.
+B	00:16:07.000	00:16:16.000	ha ha...
+E	00:16:16.480	00:16:19.910	you're right. it's not your personality.
+B	00:16:19.920	00:16:25.110	what now, dr cheer?
+E	00:16:25.120	00:16:26.959	chocolate?
+B	00:16:26.959	00:16:28.389	yes!
+E	00:16:28.399	00:16:29.493	works every time.
+

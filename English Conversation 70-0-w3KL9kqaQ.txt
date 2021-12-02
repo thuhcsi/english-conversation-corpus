@@ -1,0 +1,355 @@
+A	00:00:01.680	00:00:03.520	Anne, there's a telegram for you!
+B	00:00:03.520	00:00:05.680	oh, for me?
+B	00:00:05.680	00:00:08.310	i wonder who it's from...
+B	00:00:08.320	00:00:16.550	oh, it's from italy...
+A	00:00:16.560	00:00:19.359	come on, Anne, tell me who it is from...
+A	00:00:19.359	00:00:21.760	you know i'm dying of curiosity!
+B	00:00:21.760	00:00:23.840	it's from my sister kimberly...
+B	00:00:23.840	00:00:25.439	she says she's coming to visit me.
+B	00:00:26.480	00:00:29.039	she's arriving on thursday.
+A	00:00:29.039	00:00:30.950	today is thursday!
+B	00:00:30.960	00:00:32.800	oh, my god.
+B	00:00:32.800	00:00:36.640	it is! what... oh...
+B	00:00:36.640	00:00:37.910	what now i...
+B	00:00:37.920	00:00:42.069	i have to tidy up and do the shopping and...
+B	00:00:42.079	00:00:44.630	the house needs a good cleaning as well!
+B	00:00:44.640	00:00:45.520	oh.
+A	00:00:45.520	00:00:48.160	slow down and calm down, anne!
+A	00:00:48.160	00:00:50.000	we've got time...
+A	00:00:50.000	00:00:53.830	so who is older, you or your sister?
+B	00:00:53.840	00:00:54.960	i am.
+A	00:00:54.960	00:00:58.640	and are you similar or different?
+B	00:00:58.640	00:01:02.150	well... we're quite different...
+B	00:01:02.160	00:01:06.710	she's shorter than i am and and she's got blue eyes.
+C	00:01:06.720	00:01:10.230	hey, what are you talking about?
+A	00:01:10.240	00:01:12.799	about anne's sister kimberly...
+A	00:01:12.799	00:01:14.789	she's arriving this afternoon.
+C	00:01:14.799	00:01:17.680	great! i can't wait to meet her.
+C	00:01:17.680	00:01:20.469	is she as cute as you, anne?
+B	00:01:20.479	00:01:22.080	stop being silly, jack!
+B	00:01:22.080	00:01:25.190	you're the biggest joker i know...
+B	00:01:25.200	00:01:33.350	i have to get going now... remember, don't leave the house in a mess!
+A	00:01:33.360	00:01:36.870	is that all she thinks about when someone is coming?
+A	00:01:36.880	00:01:40.640	cleaning, vacuuming, tidying up and dusting?
+A	00:01:40.640	00:01:44.149	do you think kimberly is worse than anne?
+A	00:01:44.159	00:01:48.069	if so, we're going to have a lot of work to do!
+C	00:01:48.079	00:01:49.520	that's right!
+C	00:01:49.520	00:01:56.149	two sisters means twice the work!
+
+C	00:01:56.159	00:01:57.920	hi anne.
+C	00:01:57.920	00:02:01.360	so you must be kimberly...
+C	00:02:01.360	00:02:02.389	it's a pleasure.
+C	00:02:02.399	00:02:03.280	i'm jack.
+D	00:02:03.280	00:02:06.709	hello, jack, anne has told me so much about you!
+A	00:02:06.719	00:02:08.479	hi i'm alice.
+A	00:02:08.479	00:02:10.309	you live in rome, don't you?
+A	00:02:10.319	00:02:13.670	so, how is life in 'bella' italy?
+D	00:02:13.680	00:02:15.040	wonderful!
+D	00:02:15.040	00:02:22.400	my father raised me in america, though, but italy is the most fascinating country in the world, as far as i'm concerned!
+D	00:02:22.400	00:02:24.959	it's history, the art...
+D	00:02:24.959	00:02:27.350	and, of course, the best food in the world!
+D	00:02:27.360	00:02:29.670	what else could anyone ask for?
+D	00:02:29.680	00:02:33.910	and, of course, the italians are the most likable people in the world!
+C	00:02:33.920	00:02:38.630	you are one hundred percent right just look at me...
+C	00:02:38.640	00:02:40.800	i'm originally from bologna.
+C	00:02:40.800	00:02:46.070	which is one of the best cities in the world when it comes to eating well!
+D	00:02:46.080	00:02:47.280	i know bologna well.
+D	00:02:47.280	00:02:51.030	it's a beautiful city, even if i do prefer rome.
+D	00:02:51.040	00:02:55.270	rome is much bigger and more exciting.
+D	00:02:55.280	00:02:56.959	so, how does london compare?
+A	00:02:56.959	00:02:58.949	london isn't that bad...
+A	00:02:58.959	00:03:00.640	apart from the weather...
+A	00:03:00.640	00:03:03.920	it certainly is much colder than in italy!
+C	00:03:03.920	00:03:07.040	and the british are... well...
+C	00:03:07.040	00:03:09.670	how should i say this? they're...
+C	00:03:09.680	00:03:12.239	less clever than the italians!
+D	00:03:12.239	00:03:15.200	watch yourself, jack! watch what you're saying...
+B	00:03:15.200	00:03:19.599	yes! you know kimberly and i are both british!
+B	00:03:19.599	00:03:22.640	well, i'm more british than she...
+C	00:03:22.640	00:03:23.670	you're right!
+C	00:03:23.680	00:03:27.280	well... i was talking about british men, of course.
+B	00:03:27.280	00:03:32.400	kimberly, this is peter and sharon.
+B	00:03:32.400	00:03:34.080	they live in the apartment next door.
+D	00:03:34.080	00:03:36.550	it's a pleasure to meet you!
+E	00:03:36.560	00:03:40.390	so kimberly,anne told us that you're attending art school in rome...
+E	00:03:40.400	00:03:43.830	you know, i wanted to study art when i was a little girl...
+E	00:03:43.840	00:03:47.509	but in the end, i decided to study archaeology, instead.
+D	00:03:47.519	00:03:51.440	that's interesting! and peter, what do you do?
+F	00:03:51.440	00:03:53.280	i'm an actor...
+F	00:03:53.280	00:03:55.429	and i do little singing...
+F	00:03:55.439	00:03:57.589	i'm acting in a musical at the moment.
+D	00:03:57.599	00:03:59.920	what a great career!
+B	00:03:59.920	00:04:05.750	yes, but it's certainly less stressful than jack's line of work...
+B	00:04:05.760	00:04:08.560	he works a lot harder than peter...
+B	00:04:08.560	00:04:12.799	but actually he's the hardest working person in the house!
+A	00:04:12.799	00:04:15.429	and i'm the person that has the most fun!
+D	00:04:15.439	00:04:18.560	speaking of fun, what shall we do this evening?
+D	00:04:18.560	00:04:20.150	i would love to go out!
+D	00:04:20.160	00:04:22.880	it's been so long since i last came to london!
+B	00:04:22.880	00:04:26.560	well, why don't we go to the cinema?
+D	00:04:26.560	00:04:29.440	come on, anne, that's so boring!
+D	00:04:29.440	00:04:31.919	why don't we do something more exciting?
+D	00:04:31.919	00:04:33.440	i don't know...
+D	00:04:33.440	00:04:37.840	we could go to the pub and get something to eat...
+D	00:04:37.840	00:04:42.000	and, after that, why don't we go to a disco?
+A	00:04:42.000	00:04:44.320	wow, what a surprise!
+A	00:04:44.320	00:04:48.720	you two are completely different!
+
+C	00:04:48.720	00:04:52.400	have you finished yet? alice?
+A	00:04:52.400	00:04:56.080	no jack, i haven't finished my shower!
+A	00:04:56.080	00:04:58.479	could you ask anne to come in here, please?
+C	00:04:58.479	00:05:00.320	she's just left!
+C	00:05:00.320	00:05:02.870	come on, i'm pleading with you, alice.
+C	00:05:02.880	00:05:06.710	i'm late!
+A	00:05:06.720	00:05:09.680	okay, okay, i've finished.
+A	00:05:09.680	00:05:12.383	calm down, the bathroom's all yours!
+C	00:05:12.414	00:05:20.230	finally! you've been in there for over an hour!
+C	00:05:20.240	00:05:25.430	yes... yes, this is jack.
+C	00:05:25.440	00:05:29.360	no, i haven't seen john since yesterday. why?
+C	00:05:29.360	00:05:36.400	oh, the report... uh... yes.
+C	00:05:36.400	00:05:48.629	no, i haven't finished it yet.
+C	00:05:48.639	00:05:52.230	yes, yes, i know it's important.
+C	00:05:52.240	00:05:54.870	anyway, i've already started writing it...
+C	00:05:54.880	00:05:58.800	yes, yes, i'll send it to you as soon as it's finished.
+C	00:05:58.800	00:06:00.479	excuse me?
+C	00:06:00.479	00:06:04.830	listen, i'll call you later,okay.
+C	00:06:08.560	00:06:13.110	alice, if you don't open this door, i'm going to knock it down!
+D	00:06:13.120	00:06:16.390	actually, it's kimberly i've just come in...
+D	00:06:16.400	00:06:18.106	is everything okay jack?
+C	00:06:18.438	00:06:25.670	yes!... no! i've been waiting to use the bathroom for over an hour!
+C	00:06:25.919	00:06:29.830	i must get to the office!
+D	00:06:29.840	00:06:32.400	okay jack, it's all yours!
+D	00:06:32.400	00:06:33.759	i'll use the bathroom later.
+C	00:06:33.759	00:06:36.390	thanks kimberly, that's very kind of you...
+C	00:06:36.400	00:06:39.590	sorry!
+A	00:06:39.600	00:06:41.360	hey jack, have you seen my watch?
+A	00:06:41.360	00:06:44.870	i've probably left it in there.
+C	00:06:44.880	00:06:47.759	here you go! have you forgotten anything else?
+A	00:06:48.319	00:06:50.560	we're rather nervous, today, aren't we?
+C	00:06:50.560	00:06:56.950	bye, i have to get going.
+A	00:06:56.960	00:07:00.950	hey jack, wait! jack your mobile!
+D	00:07:00.960	00:07:03.360	oh... he's already gone!
+A	00:07:03.360	00:07:06.400	so, what are you doing today kimberly?
+A	00:07:06.400	00:07:08.870	have you ever been to portobello market?
+D	00:07:08.880	00:07:10.479	no, i've never been there!
+A	00:07:10.479	00:07:13.039	would you like to come along and browse around the stands?
+D	00:07:13.039	00:07:18.550	oh, yes, it's been months since i last visited a flea market!
+
+B	00:07:18.560	00:07:21.749	hi jack!
+B	00:07:22.400	00:07:25.270	what's the matter?
+B	00:07:25.280	00:07:27.120	you look awful!
+C	00:07:27.262	00:07:28.204	i'm a wreck!
+C	00:07:28.800	00:07:31.134	and i've lost my mobile!
+B	00:07:34.943	00:07:40.191	no, alice told me you forgot it when you left the apartment this morning!
+C	00:07:41.680	00:07:44.746	that's where it is! i've looked everywhere...
+C	00:07:46.196	00:07:49.456	i must admit i've been a little distracted lately...
+C	00:07:50.160	00:07:53.189	i guess i need some rest.
+C	00:07:53.199	00:07:58.230	you know i haven't had a holiday since they transferred me to london!
+B	00:07:58.240	00:08:02.230	oh... okay, well... relax a little now...
+B	00:08:02.240	00:08:06.869	kimberly is showing me some photos of a party they had at university last month.
+B	00:08:06.879	00:08:09.599	i've never seen such funny photos!
+C	00:08:09.599	00:08:14.479	hey, this is a picture of the faculty of economics...
+C	00:08:14.479	00:08:17.039	i've been there for a seminar!
+D	00:08:17.039	00:08:19.110	really? when did you attend that?
+C	00:08:19.120	00:08:24.550	well, i was only there for four days, but it was really interesting!
+A	00:08:24.560	00:08:28.240	hey guys, i've just got off the phone to peter.
+A	00:08:28.240	00:08:31.350	and he wants to know if they can come over in a bit...
+A	00:08:31.360	00:08:35.589	he wants us to convince sharon to move to japan with him!
+A	00:08:35.599	00:08:38.080	she hasn't decided yet if she wants to go.
+B	00:08:38.080	00:08:42.000	to japan? it's a great country! have you ever been there?
+C	00:08:42.000	00:08:47.350	no... and to tell you the truth i'm not really interested in going!
+A	00:08:47.360	00:08:49.600	why do you say that jack?
+A	00:08:49.600	00:08:54.310	you're right, kimberly, japan is a fascinating country.
+A	00:08:54.320	00:08:59.030	i haven't been since... one thousand nine hundred and ninety-five
+A	00:08:59.040	00:09:01.440	who knows what has changed since then?
+C	00:09:01.440	00:09:05.030	do you mind if i go to my room?
+C	00:09:05.040	00:09:07.680	today was awful...
+C	00:09:07.680	00:09:12.870	i'm dead tired and i haven't had anything to eat!
+C	00:09:12.880	00:09:15.040	please tell sharon and peter...
+C	00:09:15.040	00:09:20.870	please give shannon peter my regards.
+C	00:09:20.880	00:09:25.350	i'm...
+C	00:09:25.519	00:09:35.110	really not in the mood to chat this evening!
+
+F	00:09:35.120	00:09:38.080	good morning.
+F	00:09:38.080	00:09:40.480	alice, is anne at home?
+F	00:09:40.480	00:09:44.070	i just met the postman and this package is for her.
+A	00:09:44.080	00:09:50.710	no, she's not in now. my! a large package!
+F	00:09:50.720	00:09:56.790	please, be careful! i think it contains fragile objects.
+A	00:09:56.800	00:10:04.389	hey peter... do you know if it contains a set of porcelain plates that she won with the 'sweet' biscuits bonus points?
+F	00:10:04.399	00:10:10.069	well, i think so... at least, that's where the package comes from.
+F	00:10:10.240	00:10:12.800	Alright alice, i have to go now.
+F	00:10:12.800	00:10:13.920	see you later.
+A	00:10:13.920	00:10:15.760	Anne will be so happy!
+A	00:10:15.760	00:10:44.829	she's been waiting for it for a long time! bye!
+A	00:10:51.680	00:10:55.430	hello, anne, this is alice.
+A	00:10:55.440	00:10:58.470	i've got great news for you:
+A	00:10:58.480	00:11:02.480	your set of chinese porcelain has arrived!
+A	00:11:02.480	00:11:06.470	they're beautiful.
+A	00:11:06.480	00:11:09.750	no, i opened it.
+A	00:11:09.760	00:11:14.470	i'm sorry anne, i just couldn't resist...
+A	00:11:14.480	00:11:16.320	oh no! anne...
+A	00:11:16.320	00:11:18.710	i'm so sorry...
+A	00:11:18.720	00:11:22.150	it broke!
+A	00:11:22.160	00:11:25.040	okay, okay.
+A	00:11:25.040	00:11:28.880	i'm not allowed to touch any more plates.
+A	00:11:28.880	00:11:42.240	you're absolutely right, i'm so sorry! bye.
+A	00:11:42.240	00:11:46.630	jack be careful, don't touch anything!
+A	00:11:46.640	00:11:50.870	this packet contains anne's set of chinese porcelain.
+A	00:11:50.880	00:11:53.839	i hope he didn't break anything!
+A	00:11:53.839	00:12:00.230	i already broke a plate, and guess who heard me breaking it?
+A	00:12:00.240	00:12:01.200	anne!
+C	00:12:01.200	00:12:03.670	oh my...
+C	00:12:03.680	00:12:06.949	i didn't notice anything!
+A	00:12:06.959	00:12:09.120	you should look where you are going...
+C	00:12:09.148	00:12:09.785	i'm...
+C	00:12:09.862	00:12:11.063	i'm sorry.
+C	00:12:12.320	00:12:14.790	what are we going to do?
+A	00:12:14.800	00:12:19.509	well, let's get ready for anne to lose her temper...
+A	00:12:19.519	00:12:23.269	who knows, maybe she'll forgive us.
+A	00:12:23.279	00:12:27.920	she can't get that angry! they're just plays...
+C	00:12:27.920	00:12:36.389	remember, we can't cook... if anne gets angry, we'll have to learn to cook!
+A	00:12:36.399	00:12:38.959	that's true...
+A	00:12:38.959	00:12:45.760	i've got an idea: let's go get something from the local take out place.
+A	00:12:45.760	00:12:50.320	then we can pretend that we cooked dinner.
+A	00:12:50.320	00:12:54.240	she might be happy and forget about those plates...
+C	00:12:54.240	00:12:56.949	that's a great idea!
+C	00:12:56.959	00:13:07.670	let's get going!
+
+D	00:13:07.680	00:13:11.269	hi, anne! what's that you're holding?
+B	00:13:11.279	00:13:14.870	hello everyone!
+B	00:13:14.880	00:13:17.360	listen...
+B	00:13:17.360	00:13:21.350	we need some rules in this house!
+B	00:13:21.360	00:13:28.310	living together means obeying some rules!
+B	00:13:28.320	00:13:31.910	i've written this list of house rules.
+B	00:13:31.920	00:13:39.120	that every person who spends time in this house must follow!
+B	00:13:39.120	00:13:46.470	no one is allowed to leave this living room until they read and memorize these rules!
+C	00:13:46.480	00:13:47.839	bad day, huh?
+A	00:13:47.839	00:13:50.150	she's right, jack!
+A	00:13:50.160	00:13:56.480	anyway, anne dear,what about these house rules?
+B	00:13:56.480	00:14:02.550	first of all, don't call me anne, dear... now listen:
+B	00:14:02.560	00:14:12.959	rule number one you must never, and i stress 'never', open my post.
+B	00:14:12.959	00:14:20.079	rule number two from now on, clean the house at least once a week.
+B	00:14:20.079	00:14:27.030	rule number three we have to take turns washing up.
+B	00:14:27.040	00:14:28.160	rule number four.
+C	00:14:28.160	00:14:30.870	okay, okay...
+C	00:14:30.880	00:14:33.680	we understand!
+C	00:14:33.680	00:14:36.560	you must be angry.
+B	00:14:36.560	00:14:40.800	well, yes, jack! i'm very, very angry!
+B	00:14:40.800	00:14:45.440	i was really looking forward to getting that set of chinese plates...
+B	00:14:45.440	00:14:50.320	i saved bonus points for a year, eating the same, stupid biscuits...
+B	00:14:50.320	00:14:54.959	which, for your information, i can't stand anymore!
+B	00:14:54.959	00:15:00.870	i just kept eating and buying them in order to get the set of chinese porcelain...
+B	00:15:00.880	00:15:03.360	all for nothing!
+A	00:15:03.360	00:15:07.519	please forgive us, anne.
+A	00:15:07.519	00:15:13.030	just tell us where to go, and we'll buy you a new set!
+B	00:15:13.040	00:15:18.629	but that's not possible,they were handcrafted in shanghai!
+B	00:15:18.639	00:15:20.480	and they cost a fortune!
+A	00:15:20.480	00:15:24.115	okay, we'll do our best to make it up...
+A	00:15:24.353	00:15:28.320	somehow... now, sit down anne.
+A	00:15:28.320	00:15:31.350	you must be exhausted.
+A	00:15:31.360	00:15:34.949	jack and i made dinner for you!
+A	00:15:34.959	00:15:38.069	you don't have to do anything...
+A	00:15:38.079	00:15:41.829	we thought of everything!
+B	00:15:41.839	00:15:43.839	really?
+B	00:15:43.839	00:15:47.360	but you made dinner for me?
+C	00:15:47.360	00:15:50.874	yes, anne... it was the least we could do...
+B	00:15:52.391	00:15:59.269	well... okay, i'll forgive you this time...
+B	00:15:59.279	00:16:04.834	but, i warn both of you that i want more discipline in this house!
+B	00:16:05.294	00:16:09.670	you can't do what you want all the time!
+B	00:16:09.680	00:16:13.350	we need some rules!
+B	00:16:13.600	00:16:16.949	don't roll your eyes while i'm speaking to you!
+C	00:16:16.959	00:16:20.550	okay, okay anne!
+C	00:16:20.560	00:16:22.079	you're right!
+C	00:16:22.079	00:16:29.079	rules are important, but it's also important to laugh a little!
+
+C	00:16:33.440	00:16:37.269	hi everybody, what's on tv?
+D	00:16:37.279	00:16:50.790	jack! just a minute... it's almost finished.
+C	00:17:06.959	00:17:12.000	so... what were you watching that was so engrossing?
+D	00:17:12.000	00:17:16.230	it was an extremely interesting documentary about picasso's life.
+D	00:17:16.240	00:17:20.549	there were lots of details about some of his stranger habits.
+D	00:17:20.559	00:17:25.120	did you know that picasso preferred painting women with four eyes?
+C	00:17:25.120	00:17:28.640	no, i had no idea...
+B	00:17:28.640	00:17:32.150	and that he had lots of different types of dogs?
+B	00:17:32.160	00:17:35.270	he used to give only dogs to his friends.
+B	00:17:35.280	00:17:37.440	strange, isn't it?
+D	00:17:37.440	00:17:42.400	and that he liked eating italian cake at christmas?
+C	00:17:42.400	00:17:46.320	well, i also go crazy for italian cake at christmas.
+C	00:17:46.370	00:17:49.840	and my name isn't picasso!
+C	00:17:49.840	00:17:54.789	by the way, where is our resident artist, alice?
+B	00:17:54.799	00:17:57.039	she left early this morning.
+B	00:17:57.039	00:18:00.230	she said that she had something important to do.
+B	00:18:00.240	00:18:02.480	she wouldn't tell me what...
+B	00:18:02.480	00:18:05.270	but she did say it was none of my business.
+B	00:18:05.280	00:18:07.840	you know how she is...
+D	00:18:07.840	00:18:09.430	that's strange...
+D	00:18:09.440	00:18:11.840	she usually leaves late...
+B	00:18:11.840	00:18:17.590	well... as a matter of fact, she was very serious this morning.
+B	00:18:17.600	00:18:23.430	she told me she had a headache, but i didn't believe her.
+B	00:18:23.440	00:18:29.590	oh look: but it's getting late!
+B	00:18:29.600	00:18:32.400	i'm starting to get worried.
+C	00:18:32.400	00:18:34.960	don't play 'mom', anne!
+C	00:18:34.960	00:18:37.350	alice is a big girl now...
+B	00:18:37.360	00:18:39.919	i know... i know...
+B	00:18:39.919	00:18:44.150	but it's just that but she didn't tell me she would be late...
+B	00:18:44.160	00:18:47.200	in fact she asked me if i would be late today...
+D	00:18:47.200	00:18:49.039	just a moment...
+D	00:18:49.039	00:18:54.070	a few days ago alice told me that she wanted to enter a painting contest.
+D	00:18:54.080	00:18:57.600	she said she thought it was her big chance...
+D	00:18:57.600	00:19:00.400	maybe that's where she is today.
+B	00:19:00.400	00:19:05.590	well you're probably right...
+B	00:19:05.600	00:19:10.230	but but it it's almost midnight.
+B	00:19:10.240	00:19:13.029	i don't think contests last that long.
+C	00:19:13.039	00:19:14.226	why not?
+C	00:19:14.480	00:19:18.000	we all know that artists are a little crazy!
+C	00:19:18.000	00:19:21.830	picasso was a perfect example!
+D	00:19:21.840	00:19:23.360	that's true!
+D	00:19:23.360	00:19:34.630	you know something about being crazy, jack, don't you?
+
+B	00:19:34.640	00:19:38.549	good morning, alice.
+B	00:19:38.559	00:19:41.990	where were you last night?
+B	00:19:42.000	00:19:44.320	we were getting worried...
+A	00:19:44.320	00:19:46.150	good morning.
+A	00:19:46.160	00:19:48.880	i prefer not to talk about it...
+C	00:19:48.880	00:19:52.480	why, what happened?
+A	00:19:52.480	00:19:55.909	well, i took part in a young artist competition...
+A	00:19:55.919	00:19:59.769	i thought it would be the perfect occasion for me to show my talent!
+B	00:20:02.320	00:20:05.669	so how did it go?
+B	00:20:05.679	00:20:09.110	you made a great impression, didn't you?
+A	00:20:09.120	00:20:12.230	well, no.
+A	00:20:12.240	00:20:14.799	it went badly.
+A	00:20:14.799	00:20:19.990	they said that i wasn't cut out to be an artist.
+A	00:20:20.000	00:20:23.990	but the jury was made up of incompetence...
+A	00:20:24.000	00:20:27.190	maybe no one appreciates my talent!
+C	00:20:27.520	00:20:31.430	come on alice, don't take it so badly.
+C	00:20:31.440	00:20:34.950	you know you are a genius, right?
+C	00:20:34.960	00:20:38.789	that's all that matters!
+A	00:20:38.799	00:20:42.960	yes, just like van gogh... who, by the way.
+A	00:20:42.960	00:20:47.270	only became famous after he had died.
+A	00:20:47.280	00:20:52.710	maybe that's my destiny...
+B	00:20:52.720	00:20:59.120	maybe, you're exaggerating just a little bit...
+B	00:20:59.120	00:21:02.320	i mean, van gogh?!
+B	00:21:02.320	00:21:07.029	but you don't really think you're in the same league, do you?
+A	00:21:07.039	00:21:12.799	and why not? no one appreciates my talent either!
+A	00:21:12.799	00:21:15.919	anyway, i want your opinions!
+A	00:21:15.919	00:21:19.033	wait just a moment while i get something...
+B	00:21:26.960	00:21:34.230	my goodness.
+A	00:21:34.240	00:21:36.480	here you go!
+A	00:21:36.480	00:21:40.630	this is the painting i took along yesterday.
+A	00:21:40.640	00:21:47.350	what do you think, isn't it beautiful?
+B	00:21:47.360	00:21:52.080	it's... it's interesting!
+B	00:21:53.120	00:21:54.549	it's a very...
+B	00:21:55.760	00:21:59.760	a very unique painting, yes...
+B	00:21:59.760	00:22:02.630	unique is the right word.
+C	00:22:02.640	00:22:10.390	uh... alice... you know i don't really understand art, don't you?
+C	00:22:10.400	00:22:13.120	what does it represent?
+A	00:22:13.120	00:22:17.270	that's the same question they asked me yesterday.
+A	00:22:17.280	00:22:23.120	i can't believe that! it's so clear!
+A	00:22:23.120	00:22:30.470	it's a painting of a man and a woman walking hand in hand!
+B	00:22:30.480	00:22:35.430	oh... i see...
+C	00:22:35.440	00:22:44.470	well, the truth is, uh it's a bit difficult to see... i mean.
+C	00:22:44.480	00:22:46.000	at first glance...
+C	00:22:46.000	00:22:53.110	it looks like a whole lot of mixed up colors...
+A	00:22:53.120	00:22:58.720	come on jack, you just don't understand abstract art, do you?
+A	00:22:58.720	00:23:06.490	well, now i understand that neither of you has any appreciation of fine art!
+B	00:23:12.480	00:23:19.240	oh, artists! never tell an artist what you really think!
+
