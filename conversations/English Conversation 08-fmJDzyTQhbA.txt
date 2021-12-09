@@ -44,7 +44,7 @@ B	00:01:14.440	00:01:15.100	glad to meet you.
 C	00:01:15.170	00:01:15.930	glad to meet you.
 B	00:01:15.980	00:01:16.655	sit down.
 B	00:01:18.509	00:01:21.050	could I have you fill out this application form?
-C	00:01:21.210	00:01:21.010	sure.
+C	00:01:21.210	00:01:22.265	sure.
 B	00:01:23.690	00:01:24.670	take your time.
 B	00:01:24.930	00:01:26.439	just let me know when you're finished.
 C	00:01:26.729	00:01:27.260	ok.
@@ -143,8 +143,7 @@ B	00:06:44.559	00:06:48.390	as an office intern, I just helped with office suppo
 B	00:06:49.110	00:06:53.330	when I became full-time, I was an administration assistant.
 B	00:06:53.940	00:06:55.729	I helped my boss with her projects.
 F	00:06:57.629	00:06:58.439	how did you like the company?
-B	00:06:59.439	00:06:59.170	Oh!
-B	00:06:58.439	00:07:01.230	I liked the company very much.
+B	00:06:59.242	00:07:01.230	Oh, I liked the company very much.
 B	00:07:01.230	00:07:02.999	the people were very nice.
 B	00:07:03.999	00:07:05.520	and we all worked together very well.
 

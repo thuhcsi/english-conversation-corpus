@@ -25,7 +25,7 @@ A	00:00:57.745	00:01:01.068	dr. anderson is meeting mr evans downstairs. in the 
 A	00:01:01.696	00:01:02.831	should we ask her to come up?
 A	00:01:03.256	00:01:04.325	she may be able to help.
 B	00:01:04.652	00:01:05.623	great idea.
-B	00:01:05.623	00:01:05.538	i'll go get her.
+B	00:01:05.623	00:01:06.641	i'll go get her.
 D	00:01:07.721	00:01:09.624	you might prefer an herbal remedy.
 C	00:01:10.252	00:01:11.175	stop it.
 A	00:01:11.360	00:01:13.167	how long have you been feeling this way?
@@ -254,14 +254,15 @@ A	00:11:35.783	00:11:38.425	well, i think you could still do it.
 A	00:11:39.150	00:11:40.246	it's perfect for you.
 G	00:11:41.342	00:11:41.809	really?
 G	00:11:42.228	00:11:42.534	why?
-A	00:11:43.919	00:11:47432	well, you're very polite, for one thing.
+A	00:11:43.919	00:11:47.432	well, you're very polite, for one thing.
 D	00:11:48.946	00:11:52.160	you always know which fork to use at a restaurant.
 D	00:11:54.054	00:11:55.101	that's a real talent.
 C	00:11:55.778	00:11:59.048	you've taught me a lot about the customs of other cultures.
 G	00:12:01.578	00:12:03.511	maybe i could still give it a try.
 G	00:12:08.345	00:12:10.987	"today's topic: dinner conversation.
 G	00:12:11.535	00:12:22.330	if your international guests look offended and are leaving the table early, you've probably chosen a topic that's taboo in their home country.
-G	00:12:24.079	00:12:25.898	find out what's acceptable H	00:12:26.675	00:12:27.452	what's not...
+G	00:12:24.079	00:12:25.898	find out what's acceptable
+H	00:12:26.675	00:12:27.452	what's not...
 G	00:12:28.162	00:12:33.366	coming up on 'international etiquette with evans'."
 G	00:12:37.378	00:12:38.151	what do you think?
 D	00:12:40.181	00:12:40.584	wow.
@@ -331,7 +332,7 @@ C	00:15:44.064	00:15:45.765	why am i the one who has to think about it?
 B	00:15:47.705	00:15:51.105	why don't we make it national singles day instead?
 B	00:15:51.653	00:15:55.117	all the married people give gifts to their single friends.
 D	00:15:56.634	00:15:57.353	no.
-D	00:15:57.904	00:16:59.773	buying gifts is hard work.
+D	00:15:57.904	00:15:59.773	buying gifts is hard work.
 D	00:16:00.466	00:16:03.318	i want to enjoy myself on our new holiday.
 A	00:16:03.914	00:16:06.056	what about a red day?
 D	00:16:12.711	00:16:16.030	how about national buy your friend another cup of coffee-day?

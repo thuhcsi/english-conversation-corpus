@@ -3,7 +3,7 @@ A	00:00:16.535	00:00:19.160	it's not big and it's not small.
 A	00:00:19.955	00:00:20.990	but i like it.
 A	00:00:21.940	00:00:23.285	three people live here.
 A	00:00:23.974	00:00:24.768	this is matt.
-B	00:00:25.033	00:00:23.350	hi, i'm Matt.
+B	00:00:25.033	00:00:27.056	hi, i'm Matt.
 A	00:00:27.843	00:00:28.770	this is david.
 C	00:00:29.478	00:00:29.846	hello.
 C	00:00:29.960	00:00:30.744	my name's david.
@@ -256,8 +256,8 @@ C	00:13:17.290	00:13:18.499	here she is.
 A	00:13:18.383	00:13:19.397	hello.
 I	00:13:20.203	00:13:21.285	hi, helen.
 I	00:13:21.400	00:13:22.782	we're up here.
-A	00:13:27.066	00:13:28.940	can i go in?
-C	00:13:28.941	00:13:28.609	yep.
+A	00:13:27.066	00:13:27.997	can i go in?
+C	00:13:28.004	00:13:28.684	yep.
 I	00:13:30.658	00:13:32.869	welcome to your new bedroom.
 A	00:13:33.307	00:13:34.458	oh, matt.
 A	00:13:34.458	00:13:35.500	your t-shirt!
@@ -420,7 +420,7 @@ I	00:20:39.202	00:20:40.051	have a great time.
 A	00:20:42.010	00:20:42.783	i'll come with you.
 A	00:20:46.090	00:20:46.949	have a nice evening.
 C	00:20:59.360	00:21:00.220	bye, then.
-B	00:21:14.840	00:21:02.080	Bye.
+B	00:21:01.529	00:21:02.946	Bye.
 
 C	00:21:19.760	00:21:20.210	this is it.
 J	00:21:21.760	00:21:23.669	oh, chinese.
@@ -448,7 +448,7 @@ J	00:21:59.280	00:22:01.430	say something to him.
 
 K	00:22:01.440	00:22:03.200	good evening sir, madam.
 J	00:22:03.280	00:22:05.430	go on.
-C	00:22:05.440	00:22:21.120	I'm sorry.
+C	00:22:05.440	00:22:06.832	I'm...
 C	00:22:21.120	00:22:23.110	can you speak more slowly, please?
 K	00:22:23.120	00:22:24.300	would you like to see the wine list, sir?
 C	00:22:24.300	00:22:26.200	yes, please.
@@ -575,8 +575,8 @@ I	00:28:50.240	00:28:51.070	how long?
 B	00:28:51.600	00:28:53.240	about fifteen minutes.
 I	00:28:54.880	00:28:56.080	about 15 minutes.
 I	00:28:54.880	00:28:59.200	And listen, any problems, call me on my moblie.
-M	00:28:56.799	00:29:02.270	OK, see you later.
-M	00:29:10.840	00:29:03.190	bye.
+M	00:28:56.799	00:29:02.774	OK, see you later.
+M	00:29:02.774	00:29:03.690	bye.
 
 I	00:31:09.360	00:31:10.240	sorry.
 I	00:31:10.240	00:31:11.600	sorry.
@@ -590,7 +590,7 @@ I	00:31:24.880	00:31:27.289	he has dark hair and a beard.
 M	00:31:27.519	00:31:31.110	hang on, is he wearing a black leather jacket and black jeans.
 M	00:31:31.120	00:31:31.600	it's ok.
 M	00:31:31.600	00:31:32.720	he's here, see you later.
-M	00:31:32.720	00:31:32.199	bye.
+M	00:31:32.720	00:31:33.199	bye.
 I	00:31:33.519	00:31:34.200	bye.
 I	00:31:36.880	00:31:38.000	sorry.
 I	00:31:38.000	00:31:38.880	sorry.

@@ -82,7 +82,7 @@ C	00:05:57.759	00:06:01.839	in the meantime, i'll send you a detailed outline of
 C	00:06:02.319	00:06:02.950	okay.
 C	00:06:02.880	00:06:06.629	and we'll see each other tuesday at ten
 C	00:06:07.199	00:06:08.500	okay, right.
-C	00:06:08.800	00:06:08.520	bye mark.
+C	00:06:08.578	00:06:09.895	bye mark.
 B	00:06:11.680	00:06:15.500	well, what a pleasant person he is!
 B	00:06:15.840	00:06:18.475	oh, come on anne, don't let him get to you!
 C	00:06:18.560	00:06:21.979	mr. bradford is just a little shy with those he doesn't know.
@@ -372,7 +372,7 @@ F	00:20:46.890	00:20:48.620	why the long faces?
 F	00:20:49.710	00:20:51.320	IT's nothing to worry about!
 F	00:20:52.280	00:20:53.400	you're a great team.
 F	00:20:54.300	00:20:56.170	i'm sure you'll think of something interesting!
-F	00:20:57.390	00:21:57.960	okay?
+F	00:20:57.390	00:20:57.960	okay?
 
 A	00:21:00.230	00:21:03.360	gary, did you get that e-mail problem fixed?
 C	00:21:03.360	00:21:04.080	yes, i did.

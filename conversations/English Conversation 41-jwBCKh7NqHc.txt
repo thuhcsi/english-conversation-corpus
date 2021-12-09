@@ -28,8 +28,8 @@ B	00:00:45.760	00:00:47.430	what's going on?
 C	00:00:47.440	00:00:50.709	i came in to do the living room, and he was cleaning the carpet.
 D	00:00:50.719	00:00:51.920	it's my turn.
 C	00:00:51.920	00:00:52.800	no, it isn't.
-D	00:00:52.800	00:00:56.830	yes, it is!
-B	00:00:56.840	00:00:56.239	boys!
+D	00:00:52.800	00:00:54.354	yes, it is!
+B	00:00:54.354	00:00:56.186	boys!
 D	00:00:58.239	00:01:01.199	why are you both carrying shopping?
 A	00:01:01.199	00:01:02.950	jane got the wrong day.
 B	00:01:02.960	00:01:05.519	i didn't get the wrong day! you did.
@@ -313,7 +313,7 @@ C	00:16:17.320	00:16:23.040	a hundred and fifty pounds a month and five-hundred 
 C	00:16:24.240	00:16:27.069	actually, it's not really what i'm looking for.
 C	00:16:27.279	00:16:27.720	thank you.
 C	00:16:27.920	00:16:29.029	bye.
-C	00:16:34.839	00:16:33.030	unbelievable.
+C	00:16:31.192	00:16:33.385	unbelievable.
 C	00:16:46.240	00:16:46.800	oh, hello.
 C	00:16:46.800	00:16:48.509	i'm interested in joining your health club.
 C	00:16:49.519	00:16:51.389	could you tell me how much it is, please?

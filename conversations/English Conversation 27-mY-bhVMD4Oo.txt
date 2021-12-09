@@ -200,7 +200,8 @@ A	00:07:46.710	00:07:47.052	Bye.
 A	00:07:49.239	00:07:50.804	Sorry about that.
 A	00:07:51.106	00:07:54.432	that was that was my my daughter.
 B	00:07:54.752	00:07:56.068	calling from America?
-A	00:07:56.725	00:07:58.966	you know she's just taking an interest. B	00:08:00.015	00:08:01.295	taking an interest.
+A	00:07:56.725	00:07:58.966	you know she's just taking an interest.
+B	00:08:00.015	00:08:01.295	taking an interest.
 B	00:08:01.704	00:08:02.753	that's nice.
 
 C	00:08:06.434	00:08:08.420	I got a message this morning.
@@ -211,7 +212,7 @@ D	00:08:16.836	00:08:17.957	there's a small problem.
 D	00:08:18.401	00:08:22.046	Scarlett Scarpino is in Paris for her concert this evening.
 D	00:08:22.384	00:08:24.056	I was going to look after her today.
 D	00:08:24.571	00:08:26.350	could you possibly take care of her?
-D	00:08:27.505	00:08:25.110	thank you.
+D	00:08:27.126	00:08:28.568	thank you.
 D	00:08:29.266	00:08:30.297	and see you later.
 C	00:08:31.737	00:08:33.853	you've met scarlet scarpino, haven't you, Ben?
 E	00:08:35.294	00:08:36.645	the punk princess.
@@ -260,7 +261,7 @@ G	00:10:08.256	00:10:08.950	no way.
 G	00:10:10.212	00:10:12.310	didn't they tell you guys about my allergies 
 G	00:10:14.622	00:10:17.200	i'm allergic to mushrooms strawberries nuts
 A	00:10:17.235	00:10:18.356	shall we go someplace else?
-G	00:10:20.561	00:10:20.480	whatever.
+G	00:10:18.979	00:10:20.311	whatever.
 G	00:10:20.480	00:10:21.770	i'm going to the restroom.
 C	00:10:28.687	00:10:30.537	well, that was a disastrous morning.
 C	00:10:30.820	00:10:33.897	the boat trip made her feel sick and she wouldn't go up the eiffel tower. 
@@ -315,7 +316,7 @@ C	00:12:46.246	00:12:46.744	scarlet?
 G	00:12:47.828	00:12:48.931	I think.
 G	00:12:55.617	00:12:56.541	that's a great idea.
 G	00:12:57.733	00:12:58.871	thank you, jacques.
-C	00:13:57.238	00:13:14.910	it's great to be on our own again.
+C	00:13:13.042	00:13:14.885	it's great to be on our own again.
 A	00:13:14.839	00:13:15.568	yeah.
 C	00:13:15.692	00:13:17.684	this is the first time you've been to the Louvre?
 A	00:13:17.808	00:13:18.555	uh-huh.

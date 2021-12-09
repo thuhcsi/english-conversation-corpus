@@ -247,7 +247,7 @@ A	00:10:43.475	00:10:44.748	that was fun.
 A	00:10:44.998	00:10:46.500	hey, what time is it?
 C	00:10:47.587	00:10:51.870	it's two ten we have twenty minutes before our movie starts.
 A	00:10:52.216	00:10:53.622	can we get some popcorn?
-F	00:10:53.962	00:10:53.372	sure.
+F	00:10:53.962	00:10:55.554	sure.
 H	00:10:56.823	00:10:57.694	hey, you!
 C	00:11:00.072	00:11:00.567	me?
 H	00:11:01.563	00:11:02.076	yes,

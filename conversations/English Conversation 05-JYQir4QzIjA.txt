@@ -53,7 +53,7 @@ B	00:03:35.600	00:03:37.060	That is correct.
 A	00:03:38.410	00:03:41.190	The return portion has been left open.
 A	00:03:41.800	00:03:53.700	the total price comes to five hundred and fifty-eight dollars and we should expect your secretary to pick the tickets up at the office this afternoon.
 B	00:03:53.880	00:03:55.100	thanks very much.
-A	00:03:55.180	00:03:55.100	our pleasure sir.
+A	00:03:55.180	00:03:56.199	our pleasure sir.
 A	00:03:56.199	00:03:59.790	I hope you enjoy flying with Silver Airways.
 B	00:03:59.800	00:04:00.759	good bye.
 A	00:04:00.759	00:04:01.300	good bye.
