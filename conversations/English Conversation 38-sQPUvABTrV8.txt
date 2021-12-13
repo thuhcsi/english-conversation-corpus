@@ -64,7 +64,7 @@ D	00:03:15.519	00:03:28.550	i'll see you later.
 A	00:03:28.560	00:03:31.840	i hope he can drive okay.
 B	00:03:31.840	00:03:33.190	he'll be fine.
 C	00:03:33.200	00:03:35.360	how do you know?
-B	00:03:35.360	00:03:55.270	i'll stop calling him.
+B	00:03:35.360	00:03:38.270	i'll stop calling him.
 
 E	00:03:55.280	00:03:56.480	hello, bob.
 E	00:03:56.480	00:03:58.080	dining alone?
@@ -211,7 +211,7 @@ C	00:10:56.800	00:10:58.480	okay,
 C	00:10:58.480	00:11:01.829	you want to know what i believe?
 C	00:11:01.839	00:11:07.030	i believe...
 C	00:11:07.040	00:11:10.949	i believe...
-C	00:11:10.959	00:11:29.030	i believe these are the best chips i have ever tasted.
+C	00:11:10.959	00:11:14.830	i believe these are the best chips i have ever tasted.
 
 C	00:11:29.040	00:11:32.710	everyone, we'd like to ask your opinion about something.
 E	00:11:32.720	00:11:34.240	what is that?
@@ -246,7 +246,7 @@ D	00:13:13.279	00:13:21.509	of course, some people feel that the scorpions make 
 B	00:13:21.519	00:13:25.750	we could go to that hotel on grant street along the river.
 C	00:13:25.760	00:13:27.519	stay in town?
 C	00:13:27.519	00:13:30.069	for our honeymoon?
-B	00:13:30.079	00:13:50.470	well, i heard the rooms have really nice bathrooms and big televisions.
+B	00:13:30.079	00:13:39.470	well, i heard the rooms have really nice bathrooms and big televisions.
 A	00:13:50.480	00:13:55.110	cheryl, you once told me that you wanted to go to tahiti.
 C	00:13:55.120	00:13:56.959	that's right.
 C	00:13:56.959	00:13:59.430	i forgot about that.

@@ -105,7 +105,7 @@ G	00:05:39.360	00:05:41.640	Don! this is my friend, Tina.
 G	00:05:41.640	00:05:44.840	Tina, this is my colleague, dawn.
 I	00:05:44.840	00:05:46.289	hello Tina.
 I	00:05:46.289	00:05:47.730	it's nice to meet you.
-F	00:05:47.730	00:06:04.459	it's nice to meet you too, Don.
+F	00:05:47.730	00:05:50.739	it's nice to meet you too, Don.
 J	00:06:04.469	00:06:05.939	excuse me,
 B	00:06:05.939	00:06:06.999	yes.
 J	00:06:06.999	00:06:08.730	may I introduce myself?
@@ -148,7 +148,7 @@ K	00:08:25.910	00:08:27.870	have you taken any drugs?
 B	00:08:27.870	00:08:30.960	I'm going to the drugstore now.
 K	00:08:30.960	00:08:37.400	I will go to the drugstore with you.
 A	00:08:37.400	00:08:40.050	what seems to be the trouble?
-J	00:08:40.050	00:08:59.620	I don't feel very good.
+J	00:08:40.550	00:08:43.920	I don't feel very good.
 A	00:09:03.000	00:09:05.970	what is wrong?
 J	00:09:05.970	00:09:10.260	my stomach hurts.
 A	00:09:10.260	00:09:12.860	your stomach hurts

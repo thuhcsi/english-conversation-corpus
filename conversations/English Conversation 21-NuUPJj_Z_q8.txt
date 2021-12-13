@@ -340,7 +340,7 @@ C	00:14:46.079	00:14:46.880	agatha?
 B	00:14:46.880	00:14:48.079	yes?
 C	00:14:48.079	00:14:50.560	betty's ugly teacup is back.
 B	00:14:50.560	00:14:52.160	i know.
-B	00:14:52.160	00:15:07.829	it's strange, isn't it?
+B	00:14:52.160	00:14:53.979	it's strange, isn't it?
 A	00:15:09.199	00:15:13.910	victor and elena...
 A	00:15:13.920	00:15:17.670	victor and lala...
 A	00:15:17.680	00:15:19.279	malika.

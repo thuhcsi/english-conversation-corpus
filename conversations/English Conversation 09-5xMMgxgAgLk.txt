@@ -362,7 +362,7 @@ D	00:18:40.079	00:18:42.319	thank you, sue.
 E	00:18:42.319	00:18:47.228	any time especially when we're going to visit my mother.
 D	00:18:47.228	00:18:52.430	oh, yeah.
 
-E	00:19:18.930	00:19:34.810	Joe, what's the matter?
+E	00:19:28.000	00:19:31.290	Joe, what's the matter?
 E	00:19:34.810	00:19:37.190	are you all right? what's the matter?
 D	00:19:38.020	00:19:40.586	I have a stomach ache.
 D	00:19:40.586	00:19:44.652	well, why do you have a stomachache?
@@ -442,7 +442,7 @@ D	00:25:26.200	00:25:29.140	what do you want to do, now?
 E	00:25:29.140	00:25:33.040	hmm. well, I am quite hungry actually.
 E	00:25:33.050	00:25:35.420	how about we eat some chocolate bars?
 D	00:25:35.420	00:25:40.160	Oh, Sue. no more chocolate.
-E	00:25:40.610	00:25:56.270	I'm just kidding.
+E	00:25:40.889	00:25:41.879	I'm just kidding.
 
 B	00:25:56.280	00:26:01.510	Mary! Mary! wake up. it's ten to ten we're late.
 A	00:26:01.510	00:26:07.809	that's nine dear. not nine fifty
@@ -453,7 +453,7 @@ A	00:26:17.559	00:26:18.860	Oh!
 C	00:26:18.860	00:26:21.819	mum! dad! what time is it?
 A	00:26:21.819	00:26:22.299	oh.
 B	00:26:22.299	00:26:27.210	it's nine  fifty two that means we only have twenty-three minutes to get to the airport.
-B	00:26:27.210	00:26:50.939	let's go.
+B	00:26:27.010	00:26:27.819	let's go.
 F	00:26:50.939	00:26:52.799	Mary you know what time it is?
 F	00:26:52.799	00:26:53.730	it's ten three
 F	00:26:53.730	00:26:57.040	we have to go to your the report at ten fifteen

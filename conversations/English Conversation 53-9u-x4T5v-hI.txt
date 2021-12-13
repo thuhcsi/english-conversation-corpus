@@ -55,7 +55,8 @@ C	00:02:38.640	00:02:42.160	i'm not too excited about seeing my brother.
 C	00:02:42.160	00:02:46.229	last lunar new year, he kept talking about his money.
 B	00:02:46.239	00:02:47.840	i understand.
 B	00:02:47.840	00:02:49.210	but he's family.
-C	00:02:50.060	00:03:06.229	i know,let's go,happy lunar new year!
+C	00:02:50.060	00:02:55.529	i know,let's go.
+B	00:02:56.560	00:02:58.829	happy lunar new year!
 
 A	00:03:06.239	00:03:09.200	i have a lot of work to do.
 D	00:03:09.200	00:03:11.350	what are you working on?

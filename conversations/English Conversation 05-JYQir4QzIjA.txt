@@ -363,7 +363,8 @@ O	00:23:17.390	00:23:19.310	lunch is served on the boat.
 P	00:23:19.310	00:23:21.020	yeah, well. that sounds good.
 P	00:23:21.020	00:23:22.030	I have another question.
 P	00:23:22.030	00:23:26.280	is there any way that I can get a shuttle to the beach from here?
-O	00:23:26.290	00:23:44.290	yes. the hotel offers a shuttle service to and from Sandy Cove. the shuttles leave at ten eleven and one thirty for Sandy Cove and returned at two three and four thirty p.m.
+O	00:23:26.290	00:23:32.080	yes. the hotel offers a shuttle service to and from Sandy Cove. 
+O	00:23:32.280	00:23:43.350	the shuttles leave at ten eleven and one thirty for Sandy Cove and returned at two three and four thirty p.m.
 O	00:23:44.300	00:23:48.920	why don't you have a look at these brochures for a moment while I answer the phone.
 O	00:23:48.930	00:23:52.520	hello, tours at City outings. how may I help you?
 Q	00:23:52.530	00:23:59.750	hi. my name is Dan Barker. my wife and I scheduled an all-day city tour with you this Saturday.

@@ -281,7 +281,7 @@ C	00:14:39.199	00:14:43.030	well, jane could have your ticket, and she could go 
 E	00:14:43.440	00:14:44.980	that's not a bad idea.
 D	00:14:44.880	00:14:46.259	yeah, go on, jane.
 B	00:14:47.519	00:14:50.210	look, i'm feeling much better.
-E	00:14:51.110	00:14:51.120	HEY.
+E	00:14:50.110	00:14:50.860	HEY.
 E	00:14:51.120	00:14:52.139	stay there.
 E	00:14:52.639	00:14:54.050	you must keep warm.
 A	00:14:56.160	00:14:57.160	ok.

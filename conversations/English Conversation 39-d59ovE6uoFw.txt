@@ -121,7 +121,7 @@ I	00:05:35.181	00:05:36.517	david's nice really.
 
 I	00:05:44.151	00:05:44.693	ready?
 A	00:05:45.395	00:05:46.028	just a minute.
-A	00:05:48.366	00:05:48.372	ready.
+A	00:05:48.366	00:05:49.172	ready.
 A	00:05:49.817	00:05:51.164	hello, my name's helen.
 A	00:05:51.417	00:05:53.430	i come from london but i live in oxford.
 A	00:05:54.377	00:05:54.906	what else?
@@ -380,7 +380,7 @@ C	00:19:11.447	00:19:13.120	but only one present, yeah?
 A	00:19:13.451	00:19:14.418	Oh, david...
 C	00:19:14.429	00:19:14.856	what?
 A	00:19:14.984	00:19:15.823	really!
-I	00:19:35.000	00:19:35.040	Cheers!
+I	00:19:34.000	00:19:35.040	Cheers!
 A	00:19:35.280	00:19:37.440	so that was the surprise party.
 A	00:19:37.440	00:19:40.142	a real surprise for everyone!
 
@@ -463,7 +463,7 @@ J	00:22:55.280	00:22:56.190	i'd like the lobster.
 C	00:22:58.880	00:23:00.220	and i'd like the roast chicken.
 K	00:23:01.360	00:23:02.080	What to drink?
 J	00:23:02.960	00:23:04.280	how about a bottle of champagne?
-K	00:23:09.280	00:23:09.280	sir?
+K	00:23:09.280	00:23:10.280	sir?
 K	00:23:11.440	00:23:12.190	the champagne?
 C	00:23:12.480	00:23:15.060	yes, a bottle of champagne...
 C	00:23:19.760	00:23:20.799	it's hard work...

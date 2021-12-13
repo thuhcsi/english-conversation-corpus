@@ -209,7 +209,7 @@ A	00:14:10.880	00:14:15.990	no,she was on her way to yoga when i came back from 
 A	00:14:16.000	00:14:21.670	i hope you're not coming down with a cold your hair's still wet pass me the towel.
 A	00:14:21.680	00:14:24.870	i'll dry it for you.
 B	00:14:24.880	00:14:31.430	thanks that feels nice,last night when i came back from work it was also raining.
-A	00:14:31.440	00:14:53.750	that's london,if you move a little closer i can reach the back of your head better.
+A	00:14:31.440	00:14:37.289	that's london,if you move a little closer i can reach the back of your head better.
 C	00:14:53.760	00:14:57.110	hey it's just me.
 A	00:14:57.120	00:14:58.320	are you okay?
 C	00:14:58.320	00:15:02.320	all well uh it's just the base near the door.

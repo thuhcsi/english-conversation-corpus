@@ -16,8 +16,8 @@ D	00:00:31.199	00:00:32.271	hello.
 D	00:00:32.559	00:00:33.984	mr drake is at reception.
 D	00:00:35.360	00:00:36.604	yes, all right.
 D	00:00:37.440	00:00:38.981	mrs mckay is in room twelve
-D	00:00:38.981	00:00:40.701	that's on the second floor.
-D	00:00:40.701	00:00:40.790	the lift is over there.
+D	00:00:38.981	00:00:39.910	that's on the second floor.
+D	00:00:39.910	00:00:40.710	the lift is over there.
 B	00:00:40.800	00:00:41.808	thank you.
 
 E	00:00:42.960	00:00:44.477	and what's your address.

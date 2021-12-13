@@ -127,7 +127,7 @@ A	00:08:24.840	00:08:29.520	so... where are we going to put this thing?
 E	00:08:29.520	00:08:31.270	hang it by my desk.
 A	00:08:31.270	00:08:32.479	really?
 E	00:08:32.479	00:08:38.159	yeah. as an artist, i'm really starting to like it.
-E	00:08:38.159	00:09:02.389	as a matter of fact, i think it's... one of the most interesting works i've ever seen.
+E	00:08:38.159	00:08:43.989	as a matter of fact, i think it's... one of the most interesting works i've ever seen.
 
 B	00:09:02.399	00:09:03.898	bob, can you help me with something?
 D	00:09:03.921	00:09:04.630	sure.
@@ -182,7 +182,7 @@ D	00:11:43.040	00:11:46.710	well, i don't really need the joystick.
 F	00:11:46.720	00:11:55.279	what's all this gonna cost me? what?
 D	00:11:55.519	00:12:00.629	well, actually we could do without the dvd drive...
 D	00:12:00.639	00:12:09.200	and the laptop... and the camera... and the scanner.
-F	00:12:09.200	00:12:25.750	great!
+F	00:12:09.200	00:12:10.129	great!
 
 A	00:12:25.760	00:12:29.910	what do you think about this color?
 E	00:12:29.920	00:12:31.519	what is that color?
@@ -229,7 +229,7 @@ D	00:14:22.720	00:14:35.189	the color of the walls would be a nice color.
 A	00:14:35.199	00:14:39.910	marie, you've been so quiet. are you okay?
 B	00:14:39.920	00:14:43.030	i'm just a little down in the dumps.
 A	00:14:43.040	00:14:46.870	oh, i'm sorry.
-A	00:14:46.880	00:15:03.750	we've been arguing about colors and you're feeling blue. hmm, blue...
+A	00:14:46.880	00:14:55.080	we've been arguing about colors and you're feeling blue. hmm, blue...
 E	00:15:03.760	00:15:06.000	what's wrong, marie?
 B	00:15:06.000	00:15:07.350	don't know.
 B	00:15:07.360	00:15:09.760	i can't put my finger on it.

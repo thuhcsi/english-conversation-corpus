@@ -180,7 +180,7 @@ F	00:10:04.399	00:10:10.069	well, i think so... at least, that's where the packa
 F	00:10:10.240	00:10:12.800	Alright alice, i have to go now.
 F	00:10:12.800	00:10:13.920	see you later.
 A	00:10:13.920	00:10:15.760	Anne will be so happy!
-A	00:10:15.760	00:10:44.829	she's been waiting for it for a long time! bye!
+A	00:10:15.760	00:10:20.479	she's been waiting for it for a long time! bye!
 A	00:10:51.680	00:10:55.430	hello, anne, this is alice.
 A	00:10:55.440	00:10:58.470	i've got great news for you:
 A	00:10:58.480	00:11:02.480	your set of chinese porcelain has arrived!
