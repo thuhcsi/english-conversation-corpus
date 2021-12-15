@@ -489,7 +489,7 @@ C	00:24:35.679	00:24:36.230	a taxi.
 J	00:25:01.600	00:25:03.840	thanks for a wonderful evening.
 C	00:25:03.840	00:25:04.290	don't mention it.
 J	00:25:07.679	00:25:08.170	good night.
-C	00:25:09.000	00:25:09.120	night.
+C	00:25:09.059	00:25:09.906	night.
 
 C	00:25:25.039	00:25:28.269	how much is it so far? nineteen pounds fifty sir.
 C	00:25:29.279	00:25:31.100	but i only have twenty pounds!
@@ -569,7 +569,7 @@ A	00:28:33.760	00:28:35.040	what's she wearing?
 I	00:28:35.919	00:28:39.120	hello, ali, what are you wearing?
 M	00:28:39.120	00:28:42.110	i'm wearing a cream coat and a black sweater.
 I	00:28:43.120	00:28:46.020	she's wearing a cream coat and a black sweater.
-I	00:28:47.120	00:28:47.270	sorry?...
+I	00:28:47.120	00:28:48.305	sorry?...
 I	00:28:48.880	00:28:50.230	hold on.
 I	00:28:50.240	00:28:51.070	how long?
 B	00:28:51.600	00:28:53.240	about fifteen minutes.

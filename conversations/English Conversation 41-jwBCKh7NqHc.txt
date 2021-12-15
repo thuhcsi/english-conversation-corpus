@@ -63,8 +63,7 @@ B	00:02:07.360	00:02:09.280	oh, nothing special.
 B	00:02:09.280	00:02:11.680	just another boring sunday.
 E	00:02:11.680	00:02:13.910	would you like to go somewhere?
 B	00:02:13.920	00:02:15.150	what? do you mean with...?
-E	00:02:15.200	00:02:15.360	yes.
-E	00:02:15.360	00:02:16.319	with me.
+E	00:02:15.200	00:02:16.319	yes, with me.
 B	00:02:16.319	00:02:20.840	Er... yes, i'd love to.
 B	00:02:20.840	00:02:22.229	where?
 E	00:02:22.239	00:02:25.670	how about on the river? we can go punting.
@@ -94,9 +93,9 @@ B	00:03:16.080	00:03:16.879	well, i'll, ER...
 B	00:03:16.879	00:03:17.920	see you later.
 A	00:03:17.920	00:03:18.640	sure.
 A	00:03:18.640	00:03:19.090	bye.
-B	00:03:19.840	00:03:20.040	bye.
+B	00:03:19.090	00:03:20.040	bye.
 E	00:03:45.360	00:03:46.080	you ready?
-B	00:03:46.080	00:03:46.250	ready.
+B	00:03:46.080	00:03:46.614	ready.
 D	00:03:50.959	00:03:52.200	is helen still in bed?
 A	00:03:53.200	00:03:56.159	no, she went into town about an hour ago.
 A	00:04:02.319	00:04:04.210	are you just gonna lie there all day?
@@ -196,7 +195,7 @@ A	00:09:20.720	00:09:22.220	just keep warm drink lots.
 A	00:09:22.720	00:09:24.090	i'll see you this evening.
 D	00:09:26.800	00:09:27.680	you go up now.
 D	00:09:27.680	00:09:29.339	and i'll bring you the tea on my way out.
-B	00:09:30.939	00:09:31.070	ok.
+B	00:09:29.659	00:09:31.214	ok.
 D	00:09:39.580	00:09:46.040	here you are.
 B	00:09:46.240	00:09:48.170	oh, thank you.
 D	00:09:52.080	00:09:53.140	take it easy.
@@ -536,7 +535,7 @@ I	00:26:11.919	00:26:13.120	there's a table over there.
 I	00:26:13.120	00:26:14.259	are you sitting with us, matt?
 S	00:26:14.559	00:26:16.080	no, no. go ahead.
 H	00:26:16.880	00:26:17.259	bye, then.
-D	00:26:18.159	00:26:18.289	yeah.
+D	00:26:18.159	00:26:18.690	yeah.
 I	00:26:19.279	00:26:20.170	see you around.
 B	00:26:26.880	00:26:28.250	oh, PooR max.
 A	00:26:30.960	00:26:32.120	i'll be back in a minute.

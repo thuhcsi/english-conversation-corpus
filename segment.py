@@ -37,9 +37,11 @@ def process(filename):
             try:
                 speaker, start, end, content = line.split('\t')
                 start, end = convert_time(start), convert_time(end)
-                if end - start < 0:
+                if end - start <= 0:
                     print('Invalid time:', filename, line)
                     continue
+                if end - start < 0.2:
+                    print('Time is too short:', filename, line)
                 if end - start > 15:
                     print('Time is too long:', filename, line)
                 output = segmented / f'{i}-{j}-{k}-{speaker}.wav'
