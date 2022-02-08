@@ -44,6 +44,9 @@ def process(filename):
                     print('Time is too short:', filename, line)
                 if end - start > 15:
                     print('Time is too long:', filename, line)
+                output = segmented / f'{i}-{j}-{k}-{speaker}.txt'
+                with open(output, 'w') as f:
+                    f.write(content)
                 output = segmented / f'{i}-{j}-{k}-{speaker}.wav'
                 clip_wav(wav, start, end, output)
             except:
