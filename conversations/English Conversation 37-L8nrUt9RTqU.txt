@@ -324,7 +324,7 @@ C	00:15:25.246	00:15:26.470	let's make today a holiday.
 C	00:15:26.937	00:15:29.257	we'll tell mr. evans we can't come back to work.
 D	00:15:29.225	00:15:30.627	that's a great idea.
 B	00:15:32.286	00:15:33.527	what are we celebrating?
-C 	00:15:35.074	00:15:36.105	you're getting married.
+C	00:15:35.074	00:15:36.105	you're getting married.
 C	00:15:36.637	00:15:38.683	how about national wedding day?
 D	00:15:39.166	00:15:41.357	what happens on national wedding day?
 C	00:15:42.678	00:15:43.339	i don't know.
