@@ -327,7 +327,7 @@ A	00:16:59.320	00:16:59.995	thank you.
 C	00:17:00.050	00:17:01.032	when does jane get home?
 B	00:17:01.423	00:17:03.127	usually at half past six...
 B	00:17:03.197	00:17:04.532	after her game of tennis.
-B	00:17:05.661	00:17:06.812	in about 20 minutes.
+B	00:17:05.661	00:17:06.812	in about twenty minutes.
 A	00:17:07.941	00:17:08.747	oh, no!
 C	00:17:08.750	00:17:09.350	she's early.
 A	00:17:09.437	00:17:11.390	david help me with this cake.
@@ -573,7 +573,7 @@ I	00:28:47.120	00:28:48.305	sorry?...
 I	00:28:48.880	00:28:50.230	hold on.
 I	00:28:50.240	00:28:51.070	how long?
 B	00:28:51.600	00:28:53.240	about fifteen minutes.
-I	00:28:54.880	00:28:56.080	about 15 minutes.
+I	00:28:54.880	00:28:56.080	about fifteen minutes.
 I	00:28:54.880	00:28:59.200	And listen, any problems, call me on my moblie.
 M	00:28:56.799	00:29:02.774	OK, see you later.
 M	00:29:02.774	00:29:03.690	bye.

@@ -171,7 +171,7 @@ C	00:08:19.599	00:08:22.479	the parade, the easter egg hunt...
 E	00:08:22.479	00:08:24.230	the easter egg hunt!
 E	00:08:24.240	00:08:26.240	oh, no!
 G	00:08:26.240	00:08:27.510	what's wrong?
-E	00:08:27.520	00:08:30.869	i am supposed to boil 200 eggs.
+E	00:08:27.520	00:08:30.869	i am supposed to boil two hundreds eggs.
 E	00:08:30.879	00:08:34.719	and sara is supposed to help decorate them.
 G	00:08:34.719	00:08:36.399	so?
 E	00:08:36.399	00:08:41.589	she doesn't know yet!

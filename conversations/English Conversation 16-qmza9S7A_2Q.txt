@@ -131,7 +131,7 @@ A	00:08:09.759	00:08:10.720	hi susan!
 A	00:08:10.720	00:08:13.830	come in!
 A	00:08:13.840	00:08:15.680	was there a lot of traffic
 G	00:08:15.680	00:08:16.560	no, there wasn't.
-G	00:08:16.560	00:08:19.430	but it started to rain about 10 minutes ago.
+G	00:08:16.560	00:08:19.430	but it started to rain about ten minutes ago.
 A	00:08:19.440	00:08:21.440	well, i'm happy you're here.
 A	00:08:21.440	00:08:23.830	i fixed lots of delicious food.
 F	00:08:23.840	00:08:25.840	we're happy you invited us for dinner.

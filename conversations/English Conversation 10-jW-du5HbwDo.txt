@@ -306,7 +306,7 @@ F	00:18:54.290	00:18:56.040	what day, sir?
 J	00:18:56.040	00:18:58.340	oh. Fridays.
 F	00:18:58.350	00:19:06.429	on Friday and Saturday the kitchen closes at midnight and the restaurant closes at two.
 J	00:19:06.429	00:19:07.960	and weekdays?
-F	00:19:08.239	00:19:16.179	on weekdays the kitchen closes at 10:00 p.m. and the restaurant closes at midnight.
+F	00:19:08.239	00:19:16.179	on weekdays the kitchen closes at ten p.m. and the restaurant closes at midnight.
 J	00:19:16.179	00:19:19.449	what time do you stop serving drinks?
 F	00:19:19.449	00:19:26.139	we stop serving drinks about ten minutes before closing.
 J	00:19:26.139	00:19:28.269	and what time do you open?
