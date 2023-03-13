@@ -1,23 +1,23 @@
 English conversation corpus
 ----
 
-# Introduction
+## Introduction
 
 This corpus collects 66 publicly available videos from the [English Conversation channel on YouTube](https://www.youtube.com/@AnhNguVIPS).
 
-# Annotation
+## Annotation
 
 The annotations are located in the `conversations` directory.
 
 Please note that the speaker labels are only shared in that video, not shared among all videos.
 
-# Usage
+## Usage
 
-## Download the audios and videos
+### Download the audios and videos
 
 Please use `download-audio.sh` and `download-video.sh` to download the audios and videos.
 
-## Segment the audios
+### Segment the audios
 
 Please run `segment.py` to segment the audios into utterances. You will see some warnings, but they are fine.
 
@@ -25,7 +25,7 @@ Please run `segment.py` to segment the audios into utterances. You will see some
 python segment.py
 ```
 
-# Citation
+## Citation
 
 Please cite [our paper on ICASSP 2022](https://ieeexplore.ieee.org/abstract/document/9747837/) to refer to this corpus.
 
@@ -42,3 +42,11 @@ Please cite [our paper on ICASSP 2022](https://ieeexplore.ieee.org/abstract/docu
 	pages = {7917--7921},
 }
 ```
+
+## Copyright
+
+We have the copyrights of the annotations and scripts and they are licensed under [GPLv3](https://github.com/thuhcsi/english-conversation-corpus/blob/master/LICENSE).
+
+We do not have the copyrights of the audios and videos in this corpus. They belong to the [English Conversation channel on YouTube](https://www.youtube.com/@AnhNguVIPS).
+
+Please only use the corpus for non-commercial research and/or educational purposes.
