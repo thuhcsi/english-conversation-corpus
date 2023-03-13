@@ -11,6 +11,8 @@ The annotations are located in the `conversations` directory.
 
 Please note that the speaker labels are only shared in that video, not shared among all videos.
 
+If you have any update to the annotations, please create a pull request to share it.
+
 ## Usage
 
 ### Download the audios and videos
